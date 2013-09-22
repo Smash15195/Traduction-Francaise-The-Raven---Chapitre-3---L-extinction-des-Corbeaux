@@ -6,7 +6,7 @@ Traduction Francaise The Raven - Chapitre 3 : L’extinction des Corbeaux
 
 ### Note de Version
 ```
-V1 : Disponible.
+V1 : Non disponible.
 ```
 
 ### Windows
