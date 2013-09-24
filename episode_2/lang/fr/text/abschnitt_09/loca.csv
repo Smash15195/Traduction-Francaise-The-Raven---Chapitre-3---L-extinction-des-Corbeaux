@@ -1,0 +1,213 @@
+characters_ermittler;Ermittler
+characters_junge_frau;Junge Frau
+characters_kapitaen;Kapitaen
+characters_ohi;Ohi
+characters_schriftstellerin;Schriftstellerin
+characters_wachmann;Wachmann
+texts_ermittler_top_a09_ermittler_der_brief_tseq_title;La lettre
+spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_1;L'écriture, le style... la lettre d'adieu correspond t-elle à d'autres lettres du Corbeau ?
+spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_2;Oui. C'est son écriture, ses mots.
+spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_4;J'ai lu toutes les lettres du Corbeau. Toutes. Encore et encore.
+spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_3;Je n'aurais jamais pensé cela possible. Une résurrection du Corbeau...
+sequences_ermittler_top_a09_ermittler_der_brief_tseq#3;[The investigator looks at Ohi.]
+spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_6;Le Corbeau n'a jamais été mort. J'ai tiré le mauvais homme.
+spokentexts_ermittler_top_a09_ermittler_der_brief_tseq_st_5;Mais cet homme avait les marchandises volées, n'est-ce pas ? Donc, il devait être de connivence avec le Corbeau. On peut difficilement le qualifier ''d'innocent''.
+sequences_ermittler_top_a09_ermittler_der_brief_tseq#6;[The investigator looks back to the sea.]
+texts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_title;Dr. Gebhardt
+spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_1;Vous pensez vraiment que le Dr Gebhardt était le Corbeau ?
+spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_2;Les choses que Gebhardt décrit dans sa lettre ne sont pas dans les rapports de police. Seul quelqu'un qui était là pouvait les connaître.
+spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_3;Ne pouvait-il pas y avoir d'autres personnes impliquées ? Quelqu'un de la police qui aurait changé de camp par exemple ?
+spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_4;"Pourquoi est-il si difficile pour vous d'accepter la simple vérité ? Il n'y a jamais eu de ""nouveau"" Corbeau. Cela a toujours été l'ancien. Et c'était le Dr Gebhardt."
+spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_5;Le modus operandi ne correspond pas. Le Corbeau n'était pas un tueur.
+sequences_ermittler_top_a09_ermittler_doktor_gebhardt_tseq#5;[The investigator looks at Ohi.]
+spokentexts_ermittler_top_a09_ermittler_doktor_gebhardt_tseq_st_6;Les légendes sont rarement ce qu'elles semblent être, Officier Zellner.
+sequences_ermittler_top_a09_ermittler_doktor_gebhardt_tseq#8;[The investigator looks back to the sea.]
+texts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_title;Le tir était une diversion.
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_st_1;Le coup de feu était juste une diversion.
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_st_2;Ce n'est pas le coup de feu qui a tué la Baronne.
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort1_tseq_st_3;Alors qu'est-ce...
+texts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_title;Le tir venait d'une bande magnétique
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_st_1;Le coup que nous avons entendu était un enregistrement.
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_st_2;La Baronne avait un magnétophone et de bons haut-parleurs dans sa cabine. Assez bons pour faire entendre jusque sur le pont supérieur.
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort2_tseq_st_3;Est-ce juste des suppositions ou avez-vous des preuves ?
+texts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_title;Mais c'était encore lui
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_1_direction;pleasurable
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_1;Et pourtant, c'était vraiment lui le tueur.
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_2_direction;threatening
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_2;Vous appréciez tout ça un peu trop à mon goût.
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_3_direction;slightly threatening
+spokentexts_ermittler_top_a09_ermittler_schuss_antwort3_tseq_st_3;Crachez le morceau. Mon patience a des limites.
+texts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_title;Non, mais c'était possible !
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_st_1;Je n'ai pas de preuve. Mais il pourrait l'avoir fait de cette manière !
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_st_2;Pourrait ! Tout POURRAIT être possible !
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_st_3;Ne soyez comme ça, Inspecteur !
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_st_4_direction;must pull hiself up
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort1_tseq_st_4;Hrrmm.
+texts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_title;Bande magnétique dans l'infirmerie
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_1;Il y a une bande magnétique dans l'infirmerie. La bobine provient du magnétophone de la cabine de la Baronne. Et il y a une bobine Seibling dans sa cabine qui appartient au magnétophone de l'infirmerie.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_2;Hmm.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_3;Si vous vérifiez la bande dans l'infirmerie, vous trouverez un enregistrement de coup de feu dessus.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_4;Pour les besoins du raisonnement, supposons que cela soit vrai. Où Gebhardt aurait-il obtenu un enregistrement d'arme à feu ?
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_5;Après quelques minutes, il y a une forte détonation sur la bande. C'est notre coup de feu.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_6;Comment Gebhardt l'a-t-il obtenu ?
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_7;Il l'a enregistré dans la soute. Son magnétophone dispose d'un microphone et j'ai retiré une balle d'une des caisses en bas.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_8;Et elle provient de l'arme du crime ?
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_9;Oui, je l'ai comparé à l'autre balle dans la cabine de l'inspecteur.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_10_direction;Angry
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_10;Naturellement.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_11;Du moins, c'est mon hypothèse.
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_12_direction;cheeky
+spokentexts_ermittler_top_a09_ermittler_schuss_beweise_antwort2_tseq_st_12;"""Il n'y a pas beaucoup de Luger 08 à bord,"" n'est-ce pas, Inspecteur Legrand ?"
+texts_ermittler_top_a09_ermittler_toter_tseq_title;Le mort
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_1;Alors, qui était l'homme qui a été tué ? 
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_2;William Jackson. Un petit voleur. Qui a commis des cambriolages avec son frère. Talentueux, mais pas de classe mondiale.
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_3;Et ils ont pensé qu'il était le Corbeau ?
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_4;Certaines personnes pensaient que cela faisait partie de son déguisement. Si vous êtes un voleur débonnaire hors pair, quoi de mieux pour se dissimuler que de faire semblant d'être un escroc ordinaire ?
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_5;De temps en temps vous vous laissez attraper sur de petits larcins et personne n'ira jamais imaginer que vous êtes capable de cambriolage de haut vol.
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_6;Mais vous n'y croyez pas ?
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_7;J'avais des doutes. Mais tout le monde m'a félicité et ces doutes ont été mis de côté. C'était comme être pris dans un tourbillon.
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_8;Mais au final, la tempête est passée et mes doutes étaient toujours là.
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_9;Mais pas cette fois ? Vos doutes ne vous disent pas que Gebhardt n'est pas notre homme ?
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_10_direction;unyielding
+spokentexts_ermittler_top_a09_ermittler_toter_tseq_st_10;Ça doit être lui.
+texts_ermittler_top_a09_ermittler_verabschieden_tseq_title;Dire au revoir
+spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_1;Que faisons-nous maintenant ?
+sequences_ermittler_top_a09_ermittler_verabschieden_tseq#1;[The investigator looks at Ohi.]
+spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_2;Nous livrons l'Oeil, puis je contacterai Paris. Une équipe va comparer toutes les résidences connues de Gebhardt avec l'activité du Corbeau.
+spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_3;Et s'il y a des contradictions ?
+spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_4;Je vous invite a garder un oeil sur le coffre si vous ne pouvez pas vous y faire.
+spokentexts_ermittler_top_a09_ermittler_verabschieden_tseq_st_5;Le navire restera au Caire pour une journée. C'est tout le temps que vous aurez pour attraper votre Corbeau. J'ai déjà le mien.
+sequences_ermittler_top_a09_ermittler_verabschieden_tseq#6;[Ohi nods and goes. The camera goes to Legrand's face, who looks at Ohi serious and thoughtful after. Somehow he makes himself suspicious with that look.]
+sequences_ermittler_top_a09_ermittler_verabschieden_tseq#7;[END OF SECTION.]
+texts_kapitaen_top_a09_ermittler_motiv_antwort1_tseq_title;A propos de l'Oeil du Sphinx
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort1_tseq_st_1;Ça a voir avec l'oeil du Sphinx. La Baronne était censé apporter l'une des clés au Caire.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort1_tseq_st_2;Alors le Dr Gebhardt était le Corbeau ?
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort1_tseq_st_3;Je ne pense pas - mais peut-être qu'il travaillait avec lui.
+texts_kapitaen_top_a09_ermittler_motiv_antwort2_tseq_title;Elle faisait chanter le docteur
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort2_tseq_st_1;La Baronne faisait chanter le Dr Gebhardt.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort2_tseq_st_2;Quelle est votre théorie ?
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort2_tseq_st_3;Le chantage n'est-il pas toujours un bon motif ?
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort2_tseq_st_4;Ça ne vaut rien sans preuve.
+texts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_title;Je ne peux que spéculer...
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_1;Je ne peux que spéculer.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_2;La Baronne a passé la journée à fouiller dans ses vieilles photos de famille.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_3;Et dans son journal, elle a écrit des choses au sujet des membres de la famille décédés.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_4;Je soupçonne que cela avait quelque chose à voir avec leur sort pendant la guerre.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_5;La Baronne a écrit une mise en garde sur son bloc-notes - il y a un meurtrier à bord.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_6;Je n'ai pas de preuve.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_7;Mais je crois que la Baronne tenait le Dr Gebhardt responsable de la mort de ses parents et qu'elle voulait le confondre devant nous tous.
+spokentexts_kapitaen_top_a09_ermittler_motiv_antwort3_tseq_st_8;Le docteur ne pouvait pas permettre que cela se produise et c'est pourquoi il la fit taire.
+texts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_title;Elle n'a pas été abattue, elle a été empoisonnée
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_1;Elle n'a pas été abattue, elle a été empoisonnée !
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_2;...mais j'ai vu le trou dans sa poitrine de mes propres yeux.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_3_direction;laughs
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_3;Ha ha !
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_4;Elle a dû être abattue.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort1_tseq_st_5;Très bien, le génie - où a-t-elle été tuée?
+texts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_title;Dans le centre médical
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_1_direction;embarrassed
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_1;Alors ... C'était le médecin, bien sûr.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_2;Comme je l'ai déjà dit, c'était le docteur Gebhardt.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_3;Il a emmené la Baronne endormie au centre médical où il a eu tout le temps de la tuer.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_4;Une belle théorie, mais, malheureusement, fausse. J'ai examiné la Baronne avant qu'elle ne soit emportée. Elle avait une blessure par balle à la poitrine.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_5;D'ailleurs, elle était déjà froide quand on l'a emmené au centre médical.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort2_tseq_st_6;Tout de même, il serait intéressant d'envisager la possibilité...
+texts_schriftstellerin_top_a09_ermittler_erschossen_antwort3_tseq_title;Le docteur dans la cabine
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort3_tseq_st_3;Il a tiré sur la Baronne endormie dans sa cabine. A peine à dix mètres de nous.
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort3_tseq_st_4_direction;stunned
+spokentexts_schriftstellerin_top_a09_ermittler_erschossen_antwort3_tseq_st_4;Qu'est-ce que vous dites ?
+sequences_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang#0;[The investigator stands at the railing, looking over the sea. Ohi comes quickly out of the salon, then slowed his pace. He is unsure how to proceed.]
+spokentexts_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang_st_1;Inspecteur ?
+spokentexts_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang_st_2;J'avais raison.
+spokentexts_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang_st_3;Je leur ai tous dit. À maintes reprises. Mais personne ne voulait l'entendre.
+sequences_a09_hinterdeck_seq_a09_hinterdeck_gespraech_anfang#4;[Ohi stands next to the investigator at the railing, looking at him. The investigator looks  to the sea.]
+sequences_a09_salon_seq_a09_salon_anfang#0;[Fade in. We see the salon in nice sunlight. Ohi lies on a couch, has a towel over his head. Around him is the investigator and the captain.]
+sequences_a09_salon_seq_a09_salon_anfang#1;[In the background, the writer is sitting in her wheelchair. The young woman is also present and seems concerned.]
+sequences_a09_salon_seq_a09_salon_anfang#2;"[Ohi lies there like dead with a towel over his head (idle). The player should just think ""is he dead?"". Ohi takes the towel and holds it up for the captain.]"
+spokentexts_a09_salon_seq_a09_salon_anfang_st_1;Merci.
+spokentexts_a09_salon_seq_a09_salon_anfang_st_2;Une serviette humide fait des miracles ! Je vous l'avais bien dit !
+sequences_a09_salon_seq_a09_salon_anfang#5;[The captain takes the towel, putts it away. Ohi brings himself into a talk-position (idle).]
+spokentexts_a09_salon_seq_a09_salon_anfang_st_3;Hormis tout ça - Que faisiez-vous là-bas ?
+spokentexts_a09_salon_seq_a09_salon_anfang_st_4;Inspecteur ! Laissez au moins l'Officier reprendre son souffle !
+sequences_a09_salon_seq_a09_salon_anfang#8;[The investigator whirls aggressive.]
+spokentexts_a09_salon_seq_a09_salon_anfang_st_5_direction;harsh
+spokentexts_a09_salon_seq_a09_salon_anfang_st_5;Il a failli se tuer !
+spokentexts_a09_salon_seq_a09_salon_anfang_st_6_direction;loud, energetic
+spokentexts_a09_salon_seq_a09_salon_anfang_st_6;Moi ?! Non.
+sequences_a09_salon_seq_a09_salon_anfang#11;[The investigator turns back.]
+spokentexts_a09_salon_seq_a09_salon_anfang_st_7;Le docteur Gebhardt aurait pu s'occuper de cela pour moi. Où est-il ?
+spokentexts_a09_salon_seq_a09_salon_anfang_st_8;Gebhardt ?
+spokentexts_a09_salon_seq_a09_salon_anfang_st_9;Il a disparu sans laisser de trace. Nous fouillons le navire de fond en comble.
+spokentexts_a09_salon_seq_a09_salon_anfang_st_10_direction;impatient, pulls himself up
+spokentexts_a09_salon_seq_a09_salon_anfang_st_10;Un à la fois. Dites-moi, Zellner. Qu'avez-vous découvert ?
+spokentexts_a09_salon_seq_a09_salon_anfang_st_11;Le docteur Gebhardt a tué la Baronne von Trebitz.
+spokentexts_a09_salon_seq_a09_salon_anfang_st_12_direction;indignantly
+spokentexts_a09_salon_seq_a09_salon_anfang_st_12;Impossible !
+spokentexts_a09_salon_seq_a09_salon_anfang_st_13;Vous avez des preuves ?
+spokentexts_a09_salon_seq_a09_salon_anfang_st_14_direction;aggressive
+spokentexts_a09_salon_seq_a09_salon_anfang_st_14;Outre le fait qu'il voulait me tuer ?
+spokentexts_a09_salon_seq_a09_salon_anfang_st_15;Mais n'était-il pas avec vous lorsque le coup a été tiré ?
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_1_direction;pulls himself up
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_1;Très bien.
+sequences_a09_salon_seq_a09_salon_verhoer_teil1_ende#1;[The door of the salon opens fast, the guard enters. He has an envelope in his hand.]
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_2_direction;except breathing, excited
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_2;Inspecteur Legrand !
+sequences_a09_salon_seq_a09_salon_verhoer_teil1_ende#3;[The investigator brings him with a gesture to silence. The guard wants to say something familiar, but did not. He stands with the letter in his hand, waiting for his chance.]
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_3_direction;pulls himself up
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_3;Faisons comme si c'était bien le cas. Le coup que nous avons entendu était juste un enregistrement. Que s'est-il passé ensuite ?
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_4;Nous avons tous couru vers la cabine de la Baronne.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_5;Elle gisait dans une mare de sang. Le docteur Gebhardt nous a poussé, afin que nous ne puissions pas approcher de trop près la Baronne.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_6;Il l'a examiné et a prononcé sa mort. Il n'y avait aucune raison de douter de lui ! Le coup de feu, le sang, la Baronne couchée sans vie...
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_7;Mais elle était seulement inconsciente... Assommée par l'hydrate de chloral que le médecin avait versé dans son verre un peu avant.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_8;Le médecin avait un verre à la main quand vous êtes arrivé !
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_9;Il voulait faire disparaitre la preuve. Mais vous m'avez donné le verre à la place, Capitaine di Conti, et involontairement drogué aussi.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_10;Balivernes ! Il y avait du sang partout ! Et la Baronne est effectivement morte, non ?
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil1_ende_st_11;Alors, QUI l'a tué et quand ?
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_1_direction;thoughtfully
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_1;Le médecin a été seul dans la cabine pendant un petit moment. Lorsque l'alarme s'est déclenchée, elle était assourdissante - Je n'arrivais même pas m'entendre...
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_2;Et j'ai trouvé un oreiller avec des traces de brûlures. Il aurait pu être utilisé pour étouffer un coup de feu.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_3;Et le sang ?
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_4;Le sang n'était pas vrai. Le docteur Gebhardt a fabriqué un liquide qui ressemblait à du sang frais pour un observateur néophyte.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_5;Mais le liquide est resté rouge au lieu de devenir plus sombre et plus brun à l'exposition à l'air. Cela signifiait qu'il devait nettoyer le corps et se débarrasser de la literie.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_6;Mais le sang était déjà là quand nous sommes entrés dans la cabine !
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_7;Le docteur Gebhardt était dans la cabine de la Baronne avant de l'assassiner. Il a caché un gant chirurgical rempli de ce liquide rouge sous son drap.
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_8;"La baronne, fourbue, est tombée sur son lit, éclatant le gant et le ""sang"" s'est répandu sur le lit. J'ai trouvé un gant déchiré dans le centre médical."
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_9;Mais... Pourquoi a t-il fait ça ? Quelle était son mobile ?
+sequences_a09_salon_seq_a09_salon_verhoer_teil2_ende#9;[The guard tries to intervene and re-emphasizes the letter.]
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_10_direction;jostling
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil2_ende_st_10;Inspecteur !
+sequences_a09_salon_seq_a09_salon_verhoer_teil2_ende#11;[The inspector takes the letter, but did not look into it. He focuses on Ohi. The guard tries to draw the attention of the investigator at the letter, but gives up then.]
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_1_direction;it bursts out of him
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_1;Non, non, non !
+sequences_a09_salon_seq_a09_salon_verhoer_teil3_ende#1;[All presents people stare at the guard.]
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_2;Vous avez quelque chose à nous dire, Officier ?
+sequences_a09_salon_seq_a09_salon_verhoer_teil3_ende#3;[The guard points to the letter.]
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_3;Euh, ses a-aveux, monsieur.
+sequences_a09_salon_seq_a09_salon_verhoer_teil3_ende#5;[The investigator stares at the letter in his hand as he would notice it just now. He folded it up and reads it.]
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_4;Le docteur Gebhardt était le Corbeau !
+spokentexts_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_5;Tout est là. Il avoue tout.
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_6;Qu'est-ce qui est écrit ?
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_7;C'est écrit :
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_8_direction;reads
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_8;"""Vous vous souvenez, mon cher Nico ? Les rues étaient mouillées par la pluie, l'odeur d'orge torréfié et de levure de la brasserie flottait jusqu'à nous."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_9_direction;reads
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_9;"""Un chien aboyait jusqu'à ce que votre tir ne frappe un innocent. Vînt alors - le silence. Pas un son, à l'exception de mes foulées feutrées résonant sur les pavés humide de la rue."""
+sequences_a09_salon_seq_a09_salon_verhoer_teil3_ende#12;[The author and Ohio are looking concerned to each other.]
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_10_direction;reads
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_10;"""Ils ont fait de vous un héros et moi, j'y ai enfin trouvé la paix... Du moins, jusqu'à ce que le désir revienne. Certains d'entre nous ne sont pas faits pour la retraite, mon ami."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_11_direction;reads
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_11;"""Je pensais qu'ils allaient vous attribuer cette affaire, et cette pensée m'a plu. Nous saurions enfin qui était vraiment le meilleur."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_12_direction;reads
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_12;"""Et ça me fait mal maintenant d'avoir à admettre que vous et votre petit détective êtes meilleur que moi. Vous m'avez repoussé dans mes retranchements. Me poussant à la faute."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_13_direction;reads
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_13;"""Je vous félicite pour votre victoire. Mais personne n'enfermera le Corbeau dans une cage."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_14_direction;reads
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_14;"""Il n'y a qu'une seule porte de sortie, et ce sera par mes propres mains."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_15_direction;reads
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_15;"""Adieu, Traqueur de Corbeau."""
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_16_direction;reads
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_16;"""R."""
+sequences_a09_salon_seq_a09_salon_verhoer_teil3_ende#20;[The investigator lets the letter down, he's like petrified. Then he pushes the guard the letter on his chest and goes fast toward the rear deck from the Saloon.]
+sequences_a09_salon_seq_a09_salon_verhoer_teil3_ende#21;[The guard is irritated, wants to call back Legrand, but stops then.]
+spokentexts__seq_a09_salon_seq_a09_salon_verhoer_teil3_ende_st_17;Inspecteur Legrand !
+sequences_a09_salon_seq_a09_salon_verhoer_teil3_ende#23;[Ohi looks at the security guard, then to the writer, who throws him a serious look. Ohi goes behind Legrand.]
