@@ -1,0 +1,602 @@
+characters_araber;Araber
+characters_butler;Butler
+characters_direktor;Direktor
+characters_frau;Frau
+characters_ohi;Ohi
+characters_wachmann;Wachmann
+texts_a20_dach_ausgang_rabennest_mo_betrachen_1__2;Examine the secret door
+spokentexts_a20_dach_ausgang_rabennest_ex_1_st_1_direction;slightly anxious
+spokentexts_a20_dach_ausgang_rabennest_ex_1_st_1;I can't stop thinking about her, but I must.
+spokentexts_a20_dach_ausgang_rabennest_ex_1_st_2_direction;Pulling himself together
+spokentexts_a20_dach_ausgang_rabennest_ex_1_st_2;I have a job to do and it won't help either of us if I'm not totally focused.
+spokentexts_a20_dach_ausgang_rabennest_ex_2_st_1_direction;slightly evocative, trying to convince himself
+spokentexts_a20_dach_ausgang_rabennest_ex_2_st_1;Everything will be fine. Nothing will go wrong. We'll walk out of the museum and get married.
+texts_a20_dach_ausgang_seite_mo_leave_1;Go down the ladder
+spokentexts_a20_dach_ausgang_seite_leave_1_st_1;No. Inch said everything I need is in the bag.
+spokentexts_a20_dach_ausgang_seite_leave_1_st_2;I believe him. He wants the jewel. Until he gets it, he won't put any obstacles in my path!
+texts_a20_dach_diamant_mo_inventar_1;Diamond
+spokentexts_a20_dach_diamant_ex_1_st_1;The diamond isn't bad... Not flawless, but very big.
+spokentexts_a20_dach_diamant_ex_1_st_2;Would it be good for an engagement ring?
+spokentexts_a20_dach_diamant_ex_2_st_1;Hmm. Diamond is the hardest natural substance in the world... I have to be able to use that to my advantage somehow!
+texts_a20_dach_kaugummi_mo_inventar_1;Chewing gum
+spokentexts_a20_dach_kaugummi_ex_1_st_1;I once heard that chewing gum improves concentration. I could really use the help.
+texts_a20_dach_kaugummipackung_mo_use_1;Chew gum
+sequences_a20_dach_kaugummipackung_use_1#1;[The Arab gets out his chewing gum wrapper and looks at it.]
+spokentexts_a20_dach_kaugummipackung_use_1_st_1;Only one piece left...
+sequences_a20_dach_kaugummipackung_use_1#3;[The Arab takes out the gum stick and puts it in his mouth (chewing perhaps short conspicuous). Then he crumpled up the pack and hesitates.]
+spokentexts_a20_dach_kaugummipackung_use_1_st_2_direction;full mouth, surprised
+spokentexts_a20_dach_kaugummipackung_use_1_st_2;What's this?
+sequences_a20_dach_kaugummipackung_use_1#5;[The Arab folds the package apart, looks inside. He holds a flat hand out and shakes the package out on it. A diamond falls into his hands.]
+sequences_a20_dach_kaugummipackung_use_1#6;[The Arab puts the gum pack away (it'S is gone, but the aluminum foil of the gum stick is now in the inventory) and considers the diamond in his hand.]
+spokentexts_a20_dach_kaugummipackung_use_1_st_3;Unless this is the most expensive chewing gum commercial ever, Inch wanted me to find the diamond.
+spokentexts_a20_dach_kaugummipackung_use_1_st_4;I'm sure it's not a reward for all my hard work.
+sequences_a20_dach_kaugummipackung_use_1#9;[The Arab thinks for a moment, then he throws the diamond into the air, grabs it  and puts it on.]
+spokentexts_a20_dach_kaugummipackung_use_2_st_1;A pack of chewing gum. My favorite brand!
+texts_a20_dach_kaugummipapier_mo_inventar_1;Chewing gum wrapper
+spokentexts_a20_dach_kaugummipapier_ex_1_st_1;Once the chewing gum loses its flavor, I can wrap it in this and throw it away.
+texts_a20_dach_kiste_mo_ex_1;Examine the tarp
+spokentexts_a20_dach_kiste_ex_1_st_1;That tarp is covering something...
+sequences_a20_dach_kiste_ex_1#2;[The Arab is going to the tarp and knocks on it.]
+spokentexts_a20_dach_kiste_ex_1_st_2;Hmm. Bucket, rags, squeegee... Tools of the trade for window washers.
+spokentexts_a20_dach_kiste_ex_1_st_3;Probably didn't feel like carrying their equipment up to the roof every time, so they stashed it here.
+texts_a20_dach_kletterausruestung_mo_ex_1;Examine the climbing equipment
+texts_a20_dach_kletterausruestung_mo_use_1;Put on the climbing equipment
+spokentexts_a20_dach_kletterausruestung_ex_1_st_1;This is the same climbing equipment that I wore for the burglary in London.
+spokentexts_a20_dach_kletterausruestung_ex_1_st_2;Only the mask is missing. Does Inch want to make sure that the security cameras can see my handsome face?
+sequences_a20_dach_kletterausruestung_use_1#1;"[The whole idea is the ""Move"" not to worry about fade to black, but with a couple of cuts that covers up that the Arab can not really change his clothes. After the short sequence he stands in the burglar outfit.]"
+sequences_a20_dach_kletterausruestung_use_1#2;[The Arab picks up the climbing gear. Cut to closeup. It can be seen how he throws the equipment over the shoulders.]
+sequences_a20_dach_kletterausruestung_use_1#3;[Cut to the thigh, which are already in the climbing equipment. The camera moves up and you can just see how the Arab grabs the belt.]
+sequences_a20_dach_kletterausruestung_use_1#4;[Cut to a long shot, the Arab  stands in burglar outfit and checks here and there a belt.]
+texts_a20_dach_kurbel_mo_ex_1;Examine the crank
+texts_a20_dach_kurbel_mo_use_1;Use the crank with...
+spokentexts_a20_dach_kurbel_ex_1_st_1_direction;whistle
+spokentexts_a20_dach_kurbel_ex_1_st_1;*whistle*
+sequences_a20_dach_kurbel_ex_1#2;[The Arab grabs the crank, looks at it.]
+spokentexts_a20_dach_kurbel_ex_1_st_2;A crank... Something for opening windows that are too heavy to move with your hands!
+spokentexts_a20_dach_kurbel_ex_1_st_3;Your new home.
+sequences_a20_dach_kurbel_ex_1#5;[The Arab lays the crank next to the window.]
+spokentexts_a20_dach_kurbel_ex_2_st_1;The window washers should never have been allowed to leave the crank up here. Maybe I can use it to open the window. 
+texts_a20_dach_lappen_mo_ex_1;Examine the window washers' tools
+texts_a20_dach_lappen_mo_inventar_1;Rag
+texts_a20_dach_lappen_mo_use_1;Use the wet rag with...
+spokentexts_a20_dach_lappen_ex_1_st_1;I don't need the squeegee. The bucket? Hmm. Not really.
+spokentexts_a20_dach_lappen_ex_1_st_2;This rag, on the other hand... I could wipe away fingerprints with it.
+sequences_a20_dach_lappen_ex_1#3;[The Arab takes the cloth and puts it on.]
+spokentexts_a20_dach_lappen_ex_2_st_1;A small rag. Maybe for polishing windows?
+spokentexts_a20_dach_lappen_ex_3_st_1;The rag is dripping wet.
+sequences_a20_dach_lappen_use_1#1;[As soon as you click on the cloth, it sticks on the cursor and can be used with things in the scene.]
+texts_a20_dach_scheibe_mo_ex_1-4;Examine the window
+texts_a20_dach_scheibe_mo_ex_6;Examine the entrance
+texts_a20_dach_scheibe_mo_leave_1;Abseil down into the treasure chamber
+texts_a20_dach_scheibe_mo_use_1__2;Open the window
+texts_a20_dach_scheibe_mo_used_mit_kaugummipapier_1-3;Override the electrical contacts with the chewing gum wrapper
+texts_a20_dach_scheibe_mo_used_mit_kurbel_1-3;Open the window with the crank
+texts_a20_dach_scheibe_mo_used_mit_lappen_1;Polish the window
+texts_a20_dach_scheibe_mo_used_mit_lappen_2_3;Use the rag with the window
+texts_a20_dach_scheibe_mo_used_mit_messer_1_2;Use the knife with the window
+sequences_a20_dach_scheibe_ex_1#1;[The Arab leans on the glass roof, uses a hand to protect himself against the sun.]
+spokentexts_a20_dach_scheibe_ex_1_st_1;I can see the treasure chamber.
+spokentexts_a20_dach_scheibe_ex_1_st_2;There are several people moving around down there. I think the Eye is being delivered.
+sequences_a20_dach_scheibe_ex_1#4;[The Arab pushes himself off from the glass roof, is back down to normal.]
+spokentexts_a20_dach_scheibe_ex_2_st_1;This window can be opened. Must be an entrance for the window washers and maintenance crews when they have to work up here in the cupola.
+sequences_a20_dach_scheibe_ex_2#2;[The Arab leans with one hand, looks at the glass along in the direction locking mechanism.]
+spokentexts_a20_dach_scheibe_ex_2_st_2;Hmm. There's a mechanism that opens the window when you turn the crank.
+spokentexts_a20_dach_scheibe_ex_2_st_3;Hmm. I see two contacts down there on the frame. There's a piece of metal stuck between them and fixed to the window.
+spokentexts_a20_dach_scheibe_ex_2_st_4;If I open the window, the piece of metal will move, breaking the circuit and setting off an alarm...
+spokentexts_a20_dach_scheibe_ex_2_st_5;Unless the guards have been notified beforehand, which is hardly an option in my case. I have to bypass the circuit!
+sequences_a20_dach_scheibe_ex_2#7;[The Arab pushes himself back from the window and stands there normal.]
+spokentexts_a20_dach_scheibe_ex_3_st_1;Somehow I have to get at the contacts of the alarm system and override the circuit... Only then I can open the window safely.
+spokentexts_a20_dach_scheibe_ex_4_st_1;Without a seal, there's a one or two centimeter gap below the window. Just enough to slip a couple of fingers through.
+spokentexts_a20_dach_scheibe_ex_5_st_1;The water in the rag should carry the electricity from one contact to the other, even if the piece of metal moves when the window is opened...
+spokentexts_a20_dach_scheibe_ex_6_st_1;This is my way into the museum. The only question is, how do I get down?
+spokentexts_a20_dach_scheibe_use_1_st_1;The contacts have been bypassed. But I can't just open the window. I need a crank or something like that.
+spokentexts_a20_dach_scheibe_use_2_st_1;I think this crank will do the trick.
+sequences_a20_dach_scheibe_use_2#2;[The Arab picks up the crank, puts it on and opens the window. Then he puts the crank on the wall next to the open window.]
+spokentexts_a20_dach_scheibe_use_2_st_2;Excellent-no alarm!
+spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_1_st_1;How's that supposed to work? The contacts are on the other side of the window! I can't reach them.
+spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_2_st_1;Yes... The aluminum foil might bypass the circuit...
+sequences_a20_dach_scheibe_used_mit_kaugummipapier_2#2;[The Arab pulls out the wrapping paper of the gum stick and puts his hand through the slot.]
+spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_2_st_2;Argh! Darn tight.
+sequences_a20_dach_scheibe_used_mit_kaugummipapier_2#4;[The Arab tries ion, it seems not to work quite.]
+spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_2_st_3;I can override the contacts with the strip, but I can't - ahh! Damn!
+spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_2_st_4;I lost the strip!
+sequences_a20_dach_scheibe_used_mit_kaugummipapier_2#7;[The Arab pulls his hand back, stands up.]
+spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_2_st_5;It wouldn't have worked anyway. The gap was too small.
+spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_3_st_1;That might have been an alternative, but the waterlogged rag should work just as well.
+sequences_a20_dach_scheibe_used_mit_kurbel_1#2;[The Arab leans with one hand, looks at the glass along in the direction locking mechanism.]
+sequences_a20_dach_scheibe_used_mit_kurbel_1#7;[The Arab pushes himself back from the window and stands there normal.]
+sequences_a20_dach_scheibe_used_mit_kurbel_3#1;[The Arab picks up the crank, puts it on and opens the window. Then he puts the crank on the wall next to the open window.]
+spokentexts_a20_dach_scheibe_used_mit_lappen_1_st_1;That really isn't my job.
+spokentexts_a20_dach_scheibe_used_mit_lappen_2_st_1;What's that supposed to do? Rags don't conduct electricity.
+sequences_a20_dach_scheibe_used_mit_lappen_3#1;[The Arab takes the wet rag, kneels down in front of the window and presses the wet rag through the crack under the window.]
+spokentexts_a20_dach_scheibe_used_mit_lappen_3_st_1;OK, I'm in. And now back... and forth... and away we go!
+sequences_a20_dach_scheibe_used_mit_lappen_3#3;[The Arab is shaking the cloth back and forth and then let him roll over so that he lands on the contacts.]
+spokentexts_a20_dach_scheibe_used_mit_lappen_3_st_2;Got it! The wet rag is lying on the contacts!
+sequences_a20_dach_scheibe_used_mit_lappen_3#5;[The Arab stands up, wiping his hands dry on his pants and stands normally.]
+spokentexts_a20_dach_scheibe_used_mit_messer_1_st_1;Hmm. I can't cut any of the windows out of the frame. But this window has a rubber seal on the bottom and the sides...
+sequences_a20_dach_scheibe_used_mit_messer_1#2;[The Arab pulls out a knife, cuts down at the window and finally moves a thick rubber strips (about 1-1.5 cm in diameter) out.]
+sequences_a20_dach_scheibe_used_mit_messer_1#3;[The Arab throws the seal aside and takes the knife.]
+spokentexts_a20_dach_scheibe_used_mit_messer_1_st_2;The roof of the museum is now officially drafty.
+spokentexts_a20_dach_scheibe_used_mit_messer_2_st_1;I cut away as much of the seal as possible. I can't make the gap any larger with the knife.
+texts_a20_dach_seil_mo_ex_2__3;Examine the rope
+texts_a20_dach_seil_mo_use_1;Use the rope with...
+texts_a20_dach_seil_mo_use_2;Abseil down
+spokentexts_a20_dach_seil_ex_1a_st_1;A good rope, and more than long enough to abseil down into the treasure chamber.
+spokentexts_a20_dach_seil_ex_1b_st_1;I'll leave it there until I need it.
+sequences_a20_dach_seil_use_1#1;"[Sequence ""Araber_seilt_sich_ab"" is played.]"
+texts_a20_dach_stoffbeutel_mo_inventar_1;Cloth bag
+spokentexts_a20_dach_stoffbeutel_ex_1_st_1;A small cloth bag that can be drawn together at the top.
+spokentexts_a20_dach_stoffbeutel_ex_1_st_2;There was a pack of gum in the bag with a diamond inside. Inch wanted to make sure that it didn't get lost.
+texts_a20_dach_tasche_mo_ex_1;Search the bag
+texts_a20_dach_tasche_mo_ex_2;Examine the bag
+sequences_a20_dach_tasche_ex_1#1;[The Arab picks up the bag, put them on a wall, opens it and begins to search in it.]
+sequences_a20_dach_tasche_ex_1#2;[The Arab takes out climbing equipment, places them next to the wall.]
+spokentexts_a20_dach_tasche_ex_1_st_1;Climbing equipment...
+sequences_a20_dach_tasche_ex_1#4;[The Arab grabs in again, pulls out a rope and putts it on the equipment.]
+spokentexts_a20_dach_tasche_ex_1_st_2;Including a rope...
+sequences_a20_dach_tasche_ex_1#6;[The Arab pushes apart the bag and looks inside.]
+spokentexts_a20_dach_tasche_ex_1_st_3;A cloth bag...
+sequences_a20_dach_tasche_ex_1#8;[The Arab grabs into his pocket, pulls out the bag and looks at it.]
+sequences_a20_dach_tasche_ex_1#9;[The Arab opens the bag.]
+spokentexts_a20_dach_tasche_ex_1_st_4_direction;irritated
+spokentexts_a20_dach_tasche_ex_1_st_4;Hmm?
+spokentexts_a20_dach_tasche_ex_1_st_5_direction;irritated
+spokentexts_a20_dach_tasche_ex_1_st_5;A pack of gum?
+spokentexts_a20_dach_tasche_ex_1_st_6;Why did Inch put a pack of gum in a cloth bag?
+sequences_a20_dach_tasche_ex_1#13;[The Arab takes the pack of gum and the bag and puts it in his pocket. Then he looks again into the bag.]
+spokentexts_a20_dach_tasche_ex_1_st_7;That's all.
+sequences_a20_dach_tasche_ex_1#15;[The Arab let the bag fall in front of the wall on the ground.]
+spokentexts_a20_dach_tasche_ex_1_st_8;Climbing equipment and a pack of chewing gum! I'm beginning to feel underequipped for this burglary.
+spokentexts_a20_dach_tasche_ex_1_st_9_direction;breathes little and annoyed
+spokentexts_a20_dach_tasche_ex_1_st_9;*exhales*. Looks like I'll have to improvise.
+spokentexts_a20_dach_tasche_ex_2_st_1;There's nothing else in the bag, and I don't need the bag itself.
+texts_a20_dach_wasserhahn_mo_ex_1;Examine the water tap
+texts_a20_dach_wasserhahn_mo_use_1;Open the water tap
+texts_a20_dach_wasserhahn_mo_used_mit_lappen_1;Wet the rag
+spokentexts_a20_dach_wasserhahn_ex_1_st_1;Maybe the tap is meant to depressurize the water tank if it rains too much?
+spokentexts_a20_dach_wasserhahn_ex_1_st_2;Or it's just a practical way for the window washers to get some fresh water up here.
+sequences_a20_dach_wasserhahn_use_1#1;[The Arab turned on the tap, water runs out.]
+sequences_a20_dach_wasserhahn_use_1#2;[Shortly afterwards, he closes the tap again.]
+sequences_a20_dach_wasserhahn_used_mit_lappen_1#1;[The Arab pulls out the cloth, holding it under the tap and turn on the tap. The water runs through the cloth.]
+spokentexts_a20_dach_wasserhahn_used_mit_lappen_1_st_1;Whew! Cold!
+sequences_a20_dach_wasserhahn_used_mit_lappen_1#3;[The Arab closes the tap again and holds the dripping cloth with two fingers infront to himself.]
+spokentexts_a20_dach_wasserhahn_used_mit_lappen_1_st_2;Dripping wet. I'm not putting it in my pocket like that!
+sequences_a20_dach_wasserhahn_used_mit_lappen_1#5;[The Arab lays the cloth next to the window.]
+sequences_a20_dach_seq_a20_dach_araber_seilt_sich_ab#0;[The Arab grabs the rope. Then he climbs through the window and looks down.]
+spokentexts_a20_dach_seq_a20_dach_araber_seilt_sich_ab_st_1_direction;whisper
+spokentexts_a20_dach_seq_a20_dach_araber_seilt_sich_ab_st_1;OK. I don't see anyone...
+sequences_a20_dach_seq_a20_dach_araber_seilt_sich_ab#2;[The Arab attaches the rope to the grid and hooks it on. He don't throws the rope down, but rather keeps it at the body. Then he climbed over the railing and begins to lowers down on the rope.]
+sequences_a20_dach_seq_a20_dach_araber_seilt_sich_ab#3;[Next in the the treasure room.]
+sequences_a20_dach_seq_a20_dach_araber_start#0;[The Arab Is on the wall with the secret door, his hand thoughtfully placed on the wall. He takes the hand away, and goes into normal position.]
+spokentexts_a20_dach_seq_a20_dach_araber_start_st_1_direction;exhale long and deep
+spokentexts_a20_dach_seq_a20_dach_araber_start_st_1;Phew.
+spokentexts_a20_dach_seq_araber_will_sich_abseilen_ohne_kletterausruestung_st_1;Not without climbing equipment.
+texts_a20_keller_ausgang_haupthalle_mo_ex_1;Feel the wall
+texts_a20_keller_ausgang_haupthalle_mo_ex_2;Examine the mechanism
+texts_a20_keller_ausgang_haupthalle_mo_use_1;Open the secret door
+sequences_a20_keller_ausgang_haupthalle_ex_1#1;[The Arab scans the wall.]
+spokentexts_a20_keller_ausgang_haupthalle_ex_1_st_1;There's some kind of mechanism here, but I can't see anything without a light!
+spokentexts_a20_keller_ausgang_haupthalle_ex_2_st_1;According to the blueprints, there's supposed to be a secret door here leading into the main hall. This must be the locking mechanism.
+sequences_a20_keller_ausgang_haupthalle_use_1#1;[The Arab makes something at the mechanism. Then he released him.]
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_1;Careful now.
+sequences_a20_keller_ausgang_haupthalle_use_1#3;[The Arab pushes the door very carefully a piece.]
+sequences_a20_keller_ausgang_haupthalle_use_1#4;[Suddenly a woman's hand grabs on the door and opens it farther and faster. The Arab is terrified.]
+sequences_a20_keller_ausgang_haupthalle_use_1#5;[The young woman appears in the door, with one hand she opened the door, in the other she carries a bag over his chest. She looks dispirited.]
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_2_direction;surprised worried
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_2;What the... What are you doing here?
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_3_direction;worried, anxious
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_3;What if Inch sees you?!
+sequences_a20_keller_ausgang_haupthalle_use_1#8;[The door opens a bit more. The butler stands behind the young woman and pushes her into the basement. The Arab staggers back in shock and fear.]
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_4_direction;shocked, toneless
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_4;No...
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_5_direction;scared
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_5;I'm sorry. He... caught me.
+sequences_a20_keller_ausgang_haupthalle_use_1#11;[The Butler pulls a gun on the woman who clings at the bag, scared. He closes the door. The Arab is a little off, do not know what to do.]
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_6_direction;threatening
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_6;You and your little girlfriend... You thought you could go behind my back?!
+sequences_a20_keller_ausgang_haupthalle_use_1#13;[The Butler raises the gun to the head of the young woman. She's scared. The Arab gets awake again, takes a step on both, raises his hand soothingly.]
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_7_direction;pleadingly
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_7;Inch, no!
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_8_direction;gloomy, threatening
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_8;You deserve to die here and now.
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_9;But then I wouldn't get the Eye.
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_10_direction;desperate, imploring
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_10;Don't hurt her... Please!
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_11;We'll see.
+sequences_a20_keller_ausgang_haupthalle_use_1#19;[The butler takes a bag, that he wears around his neck, and puts it on the floor. Then he points with his gun toward the stairs.]
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_12;Get moving.
+sequences_a20_keller_ausgang_haupthalle_use_1#21;[The young woman and the Arab throwing each other worried glances. Then they start to move, closely watched by the butler.]
+sequences_a20_keller_ausgang_haupthalle_use_1#22;[While they still go fade out, continue in the raven's nest.]
+texts_a20_keller_ausgang_rabennest_mo_leave_1;Go upstairs
+sequences_a20_keller_ausgang_rabennest_leave_1#1;[The Arab starts to descend the stairs.]
+sequences_a20_keller_ausgang_rabennest_leave_1#2;[While he still goes fade out. Next in the raven's nest.]
+texts_a20_keller_gluehbirne_mo_inventar_1__2;Light bulb
+spokentexts_a20_keller_gluehbirne_ex_1_st_1;The bulb is dirty, but apart from that, it still looks good.
+spokentexts_a20_keller_gluehbirne_ex_1_st_2;The contact on the base is very rusty, though...
+spokentexts_a20_keller_gluehbirne_ex_2_st_1;I can see metal again. The contact should be able to complete the circuit now!
+texts_a20_keller_kabel_mo_ex_1__2;Examine the cable
+texts_a20_keller_kabel_mo_ex_3__4;Examine the lamp
+texts_a20_keller_kabel_mo_used_mit_a20_keller_gluehbirne_1__2;Screw the bulb into the fixture
+texts_a20_keller_kabel_mo_used_mit_a20_rabennest_gluehbirne_kabel;Connect the cables
+texts_a20_keller_kabel_mo_used_mit_a20_rabennest_messer;Use the cable with the knife
+spokentexts_a20_keller_kabel_ex_1_st_1;The lamp was removed. You can still see the holes that the screws left.
+spokentexts_a20_keller_kabel_ex_1_st_2;The cable was cleanly severed.
+spokentexts_a20_keller_kabel_ex_2_st_1;I exposed the copper wires. There's no danger as long as the electricity is shut off.
+spokentexts_a20_keller_kabel_ex_3_st_1;The lamp hangs from the electrical cable, which leads to the light switch. As long as there's a current, I should have a source of light now!
+spokentexts_a20_keller_kabel_ex_4_st_1;I think the contact is dirty...
+sequences_a20_keller_kabel_ex_4#2;[The Arab, turns the light bulb out, looks at it from below.]
+spokentexts_a20_keller_kabel_ex_4_st_2;I was right. The lower contact is coated with rust.
+spokentexts_a20_keller_kabel_ex_4_st_3;The current can't flow properly and sooner or later the bulb will burn out.
+sequences_a20_keller_kabel_ex_4#5;[The Arab takes the light bulb.]
+spokentexts_a20_keller_kabel_ex_5_st_1;The fixture is connected to the cable and there's power as well. All that's missing is a light bulb!
+spokentexts_a20_keller_kabel_used_mit_a20_keller_gluehbirne_1_st_1;That makes no sense. As long as the contact is still rusty, I'll wind up ruining the bulb instead of lighting it up.
+spokentexts_a20_keller_kabel_used_mit_a20_keller_gluehbirne_2_st_1;One more try...
+sequences_a20_keller_kabel_used_mit_a20_keller_gluehbirne_2#2;[The Arab takes out the light bulb again, blows on the contact and then puts the bulb in the lamp.]
+spokentexts_a20_keller_kabel_used_mit_a20_rabennest_gluehbirne_kabel_1_st_1;I could connect the cables to each other, but I'd need to strip the insulation from the cables on the wall and the lamp.
+spokentexts_a20_keller_kabel_used_mit_a20_rabennest_gluehbirne_kabel_2_st_1;OK. I'll twist the wires from the lamp cord together with the wires from the electrical cable...
+sequences_a20_keller_kabel_used_mit_a20_rabennest_gluehbirne_kabel_2#2;[The Arab twists the two cables, let hang the lamp.]
+sequences_a20_keller_kabel_used_mit_a20_rabennest_messer#1;[The Arab pulls out his knife, first removes the isolation from the wire and then the tips of the isolation of both wires.]
+spokentexts_a20_keller_kabel_used_mit_a20_rabennest_messer_st_1;OK. Plus and minus are exposed.
+texts_a20_keller_lichtschalter_mo_ex_1__2__4__5;Examine the switch
+texts_a20_keller_lichtschalter_mo_use_1__2;Turn the light on
+spokentexts_a20_keller_lichtschalter_ex_1_st_1;Here we go!  I think it's...
+sequences_a20_keller_lichtschalter_ex_1#2;[The Arab turns the switch, nothing happens. The Arab turns back the switch.]
+spokentexts_a20_keller_lichtschalter_ex_1_st_2;Nothing.
+sequences_a20_keller_lichtschalter_ex_1#4;[The Arab releases the switch, is back down to normal.]
+sequences_a20_keller_lichtschalter_ex_1#5;[From now on, the cable is selectable.]
+spokentexts_a20_keller_lichtschalter_ex_2_st_1;Hmm. Yes. There was a lamp here, but now there's just a cable.
+spokentexts_a20_keller_lichtschalter_ex_3_st_1;Now it should work!
+spokentexts_a20_keller_lichtschalter_ex_4_st_1;Something's wrong with the lamp!
+spokentexts_a20_keller_lichtschalter_ex_5_st_1;There's current in the wire, but that won't help me unless I can get a working bulb.
+spokentexts_a20_keller_lichtschalter_use_1_st_1;Let there be light!
+sequences_a20_keller_lichtschalter_use_1#2;[The Arab is turning the switch. The lamp flickers briefly, then off again. The Arab turns the switch again.]
+spokentexts_a20_keller_lichtschalter_use_1_st_2;Damn.
+sequences_a20_keller_lichtschalter_use_2#1;[The Arab turned on the switch, the light goes on.]
+spokentexts_a20_keller_lichtschalter_use_2_st_1_direction;pleased with himself
+spokentexts_a20_keller_lichtschalter_use_2_st_1;There we go.
+texts_a20_keller_tisch_mo_ex_1__2;Examine the table
+spokentexts_a20_keller_tisch_ex_1_st_1;If it wasn't so dusty, I could easily imagine someone had been using it.
+spokentexts_a20_keller_tisch_ex_2_st_1;What kind of stories could this room tell? About desperation, anger, triumph...
+sequences_a20_keller_seq_a20_keller_erstmalig_betreten#0;[It can be heard a clicking sound like from a bolt. Then the secret door opens to the stairs.]
+sequences_a20_keller_seq_a20_keller_erstmalig_betreten#1;[The Arab appears, looks around.]
+spokentexts_a20_keller_seq_a20_keller_erstmalig_betreten_st_1;Pitch-black in here...
+texts_a20_rabennest_armeemesser_mo_ex_1;Swiss Army knife
+spokentexts_a20_rabennest_armeemesser_ex_1_st_1;Every time I don't have the knife with me, I need it. Does this mean I won't need it, since I have it with me this time?
+texts_a20_rabennest_ausgang_dach_mo_leave_1;Go back to the roof
+texts_a20_rabennest_ausgang_dach_mo_leave_2;Go on the roof
+spokentexts_a20_rabennest_ausgang_dach_leave_1_st_1;No. My job is getting Inch into the basement.
+spokentexts_a20_rabennest_ausgang_dach_leave_1_st_2;The sooner I get it done, the sooner I can put this whole story behind me.
+sequences_a20_rabennest_ausgang_dach_leave_2#1;[The Arab turns toward the secret door.]
+spokentexts_a20_rabennest_ausgang_dach_leave_2_st_1_direction;sarcastic
+spokentexts_a20_rabennest_ausgang_dach_leave_2_st_1;I appreciate your willingness! But all in good time. First the handcuffs!
+sequences_a20_rabennest_ausgang_dach_leave_2#3;[The Arab turns back.]
+texts_a20_rabennest_ausgang_keller_mo_leave_1__2;Go downstairs
+texts_a20_rabennest_ausgang_keller_mo_leave_2;Flee!
+texts_a20_rabennest_ausgang_keller_mo_use_1;Examine the hatch
+spokentexts_a20_rabennest_ausgang_keller_ex_1_st_1;According to the blueprints, the stairs lead from the attic down to the secret basement...
+sequences_a20_rabennest_ausgang_keller_leave_1#1;[The Arab starts to descend the stairs.]
+sequences_a20_rabennest_ausgang_keller_leave_1#2;[While he still goes fade out. Next in the basement.]
+sequences_a20_rabennest_ausgang_keller_leave_2#1;[The Arab looks inconspicuous to the hatch. The Butler notes that, following his gaze.]
+spokentexts_a20_rabennest_ausgang_keller_leave_2_st_1;Tsk-tsk-tsk.
+spokentexts_a20_rabennest_ausgang_keller_leave_2_st_2;You'd leave you little girlfriend here? Alone with me?
+spokentexts_a20_rabennest_ausgang_keller_leave_2_st_3_direction;determined
+spokentexts_a20_rabennest_ausgang_keller_leave_2_st_3;Never.
+sequences_a20_rabennest_ausgang_keller_use_1#1;[The Arab opens  the door to the stairs, looks down briefly.]
+texts_a20_rabennest_character_butler_mo_talk_mit_1__2;Assuage Inch.
+texts_a20_rabennest_character_butler_mo_used_mit_handschellen_1;Try to overpower him and tie him up
+spokentexts_a20_rabennest_character_butler_ex_1_st_1;It seems we underestimated you, Inch.
+spokentexts_a20_rabennest_character_butler_ex_1_st_2;A fools mistake! You should have known better.
+spokentexts_a20_rabennest_character_butler_talk_mit_1_st_1;You can put the gun down. I won't try anything.
+spokentexts_a20_rabennest_character_butler_talk_mit_1_st_2;I could choose to believe you. Or I could keep the gun pointed at you and KNOW that you won't try anything.
+spokentexts_a20_rabennest_character_butler_talk_mit_1_st_3;If you'd be so kind?
+sequences_a20_rabennest_character_butler_talk_mit_1#4;[The Butler waved briefly with his pistol in the direction of women.]
+spokentexts_a20_rabennest_character_butler_talk_mit_2_st_1;Can't we...
+spokentexts_a20_rabennest_character_butler_talk_mit_2_st_2_direction;annoyed, threatening
+spokentexts_a20_rabennest_character_butler_talk_mit_2_st_2;You can cuff your girlfriend to the chair, that's what you can do.
+sequences_a20_rabennest_character_butler_talk_mit_2#3;[The butler raises threatening his gun.]
+sequences_a20_rabennest_character_butler_used_mit_handschellen_1#1;[The Arab looks at the handcuffs, then to the Butler.]
+spokentexts_a20_rabennest_character_butler_used_mit_handschellen_1_st_1;Don't even think of trying anything. You're playing with her life.
+sequences_a20_rabennest_character_butler_used_mit_handschellen_1#3;[The butler raises threatening his gun.]
+texts_a20_rabennest_character_frau_mo_ex_1;Look at Pat
+texts_a20_rabennest_character_frau_mo_used_mit_handschellen_1;Cuff Patricia to the chair
+spokentexts_a20_rabennest_character_frau_ex_1_st_1_direction;mendicant
+spokentexts_a20_rabennest_character_frau_ex_1_st_1;Please don't hurt her. I beg you!
+spokentexts_a20_rabennest_character_frau_ex_1_st_2_direction;strict commanding
+spokentexts_a20_rabennest_character_frau_ex_1_st_2;The handcuffs. Now!
+sequences_a20_rabennest_character_frau_used_mit_handschellen_1#1;[The Arab slowly takes on the handcuffs, but he looks at the butler as long as he can. Then he turns to the woman.]
+spokentexts_a20_rabennest_character_frau_used_mit_handschellen_1_st_1;I'm sorry.
+sequences_a20_rabennest_character_frau_used_mit_handschellen_1#3;[The Arab grabs her with his free hand under her arm. She gets up, turns to him. Together they walk towards the chair.]
+spokentexts_a20_rabennest_character_frau_used_mit_handschellen_1_st_2_direction;Sobbing, whimpering
+spokentexts_a20_rabennest_character_frau_used_mit_handschellen_1_st_2;*sobs*
+sequences_a20_rabennest_character_frau_used_mit_handschellen_1#5;[Closeup cut behind the chair.]
+sequences_a20_rabennest_character_frau_used_mit_handschellen_1#6;[The woman sits down, lets her hands fall. The Arab puts her the handcuffs on.]
+sequences_a20_rabennest_character_frau_used_mit_handschellen_1#7;[He bends down, to secure the other clamp at the chair. Here, their heads comes very closely.]
+spokentexts_a20_rabennest_character_frau_used_mit_handschellen_1_st_3_direction;whisper
+spokentexts_a20_rabennest_character_frau_used_mit_handschellen_1_st_3;I love you.
+sequences_a20_rabennest_character_frau_used_mit_handschellen_1#9;[The second clamp closes, the Arab gets up.]
+sequences_a20_rabennest_character_frau_used_mit_handschellen_1#10;[Cut back.]
+sequences_a20_rabennest_character_frau_used_mit_handschellen_1#11;[The Arab stands up normally, the young woman is sitting from now on to the chair, bound.]
+spokentexts_a20_rabennest_character_frau_used_mit_handschellen_1_st_4_direction;open end
+spokentexts_a20_rabennest_character_frau_used_mit_handschellen_1_st_4;Look at her. Remember this scene. If you try to screw me, then...
+texts_a20_rabennest_dachpappe_mo_ex_1;Examine the coil
+texts_a20_rabennest_dachpappe_mo_ex_2;Examine the tar paper
+texts_a20_rabennest_dachpappe_mo_used_mit_gluehbirne;Use the bulb with the tar paper
+spokentexts_a20_rabennest_dachpappe_ex_1_st_1;That's tar paper, I think.
+spokentexts_a20_rabennest_dachpappe_ex_1_st_2;Maybe it's for covering all those holes in the roof.
+spokentexts_a20_rabennest_dachpappe_ex_2_st_1;A big, heavy roll of rough tarpaper. Probably put there decades ago and then forgotten.
+spokentexts_a20_rabennest_dachpappe_used_mit_a20_keller_gluehbirne_st_1_direction;thoughtfully
+spokentexts_a20_rabennest_dachpappe_used_mit_a20_keller_gluehbirne_st_1;Hmm. Maybe I can...
+sequences_a20_rabennest_dachpappe_used_mit_a20_keller_gluehbirne#2;[The Arab gets out the light bulb, considers the rusted contact at the top and then pulls it back and forth over the roof..]
+sequences_a20_rabennest_dachpappe_used_mit_a20_keller_gluehbirne#3;[He then looks back down at the contact.]
+spokentexts_a20_rabennest_dachpappe_used_mit_a20_keller_gluehbirne_st_2;Yes! I can use it to rub the rust off!
+sequences_a20_rabennest_dachpappe_used_mit_a20_keller_gluehbirne#5;[The Arab pulls the bulb a few more times on the tar paper back and forth, he looks briefly on the contact and puts the bulb back on.]
+spokentexts_a20_rabennest_dachpappe_used_mit_a20_keller_gluehbirne_st_3;That should do it.
+texts_a20_rabennest_funkausruestung_mo_ex_1__2;Examine the equipment
+spokentexts_a20_rabennest_funkausruestung_ex_1_st_1;"Old technical equipment... Inch said something about an ""underground"" that operated here in the museum during the war."
+spokentexts_a20_rabennest_funkausruestung_ex_2_st_1;Could have been a radio installation. Would have been the perfect place for it, so high above the city.
+texts_a20_rabennest_gluehbirne_kabel_mo_inventar_1;Lamp
+texts_a20_rabennest_gluehbirne_kabel_mo_inventar_2;Lamp with exposed wires
+texts_a20_rabennest_gluehbirne_kabel_mo_used_mit_messer_1;Remove the insulation
+sequences_a20_rabennest_gluehbirne_kabel_ex_1#1;[The Arab lifts the lamp, which he has in his hand, and considers it.]
+spokentexts_a20_rabennest_gluehbirne_kabel_ex_1_st_1;A bulb, a light socket and a piece of insulated cable.
+spokentexts_a20_rabennest_gluehbirne_kabel_ex_1_st_2;They're different than what I'm used to. These things were made in the thirties.
+sequences_a20_rabennest_gluehbirne_kabel_ex_1#4;[The Arab let the lamp down again.]
+spokentexts_a20_rabennest_gluehbirne_kabel_ex_2_st_1;I removed the insulation and exposed the individual wires. Looks promising!
+sequences_a20_rabennest_gluehbirne_kabel_used_mit_a20_rabennest_messer#1;[The Arab gets his knife out of his pocket and looks at the lamp, which he has in his hand.]
+spokentexts_a20_rabennest_gluehbirne_kabel_used_mit_a20_rabennest_messer_st_1;I should be able to remove the insulation with this knife...
+sequences_a20_rabennest_gluehbirne_kabel_used_mit_a20_rabennest_messer#3;[The Arab cuts with the knife a little bit of isolation of the wire, so that at the end two bare wire ends remain.]
+texts_a20_rabennest_handschellen_mo_benuzen_1;Use the handcuffs with...
+spokentexts_a20_rabennest_handschellen_ex_1_st_1;I'm sorry, Patricia...
+texts_a20_rabennest_lampe_mo_benutz_mit_messer;Cut the cable
+texts_a20_rabennest_lampe_mo_ex_1__2a__2b__3;Examine the lamp
+texts_a20_rabennest_lampe_mo_take_1;Screw the bulb out of the fixture
+spokentexts_a20_rabennest_lampe_ex_1_st_1;The electrical cables don't seem like they were meant to be permanent. Probably they secretly tapped the museum's electricity.
+spokentexts_a20_rabennest_lampe_ex_2a_st_1;Maybe the bulb still works. But it's bright enough in here already.
+spokentexts_a20_rabennest_lampe_ex_2b_st_1;There's enough light shining through the holes in the roof. I don't need to turn the lamp on.
+spokentexts_a20_rabennest_lampe_ex_3_st_1;I don't need artificial light up here, but it'd come in handy in the basement!
+spokentexts_a20_rabennest_lampe_take_1_st_1;It doesn't make sense to just take the bulb. I didn't even see a socket  in the basement.
+spokentexts_a20_rabennest_lampe_used_mit_a20_rabennest_messer_st_1;Could be useful at some point!
+sequences_a20_rabennest_lampe_used_mit_a20_rabennest_messer#4;[The Arab pulls out his knife and cuts the cable about 20cm away from the socket.]
+sequences_a20_rabennest_lampe_used_mit_a20_rabennest_messer#5;[Then he puts away his knife.]
+sequences_a20_rabennest_lampe_used_mit_a20_rabennest_messer#6;[The Arab has from now on the lamb in his hand.]
+texts_a20_rabennest_tasche_mo_ex_1;Examine the bag
+spokentexts_a20_rabennest_tasche_ex_1_st_1;What's in the bag?
+spokentexts_a20_rabennest_tasche_ex_1_st_2;We'll get to that.
+spokentexts_a20_rabennest_tasche_ex_1_st_3;The handcuffs. NOW.
+sequences_a20_rabennest_tasche_ex_1#4;[The butler raises threatening his gun.]
+sequences_a20_rabennest_seq_a20_rabennest_betreten_erstmalig#0;[The Arab is coming through the secret door from the roof into the Raven's Nest. He looks around.]
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_erstmalig_st_1;I'm in the museum. Well, sort of.
+sequences_a20_rabennest_seq_a20_rabennest_betreten_erstmalig#2;[The player takes control.]
+sequences_a20_rabennest_seq_a20_rabennest_betreten_gruppe#0;[The woman comes up the stairs stumbled. She stumbles a bit, drops the bag..]
+sequences_a20_rabennest_seq_a20_rabennest_betreten_gruppe#1;[The Arab is behind her, wants to help her, but there already appears the butler in the hatch and aims his gun at the two.]
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_1_direction;We let this be!
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_1;Eh eh eh!
+sequences_a20_rabennest_seq_a20_rabennest_betreten_gruppe#3;[The Butler is waving the Arab with the gun aside, he wants him to go a little further away from the woman. The Arab has no choice. He raises calm his hands and goes back a little.]
+sequences_a20_rabennest_seq_a20_rabennest_betreten_gruppe#4;[The woman turns frightened to the Butler, remains like this (idle). The Arab remains there with slightly raised hands(idle).]
+sequences_a20_rabennest_seq_a20_rabennest_betreten_gruppe#5;[The butler comes out of the hole, he threatens the Arab with the gun.]
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_2_direction;slightly out of breath
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_2;And now?
+sequences_a20_rabennest_seq_a20_rabennest_betreten_gruppe#7;[The Butler grabs into his pocket, pulls out some handcuffs. He throws them before the  Arab on the floor.]
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_3;Cuff her to the chair.
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_4_direction;panic
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_4;No!
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_5_direction;anxious
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_5;Patricia!
+sequences_a20_rabennest_seq_a20_rabennest_betreten_gruppe#11;[The woman to pass the Butler to the hatch. But he stops her. They collide.]
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_6_direction;Screams in panic and despair
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_6;Ahh! Ahh! NO!
+sequences_a20_rabennest_seq_a20_rabennest_betreten_gruppe#13;[The butler takes two seconds before he has the situation under control. He finds a safe stand and pushes it back powerfully into the room.]
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_7;ENOUGH!
+sequences_a20_rabennest_seq_a20_rabennest_betreten_gruppe#15;[The woman begins to cry, hids the face behind her hands. The Arab wants to help her, but the Butler is pointing his gun at him. The Arab gives up, stands there again with raised hands.]
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_8;You have one and only one chance of getting out of this alive.
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_9_direction;emphasizes each word
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_9;Do - what - I - tell - you - to - do.
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_10;Tie her to the chair.
+sequences_a20_rabennest_seq_a20_rabennest_betreten_keller#0;[The Arab is coming up the last steps, stands up to normal.]
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_keller_st_1_direction;slight breath, he comes up stairs
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_keller_st_1;Phew!
+sequences_a20_rabennest_seq_a20_rabennest_betreten_keller#2;[The player takes control.]
+texts_a20_schatzkammer_ausgang_eingangsbereich_mo_ex_1;Examine the exit
+spokentexts_a20_schatzkammer_ausgang_eingangsbereich_ex_1_st_1_direction;tense
+spokentexts_a20_schatzkammer_ausgang_eingangsbereich_ex_1_st_1;Someone could come back any moment and then I'll have another problem.
+spokentexts_a20_schatzkammer_ausgang_eingangsbereich_ex_1_st_2_direction;tense
+spokentexts_a20_schatzkammer_ausgang_eingangsbereich_ex_1_st_2;I need to hurry!
+texts_a20_schatzkammer_kamera_mo_ex_1_2;Examine the camera
+texts_a20_schatzkammer_kamera_mo_used_mit_stoffbeutel_1;Cover the lens
+spokentexts_a20_schatzkammer_kamera_ex_1a_st_1;The camera covers the whole room and I don't have a mask!
+spokentexts_a20_schatzkammer_kamera_ex_1b_st_1;I have to deactivate it, but how?
+spokentexts_a20_schatzkammer_kamera_ex_2_st_1;The camera is no longer a threat.
+sequences_a20_schatzkammer_kamera_used_mit_stoffbeutel#1;[The Arab is sneaking to the camera, pulls out the bag and keeps it just below the lens.]
+spokentexts_a20_schatzkammer_kamera_used_mit_stoffbeutel_st_1;Just have to hope that Inch knocked out the guard in the guardroom. If not, he'll be on his way to check the camera soon.
+spokentexts_a20_schatzkammer_kamera_used_mit_stoffbeutel_st_2;Here goes nothing.
+sequences_a20_schatzkammer_kamera_used_mit_stoffbeutel#4;[The Arab puts the cloth bag over the camera, he hid so the entire lens.]
+texts_a20_schatzkammer_seil_mo_use_1a__1b__2;Climb down into the treasure chamber
+texts_a20_schatzkammer_seil_mo_use_3;Leave the treasure chamber
+spokentexts_a20_schatzkammer_seil_ex_1_st_1;A good rope. Got me down safely and it'll get me out of here when I'm done.
+spokentexts_a20_schatzkammer_seil_use_1a_st_1;If I go down there now, my face will be on the cover of every newspaper in the country!
+spokentexts_a20_schatzkammer_seil_use_1b_st_1;No, first I have to deactivate the camera!
+sequences_a20_schatzkammer_seil_use_2#1;[The Arab checks if all is okay, takes the rope in his hand.]
+spokentexts_a20_schatzkammer_seil_use_2_st_1;Now or never.
+sequences_a20_schatzkammer_seil_use_2#3;[The Arab let drop the rope into the treasure room and climbs into it.]
+spokentexts_a20_schatzkammer_seil_use_3_st_1;When I'm so close my goal? Never.
+texts_a20_schatzkammer_staender_mo_ex_1;Examine the cordon
+texts_a20_schatzkammer_staender_mo_use_1;Use the metal stand with...
+spokentexts_a20_schatzkammer_staender_ex_1_st_1;This cordon doesn't apply to burglars.
+sequences_a20_schatzkammer_staender_use_1#1;[After clicking the stand is attached to the cursor and can be used with other things in the location.]
+texts_a20_schatzkammer_vitrine_mo_ex_1a__1b__2;Examine the display case with the Eye of the Sphinx
+texts_a20_schatzkammer_vitrine_mo_ex_3;Examine the glass pane with the chewing gum
+texts_a20_schatzkammer_vitrine_mo_ex_4;Examine the diamond with the chewing gum
+texts_a20_schatzkammer_vitrine_mo_used_mit_diamant_1a__1b;Cut a hole in the bullet-proof glass
+texts_a20_schatzkammer_vitrine_mo_used_mit_diamant_2;Press the diamond into the chewing gum
+texts_a20_schatzkammer_vitrine_mo_used_mit_kaugummi;Stick the chewing gum on the glass
+texts_a20_schatzkammer_vitrine_mo_used_mit_staender_1;Smash the bullet-proof glass
+texts_a20_schatzkammer_vitrine_mo_used_mit_staender_2;Hit the diamond
+spokentexts_a20_schatzkammer_vitrine_ex_1_st_1;As a visitor, I'd only have eyes for the jewel. As a burglar, though, I'm more interested in the bulletproof glass.
+spokentexts_a20_schatzkammer_vitrine_ex_1_st_2;About half an inch thick... There's no glasscutter that could do the job.
+spokentexts_a20_schatzkammer_vitrine_ex_2_st_1;All right then. Bulletproof glass. How can I get past it?
+spokentexts_a20_schatzkammer_vitrine_ex_3_st_1;Even if I can't break into it, at least I managed to deface it.
+spokentexts_a20_schatzkammer_vitrine_ex_4_st_1;The chewing gum holds the tip of the diamond right on the bulletproof glass... That's promising!
+spokentexts_a20_schatzkammer_vitrine_used_mit_diamant_1a_st_1;Of course, diamonds cut glass and even bulletproof glass is softer than a diamond.
+spokentexts_a20_schatzkammer_vitrine_used_mit_diamant_1a_st_2;But the diamond is tiny! I can barely hold it and I need to do more than just scratch the glass!
+spokentexts_a20_schatzkammer_vitrine_used_mit_diamant_1b_st_1;I can't cut the pane with the diamond.
+spokentexts_a20_schatzkammer_vitrine_used_mit_diamant_1b_st_2;It'd take forever to make a cut deep enough.
+sequences_a20_schatzkammer_vitrine_used_mit_diamant_2#1;[The Arab presses the diamond in the chewing gum composition on the glass.]
+spokentexts_a20_schatzkammer_vitrine_used_mit_diamant_2_st_1;I'll press the diamond into the chewing gum... with the tip towards the window.
+sequences_a20_schatzkammer_vitrine_used_mit_kaugummi#1;[The Arab grabs in his mouth and pulls out the gum. Then he stuck it in the middle of the glass.]
+spokentexts_a20_schatzkammer_vitrine_used_mit_staender_1_st_1;Not a chance!
+spokentexts_a20_schatzkammer_vitrine_used_mit_staender_1_st_2;I could bang on the glass all day with blunt objects without even scratching it.
+sequences_a20_schatzkammer_vitrine_used_mit_staender_2#1;"[The Arab goes to the stand and opens the cordons. Then he raise up the heavy stand and oes into ""Attackspose"" before the cabinet.]"
+spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_1_direction;makes himself courage
+spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_1;Everything will be fine, everything will be fine...
+sequences_a20_schatzkammer_vitrine_used_mit_staender_2#3;[With all his force he rammed the stand exactly on the diamond on the window.]
+sequences_a20_schatzkammer_vitrine_used_mit_staender_2#4;[The glass gets more cracks. But the Arab can not enjoy his success. Alarm sounds.]
+sequences_a20_schatzkammer_vitrine_used_mit_staender_2#5;[The Arab turns to the entrance where the door closes. Then he looks up.]
+spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_2_direction;scared
+spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_2;No! NO!
+sequences_a20_schatzkammer_vitrine_used_mit_staender_2#7;[The Arab is running to the rope. It falls toward him. He catches it absently, looks scared up.]
+spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_3_direction;irritated
+spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_3;He wants to lock me in!
+spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_4_direction;suddenly awake and alert
+spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_4;But why? He doesn't have the jewel yet! What does he...
+sequences_a20_schatzkammer_vitrine_used_mit_staender_2#10;[The Arab looks to the ground.]
+spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_5;Oh, no.
+sequences_a20_schatzkammer_vitrine_used_mit_staender_2#12;[Cut to outside. We see the scene how Ohi runs towards the gate and there is an explosion. The gate closes and the screen goes black.]
+sequences_a20_schatzkammer_vitrine_used_mit_staender_2#13;[Next in the ruined treasure room in the tomb.]
+sequences_a20_schatzkammer_seq_a20_schatzkammer_betreten#0;[The Arab let himself gently down on the walk area and unties itself. Below the director shows Ohi the treasure room.]
+spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_1;Such an attempt would fail here - the display case is bolted to the floor and weighs several hundred kilograms.
+sequences_a20_schatzkammer_seq_a20_schatzkammer_betreten#2;[The Arab hid the rope a little and looks in the shadow the situation. Suddenly Ohi turns around and points to the camera in the vicinity of the Arab. The Arab lets himself fall flat on his stomach and does not hope to be seen.]
+spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_2;What's that? A camera?
+spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_3_direction;proud
+spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_3;The latest model! It's called video surveillance.
+spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_4;I've heard about that! The images are recorded and can be viewed again later.
+spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_5;That's right. Images from all three cameras are recorded in the guardroom.
+spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_6_direction;whistles appreciatively, 'not bad'
+spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_6;Wow!
+spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_7;As I've said, we've spared no effort and no expense.
+spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_8;I think I've seen enough here. But I'm interested in something else.
+sequences_a20_schatzkammer_seq_a20_schatzkammer_betreten#10;[Ohi and the director are leaving the treasure room. The Arab breathes and then stands up again.]
+spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_9_direction;exhalation of relief
+spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_9;Whew...
+sequences_a20_schatzkammer_seq_a20_schatzkammer_betreten#12;[The player takes control.]
+texts_a20_schatzkammer_loch_mo_ex_1__2;Examine the hole
+texts_a20_schatzkammer_loch_mo_use_1;Climb into the hole
+spokentexts_a20_schatzkammer_loch_ex_1_st_1_direction;whisper
+spokentexts_a20_schatzkammer_loch_ex_1_st_1;This is the opposite of a clever burglary.
+spokentexts_a20_schatzkammer_loch_ex_1_st_2_direction;whisper
+spokentexts_a20_schatzkammer_loch_ex_1_st_2;Inch must have decided to do it the violent way as soon as he realized he couldn't count on me.
+spokentexts_a20_schatzkammer_loch_ex_1_st_3_direction;whisper
+spokentexts_a20_schatzkammer_loch_ex_1_st_3;I would have died in the explosion and been the scapegoat...
+spokentexts_a20_schatzkammer_loch_ex_2_st_1_direction;whisper
+spokentexts_a20_schatzkammer_loch_ex_2_st_1;I have to get back to the attic as fast as I can. Inch is there alone with Alex!
+sequences_a20_schatzkammer_loch_use_1#1;[The Arab goes to the hole, is just about to let himself down. Then his eyes fall on the guard's gun. He thinks for a moment, then he takes the gun to him.]
+sequences_a20_schatzkammer_loch_use_1#2;[He begins to get down into the hole.]
+sequences_a20_schatzkammer_loch_use_1#3;[*** END OF SECTION ***]
+sequences_a20_schatzkammer_loch_use_1#4;[*** END OF SECTION ***]
+sequences_a20_schatzkammer_loch_use_1#5;[*** END OF SECTION ***]
+texts_a20_schatzkammer_sarkophag_mo_ex_1;Examine the sarcophagus
+texts_a20_schatzkammer_sarkophag_mo_use_1;Open the cover
+spokentexts_a20_schatzkammer_sarkophag_ex_1_st_1_direction;whisper
+spokentexts_a20_schatzkammer_sarkophag_ex_1_st_1;The sarcophagus protected me from flying debris. The ancient Egyptians knew their stuff!
+sequences_a20_schatzkammer_sarkophag_use_1#1;[The Arab starts to push the door of the tomb.]
+sequences_a20_schatzkammer_sarkophag_use_1#2;[Cut to the destroyed treasure room.]
+sequences_a20_schatzkammer_sarkophag_use_1#3;[The door of the tomb is opened further, the Arab comes out. The door remains open.]
+sequences_a20_schatzkammer_sarkophag_use_1#4;[The Arab is unsteady on his feet. But he discovers the guard and acts carefully. He stands behind a pillar, etc.]
+texts_a20_schatzkammer_truemmer_mo_ex_1;Examine the destruction
+spokentexts_a20_schatzkammer_truemmer_ex_1_st_1_direction;stunned
+spokentexts_a20_schatzkammer_truemmer_ex_1_st_1;Everything's destroyed... Priceless works of art, centuries old!
+spokentexts_a20_schatzkammer_truemmer_ex_1_st_2;Nothing is sacred to Inch.
+texts_a20_schatzkammer_zerstoert_charakter_wachmann_mo_ex_1__2__3;Look at Constable Oliver
+texts_a20_schatzkammer_zerstoert_charakter_wachmann_mo_used_mit_stein;Knock out Constable Oliver
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_1_st_1_direction;whisper
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_1_st_1;Constable Oliver...
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_1_st_2_direction;whisper
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_1_st_2;He's totally focused on the hole in the floor.
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_2_st_1_direction;whisper
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_2_st_1;As long as I'm quiet, he won't notice me.
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_3_st_1_direction;whisper
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_3_st_1;He's unconscious. He'll wake up with a headache in a few minutes.
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_3_st_2_direction;whisper
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_3_st_2;There was no other way.
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein_st_1_direction;very dim, out of the hole
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein_st_1;He's up there, Robert. I know it.
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein_st_2;Maybe. Go to the guardroom and open the gates!
+sequences_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein#3;[The Arab before sneaking, picks up the stone.]
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein_st_3;Tell the director.
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein_st_4;Zellner! Don't do it! It's too dangerous!
+sequences_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein#6;[The Arab stands behind the guard, raises the hand.]
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein_st_5;I've got everything under control.
+sequences_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein#8;[The Arab strikes, the guard falls.]
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein_st_6_direction;whisper
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein_st_6;Sorry, Constable.
+texts_a20_schatzkammer_zerstoert_stein_mo_use;Use the stone with...
+spokentexts_a20_schatzkammer_zerstoert_stein_ex_1_st_1_direction;whisper
+spokentexts_a20_schatzkammer_zerstoert_stein_ex_1_st_1;Inch blew the place up without a second thought for the other exhibits.
+sequences_a20_schatzkammer_zerstoert_stein_use_1#1;[Once you have clicked on the stone, he sticks to the cursor and you can use it with other objects in the scene.]
+sequences_a20_schatzkammer_zerstoert_seq_a20_schatzkammer_zerstoert_aufwachen#0;[The camera is placed in the sarcophagus. Everything is black, maybe there are one or two small holes, through which light enters.]
+spokentexts_a20_schatzkammer_zerstoert_seq_a20_schatzkammer_zerstoert_aufwachen_st_1_direction;dazed pain
+spokentexts_a20_schatzkammer_zerstoert_seq_a20_schatzkammer_zerstoert_aufwachen_st_1;Ooahh.
+spokentexts_a20_schatzkammer_zerstoert_seq_a20_schatzkammer_zerstoert_aufwachen_st_2;My head hurts.
+spokentexts_a20_schatzkammer_zerstoert_seq_a20_schatzkammer_zerstoert_aufwachen_st_3_direction;dazed
+spokentexts_a20_schatzkammer_zerstoert_seq_a20_schatzkammer_zerstoert_aufwachen_st_3;Ahhff.
+sequences_a20_schatzkammer_zerstoert_seq_a20_schatzkammer_zerstoert_aufwachen#4;[The player takes control, but can only click on the lid of the sarcophagus.]
+texts_butler_top_a19_butler_auf_schliche_gekommen_tseq_title;How did he see through our plans?
+spokentexts_butler_top_a19_butler_auf_schliche_gekommen_tseq_st_1;How did you find out about our plan?
+spokentexts_butler_top_a19_butler_auf_schliche_gekommen_tseq_st_2;By chance, I must admit. I... hadn't anticipated it.
+spokentexts_butler_top_a19_butler_auf_schliche_gekommen_tseq_st_3;I didn't think that you'd build up my trust for months just to betray me.
+spokentexts_butler_top_a19_butler_auf_schliche_gekommen_tseq_st_4;You have to be patient if you want to steal the Eyes of the Sphinx.
+spokentexts_butler_top_a19_butler_auf_schliche_gekommen_tseq_st_5;A virtue youth normally lacks. It's a pity we have to go our separate ways after this little incident.
+spokentexts_butler_top_a19_butler_auf_schliche_gekommen_tseq_st_6_direction;Emphasis on 'I'
+spokentexts_butler_top_a19_butler_auf_schliche_gekommen_tseq_st_6;I can hardly wait.
+texts_butler_top_a19_butler_fluchtweg_tseq_title;Escape route
+spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_1;And once I have the jewel? What next? By the time I get back to the roof, the museum will be surrounded by policemen.
+spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_2;Correct. Escaping from the museum is impossible.
+spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_3_direction;sudden realization
+spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_3;That means... I stay inside the museum!
+spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_4;There's a bag in the basement with food and water for you and your girlfriend. I'm sure you'll find a way to pass the time for a couple of days.
+spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_5;The police will search the whole city for the Eye-but not the museum.
+spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_6;And once the museum is open to visitors again, Patricia and I will walk out through the secret door in the main hall to our freedom.
+spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_7;I'll be watching you every step of the way. You'll deliver the jewel and then we'll never see each other again.
+texts_butler_top_a19_butler_frau_gehen_lassen_tseq_title;Let Patricia go
+spokentexts_butler_top_a19_butler_frau_gehen_lassen_tseq_st_1;Please let Patricia go. You've got me.
+spokentexts_butler_top_a19_butler_frau_gehen_lassen_tseq_st_2;A fascinating young lady. Clever, skillful, beautiful... What's she doing with a chap like you?
+spokentexts_butler_top_a19_butler_frau_gehen_lassen_tseq_st_3;Are you sure you're not just a pawn in her game?
+spokentexts_butler_top_a19_butler_frau_gehen_lassen_tseq_st_4;Let her go.
+spokentexts_butler_top_a19_butler_frau_gehen_lassen_tseq_st_5;As soon as you bring me the second Eye.
+texts_butler_top_a19_butler_laufen_lassen_tseq_title;Will he let us go?
+spokentexts_butler_top_a19_butler_laufen_lassen_tseq_st_1;If we do everything you ask... will you let us go?
+spokentexts_butler_top_a19_butler_laufen_lassen_tseq_st_2;I'm a poor loser but a generous winner.
+texts_butler_top_a19_butler_verabschieden_tseq_title;Okay
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_1;The plan might work, I must admit.
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_2;The plan will work. You'll see to that or she'll suffer the consequences.
+sequences_butler_top_a19_butler_verabschieden_tseq#2;[The Butler indicated with the gun at the bag, then on the door.]
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_3;Let's go. The clock is ticking. I have to take care of the guards and the alarm system.
+sequences_butler_top_a19_butler_verabschieden_tseq#4;[The Arab looks at his girlfriend, then he takes the bag, throws the bag over his shoulder and heads for the door. He turns again to her.]
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_4;It will all work out in the end.
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_5;I know.
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_6;Take care of yourself!
+sequences_butler_top_a19_butler_verabschieden_tseq#8;[The woman smiles bravely. The Arab leaves the room. The butler goes to the door.]
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_7;If you should open this door without the Eye of the Sphinx in your bag, I'll shoot first and then ask what went wrong.
+sequences_butler_top_a19_butler_verabschieden_tseq#10;[The butler locks the door without waiting for an answer.]
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_8;You're not planning on letting us go, are you?
+sequences_butler_top_a19_butler_verabschieden_tseq#12;[The butler turns to the woman.]
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_9;I need a scapegoat. Otherwise, the traitor would already be dead.
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_10;He doesn't understand because he doesn't think like you.
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_11_direction;cold
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_11;You messed with the wrong man and now you have to suffer the consequences.
+sequences_butler_top_a19_butler_verabschieden_tseq#16;[The butler goes to the stairs. The woman pulls her handcuffs, remains behind.]
+sequences_butler_top_a19_butler_verabschieden_tseq#17;[Fade out, continue on the roof.]
+texts_butler_top_a19_butler_vitrine_knacken_tseq_title;Break into the display case
+spokentexts_butler_top_a19_butler_vitrine_knacken_tseq_st_1;How am I supposed to break into the display case? It's protected by bulletproof glass.
+sequences_butler_top_a19_butler_vitrine_knacken_tseq#1;[The Butler points to the bag.]
+spokentexts_butler_top_a19_butler_vitrine_knacken_tseq_st_2;You'll find everything you need in the bag. A clever fellow like you will know what to do with it.
+texts_butler_top_a19_butler_wie_geht_es_weiter_tseq_title;What's the plan?
+spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_1_direction;gloomy
+spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_1;What's the next step? What's the plan?
+spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_2;Everything you need is in the bag.
+spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_3;The Eye will be delivered at any moment. You abseil from the roof into the treasure chamber.
+spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_4;And the display case's alarm system?
+spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_5;The alarm will go off. But I'll ensure that the only effect will be that the security barricades in the treasure chamber close.
+spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_6_direction;suspicious
+spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_6;How will you manage that?
+spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_7;Let me worry about that, just like the guards.
+spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_8;You'll have several minutes to break into the display case and climb back to the roof.

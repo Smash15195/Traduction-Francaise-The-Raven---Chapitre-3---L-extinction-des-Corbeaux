@@ -1,0 +1,298 @@
+characters_araber;Araber
+characters_arzt;Arzt
+characters_butler;Butler
+characters_ohi;Ohi
+texts_a18_nebendeck_ausgang_hinterdeck_mo_leave_1;Go to the rear deck
+sequences_a18_nebendeck_ausgang_hinterdeck_leave_1#1;[The Arab looks in direction of the front deck, then towards rear deck. Finally he decides to go towards rear deck.]
+sequences_a18_nebendeck_ausgang_hinterdeck_leave_1#2;"[The following is the sequence ""attack on Arab"".]"
+texts_a18_nebendeck_ausgang_oberdeck_mo_leave_1;Search the upper deck
+sequences_a18_nebendeck_ausgang_oberdeck_leave_1#1;[The Arab goes some tentative steps towards the stairs.]
+sequences_a18_nebendeck_ausgang_oberdeck_leave_1#2;"[Sequence ""Angriff_auf_Araber"" is played.]"
+texts_a18_nebendeck_ausgang_treppensaal_mo_leave_1;Go back
+spokentexts_a18_nebendeck_ausgang_treppensaal_leave_1_st_1;No. He must be around here somewhere!
+texts_a18_nebendeck_ausgang_vorderdeck_mo_leave_1;Go to the forecastle
+sequences_a18_nebendeck_ausgang_vorderdeck_leave_1#1;[The Arab looks in direction of the front deck, then towards rear deck. Finally he decides to go towards front deck.]
+sequences_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber#0;[The doctor had been hiding behind the left door. He runs towards the surprised Arab.]
+sequences_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber#1;[The two clash, and the doctor manages to push the Arab half over the railing.]
+spokentexts_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber_st_1_direction;hard fighting
+spokentexts_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber_st_1;No!
+spokentexts_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber_st_2_direction;hard fighting
+spokentexts_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber_st_2;Why... can't you just... leave me alone?!
+sequences_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber#4;[The doctor grabs the Arab higher and finally pushes him over the railing. The Arab can grab the end of the gangway to and to holds itself  on it. ]
+spokentexts_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber_st_3_direction;panting, exhausted
+spokentexts_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber_st_3;H-hhh!
+sequences_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber#6;[The doctor staggers towards them front deck, while the Arab painfully pulls himself on the gangway, then climbs over the railing and the resumes the persuit.]
+spokentexts_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber_st_4_direction;breathe heavily, then heave up
+spokentexts_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber_st_4;Fff-fff. Arg!
+sequences_a18_nebendeck_seq_a18_nebendeck_jagd_ankunft#0;[The Arab comes into the scene, becomes slow, and stand searching for something. He stays in his hunting-Pose breathing heavily (idle).]
+spokentexts_a18_nebendeck_seq_a18_nebendeck_jagd_ankunft_st_1;Where are you?
+sequences_a18_nebendeck_seq_a18_nebendeck_jagd_ankunft#2;[The player once again takes control.]
+texts_a18_treppensaal_ausgang_nebendeck_mo_leave_1;Go to the side deck
+sequences_a18_treppensaal_ausgang_nebendeck_leave_1#1;[The Arab is not running immediatley. He walks cautiously but nevertheless fast past the saloon (so nobody will notice him from inside). Once he's past the saloon, he runs off and turns into the side deck.]
+texts_a18_treppensaal_treppe_mo_leave_1;Go back
+spokentexts_a18_treppensaal_treppe_leave_1_st_1_direction;on the hunt
+spokentexts_a18_treppensaal_treppe_leave_1_st_1;No. I won't let the good doctor get away!
+texts_a18_treppensaal_tuer_salon_mo_leave_1;Enter the saloon
+spokentexts_a18_treppensaal_tuer_salon_leave_1_st_1_direction;on the hunt
+spokentexts_a18_treppensaal_tuer_salon_leave_1_st_1;I can see Legrand in the saloon. I don't think Gebhardt would have gone there.
+sequences_a18_treppensaal_seq_a18_treppensaal_jagd_ankunft#1;[The Arab runs up stairs, stops there and remain still, breathing heavily in hunting pose (idle).]
+sequences_a18_treppensaal_seq_a18_treppensaal_jagd_ankunft#2;[The player once again takes control.]
+texts_a18_unterdeck_kabine_ermittler_mo_leave_1;Get help
+spokentexts_a18_unterdeck_kabine_ermittler_leave_1_st_1_direction;on the hunt
+spokentexts_a18_unterdeck_kabine_ermittler_leave_1_st_1;No. It'd take too long to explain the situation! I have to take care of it on my own.
+sequences_a18_unterdeck_kabine_ermittler_leave_1#2;[The Arab glances toward the door, but then quickly focuses on the stairs.]
+texts_a18_unterdeck_krankenstation_tuer_mo_leave_1;Help the Swiss detective
+spokentexts_a18_unterdeck_krankenstation_tuer_leave_1_st_1_direction;on the hunt
+spokentexts_a18_unterdeck_krankenstation_tuer_leave_1_st_1;Someone will find him!
+sequences_a18_unterdeck_krankenstation_tuer_leave_1#2;[The Arab throws back a quick look, but then quickly focuses on the stairs.]
+texts_a18_unterdeck_treppe_mo_leave_1;Chase Dr. Gebhardt
+sequences_a18_unterdeck_treppe_leave_1#1;[The Arab starts to go, jump up the stairs.]
+sequences_a18_unterdeck_seq_a18_unterdeck_beginn_der_jagd#0;[It can be seen how the doctor is going up the stairs nearly collapsed. The Arab sees him and is almost out the door, but holds himself still on the frame and looks back into the office.]
+spokentexts_a18_unterdeck_seq_a18_unterdeck_beginn_der_jagd_st_1;I'll be right back!
+sequences_a18_unterdeck_seq_a18_unterdeck_beginn_der_jagd#2;[With two quick steps, he stands in the middle of the room.]
+sequences_a18_unterdeck_seq_a18_unterdeck_beginn_der_jagd#3;[The player takes control.]
+sequences_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen#0;[The doctor leans over Ohi, who is lying on the floor hallucinating. He wants him to give the lethal injection.]
+sequences_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen#1;[The Arab appears behind him . He pulls away the doctor from Ohi hits him with the ashtray. The doctor crashes against the opened door, lies in the entrance. The syringe with the injection gets broken.]
+spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_1;No!
+spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_2_direction;is hit, hurt
+spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_2;Argh!
+sequences_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen#4;[The Arab just checks if the doctor is off. He does not move. So the Arab kneels beside Ohi on the floor, takes his head in his hand to speak with him (idle).]
+spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_3;Hey-you all right?
+spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_4_direction;unintelligible murmur
+spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_4;Hmelm.
+spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_5;That bastard didn't inject the fatal dose! You'll be back on your feet soon enough!
+spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_6_direction;unintelligible murmur
+spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_6;Pluphuu?
+spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_7;Better take it easy while I...
+sequences_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen#10;[As he talks, he takes a look behind him at the door. The doctor is gone.]
+spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_8_direction;not with me!
+spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_8;Oh, no!
+sequences_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen#12;[The Arab puts Ohis head on the floor, goes up towards the door to chase the fleeing doctor.]
+sequences_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers#0;[The Arab holds out his hand to the doctor (idle).]
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_1_direction;placatory
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_1;All right now...
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_2_direction;anxious
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_2;No! It ends-here and now!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_3;Why do you want to kill yourself?
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_4_direction;a little louder, a little further away
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_4;Isn't it obvious?
+sequences_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers#5;[Cut to a long shot. The butler enters the scene.]
+sequences_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers#6;[The Arab whirls, then gets back to normal.]
+sequences_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers#7;[The Arab and the doctor are looking at the butler, who is slowly coming closer and closer, while he speaks.]
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_5;He can't bear his false, hollow life anymore.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_6_direction;anxious
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_6;Who are you? What do you want?
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_7;A man who understands etiquette and honor and yet is nothing but a coward himself.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_8;Who, because of wounded vanity, burdens himself with immense guilt. 
+sequences_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers#12;[The doctor's  holds up his hands as adefense, then turns to normal position again.]
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_9_direction;insecure, anxious
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_9;Don't come any closer!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_10_direction;gloomy, threatening
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_10;The baroness held a mirror up to you, didn't she, doctor? And you HATED what you saw there.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_11_direction;dark, sneaky
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_11;So you smashed the mirror. But the sins of the past are catching up with you now, aren't they?
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_12_direction;whimpering softly
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_12;No...
+sequences_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers#17;[The doctor seems to get dizzy, he has to hold on and he goes into crouch. (idle).]
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_13_direction;insistently, almost a whisper
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_13;A skull with empty eyes, full of fear.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_14_direction;determined
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_14;Stop it!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_15_direction;loudly insulted
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_15;Oh, dear! You really know how to dampen the mood!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_16_direction;offended, reproachfully
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_16;I almost had him!
+sequences_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers#22;[The doctor turns to the Arab.]
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_17_direction;business
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_17;And you? Aren't you supposed to follow orders? Are you not here to assist me?
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_18;I won't...
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_19_direction;loud, aggressive
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_19;That wasn't a question!
+sequences_a18_vorderdeck_seq_a18_vorderdeck_jagd_ankunft#0;[The doctor is standing on a box on the railing, his looking down. It looks as if he was about to jump.]
+sequences_a18_vorderdeck_seq_a18_vorderdeck_jagd_ankunft#1;"[The Arab comes into the scene, slows down, raises his arms soothingly and getting closer only slowly. The doctor noticed him, makes a ""Stay back!"" A gesture.]"
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_jagd_ankunft_st_1_direction;desperately anxious
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_jagd_ankunft_st_1;Stay there!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_jagd_ankunft_st_2_direction;placatory
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_jagd_ankunft_st_2;Relax.
+sequences_a18_vorderdeck_seq_a18_vorderdeck_jagd_ankunft#4;[The doctor puts himself in the speech position (idle), the Arab too.]
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_jagd_ankunft_st_3_direction;desperate, whiny
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_jagd_ankunft_st_3;Why can't you just leave me alone?! It's always the same old story!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_1;I have to do the dirty work for you in the museum. So you won't be shooting me-OR HIM!
+sequences_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt#3;[The Butler sticks the weapon stronger under the jaw of the Arab, he must hold himself not to shoot him. Finally he relaxes and puts the weapon away.]
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_4_direction;friendly, relaxed
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_4;Very well. You win.
+sequences_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt#5;[The doctor, who has watched the situation, relaxes. Suddenly comes the butler around and pushes him into the water. Screaming the doctor disappears into the depths.]
+sequences_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt#6;[The Arab runs to the railing, he's  looking down. Then he wants to crash the butler, but before he gets up he gets a punch in the face. The butler grabs him by the neck, while the Arab holding his aching face.]
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_5_direction;gets a puch by surprise
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_5;What... OOF!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_6;Never speak to me like that again, do you understand?
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_7;I need you to steal the Eye. But one day I could be overwhelmed by a feeling of hatred that will make me forget the Eye!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_8;And there are worse things I could do than simply shoot you.
+sequences_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt#11;[The butler let go the Arab, stands up normal and smoothes his clothes. The Arab is still kneeling at the rail, looking at the Butler hostile.]
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_9;I suggest you go back to your cell. You need to be fit for Cairo.
+sequences_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt#13;[The butler leaves the scene and speaks...]
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_10;I still have a confession to write.
+sequences_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt#15;[Fade out.]
+sequences_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt#16;[End of section.]
+sequences_a18_vorderdeck_seq_a18_vorderdeck_pistole#0;[The Butler pulls out a gun, points it at the doctor.]
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_1_direction;anxious
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_1;No!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_2_direction;angry played
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_2;No, no!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_3_direction;angry played
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_3;What is it then? You wanted to jump anyway! Or you should, at least.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_4_direction;reproachful
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_4;Inch!
+sequences_a18_vorderdeck_seq_a18_vorderdeck_pistole#5;[Butler looks over to the Arab.]
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_5;I'm just lending a friendly hand. He's a coward. He needs a bit of motivation!
+sequences_a18_vorderdeck_seq_a18_vorderdeck_pistole#7;[Butler looks back again to the doctor.]
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_6;Come on, now! Chop chop! Jump!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_7_direction;anxious
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_7;You're the baroness' butler, aren't you?
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_8_direction;anxious
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_8;I... I didn't want to kill your mistress!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_9_direction;jovially
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_9;Oh, nonsense! Forgiven and forgotten.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_10;If you don't mind my asking...
+sequences_a18_vorderdeck_seq_a18_vorderdeck_pistole#13;[The Butler points with the gun and with two nods of his head , the doctor should jump now.]
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_11_direction;urgently
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_11;There must be another solution.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_12_direction;anxious
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_12;Why are you doing this?
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_13;Nothing personal. Well, that's not entirely true. You're a miserable excuse for a human being, aren't you?
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_14;But mainly you're a means to an end. Your death will get Inspector Legrand off our backs.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_15;The inspector? What do I have to do with him?
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_16;Your letter! The one in which you confess to being the Raven and to killing the baroness because she saw through your ruse.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_17;That's absurd!
+sequences_a18_vorderdeck_seq_a18_vorderdeck_pistole#21;[Butler looks over to the Arab.]
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_18;Indeed it is. But people will believe almost anything if it suits them.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_19;The press will love it! Bold Inspector Legrand saves the day again!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_20;Interviews, medals, urgent telegrams from the capital... Our dear friend won't be able to escape the limelight.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_21;And by the time the commotion has ended, I'll be long gone.
+sequences_a18_vorderdeck_seq_a18_vorderdeck_pistole#26;[Butler looks back again to the doctor.]
+texts_arzt_top_a18_arzt_alte_geschichten_tseq_title;Old stories
+spokentexts_arzt_top_a18_arzt_alte_geschichten_tseq_st_1;What old stories?
+spokentexts_arzt_top_a18_arzt_alte_geschichten_tseq_st_2;What old stories do you mean?
+spokentexts_arzt_top_a18_arzt_alte_geschichten_tseq_st_3_direction;desperate, whiny
+spokentexts_arzt_top_a18_arzt_alte_geschichten_tseq_st_3;I am a decent man! Why are you torturing me?
+spokentexts_arzt_top_a18_arzt_alte_geschichten_tseq_st_4_direction;whiny
+spokentexts_arzt_top_a18_arzt_alte_geschichten_tseq_st_4;I just... I... I loved her!
+spokentexts_arzt_top_a18_arzt_alte_geschichten_tseq_st_5_direction;reproachfully, decided
+spokentexts_arzt_top_a18_arzt_alte_geschichten_tseq_st_5;She betrayed me. It was her fault! I have blood on my hands because of HER!
+texts_arzt_top_a18_arzt_die_baronin_tseq_title;The baroness
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_1;"Is that why you killed her? Was the baroness part of your ""old stories""?"
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_2;Are you talking about the baroness?
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_3;Why did you kill the baroness?
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_4_direction;only angry, mild
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_4;She... She was her sister.
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_5_direction;begins to reminisce
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_5;I loved her! With all my heart.
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_7;They were Jewish, you know.
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_8_direction;Seeking recognition
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_8;But I didn't care about that. I hid them when it became dangerous for them. I looked after them. I brought them food.
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_9_direction;Recognition begging
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_9;I was a party member und still I hid her and her whole family!
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_10;You risked your life for a woman you loved. And thirty years later you murder her sister?
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_12_direction;to hisself, reveling in painful memories
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_12;I saw her swollen belly! I was so angry...
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_13_direction;comes back to itself, seeking understanding
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_13;He was one of them, you know?
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_14_direction;only seeking understanding, then evil
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_14;They just used me. I hid them, brought them food. And in return they laughed about me behind my back.
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_15_direction;depressed suspects terrible
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_15;What did you do?
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_16_direction;reveling in memories, repeating his words from the past
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_16;"""There are Jews hiding in the basement of the Waldhof. Armed Jews. We have to burn them out!"""
+sequences_arzt_top_a18_arzt_die_baronin_tseq#19;[The doctor touch his face with his hand.]
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_17_direction;serious statement
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_17;And that's what they did.
+texts_arzt_top_a18_arzt_mord_an_baronin_tseq_title;Murder of baroness
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_1;The dead baroness in the ship's hold proves the opposite.
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_2;And why did you become a murderer again after all these years?
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_3;I'd never met her. Back in East Prussia. She was the older sister. The smart sister!
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_4;She studied art history in New York. Tried to get her family out of East Prussia, but...
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_5_direction;gloomy, sad
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_5;I was able to prevent that.
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_6;You say you loved her and yet you wanted to deny her and her family a safe life?
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_7_direction;convinced
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_7;They were safe!
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_8_direction;convinced
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_8;I protected them! It was for their sake that I joined the party. I had contacts! I wrapped them in my protective embrace!
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_9;You didn't let her escape because you wanted to keep her close to you.
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_10_direction;regretful
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_10;She sent photos to her sister before the war. She must have recognized me yesterday in Venice. I certainly recognized her.
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_11;The baroness was searching through her photos, that's true.
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_12;She couldn't get me during the war. And after the war, I disappeared. Gave myself a new name, a new resume, a new life.
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_13_direction;gloomy, disparagingly
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_13;And then suddenly, there she was, about to ruin everything.
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_14;So she had to die.
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_15_direction;convinced reproachfully
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_15;I didn't want that! She gave me no choice!
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_16_direction;convinced reproachfully
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_16;Why did she have to stir up old ghosts?
+texts_arzt_top_a18_arzt_mord_an_familie_tseq_title;Murder of family
+spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_1;You had the whole family killed?
+spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_2;What do you expect? You had an entire family put to death.
+spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_3_direction;initially outraged and aggressive, then he realizes that this is all a lie
+spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_3;I am a gentleman! And I expect that others... That they don't...
+spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_4;She didn't love you and was expecting a child by another man. And that's why you betrayed her.
+spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_5_direction;desperate
+spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_5;It... it was her fault! She shouldn't have cheated on me!
+spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_6;I...
+spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_7_direction;desperately looking for absolution
+spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_7;I... I saved her. I risked my life for her every day! For four months!
+spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_8;And then you threw it all away and became a murderer.
+spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_9_direction;outraged, then he realizes that he is a murderer
+spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_9;I AM NOT... I am...
+texts_arzt_top_a18_arzt_von_kiste_steigen_tseq_title;Climb down from the box
+spokentexts_arzt_top_a18_arzt_von_kiste_steigen_tseq_st_1;Come down from there.
+spokentexts_arzt_top_a18_arzt_von_kiste_steigen_tseq_st_2_direction;irritable, aggressive
+spokentexts_arzt_top_a18_arzt_von_kiste_steigen_tseq_st_2;Why? So YOU can kill me?
+spokentexts_arzt_top_a18_arzt_von_kiste_steigen_tseq_st_3;I'm not going to kill anyone.
+spokentexts_arzt_top_a18_arzt_von_kiste_steigen_tseq_st_4_direction;aggressive
+spokentexts_arzt_top_a18_arzt_von_kiste_steigen_tseq_st_4;Or pack me off to an Egyptian prison? Or an Israeli prison? No!
+texts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_title;Let him live
+spokentexts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_st_1;You can't kill him!
+sequences_butler_top_a18_butler_alles_vorbei_antwort1_tseq#1;[The butler looks at the Arab.]
+spokentexts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_st_2;Why not? He's a bastard, his death will help us and he's a witness. If we let him go, we'll both go to jail.
+spokentexts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_st_3;All the same, we're not going to kill him.
+spokentexts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_st_4;YOU got us into this situation!
+spokentexts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_st_5;And as long as I'm alive, I won't let any one be killed in my presence!
+spokentexts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_st_6_direction;threatening
+spokentexts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_st_6;No?
+sequences_butler_top_a18_butler_alles_vorbei_antwort1_tseq#7;[The butler turns to the Arab, keeps him the gun under his chin (idle).]
+texts_butler_top_a18_butler_alles_vorbei_antwort2_tseq_title;No alternative
+spokentexts_butler_top_a18_butler_alles_vorbei_antwort2_tseq_st_1;We have no alternative. He's a witness and we'll both wind up in prison if we let him go.
+sequences_butler_top_a18_butler_alles_vorbei_antwort2_tseq#1;[The Butler looks at the Arab.]
+spokentexts_butler_top_a18_butler_alles_vorbei_antwort2_tseq_st_2;I didn't expect such clear thinking from you!
+spokentexts_butler_top_a18_butler_alles_vorbei_antwort2_tseq_st_4_direction;annoyed, uncomprehending
+spokentexts_butler_top_a18_butler_alles_vorbei_antwort2_tseq_st_4;Here we go again!
+sequences_butler_top_a18_butler_alles_vorbei_antwort2_tseq#8;[The butler turns to the Arab, keeps him the gun under his chin (idle).]
+texts_butler_top_a18_butler_erschiessen_antwort1_tseq_title;Can't kill both of them
+spokentexts_butler_top_a18_butler_erschiessen_antwort1_tseq_st_1;You can't kill both of us!
+sequences_butler_top_a18_butler_erschiessen_antwort1_tseq#1;"[The butler thinks , then he moved the gun to the doctor and makes ""Bang!"", then back to the Arab and again ""Peng"". He then holds his gun back under his chin.]"
+spokentexts_butler_top_a18_butler_erschiessen_antwort1_tseq_st_2;Oh, I think you'll find I can.
+texts_butler_top_a18_butler_erschiessen_antwort2_tseq_title;He still needs me
+spokentexts_butler_top_a18_butler_erschiessen_antwort2_tseq_st_1;You can't kill me. You still need me.
+texts_butler_top_a18_butler_erschiessen_antwort3_tseq_title;Just try it!
+spokentexts_butler_top_a18_butler_erschiessen_antwort3_tseq_st_1;Just try it!
+spokentexts_butler_top_a18_butler_erschiessen_antwort3_tseq_st_2;A rough and tumble struggle for the gun? Not my style.
+spokentexts_butler_top_a18_butler_erschiessen_antwort3_tseq_st_3;You can't afford to kill me. You still need me!
+texts_butler_top_a18_butler_keine_frage_antwort1_tseq_title;Apologize
+spokentexts_butler_top_a18_butler_keine_frage_antwort1_tseq_st_1;I'm sorry. I'm your man but...
+spokentexts_butler_top_a18_butler_keine_frage_antwort1_tseq_st_2;Are you really?
+texts_butler_top_a18_butler_keine_frage_antwort2_tseq_title;No dead people
+spokentexts_butler_top_a18_butler_keine_frage_antwort2_tseq_st_1;I don't want any dead bodies.
+spokentexts_butler_top_a18_butler_keine_frage_antwort2_tseq_st_2;I am indeed.
+spokentexts_butler_top_a18_butler_keine_frage_antwort2_tseq_st_3;But I don't want any dead bodies.
+spokentexts_butler_top_a18_butler_keine_frage_antwort2_tseq_st_4;The same old story.
+spokentexts_butler_top_a18_butler_keine_frage_antwort2_tseq_st_5;You want success but you don't want to get your hands dirty.
+spokentexts_butler_top_a18_butler_keine_frage_antwort2_tseq_st_6;Isn't the Raven famous for that?
+spokentexts_butler_top_a18_butler_keine_frage_antwort2_tseq_st_7;I do what's necessary.
+sequences_butler_top_a18_butler_keine_frage_antwort2_tseq#9;"[Next sequence with ""gun"" on the front deck.]"
+texts_butler_top_a18_butler_keine_frage_antwort3_tseq_title;What's the point
+spokentexts_butler_top_a18_butler_keine_frage_antwort3_tseq_st_1;I don't want any dead bodies.
+spokentexts_butler_top_a18_butler_keine_frage_antwort3_tseq_st_2;I am indeed.
+spokentexts_butler_top_a18_butler_keine_frage_antwort3_tseq_st_3;But I don't understand why you're doing this!
+spokentexts_butler_top_a18_butler_keine_frage_antwort3_tseq_st_4;You don't have to. Watch and learn.
+sequences_butler_top_a18_butler_keine_frage_antwort3_tseq#6;"[Next with sequence ""pistol"" on the front deck.]"

@@ -1,0 +1,283 @@
+characters_araber;Araber
+characters_butler;Butler
+characters_ohi;Ohi
+texts_a17_frachtraum_auto_junge_frau_mo_ex_1;Examine the car
+texts_a17_frachtraum_auto_junge_frau_mo_ex_2;Search the car
+spokentexts_a17_frachtraum_auto_junge_frau_ex_1_st_1_direction;dreamy
+spokentexts_a17_frachtraum_auto_junge_frau_ex_1_st_1;Before I went to London to become Inch's protégé, Alex and I drove through the French Riviera in this convertible.
+spokentexts_a17_frachtraum_auto_junge_frau_ex_1_st_2_direction;dreamy
+spokentexts_a17_frachtraum_auto_junge_frau_ex_1_st_2;It was a wonderful week and on the cliffs near Toulon I asked her to marry me.
+spokentexts_a17_frachtraum_auto_junge_frau_ex_1_st_3_direction;getting to himself again
+spokentexts_a17_frachtraum_auto_junge_frau_ex_1_st_3;But this is no time for reminiscing.
+spokentexts_a17_frachtraum_auto_junge_frau_ex_2_st_1;There's nothing in the car that might help me. Alex is playing her role as Patricia Mayers and she can't keep anything suspicious with her.
+texts_a17_frachtraum_gitter_mo_leave_1;Climb out
+texts_a17_frachtraum_gitter_mo_use_1__2;Open the bars
+texts_a17_frachtraum_gitter_mo_used_mit_schlauch_1-3;Attach the hose to the bars
+spokentexts_a17_frachtraum_gitter_ex_1_st_1;This might be my way out!
+spokentexts_a17_frachtraum_gitter_ex_1_st_2;But I can't just break through the bars with a heavy object. Half the ship would hear the hammering.
+sequences_a17_frachtraum_gitter_leave_1#1;[The Arab begins, to climb out the tube.]
+sequences_a17_frachtraum_gitter_leave_1#2;[Cut onto the front deck.]
+sequences_a17_frachtraum_gitter_leave_1#3;[The Arab slips out of the vent pipe, gets the orientation and  climbs quickly and quietly from the front deck and disappears at the back of the ship towards the staircase hall.]
+sequences_a17_frachtraum_gitter_leave_1#4;[End of section.]
+spokentexts_a17_frachtraum_gitter_use_1_st_1;This could be my way out!
+sequences_a17_frachtraum_gitter_use_1#2;[The Arab grabs the grid, trying to take it. At one corner, he succeeds. He grabs around but at the other he has no success.]
+spokentexts_a17_frachtraum_gitter_use_1_st_2;The bars are welded at four points and unfortunately they're not all as rusty as this one.
+sequences_a17_frachtraum_gitter_use_2#1;[The Arab grabs the grid and tries to release it. It's not working.]
+spokentexts_a17_frachtraum_gitter_use_2_st_1;Not a chance. I have to come up with something.
+spokentexts_a17_frachtraum_gitter_use_2_st_2;And fast!  Dr. Gebhardt has the means to get rid of an old man inconspicuously.
+sequences_a17_frachtraum_gitter_used_mit_schlauch_1#1;[The Arab takes the hose, puts the nozzle through the grid, pulls it after a few gridbars up and tieds down the hose.]
+sequences_a17_frachtraum_gitter_used_mit_schlauch_1#2;[Then he throws the free end of the hose at the shelf down.]
+sequences_a17_frachtraum_gitter_used_mit_schlauch_2#1;[The Arab takes the hose, puts the nozzle through the grid, pulls it after a few gridbars up and tieds down the hose.]
+spokentexts_a17_frachtraum_gitter_used_mit_schlauch_3_st_1;No, that doesn't make any sense.
+sequences_a17_frachtraum_gitter_used_mit_schlauch_4#1;[The Arab takes the hose, puts the nozzle through the grid, pulls it after a few gridbars up and tieds down the hose.]
+texts_a17_frachtraum_halterung_mo_ex_1;Examine the cavity
+texts_a17_frachtraum_halterung_mo_ex_2;Examine the pulley
+texts_a17_frachtraum_halterung_mo_used_mit_schlauch_1;Put the hose in the holder
+texts_a17_frachtraum_halterung_mo_used_mit_schlauch_2-4;Use the hose with the pulley
+texts_a17_frachtraum_halterung_mo_used_mit_umlenkrolle_1;Attach the pulley to the holder
+spokentexts_a17_frachtraum_halterung_ex_1_st_1;Hmm. A ring set into the floor.
+spokentexts_a17_frachtraum_halterung_ex_1_st_2;You could attach ropes or chains to it.
+spokentexts_a17_frachtraum_halterung_ex_1_st_3;It's set into the floor to keep people from tripping over it.
+spokentexts_a17_frachtraum_halterung_ex_2_st_1;I attached the pulley to the ring. You could hang a car from it... if the ship were upside down.
+spokentexts_a17_frachtraum_halterung_used_mit_schlauch_1_st_1;No, that won't work. The hose is too wide.
+sequences_a17_frachtraum_halterung_used_mit_schlauch_2#1;[The Arab take the hose and puts it on the floor. Then he takes up the role and contrives the hose.]
+sequences_a17_frachtraum_halterung_used_mit_schlauch_2#2;[Then he puts one end of the hose in the direction of shelf, the other end of the hose towards the crane.]
+sequences_a17_frachtraum_halterung_used_mit_schlauch_3#1;[The Arab takes the hose which is hanging of the shelf. Then he takes up the role and contrives the hose.]
+sequences_a17_frachtraum_halterung_used_mit_schlauch_3#2;[Then he places the free end of the hose towards the crane.]
+sequences_a17_frachtraum_halterung_used_mit_schlauch_4#1;[The Arab takes the hose end which is hanging on the hook. Then he takes up the role and contrives the hose.]
+sequences_a17_frachtraum_halterung_used_mit_schlauch_4#2;[Then he places the free end of the hose towards the shelf.]
+sequences_a17_frachtraum_halterung_used_mit_umlenkrolle_1#1;[The Arab takes the role from the shelf, bind it onto the hooks in the bracket hole and puts the role aside then.]
+texts_a17_frachtraum_lastkran_haken_mo_ex_1__2;Examine the hook
+texts_a17_frachtraum_lastkran_haken_mo_take_1__2;Take the pulley
+texts_a17_frachtraum_lastkran_haken_mo_used_mit_schlauch_1-5;Attach the hose to the hook
+texts_a17_frachtraum_lastkran_haken_mo_used_mit_umlenkrolle_1-2;Attach the pulley to the hook
+spokentexts_a17_frachtraum_lastkran_haken_ex_1_st_1;The crane is for moving cargo from A to B within the ship. The big cranes in the harbor can't reach the corners of the cargo hold.
+spokentexts_a17_frachtraum_lastkran_haken_ex_2_st_1;A good height for attaching something to the hook.
+spokentexts_a17_frachtraum_lastkran_haken_ex_3_st_1;I tied the hose to the hook.
+spokentexts_a17_frachtraum_lastkran_haken_take_1_st_1;I can't reach the hook!
+spokentexts_a17_frachtraum_lastkran_haken_take_2_st_1;I don't think that was the solution to the puzzle.
+sequences_a17_frachtraum_lastkran_haken_take_2#2;[The Arab takes the role, puts it back on the shelf.]
+spokentexts_a17_frachtraum_lastkran_haken_used_mit_schlauch_1_st_1;I can't reach the hook!
+spokentexts_a17_frachtraum_lastkran_haken_used_mit_schlauch_2_st_1;There's no room for the hose if the pulley is on the hook.
+sequences_a17_frachtraum_lastkran_haken_used_mit_schlauch_3#1;[The Arab take the hose and knotted it firmly on the hook. The rest of the hose he lays on the floor.]
+spokentexts_a17_frachtraum_lastkran_haken_used_mit_schlauch_4_st_1;No, that doesn't make any sense.
+sequences_a17_frachtraum_lastkran_haken_used_mit_schlauch_5#1;[The Arab picks up the free hose end and knotted it on the hook.]
+sequences_a17_frachtraum_lastkran_haken_used_mit_schlauch_6#1;[The Arab takes the hose and knotted it firmly on the hook.]
+spokentexts_a17_frachtraum_lastkran_haken_used_mit_umlenkrolle_1_st_1;I can't reach the hook!
+sequences_a17_frachtraum_lastkran_haken_used_mit_umlenkrolle_2#1;[The Arab hangs the hook with the role on the hook.]
+spokentexts_a17_frachtraum_lastkran_haken_used_mit_umlenkrolle_2_st_1;Hmm. And now?
+texts_a17_frachtraum_lastkran_steuerung_mo_ex_1;Examine the crane controls
+texts_a17_frachtraum_lastkran_steuerung_mo_use_1__2__3;Use the crane controls
+spokentexts_a17_frachtraum_lastkran_steuerung_ex_1_st_1_direction;interested
+spokentexts_a17_frachtraum_lastkran_steuerung_ex_1_st_1;Hmm.
+sequences_a17_frachtraum_lastkran_steuerung_ex_1#2;[The Arab takes the control in hand, presses a button. The hook comes down. The Arab looks at the hook. As the hook is down he let the button.]
+spokentexts_a17_frachtraum_lastkran_steuerung_ex_2_st_1;I sure the crane still works. I don't have time to play around. 
+sequences_a17_frachtraum_lastkran_steuerung_use_1#1;[The Arab takes the control in hand, presses a button. The hook comes down. The Arab looks at the hook. As the hook is down he let the button.]
+spokentexts_a17_frachtraum_lastkran_steuerung_use_1_st_1;I could do this all day!
+sequences_a17_frachtraum_lastkran_steuerung_use_2#1;[The Arab takes the control in hand, presses a button. The hook will start up again. The Arab looks and lets go of the button when it is up.]
+spokentexts_a17_frachtraum_lastkran_steuerung_use_3_st_1;That's not going to get me anywhere!
+sequences_a17_frachtraum_lastkran_steuerung_use_4#1;[The Arab, takes the crane control in his hand, breathes once briefly.]
+spokentexts_a17_frachtraum_lastkran_steuerung_use_4_st_1;Here goes nothing.
+sequences_a17_frachtraum_lastkran_steuerung_use_4#3;[The Arab presses the button. The hook is being pulled up, the hose is stretched. It crunches and finally the grid dissolves with a bang.]
+sequences_a17_frachtraum_lastkran_steuerung_use_4#4;[Cut onto the front deck.]
+sequences_a17_frachtraum_lastkran_steuerung_use_4#5;"[You hear a noise below decks. The guard was again just before falling asleep. He looks around, then thinks, ""Oh, who cares"" and make hisself comfortable again.]"
+sequences_a17_frachtraum_lastkran_steuerung_use_4#6;[Cut back to the Cargo.]
+sequences_a17_frachtraum_lastkran_steuerung_use_4#7;[The Arab stops the crane and let go of the control.]
+spokentexts_a17_frachtraum_lastkran_steuerung_use_4_st_2;Louder than I expected-I hope no one noticed!
+spokentexts_a17_frachtraum_lastkran_steuerung_use_4_st_3;With luck I'll be able to warn the others about the doctor before it's too late!
+texts_a17_frachtraum_regal_mo_ex_1;Examine the shelf
+texts_a17_frachtraum_regal_mo_use_1;Climb up the shelf
+texts_a17_frachtraum_regal_mo_use_2;Climb down the shelf
+spokentexts_a17_frachtraum_regal_ex_1_st_1;Hmm... What's that up there?
+sequences_a17_frachtraum_regal_ex_1#2;[The Arab climbs up the shelf and looks at the grid.]
+spokentexts_a17_frachtraum_regal_ex_1_st_2;A grate... Sunlight's shining through it! And above it, a bent pipe�
+spokentexts_a17_frachtraum_regal_ex_2_st_1;Shelves for storing and securing cargo. They'd make a good ladder too!
+sequences_a17_frachtraum_regal_use_1#1;[The Arab climbs up the shelf.]
+sequences_a17_frachtraum_regal_use_2#1;[The Arab climbs down the shelf.]
+texts_a17_frachtraum_schlauch_mo_betrachte_1-3;Examine the hose
+texts_a17_frachtraum_schlauch_mo_use;Use the hose with...
+spokentexts_a17_frachtraum_schlauch_ex_1_st_1;Fire still poses a great threat to ships. There are fire alarms, extinguishers and hoses everywhere nowadays.
+sequences_a17_frachtraum_schlauch_ex_2#1;[The Arab takes the hose from the roll, keep it in a crook of the arm.]
+sequences_a17_frachtraum_schlauch_ex_2#2;[He looks how the hose is attached and when he sees that it's only attached with a simple clamp, he solves it with his free hand.]
+sequences_a17_frachtraum_schlauch_ex_2#3;[He goes slightly towards the crane and places the hose there.]
+spokentexts_a17_frachtraum_schlauch_ex_2_st_1;These hoses are pretty versatile - they'll do at a pinch if you can't smuggle climbing ropes into the building you're planning to rob.
+sequences_a17_frachtraum_schlauch_use_1#1;[As soon as you click on the hose, it sticks to the cursor and you can use it with other objects in the scene.]
+texts_a17_frachtraum_schott_mo_ex_1__2;Examine the door
+spokentexts_a17_frachtraum_schott_ex_1_st_1;It sounded like Inch locked the door from inside...
+sequences_a17_frachtraum_schott_ex_1#2;[The Arab tries to open the door, wont move.]
+spokentexts_a17_frachtraum_schott_ex_1_st_2;Won't budge.
+spokentexts_a17_frachtraum_schott_ex_1_st_3;I think this is a security door designed to protect the rest of the ship in case there's a leak in the cargo hold.
+spokentexts_a17_frachtraum_schott_ex_1_st_4;And the doors are installed so that they only open from one side...  
+spokentexts_a17_frachtraum_schott_ex_2_st_1;No, that's not going to work.
+spokentexts_a17_frachtraum_schott_ex_2_st_2;No, there must be another way!
+texts_a17_frachtraum_tuer_mo_ex_1;Examine the door
+spokentexts_a17_frachtraum_tuer_ex_1_st_1;I assume that Deputy Oliver is still standing guard. He inspected the cargo hold this morning.
+spokentexts_a17_frachtraum_tuer_ex_2_st_1;Can't use this exit as long as deputy's sitting by the door. I have to find another way.
+texts_a17_frachtraum_umlenkrolle_mo_ex_1;Examine the shelf
+texts_a17_frachtraum_umlenkrolle_mo_use_1;Use the pulley with...
+spokentexts_a17_frachtraum_umlenkrolle_ex_1_st_1;What's this?
+sequences_a17_frachtraum_umlenkrolle_ex_1#2;[The Arab grabs in the shelf and pulls out a large role with a  hook.]
+spokentexts_a17_frachtraum_umlenkrolle_ex_1_st_2;Whoa! Heavy.
+spokentexts_a17_frachtraum_umlenkrolle_ex_1_st_3;Everything's a bit bigger and heavier on a ship, pulleys included.
+sequences_a17_frachtraum_umlenkrolle_ex_1#5;[The Arab puts the hook back with the role on the shelf.]
+sequences_a17_frachtraum_umlenkrolle_use_1#1;[At left click the role is attached at the cursor and can be used with other objects in the scene.]
+texts_a17_frachtraum_zelle_mo_ex_1;Examine the cell
+spokentexts_a17_frachtraum_zelle_ex_1_st_1;As soon as Constable Zellner and Inspector Legrand are out of danger I'll slip back into the cell.
+spokentexts_a17_frachtraum_zelle_ex_1_st_2;They'll arrest the good doctor and hopefully they'll turn a blind eye to a poor stowaway.
+texts_a17_zelle_auftritt_onscreen;Next morning...
+sequences_a17_zelle_seq_a17_zelle_auftritt_des_butlers#0;[The Arab is in the cell, goes up and down (or turns here and there). He is restless, anxious.]
+sequences_a17_zelle_seq_a17_zelle_auftritt_des_butlers#1;[A noise is coming from the direction of the bulkhead, which leads to the interior of the ship. The Arab looks at it, the bulkhead opens. The butler enters.]
+sequences_a17_zelle_seq_a17_zelle_auftritt_des_butlers#2;[The Arab are anxious. He looks at the butler when he is approaching and hes carefully watching the surrounding area.]
+sequences_a17_zelle_seq_a17_zelle_auftritt_des_butlers#3;[Finally, the butler stands in front of the cell and crosses his arms. He says nothing, it comes to an unpleasant pause. The Arab looks guiltily at the floor.]
+texts_a17_zelle_becher_mo_ex_1;Examine the cup
+texts_a17_zelle_becher_mo_use;Use the cup with...
+spokentexts_a17_zelle_becher_ex_1_st_1_direction;sarcastic
+spokentexts_a17_zelle_becher_ex_1_st_1;They're really spoiling me with this cup of metallic-tasting water. If I'm really lucky they'll toss me a few crumbs of bread!
+sequences_a17_zelle_becher_use_1#1;[Clicking the cup sticks to the cursor and can be used with anything in the scene.]
+texts_a17_zelle_brett_mo_ex_1;Examine the board
+texts_a17_zelle_brett_mo_use;Use the board with...
+texts_a17_zelle_brett_mo_used_mit_becher;Throw the cup
+texts_a17_zelle_brett_mo_used_mit_decke;Throw the blanket at the board
+spokentexts_a17_zelle_brett_ex_1_st_2;Someone should move that board before the nail gets stepped on.
+spokentexts_a17_zelle_brett_ex_1_st_1;The board could be part of my spectacular escape.
+sequences_a17_zelle_brett_use_1#1;[Clicking the board stuck to the cursor and can be used with anything in the scene.]
+spokentexts_a17_zelle_brett_used_mit_becher_st_1;Tossing the cup onto the nail from here would be a real all-star performance.
+spokentexts_a17_zelle_brett_used_mit_becher_st_2;But there's no audience to admire my skill. And it's not going to get me out of here either.
+sequences_a17_zelle_brett_used_mit_decke#1;[The Arab takes the blanket presses it through the grid bars and throws then the end of the blanket to the board. The other one he keeps in his hand.]
+sequences_a17_zelle_brett_used_mit_decke#2;[The blanket has sticked on the nail. Slowly the Arab pulls back the blanket.]
+spokentexts_a17_zelle_brett_used_mit_decke_st_1;The blanket got caught on the nail!
+sequences_a17_zelle_brett_used_mit_decke#4;[The Arab picks up the blanket and puts it back. Then he bends down and picks the board.]
+spokentexts_a17_zelle_brett_used_mit_decke_st_2;A board and a nail!
+sequences_a17_zelle_brett_used_mit_decke#6;[The Arab turned the nail out of the board and takes it. Then he puts the board to the grid.]
+texts_a17_zelle_decke_mo_ex_1;Look the blanket
+texts_a17_zelle_decke_mo_use;Use the blanket with...
+spokentexts_a17_zelle_decke_ex_1_st_1;I didn't sleep a wink last night. All I could think of was Alex. It's terrible not knowing what happened.
+sequences_a17_zelle_decke_use_1#1;[Clicking the blanket sticks to the cursor and can be used with anything in the scene.]
+texts_a17_zelle_gitter_mo_ex_1__2;Examine the bars
+texts_a17_zelle_gitter_mo_used_mit_becher;Make noise
+texts_a17_zelle_gitter_mo_used_mit_brett;Bend the bars with the board
+spokentexts_a17_zelle_gitter_ex_1_st_1;I guess this cage is some kind of detention cell for the crew.
+sequences_a17_zelle_gitter_ex_1#2;[The Arab shakes the bars.]
+spokentexts_a17_zelle_gitter_ex_1_st_2;It's not the most impregnable prison in the world, but it's still a problem.
+sequences_a17_zelle_gitter_ex_2#1;[The Arab shakes the bars.]
+spokentexts_a17_zelle_gitter_used_mit_becher_st_1;I've seen movies in which the prisoners called their guards like this.
+spokentexts_a17_zelle_gitter_used_mit_becher_st_2;But it wouldn't help. I can't explain the situation to the bobby without endangering the whole plan.
+spokentexts_a17_zelle_gitter_used_mit_brett_st_1;The board is too thin to bend the bars. It'd break.
+texts_a17_zelle_nagel_mo_inventar;Nail
+texts_a17_zelle_nagel_mo_used_mit_becher;It'd flatten the nail
+spokentexts_a17_zelle_nagel_ex_1_st_1;A relatively large steel nail. I pulled it out of the board.
+spokentexts_a17_zelle_nagel_used_mit_becher_st_1;Hmm. If I were able to hammer the nail flat, it 'd probably fit in the keyhole. But I'd need a hammer and anvil for that. The cup won't do.
+texts_a17_zelle_scharniere_mo_ex_1__2;Examine the hinge
+texts_a17_zelle_scharniere_mo_use_1;Press the bolt out of the hinge
+texts_a17_zelle_scharniere_mo_used_mit_nagel;Press the bolt out of the hinge with the nail
+spokentexts_a17_zelle_scharniere_ex_1_st_1;Like everything else on this ship, the bars and hinges are showing their age.
+spokentexts_a17_zelle_scharniere_ex_1_st_2;But they're still much too strong for me to kick the door open.
+spokentexts_a17_zelle_scharniere_ex_2_st_1;A very simple construction. A metal bolt connects the door to the frame...
+sequences_a17_zelle_scharniere_ex_2#2;[The Arab tries to push the pin out of the hinge.]
+spokentexts_a17_zelle_scharniere_ex_2_st_2;The bolt fits perfectly in the hinge. I can't pull it out and my fingers are too fat to push it out from the bottom.
+sequences_a17_zelle_scharniere_use_1#1;[The Arab tries to push the pin out of the hinge.]
+sequences_a17_zelle_scharniere_used_mit_nagel#1;[The Arab pulls out the nail and tries to squeeze the metal pin out of the top hinge with help of the nail.]
+spokentexts_a17_zelle_scharniere_used_mit_nagel_st_1_direction;with effort
+spokentexts_a17_zelle_scharniere_used_mit_nagel_st_1;I think it's working!
+sequences_a17_zelle_scharniere_used_mit_nagel#3;[The Arab picks up the cup and used it as a hammer. He hits a few times on the nail, then the pin is far enough out, to pull out.]
+spokentexts_a17_zelle_scharniere_used_mit_nagel_st_2;One down!
+sequences_a17_zelle_scharniere_used_mit_nagel#5;[The Arab kneels down and gets out also the second pin. He puts aside nail and cup, then kicks once against the cell door on the side of the hinges.]
+sequences_a17_zelle_scharniere_used_mit_nagel#6;[The door jumps out of the hinges. He pushes the door open a bit, then slippes through.]
+spokentexts_a17_zelle_scharniere_used_mit_nagel_st_3;I'll hang it back on the frame and, if I'm lucky, no one will notice my escape.
+sequences_a17_zelle_scharniere_used_mit_nagel#8;[The Arab hangs the door in again.]
+texts_a17_zelle_schloss_mo_ex_1__2;Examine the lock
+texts_a17_zelle_schloss_mo_used_mit_brett;Pick the lock
+texts_a17_zelle_schloss_mo_used_mit_nagel;Pick the lock with the nail
+sequences_a17_zelle_schloss_ex_1#1;[The Arab kneels down and touches the lock (idle).]
+spokentexts_a17_zelle_schloss_ex_1_st_1;Hmm. Lock looks pretty modern. Needs a small key, five pins... I could pick it with the right tools.
+sequences_a17_zelle_schloss_ex_1#3;[The Arab gets up again.]
+spokentexts_a17_zelle_schloss_ex_2_st_1;It's a normal lock. I bet I could pick it if I had a wire or something like that.
+spokentexts_a17_zelle_schloss_used_mit_brett_st_1;I'd go through ten of these boards before the lock would break.
+spokentexts_a17_zelle_schloss_used_mit_nagel_st_1;I doubt that will work.
+sequences_a17_zelle_schloss_used_mit_nagel#2;[The Arab touches the lock, trying to put in the nail. He pulls his hands back.]
+spokentexts_a17_zelle_schloss_used_mit_nagel_st_2_direction;"""As I thought"""
+spokentexts_a17_zelle_schloss_used_mit_nagel_st_2;Yep. The nail is much too thick to fit in the keyhole.
+sequences_a17_zelle_seq_a17_zelle_abgang_des_butlers#0;[Ohi makes the last few steps up the stairs, then he goes through the door and locks it from the outside.]
+sequences_a17_zelle_seq_a17_zelle_abgang_des_butlers#1;[A short time it is quiet, then the butler comes back to the front and stands in front of the cage.]
+spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_1;This Zellner chap wasn't part of the plan. I don't like it.
+spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_2;He's groping about in the dark. Legrand is the real problem.
+spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_3;Still, I'm going to take him out of the picture.
+spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_4;How?
+spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_5;Dr. Gebhardt killed the baroness. A clever old man. But not clever enough to keep me from finding out.
+spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_6_direction;happily surprised
+spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_6;So you just have to tip Legrand off and then I'm as good as free!
+spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_7;That's what I thought at first. But then I thought, why waste the opportunity?
+spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_8;I put Zellner on the trail of the good doctor.
+spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_9;He'll drive Gebhardt into a corner, and when he lashes out in desperation, he might hit our Swiss friend. Maybe even Legrand, if we're really lucky.
+spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_10;You can't do that! The old fellow is just doing his job!
+sequences_a17_zelle_seq_a17_zelle_abgang_des_butlers#12;[The Butler shrugs with his shoulders.]
+spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_11;And so am I.
+sequences_a17_zelle_seq_a17_zelle_abgang_des_butlers#14;[The butler goes back towards the bulkhead.]
+spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_12;Inch! Enough blood has been shed!
+spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_14;Inch! NO MORE DEATHS!
+sequences_a17_zelle_seq_a17_zelle_abgang_des_butlers#18;[The butler climbs through the bulkhead, closes it and locks it from the inside.]
+spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_15;Damn!
+spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_16;I... I have to get out of here and warn Constable Zellner!
+texts_butler_top_a17_butler_anfang_hallo_tseq_title;Hello.
+spokentexts_butler_top_a17_butler_anfang_hallo_tseq_st_1_direction;intimidated, carefully
+spokentexts_butler_top_a17_butler_anfang_hallo_tseq_st_1;Hello.
+sequences_butler_top_a17_butler_anfang_hallo_tseq#1;[The butler moves briefly, for example puts his head on his shoulder. He's still waiting.]
+texts_butler_top_a17_butler_anfang_nicht_meine_schuld_tseq_title;It wasn't my fault!
+spokentexts_butler_top_a17_butler_anfang_nicht_meine_schuld_tseq_st_1;It... It wasn't my fault!
+spokentexts_butler_top_a17_butler_anfang_nicht_meine_schuld_tseq_st_2_direction;played ignorant, slightly angry
+spokentexts_butler_top_a17_butler_anfang_nicht_meine_schuld_tseq_st_2;What wasn't your fault?
+spokentexts_butler_top_a17_butler_anfang_nicht_meine_schuld_tseq_st_3_direction;hissing, increasingly angry
+spokentexts_butler_top_a17_butler_anfang_nicht_meine_schuld_tseq_st_3;That you were walking around the ship? That you let them catch you? That you endangered the whole plan?
+spokentexts_butler_top_a17_butler_anfang_nicht_meine_schuld_tseq_st_4_direction;angry hissing
+spokentexts_butler_top_a17_butler_anfang_nicht_meine_schuld_tseq_st_4;That you endangered ME?
+sequences_butler_top_a17_butler_anfang_nicht_meine_schuld_tseq#4;[The Butler pulls a gun, bangs it with his open hand against the cell bars, in this pose he will stop (idle). The Arab recoils.]
+texts_butler_top_a17_butler_anfang_was_ist_passiert_tseq_title;What happened?
+spokentexts_butler_top_a17_butler_anfang_was_ist_passiert_tseq_st_1;What... What happened last night?
+spokentexts_butler_top_a17_butler_anfang_was_ist_passiert_tseq_st_2_direction;played ignorant, slightly angry
+spokentexts_butler_top_a17_butler_anfang_was_ist_passiert_tseq_st_2;What happened?
+sequences_butler_top_a17_butler_anfang_was_ist_passiert_tseq#4;[The Butler pulls a gun, bangs it with his open hand against the cell bars, in this pose he will stop (idle). The Arab recoils.]
+texts_butler_top_a17_butler_gespraech_eingang_tseq_title;How did he escape?
+spokentexts_butler_top_a17_butler_gespraech_eingang_tseq_st_1;How did you get in here?
+spokentexts_butler_top_a17_butler_gespraech_eingang_tseq_st_2;I'm more than capable of finding the entrance to a cargo hold.
+spokentexts_butler_top_a17_butler_gespraech_eingang_tseq_st_3_direction;at the end sneaky
+spokentexts_butler_top_a17_butler_gespraech_eingang_tseq_st_3;Indeed, it was child's play. It's not as though I had to crawl through ventilation shafts or anything so gauche...
+texts_butler_top_a17_butler_gespraech_was_ist_passiert_tseq_title;Who shot who yesterday?
+spokentexts_butler_top_a17_butler_gespraech_was_ist_passiert_tseq_st_1_direction;carefully
+spokentexts_butler_top_a17_butler_gespraech_was_ist_passiert_tseq_st_1;What... What happened last night?
+spokentexts_butler_top_a17_butler_gespraech_was_ist_passiert_tseq_st_2;The Baroness was murdered.
+spokentexts_butler_top_a17_butler_gespraech_was_ist_passiert_tseq_st_3;Did... um... you...?
+spokentexts_butler_top_a17_butler_gespraech_was_ist_passiert_tseq_st_4;No. If it were up to me, she'd have had an accident in a couple of weeks.
+spokentexts_butler_top_a17_butler_gespraech_was_ist_passiert_tseq_st_5;Instead, someone shot the old bat in the heart, point-blank.
+spokentexts_butler_top_a17_butler_gespraech_was_ist_passiert_tseq_st_6;Are we calling it off?
+spokentexts_butler_top_a17_butler_gespraech_was_ist_passiert_tseq_st_7;No. Mister X is ready and as her surviving representative, I should be able to move about freely in the museum. The old hag's death doesn't change anything.
+texts_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq_title;What are we going to do now?
+spokentexts_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq_st_1;So what do we do now? I could escape and...
+spokentexts_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq_st_2;...swim to Cairo?
+spokentexts_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq_st_3;So I stay here and wait?
+spokentexts_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq_st_4;They'll arrest you in Cairo and question you about the murder. Even if they don't throw you in jail, it'll take days.
+spokentexts_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq_st_5;And if we find the murderer? Then they'd have no reason to hold me.
+spokentexts_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq_st_6;Oh, I'm one step ahead of you...
+sequences_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq#6;[The door opens. The butler disappears quickly, so that he wont be seen by Ohi who comes down the stairs.]
+sequences_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq#7;[The Arab take both hands to the grid and stands there (idle).]
+sequences_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq#8;[Ohi approaches him.]
+sequences_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq#9;[The Arab repeatedly tapped the fingers of his left hand on the bars. It looks like a nervous tic. Ohi noticed.]
+spokentexts_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq_st_7;Nervous?
+spokentexts_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq_st_8;I would be, if I were you.
+sequences_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq#12;[The pictures faded out.]
+texts_butler_top_a17_butler_waffe_entschuldigen_tseq_title;Apologize
+spokentexts_butler_top_a17_butler_waffe_entschuldigen_tseq_st_1;I... I shouldn't have gone out. That was a mistake.
+sequences_butler_top_a17_butler_waffe_entschuldigen_tseq#1;[The butler is not reacting. The Arab is clearly uncomfortable in this situation.]
+sequences_butler_top_a17_butler_waffe_entschuldigen_tseq#3;[The Butler still does not react. The Arab takes his courage of out of despair. He stands up straight, and speaks with firmer voice.]
+spokentexts_butler_top_a17_butler_waffe_niemanden_umgebracht_tseq_st_3_direction;with firmer voice
+spokentexts_butler_top_a17_butler_waffe_niemanden_umgebracht_tseq_st_3;Why won't you answer?
+sequences_butler_top_a17_butler_waffe_entschuldigen_tseq#5;[A short pause.]
+spokentexts_butler_top_a17_butler_waffe_niemanden_umgebracht_tseq_st_4_direction;quiet, menacing
+spokentexts_butler_top_a17_butler_waffe_niemanden_umgebracht_tseq_st_4;I'm having a conversation that you cannot hear.
+sequences_butler_top_a17_butler_waffe_entschuldigen_tseq#7;[Again, a short pause, the men stare at each other. The Butler then pulls the gun from the grid and takes it. The Arab is terrified, tears himself together again.]
+texts_butler_top_a17_butler_waffe_niemanden_umgebracht_tseq_title;Accidently arrested
+spokentexts_butler_top_a17_butler_waffe_niemanden_umgebracht_tseq_st_1;I didn't kill anyone! They arrested me purely by coincidence! They'll have to turn me loose in Cairo.
+sequences_butler_top_a17_butler_waffe_niemanden_umgebracht_tseq#1;[The butler is not reacting. The Arab is clearly uncomfortable in this situation.]
+spokentexts_butler_top_a17_butler_waffe_niemanden_umgebracht_tseq_st_2;I mean... Someone was killed, weren't they? I heard a shot...
+sequences_butler_top_a17_butler_waffe_niemanden_umgebracht_tseq#3;[The Butler still does not react. The Arab takes his courage of out of despair. He stands up straight, and speaks with firmer voice.]
+sequences_butler_top_a17_butler_waffe_niemanden_umgebracht_tseq#5;[A short pause.]
+sequences_butler_top_a17_butler_waffe_niemanden_umgebracht_tseq#7;[Again, a short pause, the men stare at each other. The Butler then pulls the gun from the grid and takes it. The Arab is terrified, tears himself together again.]

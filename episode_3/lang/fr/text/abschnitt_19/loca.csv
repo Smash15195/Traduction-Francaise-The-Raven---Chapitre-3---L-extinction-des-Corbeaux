@@ -1,0 +1,615 @@
+characters_araber;Araber
+characters_butler;Butler
+characters_frau;Frau
+characters_ohi;Ohi
+characters_wache;Wache
+texts_a19_aussen_platz_abfluss_mo_ex_1__2;Examine the drain
+texts_a19_aussen_platz_abfluss_mo_used_mit_draht;Put the wire in the drain
+spokentexts_a19_aussen_platz_abfluss_ex_1_st_1;I don't want to crawl through stinking sewers just to get into the museum! There must be another way!
+spokentexts_a19_aussen_platz_abfluss_ex_2_st_1;There's a metal grate over the drain to prevent people from tripping. I can't make out what's below.
+spokentexts_a19_aussen_platz_abfluss_used_mit_draht_st_1;Hmm. Maybe I can fish something out of the sewer with the wire?
+sequences_a19_aussen_platz_abfluss_used_mit_draht#2;[The Arab pulls out the wire, looks at the top. Then he puts the tip into the grate and breaks the rest of the wire.]
+sequences_a19_aussen_platz_abfluss_used_mit_draht#3;[The Arab takes the wire out again, looks at his work. The tip of the wire is now hidden almost at right angles. He nods with satisfaction and inserts the wire deep into the drain.]
+sequences_a19_aussen_platz_abfluss_used_mit_draht#4;[The Arab is stirring something back and forth.]
+spokentexts_a19_aussen_platz_abfluss_used_mit_draht_st_2;Nothing. I can't even touch the bottom.
+sequences_a19_aussen_platz_abfluss_used_mit_draht#6;[The Arab pulls out the wire, takes it.]
+spokentexts_a19_aussen_platz_abfluss_used_mit_draht_st_3;It was worth a try.
+texts_a19_aussen_platz_ausgang_seitenstrasse_mo_leave_1;Go into the side street
+sequences_a19_aussen_platz_ausgang_seitenstrasse_leave_1#1;[The Arab is leaving the scene, further in the side street.]
+texts_a19_aussen_platz_ausgang_treppe_mo_leave_1;Go out to the entrance
+sequences_a19_aussen_platz_ausgang_treppe_leave_1#1;[The Arab began to climb the first stairs.]
+sequences_a19_aussen_platz_seq_a19_aussen_platz_ankunft#0;[You can see the museum from the outside. The Arab stand in front of it and considers it.]
+sequences_a19_aussen_platz_seq_a19_aussen_platz_ankunft#1;[The Arab looks at the museum.]
+spokentexts_a19_aussen_platz_seq_a19_aussen_platz_ankunft_st_1;I can't afford to slip up.
+spokentexts_a19_aussen_platz_seq_a19_aussen_platz_ankunft_st_2;Part of me wants to abandon the whole plan and go back to Europe.
+sequences_a19_aussen_platz_seq_a19_aussen_platz_ankunft#4;[The young woman in a convertible is approaching, drives past the Arab. He looks at her, she acts as if she do not notice him.]
+sequences_a19_aussen_platz_seq_a19_aussen_platz_ankunft#5;[Cut to the face of the young woman.]
+sequences_a19_aussen_platz_seq_a19_aussen_platz_ankunft#6;[Blinks to the Arab encouragingly but unremarkable.]
+sequences_a19_aussen_platz_seq_a19_aussen_platz_ankunft#7;[Cut back.]
+spokentexts_a19_aussen_platz_seq_a19_aussen_platz_ankunft_st_3;What if something goes wrong and Legrand catches on? I couldn't bear it if something happened to her.
+sequences_a19_aussen_platz_seq_a19_aussen_platz_ankunft#9;[The Arab turns toward side street, another deep breath.]
+spokentexts_a19_aussen_platz_seq_a19_aussen_platz_ankunft_st_4;The last act. The end of the Raven...
+sequences_a19_aussen_platz_seq_a19_aussen_platz_ankunft#11;[The Arab began to walk away towards the street.]
+sequences_a19_aussen_platz_seq_a19_aussen_platz_ankunft_von_treppe#0;[The Arab goes down the last stairs, then stands at the beginning of the stairs.]
+texts_a19_aussen_schild_mo_ex_1__2;Examine the sign
+spokentexts_a19_aussen_schild_ex_1_st_1_direction;reads
+spokentexts_a19_aussen_schild_ex_1_st_1;"Today the museum is officially closed for preparations for the big ""Eye of the Sphinx"" exhibit."
+spokentexts_a19_aussen_schild_ex_2_st_1;The Sphinx still has two eyes on the poster. They need to put an eye patch on it.
+texts_a19_aussen_tuer_ausgang_museum_mo_leave_1-6;Enter the museum
+texts_a19_aussen_tuer_ausgang_museum_mo_leave_7;Sneak into the museum
+texts_a19_aussen_tuer_ausgang_museum_mo_used_mit_tennisball_1-3;Throw the tennis ball into the museum
+sequences_a19_aussen_tuer_ausgang_museum_leave_1#1;[The Arab goes to the museum. Next in the hall.]
+spokentexts_a19_aussen_tuer_ausgang_museum_leave_2_st_1;That won't work. I can't just talk the guard into letting me in.
+spokentexts_a19_aussen_tuer_ausgang_museum_leave_3_st_1;Next attempt...
+sequences_a19_aussen_tuer_ausgang_museum_leave_3#4;[The Arab goes to the museum. Next in the hall.]
+spokentexts_a19_aussen_tuer_ausgang_museum_leave_4_st_1;No. Disguise or no disguise, the security guard won't let me in if I'm not a registered worker.
+spokentexts_a19_aussen_tuer_ausgang_museum_leave_5_st_1;Even if I am on the list of craftsmen... I don't look like one.
+spokentexts_a19_aussen_tuer_ausgang_museum_leave_5_st_2;The security guard might recognize me and that would be it.
+spokentexts_a19_aussen_tuer_ausgang_museum_leave_5_st_3;I should find myself a proper outfit just to be safe.
+sequences_a19_aussen_tuer_ausgang_museum_leave_6#1;[The Arab goes to the museum. Next in the hall.]
+spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_1_st_1;That might cause a commotion in the museum, but is that really necessary?
+sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_2#1;[The Arab grabs into his pocket, pulls out a tennis ball and holds it towards the dog.]
+sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_2#2;[The dog comes jumped excitedly, sits in front of the Arab, wags his tail and secured the ball]
+spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_2_st_1_direction;speaks with dog
+spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_2_st_1;Well? Who wants to become an accomplice in a burglary?
+sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_2#4;[The Arab moves the ball in front of the dog's head to the left and right, dog fixes with fascination the ball, can not wait.]
+spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_2_st_2_direction;speaks with dog
+spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_2_st_2;Yes, who wants to be an accomplice?
+sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_2#6;[The Arab gets up and tumbles the ball through the open door to the museum.]
+sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_2#7;[The dog is barking  after the ball in direction of  the museum.]
+sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3#1;[The Arab grabs into his pocket, pulls out a tennis ball and holds it towards the dog.]
+sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3#2;[The dog comes jumped excitedly, sits in front of the Arab, wags his tail and secured the ball]
+sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3#3;[The Arab gets up and tumbles the ball through the open door to the museum.]
+sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3#4;[The dog is barking behind the ball in the direction of the museum. The Arab pushes himself with his back at the door and waits.]
+spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3_st_1_direction;angry, a few meters away
+spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3_st_1;Stupid mutt...
+spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3_st_2_direction;angry, a few meters away
+spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3_st_2;I'll get you this time!
+sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3#7;[The dog comes with the ball in his mouth from the museum and is running for the stairs. There he stops and turns to the door.]
+sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3#8;[From the door the guard comes running. He runs to the dog. Dog gets scared and runs a little further down the stairs. The guard  threatens the dog.]
+spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3_st_3_direction;angry
+spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3_st_3;Next time!
+sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3#10;[Now the player has 3 seconds to click on the door (everything else is disabled). Mouseover: Sneak into the museum].
+texts_a19_aussen_tuer_ausgang_treppe_mo_leave_1;Go downstairs
+texts_a19_aussen_tuer_ausgang_treppe_mo_used_mit_tennisball_1__2;Throw the tennis ball down the stairs
+sequences_a19_aussen_tuer_ausgang_treppe_leave_1#1;[The Arab began to descend the stairs.]
+sequences_a19_aussen_tuer_ausgang_treppe_used_mit_tennisball_1#1;[See the top dog.]
+sequences_a19_aussen_tuer_ausgang_treppe_used_mit_tennisball_2#1;[See the top dog.]
+texts_a19_aussen_tuer_hund_mo_ex_1-4;Look at the dog
+texts_a19_aussen_tuer_hund_mo_talk_mit_1;Talk to the dog
+texts_a19_aussen_tuer_hund_mo_used_mit_tennisball_1__2;Play with the dog
+spokentexts_a19_aussen_tuer_hund_ex_1_st_1;I like dogs. I had a border collie back home. Followed me everywhere. He was very old, but the most loyal friend you could wish for.
+spokentexts_a19_aussen_tuer_hund_ex_2_st_1;I'd like to keep playing with the pup, but that's hardly going to get me into the museum.
+spokentexts_a19_aussen_tuer_hund_ex_3_st_1;The little dog is crazy about the ball.
+spokentexts_a19_aussen_tuer_hund_ex_3_st_2;Maybe I can somehow use that to my advantage...
+spokentexts_a19_aussen_tuer_hund_ex_4_st_1;When it comes to distracting security guards, my little partner does a good job!
+sequences_a19_aussen_tuer_hund_talk_mit_1#1;[The Arab kneels or bends down to the dog. The dog is jumping around excitedly.]
+spokentexts_a19_aussen_tuer_hund_talk_mit_1_st_1_direction;speaks with dog
+spokentexts_a19_aussen_tuer_hund_talk_mit_1_st_1;Who's a good dog?
+sequences_a19_aussen_tuer_hund_talk_mit_1#3;[The dog jumps in the vicinity of the Arab, the Arab caresses and fondles him and the dog is happy.]
+spokentexts_a19_aussen_tuer_hund_talk_mit_1_st_2_direction;speaks with dog
+spokentexts_a19_aussen_tuer_hund_talk_mit_1_st_2;Yes, who's a good dog then?
+sequences_a19_aussen_tuer_hund_talk_mit_1#5;[The dog jumps joyfully away from the Arab and the Arab stands up again.]
+spokentexts_a19_aussen_tuer_hund_talk_mit_1_st_3;Good dog. 
+spokentexts_a19_aussen_tuer_hund_used_mit_tennisball_1_st_1;Yes... That might be just the thing!
+sequences_a19_aussen_tuer_hund_used_mit_tennisball_1#2;[The Arab grabs into his pocket, pulls out a tennis ball and holds it towards the dog.]
+sequences_a19_aussen_tuer_hund_used_mit_tennisball_1#3;[The dog comes jumped excitedly, sits in front of the Arab, wags his tail and secured the ball]
+spokentexts_a19_aussen_tuer_hund_used_mit_tennisball_1_st_2_direction;speaks with dog
+spokentexts_a19_aussen_tuer_hund_used_mit_tennisball_1_st_2;You want it?
+sequences_a19_aussen_tuer_hund_used_mit_tennisball_1#5;[The Arab moves the ball in front of the dog's head to the left and right, dog fixes with fascination the ball, can not wait.]
+sequences_a19_aussen_tuer_hund_used_mit_tennisball_1#6;[The Arab gets up and throws the ball down the stairs.]
+sequences_a19_aussen_tuer_hund_used_mit_tennisball_1#7;[Cut to the square in front of the museum.]
+sequences_a19_aussen_tuer_hund_used_mit_tennisball_1#8;[While the Arab stands up there and waits, the dog runs after the ball that bounces down the stairs.]
+sequences_a19_aussen_tuer_hund_used_mit_tennisball_1#9;[At the bottom of the stairs, the dog jumps into the air and catches the ball then he runs at full speed up the stairs.]
+sequences_a19_aussen_tuer_hund_used_mit_tennisball_1#10;[Cut back to the door.]
+sequences_a19_aussen_tuer_hund_used_mit_tennisball_1#11;[The Arab takes the dog, strokes his head and takes the ball.]
+spokentexts_a19_aussen_tuer_hund_used_mit_tennisball_1_st_3_direction;speaks with dog
+spokentexts_a19_aussen_tuer_hund_used_mit_tennisball_1_st_3;Yes, you like that, don't you?
+sequences_a19_aussen_tuer_hund_used_mit_tennisball_1#13;[The Arab gets up again and takes the ball, the dog returns to its original position.]
+sequences_a19_aussen_tuer_hund_used_mit_tennisball_2#1;[The Arab grabs into his pocket, pulls out a tennis ball and throws it down stairs.]
+sequences_a19_aussen_tuer_hund_used_mit_tennisball_2#2;[The dog runs after the ball (out of the picture).]
+sequences_a19_aussen_tuer_hund_used_mit_tennisball_2#3;[The Arab is waiting a short moment, then the dogwith the ball in his mouth comes into the picture.]
+sequences_a19_aussen_tuer_hund_used_mit_tennisball_2#4;[The Arab takes the dog, strokes his head and takes the ball.]
+spokentexts_a19_aussen_tuer_hund_used_mit_tennisball_2_st_1_direction;speaks with dog
+spokentexts_a19_aussen_tuer_hund_used_mit_tennisball_2_st_1;Good dog!
+sequences_a19_aussen_tuer_hund_used_mit_tennisball_2#6;[The Arab gets up again and takes the ball, the dog returns to its original position.]
+sequences_a19_aussen_tuer_seq_a19_aussen_tuer_ankunft_von_treppe#0;[The Arab goes up the last stairs, then stands at the top of the stairs.]
+sequences_a19_aussen_tuer_seq_a19_aussen_tuer_araber_schluepft_durch_tuer#0;[The Arab slips through the door into the interior of the museum, out of sight.]
+sequences_a19_aussen_tuer_seq_a19_aussen_tuer_araber_schluepft_durch_tuer#1;"[The guard shrugs annoyed ""who cares"", turns around and walks toward the door.]"
+sequences_a19_aussen_tuer_seq_a19_aussen_tuer_ball_erstmalig_ende#0;[The dog comes running  out of the museum, puts the ball on the floor and iswaiting, tail wagging. The Arab has positioned something besie, so that the guards can not see him.]
+spokentexts_a19_aussen_tuer_seq_a19_aussen_tuer_ball_erstmalig_ende_st_1;You made yourself an enemy, pup!
+sequences_a19_aussen_tuer_seq_a19_aussen_tuer_wache_geht_zurueck#0;[The guard shrugs annoyed, turns around and goes back to the museum.]
+sequences_a19_aussen_tuer_seq_a19_aussen_tuer_wache_geht_zurueck#1;[As soon as the guard turns around, the Arab takes an unsuspecting emphasizes attitude, maybe he looks with his hand over his eyes interested in direction of the city or scratches on the walls around the museum etc.]
+sequences_a19_aussen_tuer_seq_a19_aussen_tuer_wache_geht_zurueck#2;[As soon as the guard is in the door, the Arab amkes a quick look at hiim and goes back to its normal position.]
+sequences_a19_aussen_tuer_seq_a19_aussen_tuer_wache_geht_zurueck#3;[At the same time, the dog will run up the stairs, lays the ball off with his tail wagging.]
+texts_a19_dach_ausgang_rabennest_mo_leave_1;Enter the attic
+sequences_a19_dach_ausgang_rabennest_leave_1#1;[The Arab pulls the door and climb through the opening.]
+sequences_a19_dach_ausgang_rabennest_leave_1#2;[Next in Rabennest (section 20).]
+texts_a19_dach_ausgang_seite_mo_leave_1;Climb down
+sequences_a19_dach_ausgang_seite_leave_1#1;[The Arab jumps onto the ladder begins to climb down.]
+texts_a19_dach_oberlicht_mo_ex_1__2;Look out of the skylight
+sequences_a19_dach_oberlicht_ex_1#1;[The Arab will set a foot on the rim of the light and bows over, so that he can see down.]
+spokentexts_a19_dach_oberlicht_ex_1_st_1;"There's a small room down there. Should be the museum's ""treasure chamber"" if my sense of direction is right."
+spokentexts_a19_dach_oberlicht_ex_1_st_2;The treasure chamber is down there. And beneath it is the secret basement...
+sequences_a19_dach_oberlicht_ex_1#7;[The Arab pulls his foot back, is back again as normal.]
+sequences_a19_dach_oberlicht_ex_2#1;[The Arab will set a foot on the rim of the light and bows over, so that he can see down.]
+spokentexts_a19_dach_oberlicht_ex_2_st_1;No sign of the Eye or Legrand. Shouldn't be much longer before they arrive.
+sequences_a19_dach_oberlicht_ex_2#3;[The Arab pulls his foot back, is back again as normal.]
+texts_a19_dach_schornstein_mo_ex_1-5;Examine the chimney
+texts_a19_dach_schornstein_mo_ex_3-5;Examine the wall
+sequences_a19_dach_schornstein_ex_1#1;[The Arab put his hand at the chimney.]
+spokentexts_a19_dach_schornstein_ex_1_st_1;Cold. I'd be surprised if they needed to use it often in this climate.
+spokentexts_a19_dach_schornstein_ex_2_st_1;Nothing out of the ordinary. Wait, what's this? 
+sequences_a19_dach_schornstein_ex_2#2;[The Arab has discovered something on the stone wall and touches it.]
+spokentexts_a19_dach_schornstein_ex_2_st_2;Someone scratched a triangle into the stone. Could that mean something?
+sequences_a19_dach_schornstein_ex_2#4;[The Arab pushes the bricks, trying to pull it with both hands from the wall..]
+spokentexts_a19_dach_schornstein_ex_2_st_3;Won't budge.
+spokentexts_a19_dach_schornstein_ex_3_st_1;Guessing won't get me where I need to be.
+spokentexts_a19_dach_schornstein_ex_3_st_2;I need to get the blueprints from Mister X. According to Inch, they show the secret passages in the building - and hopefully instructions for getting into them.
+spokentexts_a19_dach_schornstein_ex_4_st_1;Hmm... The secret passage is somewhere around here on the blueprints.
+spokentexts_a19_dach_schornstein_ex_4_st_2;And so is the triangle scratched into the stone...
+sequences_a19_dach_schornstein_ex_4#5;[Next in Closeup of the chimney.]
+sequences_a19_dach_schornstein_ex_5#1;[Next in Closeup of the chimney.]
+sequences_a19_dach_seq_a19_dach_geheimtuer_geoeffnet#0;[The Arab takes a step back. A click is heard and the secret door opens a gap.]
+spokentexts_a19_dach_seq_a19_dach_geheimtuer_geoeffnet_st_1;There we go.
+spokentexts_a19_dach_seq_a19_dach_geheimtuer_geoeffnet_st_2;The digits are written from right to left! In this part of the world  they read from right to left.
+texts_a19_dach_kamin_ausgang_dach_mo_leave_1;Back
+sequences_a19_dach_kamin_ausgang_dach_leave_1#1;[Next on the roof.]
+texts_a19_dach_kamin_dreick_mo_ex_1;Examine the symbol
+spokentexts_a19_dach_kamin_dreick_ex_1_st_1;That's the same triangle as on the blueprints.
+spokentexts_a19_dach_kamin_dreick_ex_1_st_2;The numbers 3, 6 and 2 are written next to it. I can't read anything else.
+texts_a19_dach_kamin_falscher_stein_mo_use_1a__1b__1c;Press the stone
+spokentexts_a19_dach_kamin_falscher_stein_use_1a_st_1;Hmm. No.
+spokentexts_a19_dach_kamin_falscher_stein_use_1b_st_1;Nothing.
+spokentexts_a19_dach_kamin_falscher_stein_use_1c_st_1;Nothing's happening.
+texts_a19_dach_kamin_richtiger_stein1_mo_use_1;Press the stone
+texts_a19_dach_kamin_richtiger_stein1_mo_use_2;Pull the stone back out
+spokentexts_a19_dach_kamin_richtiger_stein1_use_1_st_1;Maybe this one...
+sequences_a19_dach_kamin_richtiger_stein1_use_1#4;[The stone is being pushed a little into the wall.]
+spokentexts_a19_dach_kamin_richtiger_stein1_use_1_st_2_direction;pleased
+spokentexts_a19_dach_kamin_richtiger_stein1_use_1_st_2;Aha!
+sequences_a19_dach_kamin_richtiger_stein1_use_2#1;[The stone is drawn back into the original position.]
+texts_a19_dach_kamin_richtiger_stein2_mo_use_1;Press the stone
+texts_a19_dach_kamin_richtiger_stein2_mo_use_2;Pull the stone back out
+sequences_a19_dach_kamin_richtiger_stein2_use_1#1;[The stone is being pushed a little into the wall.]
+spokentexts_a19_dach_kamin_richtiger_stein2_use_1_st_1_direction;pleased
+spokentexts_a19_dach_kamin_richtiger_stein2_use_1_st_1;Very good!
+sequences_a19_dach_kamin_richtiger_stein2_use_2#1;[The stone is drawn back into the original position.]
+texts_a19_dach_kamin_richtiger_stein3_mo_use_1;Press the stone
+texts_a19_dach_kamin_richtiger_stein3_mo_use_2;Pull the stone back out
+sequences_a19_dach_kamin_richtiger_stein3_use_1#1;[The stone is being pushed a little into the wall.]
+spokentexts_a19_dach_kamin_richtiger_stein3_use_1_st_1_direction;pleased
+spokentexts_a19_dach_kamin_richtiger_stein3_use_1_st_1;Aha!
+sequences_a19_dach_kamin_richtiger_stein3_use_2#1;[The stone is drawn back into the original position.]
+spokentexts_a19_dach_kamin_seq__a19_dach_kamin_falsche_kombination_st_1;Hmm. Strange. Maybe the order is wrong?
+texts_a19_eingangsbereich_ausgang_aussen_mo_leave_1;Go outside
+texts_a19_eingangsbereich_ausgang_haupthalle_mo_leave_1;Go into the main hall
+texts_a19_eingangsbereich_charakter_geiger_mo_ex_1__2;Examine the violinist
+spokentexts_a19_eingangsbereich_charakter_geiger_ex_1_st_1;I'll keep an eye on him. When my girlfriend is around, anyway.
+spokentexts_a19_eingangsbereich_charakter_geiger_ex_2_st_1;He travels the world, giving concerts here and there. What a charmed life!
+texts_a19_eingangsbereich_charakter_pflegerin_mo_ex_1__2;Examine the woman
+spokentexts_a19_eingangsbereich_charakter_pflegerin_ex_1_st_1;The author's companion. She seems to be waiting for something.
+spokentexts_a19_eingangsbereich_charakter_pflegerin_ex_2_st_1;Maybe she's waiting for the safe too? Hmm. I wouldn't have thought she'd be so interested in the jewel.
+texts_a19_eingangsbereich_schatzkammer_mo_ex_1a__1b__2;Examine the treasure chamber
+spokentexts_a19_eingangsbereich_schatzkammer_ex_1a_st_1;The Eye hasn't taken its place in the treasure chamber yet.
+spokentexts_a19_eingangsbereich_schatzkammer_ex_1a_st_2;I'd better not show my face there.
+spokentexts_a19_eingangsbereich_schatzkammer_ex_1a_st_3;The room is under video surveillance.
+spokentexts_a19_eingangsbereich_schatzkammer_ex_1b_st_1;I'm curious what points of entry Mister X's blueprints will reveal. I think Inch paid dearly for it-he certainly seems to expect a lot from it.
+spokentexts_a19_eingangsbereich_schatzkammer_ex_2_st_1;The blueprint shows a basement located directly below the treasure chamber.
+spokentexts_a19_eingangsbereich_schatzkammer_ex_2_st_2;Why does Inch want to get inside? And how will he get into the treasure chamber from there?
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig#0;[The ball tumbles through the big door to the guard room. Moments later, the dog runs behind yapping at full speed.]
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig#1;[The dog is no longer visible on the floor of the station but the reaction of the guard is unique. He nearly falls off his chair, so scared is he.]
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig_st_1_direction;scared
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig_st_1;Arrhhh!
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig_st_2_direction;angry
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig_st_2;What are you doing?
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig#4;[The guard jumps up, then dives like he was trying to catch the dog.]
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig_st_3_direction;angry
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig_st_3;Come here... you ... argh!
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig#6;[The guard turns a few times, can not grab the little dog.]
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig#7;[Then the dog runs with the ball into the door to the outside. The guard makes a few steps menacingly behind him.]
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig_st_4;Stay away, you fleabag! Next time I'll wring your neck, even if it costs me my job!
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig#9;[The guard calms himself, looks around, if no one has seen his inappropriate outburst.]
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig#10;[Then he turns around and goes back to the guard room.]
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_keine_verkleidung_kein_eintrag#0;[The Arab is coming into the museum, looks around and takes a few steps into the hall.]
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_keine_verkleidung_kein_eintrag#1;[Cut to the museum guard in the guard room.]
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_keine_verkleidung_kein_eintrag#2;[The guard reads newspaper. He looks bored in the newspaper as the Arab comes in.]
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_keine_verkleidung_kein_eintrag_st_1;The museum is closed today. Come back tomorrow.
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_keine_verkleidung_kein_eintrag#4;[The guard looks back at the paper.]
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_keine_verkleidung_kein_eintrag#5;[The Arab goes to the switch. The conversation between Arab and the guard starts.]
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#0;[The Arab is coming into the museum, looks around and takes a few steps into the hall.]
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#1;[Cut to the museum guard in the guard room.]
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#2;[The guard reads newspaper. He looks bored in the newspaper as the Arab comes in.]
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_1;Weren't you just here?
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_2;I talked to my boss again. He said we MUST be on the list.
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#6;[The guard takes annoyed the clipboard, looks on it casually. Actually, he wants to make one point clear.]
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_3;Your boss can come and see for himself... There's no...
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_4;Hamid's...
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_5;Hmm?
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_6_direction;clears throat
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_6;Hrrm.
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_7_direction;embarrassed
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_7;My coworker's handwriting...
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_8_direction;embarrassed
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_8;Can hardly make out a single word...
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#13;[The guard puts down the clipboard.]
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_kein_eintrag_st_2;Or... Are you one of the craftsmen?
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_11;I am indeed.
+spokentexts_wache_top_a19_wache_handwerker_ja_tseq_st_2;All right.
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#19;[The guard picks up the clipboard. He focused the cap of the Arab, trying to read the writing. Then he looks through the list.]
+spokentexts_wache_top_a19_wache_handwerker_ja_tseq_st_3_direction;reads
+spokentexts_wache_top_a19_wache_handwerker_ja_tseq_st_3;Hamid's... Hamid's... Hamid's...
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_14;Ah, yes. Here.
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#22;[The guard pulls out a visitor's pass, places it on the counter.]
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_15;Here. Put this on.
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#24;[The guard begins to read again.]
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#25;[The Arab takes the visitor pass.]
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_16;Many thanks.
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_17_direction;bored hum
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_17;Hmmh.
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#28;[From now on, the Arab can move freely through the museum and enters it at any time.]
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_kein_eintrag#0;[The Arab is coming into the museum, looks around and takes a few steps into the hall.]
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_kein_eintrag#1;[Cut to the museum guard in the guard room.]
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_kein_eintrag#2;[The guard reads newspaper. He looks bored in the newspaper as the Arab comes in.]
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_kein_eintrag#5;[The Arab goes to the switch. The conversation between Arab and the guard starts.]
+sequences_a19_eingangsbereich_seq_a19_eingangsbereich_wache_geht_zurueck#0;[The guard enters the guard room, sits down and begins to read again.]
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_wache_geht_zurueck_st_1_direction;annoyed mutters to himself
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_wache_geht_zurueck_st_1;Stupid dog, he's too quick...
+texts_a19_haupthalle_ausgang_eingangsbereich_mo_leave_1;Go upstairs
+sequences_a19_haupthalle_ausgang_eingangsbereich_leave_1#1;[The Arab began to go up the stairs.]
+texts_a19_haupthalle_charakter_schriftstellerin_mo_ex_1;Look at Lady Westmacott
+spokentexts_a19_haupthalle_charakter_schriftstellerin_ex_1_st_1;I'd better stay away from her. There's always a risk that someone observant might recognize me.
+spokentexts_a19_haupthalle_charakter_schriftstellerin_ex_1_st_2;And I bet that the lady is a very good observer.
+texts_a19_haupthalle_plan_des_museums_mo_inventar_1;Museum blueprints
+spokentexts_a19_haupthalle_plan_des_museums_ex_1_st_1;The secret blueprints for the museum show a basement below the treasure chamber with two entrances.
+spokentexts_a19_haupthalle_plan_des_museums_ex_1_st_2;One entrance is in the main hall behind the statue on the wall.
+spokentexts_a19_haupthalle_plan_des_museums_ex_1_st_3;The second can be reached via the roof and an attic room.
+texts_a19_haupthalle_statue_imhotep_mo_use_1;Look beneath the statue
+spokentexts_a19_haupthalle_statue_imhotep_ex_1_st_1;Imhotep.
+sequences_a19_haupthalle_statue_imhotep_use_1#2;[The Arab is looking around. Then he pushes the figur back slightly so that it can grab under the base of the figure, and takes a multiply folded plan.]
+sequences_a19_haupthalle_statue_imhotep_use_1#3;[The Arab flips the statue back into place and looks around. He has not been observed.]
+spokentexts_a19_haupthalle_statue_imhotep_use_1_st_2;All right, I've got the blueprints.
+sequences_a19_haupthalle_statue_imhotep_use_1#5;[The Arab goes a few steps away from the statue, unfolds the plan , places it on a display case.]
+spokentexts_a19_haupthalle_statue_imhotep_use_1_st_3;And since I'm a craftsman, it won't seem suspicious if I study them.
+sequences_a19_haupthalle_statue_imhotep_use_1#7;[Cut. The camera shows from slightly down the Arab, as he carefully studied the plan.]
+sequences_a19_haupthalle_statue_imhotep_use_1#8;[The Arab studies the plan, moves his fingers over it.]
+spokentexts_a19_haupthalle_statue_imhotep_use_1_st_4;Here's the treasure chamber. There's another room beneath it...
+spokentexts_a19_haupthalle_statue_imhotep_use_1_st_5;And here's the entrance...
+sequences_a19_haupthalle_statue_imhotep_use_1#11;[The Arab turns to the statue on the wall, estimates the distance.]
+spokentexts_a19_haupthalle_statue_imhotep_use_1_st_6;Somewhere near the statue.
+sequences_a19_haupthalle_statue_imhotep_use_1#13;[The Arab turns back to the plan.]
+spokentexts_a19_haupthalle_statue_imhotep_use_1_st_7;And there seems to be another entrance that...
+spokentexts_a19_haupthalle_statue_imhotep_use_1_st_8_direction;stern tone, slightly disguised voice
+spokentexts_a19_haupthalle_statue_imhotep_use_1_st_8;What are you doing there?!
+sequences_a19_haupthalle_statue_imhotep_use_1#16;[The Arab startled.]
+sequences_a19_haupthalle_statue_imhotep_use_1#17;[Cut further away.]
+sequences_a19_haupthalle_statue_imhotep_use_1#18;[The young woman stands in front of the Arab. The Arab is relaxing.]
+spokentexts_a19_haupthalle_statue_imhotep_use_1_st_9_direction;It's you
+spokentexts_a19_haupthalle_statue_imhotep_use_1_st_9;Ah. It's you.
+sequences_a19_haupthalle_statue_imhotep_use_1#20;[The young woman looks around to see if she's not observed. Then she leans closer to the Arab.]
+spokentexts_a19_haupthalle_statue_imhotep_use_1_st_10_direction;normal voice, curious
+spokentexts_a19_haupthalle_statue_imhotep_use_1_st_10;What's going on? And what happened on the ship?
+texts_a19_haupthalle_wand_mo_ex_1;Examine the statue
+texts_a19_haupthalle_wand_mo_ex_2a__2b;Examine the wall
+spokentexts_a19_haupthalle_wand_ex_1_st_1;The secret entrance to the basement must be behind the statue...
+spokentexts_a19_haupthalle_wand_ex_1_st_2;It's well disguised... Otherwise, it wouldn't have gone undetected for decades.
+sequences_a19_haupthalle_wand_ex_2a#1;[The Arab goes closer to the statue, trying to find something, but don't find anything.]
+spokentexts_a19_haupthalle_wand_ex_2a_st_1;I can't see anything. No cracks, no handle...
+spokentexts_a19_haupthalle_wand_ex_2b_st_1;I won't be able to open the door from this side. I'll try to get in through the roof, then take the stairs to the basement and have a go from inside.
+texts_a19_seite_anhaengerkupplung_mo_ex_1;Examine the hitch
+texts_a19_seite_anhaengerkupplung_mo_take_1;Take the tennis ball
+spokentexts_a19_seite_anhaengerkupplung_ex_1_st_1;There's a tennis ball stuck on the tow hitch.
+spokentexts_a19_seite_anhaengerkupplung_ex_1_st_2;People do that to protect the hitch, and their trouser legs, from the grease.
+sequences_a19_seite_anhaengerkupplung_take_1#1;[The Arab looks around, he kneels, then he grabs down and pulls the broken ball out of the coupling. Then he gets up and takes the ball.]
+spokentexts_a19_seite_anhaengerkupplung_take_1_st_1;Got it.
+texts_a19_seite_ausgang_aussen_mo_leave_1;Go to the museum entrance
+sequences_a19_seite_ausgang_aussen_leave_1#1;[The Arab left the side street, comes out in front of the museum.]
+texts_a19_seite_draht_mo_inventar_1__2;Wire
+spokentexts_a19_seite_draht_ex_1_st_1;A thick wire frame from the umbrella. It keeps it open in the wind.
+spokentexts_a19_seite_draht_ex_2_st_1;With a bit of imagination, you could call the bent tip a hook...
+texts_a19_seite_feuerleiter_mo_ex_1a__1b;Examine the fire ladder
+texts_a19_seite_feuerleiter_mo_leave_1;Climb onto the roof
+texts_a19_seite_feuerleiter_mo_use_1;Climb up the ladder
+texts_a19_seite_feuerleiter_mo_used_mit_draht;Pull the fire ladder down
+spokentexts_a19_seite_feuerleiter_ex_1a_st_1;Interesting... A fire ladder. Maybe I can get into the museum from the roof?
+spokentexts_a19_seite_feuerleiter_ex_1a_st_2;The secret entrance to one of the attics is up there. The ladder seems to be the only way up.
+spokentexts_a19_seite_feuerleiter_ex_1b_st_1;The ladder is too high to reach from here.
+spokentexts_a19_seite_feuerleiter_ex_1b_st_2;I guess they expect people to just fall the rest of the way if there's a fire.
+spokentexts_a19_seite_feuerleiter_ex_2_st_1;The back of the truck is just what I need to get close enough to the lowest rung.
+sequences_a19_seite_feuerleiter_leave_1#3;[The Arab goes to the transporter, jumps on the Loadingplateau.]
+sequences_a19_seite_feuerleiter_leave_1#4;[During the animation fade to black and then on the roof.]
+sequences_a19_seite_feuerleiter_leave_1#6;[The Arab stands under the ladder, is looking up. Then he jumps up and holds on to the bottom rung.]
+sequences_a19_seite_feuerleiter_leave_1#7;[During the animation fade to black and then on the roof.]
+sequences_a19_seite_feuerleiter_use_1#3;[The Arab goes to the transporter, jumps on the Loadingplateau.]
+sequences_a19_seite_feuerleiter_use_1#4;[The Arab stands under the ladder, is looking up. Then he jumps up and holds on to the bottom rung.]
+spokentexts_a19_seite_feuerleiter_use_1_st_1_direction;Jumps to the ladderrung and holds on
+spokentexts_a19_seite_feuerleiter_use_1_st_1;Hhpp!
+sequences_a19_seite_feuerleiter_use_1#6;[The Arab pulls himself up two or three steps, then he can get the lowest level with the foot. He pushes himself away and is on the ladder.]
+spokentexts_a19_seite_feuerleiter_use_1_st_2_direction;Effort in climbing
+spokentexts_a19_seite_feuerleiter_use_1_st_2;Hrgh! Hrrr!
+sequences_a19_seite_feuerleiter_use_1#8;[He begins to climb the ladder.]
+spokentexts_a19_seite_feuerleiter_used_mit_draht_st_1;It doesn't seem like I can pull the ladder down.
+texts_a19_seite_muelltonne_mo_ex_1__2;Search the trash can
+spokentexts_a19_seite_muelltonne_ex_1_st_1;I have to improvise if I want to get into the museum...
+sequences_a19_seite_muelltonne_ex_1#2;[The Arab is searching the garbage can, maybe takes out something, looks at it and throws it away. One or two other things he could move to the side.]
+sequences_a19_seite_muelltonne_ex_1#3;[The Arab reflects and grabs into the bin. He pulls out a broken umbrella, opens it and holds it over his head. Umrella is somehow broken]
+spokentexts_a19_seite_muelltonne_ex_1_st_2_direction;frustrated exhalation
+spokentexts_a19_seite_muelltonne_ex_1_st_2;Aaahh.
+sequences_a19_seite_muelltonne_ex_1#5;[The Arab closes the umbrella, places it somewhere visible beside the bin.]
+spokentexts_a19_seite_muelltonne_ex_1_st_3;Nothing.
+spokentexts_a19_seite_muelltonne_ex_2_st_1;I never imagined I'd be up to my elbows in garbage! And I still haven't found anything.
+texts_a19_seite_regenschirm_mo_ex;Check the umbrella
+spokentexts_a19_seite_regenschirm_ex_1_st_1;Do I need an umbrella in Cairo?
+spokentexts_a19_seite_regenschirm_ex_1_st_2;Or could it help me get into the museum?
+spokentexts_a19_seite_regenschirm_ex_1_st_3;Hmm.
+sequences_a19_seite_regenschirm_ex_1#4;[The Arab take the umbrella in his hand, turns it. Finally, he makes a decision and pulls out one of the wires.]
+spokentexts_a19_seite_regenschirm_ex_1_st_4;A rod like that could be useful...
+sequences_a19_seite_regenschirm_ex_1#6;[The Arab puts the umbrella back into the bin.]
+sequences_a19_seite_regenschirm_ex_1#7;[Umbrella off. Bin too, as long it was not open already]
+texts_a19_seite_tennisball_mo_inventar;Tennis ball
+texts_a19_seite_tennisball_mo_take_1;Take the tennis ball
+spokentexts_a19_seite_tennisball_ex_1_st_1;The tennis ball is slit open and the inside is smeared with grease. No one will ever play tennis with this now.
+sequences_a19_seite_tennisball_take_1#1;[The Arab bows, picks up the ball, gets up and takes the ball.]
+texts_a19_seite_transporter_mo_ex_1;Examine the van
+texts_a19_seite_transporter_mo_use_1__2;Push the van backwards
+texts_a19_seite_transporter_mo_use_3;Climb on the bed
+texts_a19_seite_transporter_mo_use_4;Climb off the bed
+spokentexts_a19_seite_transporter_ex_1_st_1;I bet the craftsmen are nearby. If not in the museum, then somewhere around here.
+sequences_a19_seite_transporter_use_1#1;[The Arab is leaning against the car, trying to move it. Nothing happens. The Arab gives up.]
+spokentexts_a19_seite_transporter_use_1_st_1;Nope. The handbrake is on.
+sequences_a19_seite_transporter_use_2#1;[The Arab is leaning against the car. With all his strength, he is able to move the car about two feet to the rear.]
+spokentexts_a19_seite_transporter_use_2_st_1_direction;Effort in pushing
+spokentexts_a19_seite_transporter_use_2_st_1;Hrrgm. Haarrg.
+sequences_a19_seite_transporter_use_2#3;[The Arab lets go of the car and looks up to the ladder. He rubs his hands together in order to clean it.]
+spokentexts_a19_seite_transporter_use_2_st_2_direction;satisfied
+spokentexts_a19_seite_transporter_use_2_st_2;That should do it.
+sequences_a19_seite_transporter_use_3#1;[The Arab climbs on the loading area]
+sequences_a19_seite_transporter_use_4#1;[The Arab climbs off the loading area]
+texts_a19_seite_transportertuer_mo_ex_1;Examine the van
+texts_a19_seite_transportertuer_mo_ex_2;Examine the van door
+texts_a19_seite_transportertuer_mo_use_1;Open the door
+texts_a19_seite_transportertuer_mo_use_2;Search the van
+texts_a19_seite_transportertuer_mo_used_mit_draht_1__2;Open the door with the wire
+spokentexts_a19_seite_transportertuer_ex_1_st_1;I hope the owner doesn't come back while I'm tampering with the truck.
+spokentexts_a19_seite_transportertuer_ex_1_st_2;Craftsmen aren't known for their calm, sympathetic natures.
+spokentexts_a19_seite_transportertuer_ex_2_st_1;The door is closed and I don't want to break the window. Someone might hear the sound and call the police.
+spokentexts_a19_seite_transportertuer_ex_3_st_1;The door is slightly open. I can get into the truck whenever I want to.
+sequences_a19_seite_transportertuer_use_1#1;[The Arab tries to open the door. It's locked.]
+spokentexts_a19_seite_transportertuer_use_1_st_1;Locked.
+sequences_a19_seite_transportertuer_use_2#1;[The Arab opens the door, leans on the driver's seat and looks inside.]
+spokentexts_a19_seite_transportertuer_used_mit_draht_1_st_1;Hmm. I could probably reach the door lock with the rod. But how's it supposed to catch hold?
+sequences_a19_seite_transportertuer_used_mit_draht_2#1;[The Arab pulls out the wire and put it emphasizes inconspicuously on the glass along the door seal. He leans against the car as he would be the there without a motive.]
+sequences_a19_seite_transportertuer_used_mit_draht_2#2;[The Arab pushes the wire pushes further and further down and tries to feel something with the wire. Finally, he has it.]
+sequences_a19_seite_transportertuer_used_mit_draht_2#3;[With a little push, the opener is activated and the door opens a piece. The Arab throws away satisfied the wire.]
+spokentexts_a19_seite_transportertuer_used_mit_draht_2_st_1_direction;complacent
+spokentexts_a19_seite_transportertuer_used_mit_draht_2_st_1;A true jack-of-all-trades!
+sequences_a19_seite_seq_a19_aussen_ankunft_araber#0;[The butler is at the transporter, wipes perhaps with a finger over it and looks at his dust-covered fingers. He's boring, he have to pass the time.]
+sequences_a19_seite_seq_a19_aussen_ankunft_araber#1;[The Arab is coming more near. The butler looks up, puts himself in talk position. The Arab gets up in talk pose in front of him.]
+spokentexts_a19_seite_seq_a19_aussen_ankunft_araber_st_1;Mr. Jamal...I'm glad you could make it.
+spokentexts_a19_seite_seq_a19_aussen_ankunft_araber_st_2;Let's get this over with.
+spokentexts_a19_seite_seq_a19_aussen_ankunft_araber_st_3;Still angry on account of the good doctor?
+spokentexts_a19_seite_seq_a19_aussen_ankunft_araber_st_4;You disgust me.
+spokentexts_a19_seite_seq_a19_aussen_ankunft_araber_st_5_direction;'And I love you' emphasizes friendly
+spokentexts_a19_seite_seq_a19_aussen_ankunft_araber_st_5;You'll be rid of me in less than two hours. And I of you.
+sequences_a19_seite_seq_a19_aussen_betreten_vom_dach#0;[The Arab is on the last rung of the ladder and let himself fall into the back of the van.]
+sequences_a19_seite_seq_a19_aussen_betreten_vom_dach#1;[Immediately after, he jumps with one smooth motion of the platform to the ground. The whole thing is to go fast and but elegant]
+sequences_a19_seite_seq_a19_aussen_verkleidung_angelegt#0;[The Arab now wears a overall. The hat is not on his head. Fade-in.]
+sequences_a19_seite_seq_a19_aussen_verkleidung_angelegt#1;[Animaton: The Arab is behind the truck, where he changed his clothes. He stays with his cap in hand, is looking himself.]
+spokentexts_a19_seite_seq_a19_aussen_verkleidung_angelegt_st_1;I'm afraid the painter discarded the overalls because he didn't want to walk around in sweat-soaked clothes all day.
+spokentexts_a19_seite_seq_a19_aussen_verkleidung_angelegt_st_2;But what the heck? I have no choice.
+sequences_a19_seite_seq_a19_aussen_verkleidung_angelegt#4;[The Arab put the cap on his head.]
+sequences_a19_seite_seq_a19_aussen_verkleidung_angelegt#5;[The Arab is from now on with the hat on his head.]
+spokentexts_a19_seite_seq_a19_aussen_verkleidung_angelegt_st_3;A handsome man always looks good. And the disguise works.
+texts_a19_seite_transporter_ausgang_mo_leave_1;Back to the street
+sequences_a19_seite_transporter_ausgang_leave_1#1;[The Arab gets up.]
+texts_a19_seite_transporter_autoradio_mo_use_1;Turn on the radio
+spokentexts_a19_seite_transporter_autoradio_ex_1_st_1;An expensive radio in a truck? Seems like someone has more money than they know what to do with.
+sequences_a19_seite_transporter_autoradio_use_1#1;[The Arab turns on the radio.]
+sequences_a19_seite_transporter_autoradio_use_1#2;[Music plays.]
+spokentexts_a19_seite_transporter_autoradio_use_1_st_1_direction;hums with the music
+spokentexts_a19_seite_transporter_autoradio_use_1_st_1;Hm-hm-ba-hmm-hum.
+sequences_a19_seite_transporter_autoradio_use_1#4;[The Arab turns off the radio.]
+texts_a19_seite_transporter_handbremse_mo_use_1;Release the handbrake
+texts_a19_seite_transporter_handbremse_mo_use_2;Engage the handbrake
+spokentexts_a19_seite_transporter_handbremse_ex_1_st_1;The handbrake is on...
+spokentexts_a19_seite_transporter_handbremse_ex_2__st_1;I released the handbrake...
+sequences_a19_seite_transporter_handbremse_use_1#1;[The Arab triggers the emergency brake.]
+sequences_a19_seite_transporter_handbremse_use_2#1;[The Arab pulls the handbrake on.]
+texts_a19_seite_transporter_latzhose_mo_ex_1;Search the footwell
+texts_a19_seite_transporter_latzhose_mo_use_1;Put on the painter's clothes
+spokentexts_a19_seite_transporter_latzhose_ex_1_st_1;What's this?
+sequences_a19_seite_transporter_latzhose_ex_1#2;[The Arab grabs down and lays trousers and cap on the passenger seat. He lifts a corner to view the trouser better.]
+spokentexts_a19_seite_transporter_latzhose_ex_1_st_2_direction;whistling, sarcastic
+spokentexts_a19_seite_transporter_latzhose_ex_1_st_2;Wow! Nice!
+sequences_a19_seite_transporter_latzhose_ex_1#4;[The Arab let go of the pants, goes back into idle.]
+spokentexts_a19_seite_transporter_latzhose_ex_2_st_1;Overalls and a baseball cap, like a painters outfit.
+sequences_a19_seite_transporter_latzhose_use_1#1;[The Arab grabs his pants and gets up.]
+sequences_a19_seite_transporter_latzhose_use_1#2;"[Fade out. Next on the side street, sequence ""Verkleidung_angelegt"".]"
+texts_a19_wachstube_ausgang_eingangshalle_mo_leave_1-3;Sneak out
+sequences_a19_wachstube_ausgang_eingangshalle_leave_1#1;"[The Arab shakes his head. He points at the guard and shrugs his shoulders as if wants to say ""How can I sneak him past?""]"
+sequences_a19_wachstube_ausgang_eingangshalle_leave_2#1;"[The Arab shakes his head. He points at the guard and shrugs his shoulders as if wants to say ""How can I sneak him past?""]"
+sequences_a19_wachstube_ausgang_eingangshalle_leave_2#2;[But then the guard gets up surprising. The Arab withdrew his head and quietly peeks around the corner of the desk.]
+sequences_a19_wachstube_ausgang_eingangshalle_leave_2#3;[The guard goes to the coffee machine, pours himself a cup. He takes a sip, slams the mug on the table and keeps his lips.]
+spokentexts_a19_wachstube_ausgang_eingangshalle_leave_2_st_1_direction;angry, scared
+spokentexts_a19_wachstube_ausgang_eingangshalle_leave_2_st_1;What the HELL!
+spokentexts_a19_wachstube_ausgang_eingangshalle_leave_2_st_2_direction;outraged, it hurts
+spokentexts_a19_wachstube_ausgang_eingangshalle_leave_2_st_2;Aaahrgh!
+sequences_a19_wachstube_ausgang_eingangshalle_leave_2#6;[The guard is outraged that he has burned his lips, but don't know what to do against it. Finally, he left the guard station and in holds still his lips.]
+spokentexts_a19_wachstube_ausgang_eingangshalle_leave_2_st_3;This is my chance!
+sequences_a19_wachstube_ausgang_eingangshalle_leave_2#8;[The Arab slips out of the station.]
+sequences_a19_wachstube_ausgang_eingangshalle_leave_3#1;[The Arab looks around the corner of the desk, will wait for a good moment.]
+sequences_a19_wachstube_ausgang_eingangshalle_leave_3#2;[The guard puts down the newspaper, fumbles around again on his lips.]
+spokentexts_a19_wachstube_ausgang_eingangshalle_leave_3_st_1_direction;annoyed because it hurts
+spokentexts_a19_wachstube_ausgang_eingangshalle_leave_3_st_1;Rrrr! It's still burning!
+sequences_a19_wachstube_ausgang_eingangshalle_leave_3#4;[The guard gets up and leaves the guard station.]
+sequences_a19_wachstube_ausgang_eingangshalle_leave_3#5;[The Arab slips out of the station.]
+texts_a19_wachstube_kaffeemaschine_mo_use;Tamper with the coffee machine
+sequences_a19_wachstube_kaffeemaschine_use_1#1;[The Arab is sneaking to the coffee machine and turns a knob. Steam rises, he increased the temperature.]
+sequences_a19_wachstube_kaffeemaschine_use_1#2;[The Arab is sneaking back into his hiding place.]
+texts_a19_wachstube_klemmbrett_mo_use_1__2;Write a name on the list
+texts_a19_wachstube_klemmbrett_mo_use_3;Write the company name on the list
+sequences_a19_wachstube_klemmbrett_use_1#1;[The Arab sneaks gently behind the seat back of the guard.]
+sequences_a19_wachstube_klemmbrett_use_1#2;[The Arab looks carefully, if the guard is not looking, and then scans with the hand after the clipboard.]
+sequences_a19_wachstube_klemmbrett_use_1#3;[The Guard clears throat , shakes the newspaper. The Arab frozen.]
+sequences_a19_wachstube_klemmbrett_use_1#4;[Then he gently pulls the board from the table and holds it in his hand.]
+sequences_a19_wachstube_klemmbrett_use_2#1;[The Arab sneaks gently behind the seat back of the guard.]
+sequences_a19_wachstube_klemmbrett_use_2#2;[The Arab looks carefully, if the guard is not looking, and then scans with the hand after the clipboard.]
+sequences_a19_wachstube_klemmbrett_use_3#1;[The Arab sneaks gently behind the seat back of the guard.]
+sequences_a19_wachstube_klemmbrett_use_3#2;[The Arab writes something at that clipboard.]
+sequences_a19_wachstube_klemmbrett_use_3#3;[The Arab puts the clipboard back and sneaks back into its normal position.]
+texts_a19_wachstube_schublade_mo_ex_1;Search the drawer
+texts_a19_wachstube_schublade_mo_use_1;Open the drawer
+texts_a19_wachstube_schublade_mo_use_2;Close the drawer
+sequences_a19_wachstube_schublade_ex_1#1;[The Arab is looking in the drawer. He grabs in, holding up a ruler. He shakes his head and puts it back. ]
+sequences_a19_wachstube_schublade_ex_1#2;"[He makes a ""nothing in it for me"" gesture.]"
+sequences_a19_wachstube_schublade_use_1#1;[The Arab pulls the drawer slowly. A scraping noise appears. The Arab is freezing.]
+sequences_a19_wachstube_schublade_use_1#2;[The guard looks up briefly looks behind him, but can not see anything and continues to read.]
+sequences_a19_wachstube_schublade_use_1#3;[The Arab of opens the drawer a little further.]
+sequences_a19_wachstube_schublade_use_2#1;[The Arab shakes his head and points to the Guard.]
+sequences_a19_wachstube_seq_a19_wachstube_ankunft#1;[The Arab is coming crouched in the guard room, looks around. Behind him, the guard comes through the door. The Arab looks panicked for a solution and can hids himself under the desk.]
+sequences_a19_wachstube_seq_a19_wachstube_ankunft#2;[Almost simultaneously enters the guard. He goes to the coffee machine, turns it on. Then he goes to the desk, sits down and takes the newspaper.]
+sequences_a19_wachstube_seq_a19_wachstube_ankunft#3;[The guard now reads, he glances through the window somtimes an turns the page.]
+sequences_a19_wachstube_seq_a19_wachstube_ankunft#5;[The Arab is coming crouched in the guard room. Behind him again comes the guard. Slightly annoyed the Arab slides under the desk.]
+sequences_a19_wachstube_seq_a19_wachstube_ankunft#6;[The guard comes in, sits down on the chair and begins to read.]
+texts_butler_top_a19_butler_arzt_tseq_title;Doctor's murder
+spokentexts_butler_top_a19_butler_arzt_tseq_st_1;Will there be more deaths? Here in the museum?
+spokentexts_butler_top_a19_butler_arzt_tseq_st_2;If you follow my instructions, no.
+spokentexts_butler_top_a19_butler_arzt_tseq_st_3;If people are in danger, I'll call the whole thing off.
+spokentexts_butler_top_a19_butler_arzt_tseq_st_4;I don't kill for fun-only when it's necessary.
+spokentexts_butler_top_a19_butler_arzt_tseq_st_5_direction;quietly
+spokentexts_butler_top_a19_butler_arzt_tseq_st_5;Is it ever really necessary?
+spokentexts_butler_top_a19_butler_arzt_tseq_st_6;Sometimes.
+spokentexts_butler_top_a19_butler_arzt_tseq_st_7;Revenge, for example-when one has been betrayed.
+texts_butler_top_a19_butler_der_einbruch_tseq_title;The burglary.
+spokentexts_butler_top_a19_butler_der_einbruch_tseq_st_1;What happens next?
+spokentexts_butler_top_a19_butler_der_einbruch_tseq_st_2;And what about Legrand?
+spokentexts_butler_top_a19_butler_der_einbruch_tseq_st_3;My diversion worked wonderfully.
+spokentexts_butler_top_a19_butler_der_einbruch_tseq_st_4;The press has laid siege to the French embassy and Legrand won't be able escape them.
+spokentexts_butler_top_a19_butler_der_einbruch_tseq_st_5;He should arrive in a few minutes with the safe and then he'll have to answer ridiculous questions from reporters all afternoon.
+spokentexts_butler_top_a19_butler_der_einbruch_tseq_st_6_direction;as statement
+spokentexts_butler_top_a19_butler_der_einbruch_tseq_st_6;That's why we're striking now.
+spokentexts_butler_top_a19_butler_der_einbruch_tseq_st_7;A regrettable necessity. I would have preferred to make my grand entrance this evening at the gala.
+spokentexts_butler_top_a19_butler_der_einbruch_tseq_st_8;But yes, we will strike as soon as the safe is in the treasure chamber and Legrand has left.
+texts_butler_top_a19_butler_keller_tseq_title;Basement
+spokentexts_butler_top_a19_butler_keller_tseq_st_1;What's the next step?
+spokentexts_butler_top_a19_butler_keller_tseq_st_2;What's the next step after the basement?
+spokentexts_butler_top_a19_butler_keller_tseq_st_3;You'll find out when it's time.
+spokentexts_butler_top_a19_butler_keller_tseq_st_4_direction;he realizes that he can not discuss it
+spokentexts_butler_top_a19_butler_keller_tseq_st_4;But... Hmmrr.
+texts_butler_top_a19_butler_mister_x_tseq_title;Mister X...
+spokentexts_butler_top_a19_butler_mister_x_tseq_st_1_direction;slightly derogatory
+spokentexts_butler_top_a19_butler_mister_x_tseq_st_1;Have you... already met your Mister X?
+spokentexts_butler_top_a19_butler_mister_x_tseq_st_2_direction;affirmative
+spokentexts_butler_top_a19_butler_mister_x_tseq_st_2;He's counting an envelope of unmarked bills as we speak. He put the blueprints under the statue of Imhotep.
+spokentexts_butler_top_a19_butler_mister_x_tseq_st_3;Blueprints?
+spokentexts_butler_top_a19_butler_mister_x_tseq_st_4;A sketch of the museum. Not the kind you can get just anywhere.
+spokentexts_butler_top_a19_butler_mister_x_tseq_st_5;This one shows secret entrances, basements and attic rooms that the resistance used during the war.
+spokentexts_butler_top_a19_butler_mister_x_tseq_st_6;That's what it was about.
+spokentexts_butler_top_a19_butler_mister_x_tseq_st_7;Get the blueprints. There's a basement below the treasure chamber. The entrance should be marked on the blueprints.
+spokentexts_butler_top_a19_butler_mister_x_tseq_st_8;Open it and give me a sign.
+texts_butler_top_a19_butler_verabschieden_tseq_title;Say goodbye
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_1_direction;unsatisfied with the situation
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_1;All right then-I'll pay a visit to Imhotep and we'll meet in the basement.
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_2;Good monkey!
+sequences_butler_top_a19_butler_verabschieden_tseq#2;[The butler has already made the first one or two steps, and remains standing as he looks again at the Arab. The Arab turns to him.]
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_3;Oh, and by the way, the museum is closed to visitors until tomorrow.
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_4;Then how...?
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_5;You'll find a way.
+sequences_butler_top_a19_butler_verabschieden_tseq#6;[The butler leaves.]
+texts_frau_top_a19_frau_butler_tseq_title;Inch's plan
+spokentexts_frau_top_a19_frau_butler_tseq_st_1;And he won't even tell me his plan.
+spokentexts_frau_top_a19_frau_butler_tseq_st_2;I don't know what Inch's plan is yet.
+spokentexts_frau_top_a19_frau_butler_tseq_st_3;I'm supposed to get these blueprints and open a secret entrance to the basement, beneath the treasure chamber.
+spokentexts_frau_top_a19_frau_butler_tseq_st_4;A basement under the treasure chamber?
+spokentexts_frau_top_a19_frau_butler_tseq_st_5;"I didn't know about that before. Inch somehow heard about it and ""Mister X"" took care of the rest."
+spokentexts_frau_top_a19_frau_butler_tseq_st_6;What's he planning?
+spokentexts_frau_top_a19_frau_butler_tseq_st_7;I don't know.
+spokentexts_frau_top_a19_frau_butler_tseq_st_8_direction;worried
+spokentexts_frau_top_a19_frau_butler_tseq_st_8;I don't like it.
+spokentexts_frau_top_a19_frau_butler_tseq_st_9;Me neither.
+texts_frau_top_a19_frau_grundriss_tseq_title;Layout
+spokentexts_frau_top_a19_frau_grundriss_tseq_st_1;The blueprints show the basement below the treasure chamber and two entrances.
+spokentexts_frau_top_a19_frau_grundriss_tseq_st_2;One of them is over there. But it seems to be closed.
+sequences_frau_top_a19_frau_grundriss_tseq#2;[The Arab points towards the wall behind the statue.]
+spokentexts_frau_top_a19_frau_grundriss_tseq_st_3;And the other?
+spokentexts_frau_top_a19_frau_grundriss_tseq_st_4;It's on the roof. And there are stairs from an attic down to the basement.
+spokentexts_frau_top_a19_frau_grundriss_tseq_st_5;And how are you supposed to get into the attic?
+spokentexts_frau_top_a19_frau_grundriss_tseq_st_6_direction;thoughtful, studied the plan
+spokentexts_frau_top_a19_frau_grundriss_tseq_st_6;That's the question...
+sequences_frau_top_a19_frau_grundriss_tseq#7;[The Arab begin again to study the plan.]
+spokentexts_frau_top_a19_frau_grundriss_tseq_st_7;There's a small triangle here on the roof, with three numbers next to it: 3, 6 and 2.
+spokentexts_frau_top_a19_frau_grundriss_tseq_st_8;Some kind of code?
+spokentexts_frau_top_a19_frau_grundriss_tseq_st_9;I'll have a look around... It'll be OK.
+sequences_frau_top_a19_frau_grundriss_tseq#11;[The Arab looks back up.]
+spokentexts_frau_top_a19_frau_grundriss_tseq_st_10;I wish I had your confidence.
+texts_frau_top_a19_frau_schiff_tseq_title;Events on the ship
+spokentexts_frau_top_a19_frau_schiff_tseq_st_1;Everything is all right. I was able to stop the doctor.
+spokentexts_frau_top_a19_frau_schiff_tseq_st_2;About the ship... I was able to stop the doctor.
+spokentexts_frau_top_a19_frau_schiff_tseq_st_3;What happened to him?
+spokentexts_frau_top_a19_frau_schiff_tseq_st_4;Inch.
+spokentexts_frau_top_a19_frau_schiff_tseq_st_5_direction;shocked
+spokentexts_frau_top_a19_frau_schiff_tseq_st_5;You mean he...
+spokentexts_frau_top_a19_frau_schiff_tseq_st_6;There was nothing I could do.
+texts_frau_top_a19_frau_verabschieden_tseq_title;Say goodbye
+spokentexts_frau_top_a19_frau_verabschieden_tseq_st_1;It's time for the grand finale, don't you agree?
+spokentexts_frau_top_a19_frau_verabschieden_tseq_st_2_direction;softly, encouragingly
+spokentexts_frau_top_a19_frau_verabschieden_tseq_st_2;Take care of yourself.
+spokentexts_frau_top_a19_frau_verabschieden_tseq_st_3;You, too.
+sequences_frau_top_a19_frau_verabschieden_tseq#3;[The two are looking each other in love, smiling.]
+spokentexts_frau_top_a19_frau_verabschieden_tseq_st_4;A plan always seems much easier when you're just talking about it, doesn't it?
+spokentexts_frau_top_a19_frau_verabschieden_tseq_st_5;Yes. But not half as exciting!
+sequences_frau_top_a19_frau_verabschieden_tseq#6;[The woman smiles at him, then turns and walks away.]
+sequences_frau_top_a19_frau_verabschieden_tseq#7;[The Arab looks her briefly happy, then he pulls himself together and looks at the plan.]
+spokentexts_frau_top_a19_frau_verabschieden_tseq_st_6;OK. I have to open the door to the basement. Let's go!
+sequences_frau_top_a19_frau_verabschieden_tseq#9;[The Arab folds the plan and takes it.]
+texts_wache_top_a19_wache_andere_besucher_tseq_title;Visitors in the museum
+spokentexts_wache_top_a19_wache_andere_besucher_tseq_st_1;But there are visitors in the museum!
+spokentexts_wache_top_a19_wache_andere_besucher_tseq_st_2_direction;bored
+spokentexts_wache_top_a19_wache_andere_besucher_tseq_st_2;Carefully selected by Director Mokhtar. Or they have an invitation.
+spokentexts_wache_top_a19_wache_andere_besucher_tseq_st_3;Is there any chance of getting such an invitation?
+sequences_wache_top_a19_wache_andere_besucher_tseq#3;[The guard looks up from his newspaper, looks at the Arab.]
+spokentexts_wache_top_a19_wache_andere_besucher_tseq_st_4;For you? No.
+sequences_wache_top_a19_wache_andere_besucher_tseq#5;[The guard looks back at the paper.]
+texts_wache_top_a19_wache_bitten_tseq_title;Please!
+spokentexts_wache_top_a19_wache_bitten_tseq_st_1;Can you PLEASE let me in?
+spokentexts_wache_top_a19_wache_bitten_tseq_st_2;My ship sails tonight and I can't leave Egypt without having seen a mummy!
+spokentexts_wache_top_a19_wache_bitten_tseq_st_3_direction;bored
+spokentexts_wache_top_a19_wache_bitten_tseq_st_3;Get yourself a shovel and head for the desert. Maybe you'll get lucky.
+texts_wache_top_a19_wache_firma_anders_einigen_tseq_title;Come to an agreement...
+spokentexts_wache_top_a19_wache_firma_anders_einigen_tseq_st_1;Can't we come to an agreement? I have a job to do here.
+spokentexts_wache_top_a19_wache_firma_anders_einigen_tseq_st_2;So do I.
+spokentexts_wache_top_a19_wache_firma_anders_einigen_tseq_st_3;And it's simple: don't let anyone into the museum if they don't have any business here.
+spokentexts_wache_top_a19_wache_firma_anders_einigen_tseq_st_4;But my boss said...
+sequences_wache_top_a19_wache_firma_anders_einigen_tseq#4;"[The Guard makes a ""hush-hush"" gesture with his hand, then he takes the newspaper and starts to read again.]"
+sequences_wache_top_a19_wache_firma_anders_einigen_tseq#5;[The Arab want to say something, but then he gives up frustrated and goes out.]
+texts_wache_top_a19_wache_firma_liste_tseq_title;It has to be on the list!
+spokentexts_wache_top_a19_wache_firma_liste_tseq_st_1;But it must to be on the list! My boss told me everything was taken care of!
+spokentexts_wache_top_a19_wache_firma_liste_tseq_st_2;And mine told me that nobody gets in if they're not on the list.
+spokentexts_wache_top_a19_wache_firma_liste_tseq_st_3;Bye.
+sequences_wache_top_a19_wache_firma_liste_tseq#3;"[The Guard makes a ""hush-hush"" gesture with his hand, then he takes the newspaper and starts to read again.]"
+sequences_wache_top_a19_wache_firma_liste_tseq#4;[The Arab want to say something, but then he gives up frustrated and goes out.]
+texts_wache_top_a19_wache_handwerker_ja_tseq_title;Yes, I'm a craftsman
+spokentexts_wache_top_a19_wache_handwerker_ja_tseq_st_1;Of course I'm a craftsman!
+sequences_wache_top_a19_wache_handwerker_ja_tseq#2;[The guard picks up the clipboard. He focused the cap of the Arab, trying to read the writing. Then he looks through the list.]
+spokentexts_wache_top_a19_wache_handwerker_ja_tseq_st_4;Your company's not on the list.
+sequences_wache_top_a19_wache_handwerker_ja_tseq#5;[The Guard puts back the clipboard.]
+texts_wache_top_a19_wache_handwerker_nein_tseq_title;I just want to look around
+spokentexts_wache_top_a19_wache_handwerker_nein_tseq_st_1;I'm a craftsman. I'm on my break and wanted to take a look around.
+spokentexts_wache_top_a19_wache_handwerker_nein_tseq_st_2;I'm sorry, not today.
+spokentexts_wache_top_a19_wache_handwerker_nein_tseq_st_3;Only invited guests and craftsman doing special jobs are allowed in today.
+spokentexts_wache_top_a19_wache_handwerker_nein_tseq_st_4;My job is special... Come on. I won't tell anyone!
+sequences_wache_top_a19_wache_handwerker_nein_tseq#4;[The guard picks up the clipboard and it shows it the Arab. He glances at the cap of the Arab, to read the words.]
+spokentexts_wache_top_a19_wache_handwerker_nein_tseq_st_5;"All the invited guests and craftsmen are on the list.... and ""Hamid's"" isn't."
+sequences_wache_top_a19_wache_handwerker_nein_tseq#6;[The Guard puts back the clipboard.]
+sequences_wache_top_a19_wache_handwerker_nein_tseq#7;[The Arab want to say something, but then he gives up frustrated and goes out.]
+texts_wache_top_a19_wache_verabschieden_tseq_title;Say goodbye
+spokentexts_wache_top_a19_wache_verabschieden_tseq_st_1_direction;tired
+spokentexts_wache_top_a19_wache_verabschieden_tseq_st_1;Never mind. See you later.
+spokentexts_wache_top_a19_wache_verabschieden_tseq_st_2;Better luck next time.
+spokentexts_wache_top_a19_wache_verabschieden_tseq_st_3_direction;sarcastic
+spokentexts_wache_top_a19_wache_verabschieden_tseq_st_3;You're too kind.
+sequences_wache_top_a19_wache_verabschieden_tseq#3;[The Arab goes back to the door.]
+texts_shotchange_vortreppe_mo;Go down stairs
+texts_shotchange_zumeingang_mo;Go up stairs
+texts_a19_seite_draht_mo_inventar_2;Bended wire
+

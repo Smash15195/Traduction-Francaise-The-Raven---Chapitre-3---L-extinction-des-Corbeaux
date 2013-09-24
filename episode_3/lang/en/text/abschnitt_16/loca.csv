@@ -1,0 +1,1414 @@
+characters_araber;Araber
+characters_arzt;Arzt
+characters_baronin;Baronin
+characters_butler;Butler
+characters_ermittler;Ermittler
+characters_frau;Frau
+characters_geiger;Geiger
+characters_kapitaen;Kapitaen
+characters_ohi;Ohi
+characters_pflegerin;Pflegerin
+characters_schriftstellerin;Schriftstellerin
+characters_wachmann;Wachmann
+texts_a16_hinterdeck_ausgang_nebendeck_mo_leave_1;Go to the front
+sequences_a16_hinterdeck_ausgang_nebendeck_leave_1#1;[The young woman heads to the side deck.]
+texts_a16_hinterdeck_ausgang_salon_mo_leave_1;Enter the saloon
+sequences_a16_hinterdeck_ausgang_salon_leave_1#1;[The young woman heads to the salon.]
+texts_a16_hinterdeck_badetuch_mo_ex_1;Examine the bath towel
+texts_a16_hinterdeck_badetuch_mo_inventar;Bath towel
+texts_a16_hinterdeck_badetuch_mo_take_1__2;Take the bath towel
+spokentexts_a16_hinterdeck_badetuch_ex_1_st_1;Lovely big towel.
+spokentexts_a16_hinterdeck_badetuch_ex_1_st_2;I hope tomorrow I'll have a chance to sunbathe and enjoy the rest of the trip.
+spokentexts_a16_hinterdeck_badetuch_ex_2_st_1;I should have been a fashion designer!
+sequences_a16_hinterdeck_badetuch_take_1#2;[The young woman takes the bath towel and covers her shoulders with it.]
+sequences_a16_hinterdeck_badetuch_take_1#3;[The young woman wears the bath towel as a garment now.]
+spokentexts_a16_hinterdeck_badetuch_take_1_st_3_direction;puzzled
+spokentexts_a16_hinterdeck_badetuch_take_1_st_3;Hey, what are you doing?  
+spokentexts_a16_hinterdeck_badetuch_take_1_st_4;Oh, nothing. I want to sit down on the forecastle and enjoy the stars without ruining my dress.
+spokentexts_a16_hinterdeck_badetuch_take_1_st_5;Ah, the stars. Enjoy!
+texts_a16_hinterdeck_liegestuhl_mo_ex_1;Examine the deck chair
+texts_a16_hinterdeck_liegestuhl_mo_used_mit_handtuch;Reserve a deck chair
+spokentexts_a16_hinterdeck_liegestuhl_ex_1_st_1;A deck chair in the sunshine on a cruise ship. I'd be a fool to miss out on that tomorrow.
+spokentexts_a16_hinterdeck_liegestuhl_ex_1_st_2;But I have to take care of my duties before I can relax in the sun.
+spokentexts_a16_hinterdeck_liegestuhl_used_mit_handtuch_st_1;"I don't like people who ""reserve"" deck chairs with towels!"
+spokentexts_a16_hinterdeck_liegestuhl_used_mit_handtuch_st_2;I've heard that some of them get up extra early. On holiday!
+texts_a16_kabine_baronin_badetuch_mo_leave_1;Leave the cabin
+sequences_a16_kabine_baronin_badetuch_leave_1#1;[The young woman gracefully lowers herself down the towel.]
+texts_a16_kabine_baronin_bett_mo_ex_1;Examine the bed
+spokentexts_a16_kabine_baronin_bett_ex_1_st_1;Maybe it was a steward who checked whether everything was ready for the baroness' nightly rest?
+spokentexts_a16_kabine_baronin_bett_ex_1_st_2;Whoever it was, I should leave as fast as possible before someone comes back!
+texts_a16_kabine_baronin_fotos_mo_ex_1__2;Look at the photos
+spokentexts_a16_kabine_baronin_fotos_ex_1_st_1;It seems like she was searching for a specific photo-and that she actually found it.
+spokentexts_a16_kabine_baronin_fotos_ex_1_st_2;"""Jakob Aust! Now I've got you"", she said."
+spokentexts_a16_kabine_baronin_fotos_ex_1_st_3;We got our hands on the list of passengers... but I don't recognize the name.
+spokentexts_a16_kabine_baronin_fotos_ex_2_st_1;Hundreds of black and white photos. Many of them tinted. From the twenties and thirties, I guess.
+spokentexts_a16_kabine_baronin_fotos_ex_2_st_2;I don't have the time to deal with them.
+texts_a16_kabine_baronin_gepaeck_mo_ex_1;Examine the luggage
+texts_a16_kabine_baronin_gepaeck_mo_ex_2;Search the luggage
+spokentexts_a16_kabine_baronin_gepaeck_ex_1_st_1;Far too many hiding places for a jewel.
+spokentexts_a16_kabine_baronin_gepaeck_ex_1_st_2;"But Inch said something about a ""combination"". That sounds like a little safe or a hidden compartment. And she wouldn't have something like that in her suitcase."
+spokentexts_a16_kabine_baronin_gepaeck_ex_2_st_1;Luckily, I don't have to go through all of these suitcases.
+spokentexts_a16_kabine_baronin_gepaeck_ex_2_st_2;Inch has been travelling with this woman through Europe for months. I almost feel sorry for him. Almost.
+texts_a16_kabine_baronin_handtasche_mo_ex_1__2;Search the handbag
+spokentexts_a16_kabine_baronin_handtasche_ex_1_st_1;No. The baroness and Inch aren't working together. He wouldn't hide the jewel in her handbag.
+spokentexts_a16_kabine_baronin_handtasche_ex_2_st_1;I'm here to steal one of the most valuable jewels in the world, not to swipe the contents of handbags!
+texts_a16_kabine_baronin_kleiderpuppe_mo_ex_1__2;Examine the mannequin
+spokentexts_a16_kabine_baronin_kleiderpuppe_ex_1_st_1;The mannequin could probably wear my clothes. It'd disappear under the baroness' clothes, though.
+spokentexts_a16_kabine_baronin_kleiderpuppe_ex_2_st_1;As a child I often stood in front of shop windows and tried to stand as still as the mannequins.
+spokentexts_a16_kabine_baronin_kleiderpuppe_ex_2_st_2;When I got bored I claimed that one of the mannequins had blinked and declared myself the winner.
+texts_a16_kabine_baronin_reiseschrank_mo_use_1__2;Open the portable cupboard
+spokentexts_a16_kabine_baronin_reiseschrank_ex_1_st_1;A giant portable cupboard... Maybe the jewel is inside?
+spokentexts_a16_kabine_baronin_reiseschrank_ex_2_st_1;Inch must have found the secret compartment and been certain that the baroness wasn't using it.
+sequences_a16_kabine_baronin_reiseschrank_use_1#1;[The young woman opens the clasp of the portable cupboard and unfolds it.]
+spokentexts_a16_kabine_baronin_reiseschrank_use_1_st_1_direction;sarcastically
+spokentexts_a16_kabine_baronin_reiseschrank_use_1_st_1;Impressive! For a quick drink on the go.
+sequences_a16_kabine_baronin_reiseschrank_use_2#1;[The young woman opens the clasp of the portable cupboard and unfolds it.]
+texts_a16_kabine_baronin_schrank_mo_ex_1;Search the cupboard
+texts_a16_kabine_baronin_schrank_mo_ex_2;Examine the cupboard
+spokentexts_a16_kabine_baronin_schrank_ex_1_st_1_direction;Thoughtfully
+spokentexts_a16_kabine_baronin_schrank_ex_1_st_1;No...
+spokentexts_a16_kabine_baronin_schrank_ex_1_st_2;Inch said he hid the Eye in the baroness' luggage. Which makes sense.
+spokentexts_a16_kabine_baronin_schrank_ex_1_st_3;He can't be certain that he'll have the chance to hide it again when we arrive in Cairo.
+spokentexts_a16_kabine_baronin_schrank_ex_1_st_4;I'm sure that the Eye is in the baroness' luggage.
+sequences_a16_kabine_baronin_schrank_ex_2#1;[The woman opens the cupboard, sees the audiotape.]
+spokentexts_a16_kabine_baronin_schrank_ex_2_st_1;What on earth is going on here?
+sequences_a16_kabine_baronin_schrank_ex_2#3;[The young woman looks around.]
+spokentexts_a16_kabine_baronin_schrank_ex_2_st_2;I don't like that.
+spokentexts_a16_kabine_baronin_schrank_ex_2_st_3;Is someone else after the Eye as well?
+sequences_a16_kabine_baronin_schrank_ex_2#6;[The young woman turns back.]
+spokentexts_a16_kabine_baronin_schrank_ex_2_st_4;But even if that is the case... What does the audiotape have to do with it?
+sequences_a16_kabine_baronin_schrank_ex_2#8;[The woman closes the cupboard.]
+spokentexts_a16_kabine_baronin_schrank_ex_2_st_5_direction;pulls herself together, bolsters herself up
+spokentexts_a16_kabine_baronin_schrank_ex_2_st_5;I can't let it get to me. I have a job to do!
+texts_a16_kabine_baronin_schreibblock_mo_bertrachten_1__2;Examine the notepad
+spokentexts_a16_kabine_baronin_schreibblock_ex_1_st_1;The baroness wrote something down and took the slip of paper with her... It's probably not important.
+texts_a16_kabine_baronin_sonnenblumenbild_mo_ex_1;Examine the painting
+spokentexts_a16_kabine_baronin_sonnenblumenbild_ex_1_st_1;Not even Adil would believe that this painting was an original.
+spokentexts_a16_kabine_baronin_sonnenblumenbild_ex_1_st_2;He was interested in art when we first met, but for him it was always about the content, not the technique.
+spokentexts_a16_kabine_baronin_sonnenblumenbild_ex_1_st_3;I had my work cut out teaching him to concentrate on the stroke, the material and the signature of the artist.
+spokentexts_a16_kabine_baronin_sonnenblumenbild_ex_1_st_4;It's the only way to distinguish an original from a fake.
+spokentexts_a16_kabine_baronin_sonnenblumenbild_ex_1_st_5;"""I don't care who painted it as long as it speaks to me"", he said."
+spokentexts_a16_kabine_baronin_sonnenblumenbild_ex_1_st_6;A perspective that as an art thief I can't share - but it's charming nonetheless.
+texts_a16_kabine_baronin_stuhl_mo_use_1;Slide the chair under the opening
+spokentexts_a16_kabine_baronin_stuhl_ex_1_st_1;An old-fashioned chair for an old-fashioned lady.
+sequences_a16_kabine_baronin_stuhl_use_1#1;[The young woman pushes the chair under the vent of the funnel.]
+sequences_a16_kabine_baronin_stuhl_use_1#2;[Then she climbs on to the chair, pulls down one end of the bath towel, so it is hanging there like before.]
+sequences_a16_kabine_baronin_stuhl_use_1#3;[The young woman gets off the chair and pushes it back where it stood before.]
+texts_a16_kabine_baronin_tuer_mo_bertrachten_1;Examine the door
+texts_a16_kabine_baronin_tuer_mo_leave_1;Leave the cabin
+spokentexts_a16_kabine_baronin_tuer_ex_1_st_1;I'd prefer to lock the door. Someone could come in and catch me at any moment.
+spokentexts_a16_kabine_baronin_tuer_ex_1_st_2;But it's important not to leave a trace. Inch absolutely cannot find out about us.
+spokentexts_a16_kabine_baronin_tuer_ex_1_st_3;I must hurry.
+spokentexts_a16_kabine_baronin_tuer_leave_1_st_1;No. I'd better leave the cabin as I entered it. Somebody might see me if I go out through the door.
+sequences_a16_kabine_baronin_seq_a16_kabine_baronin_auftritt_arzt#0;[The young woman reaches for the towel. Suddenly she hears a noise at the door. It opens!]
+sequences_a16_kabine_baronin_seq_a16_kabine_baronin_auftritt_arzt#1;[The woman quickly throws the towel back into the funnel and disappears under the bed only a few seconds later.]
+sequences_a16_kabine_baronin_seq_a16_kabine_baronin_auftritt_arzt#2;[Cut to the sheet under the bed. The young woman lays frightened on the floor and looks out from under the bed.]
+sequences_a16_kabine_baronin_seq_a16_kabine_baronin_auftritt_arzt#3;[Somebody comes closer. Shoes appear in the picture. You can hear how the cover is unfolded. The man is busy with something, then he puts the cover back.]
+sequences_a16_kabine_baronin_seq_a16_kabine_baronin_auftritt_arzt#4;[He heads to the cupboard and disappears from view.]
+sequences_a16_kabine_baronin_seq_a16_kabine_baronin_auftritt_arzt#5;[Cut to the young woman.]
+sequences_a16_kabine_baronin_seq_a16_kabine_baronin_auftritt_arzt#6;[She dares to move slightly forward and look in the man's direction. You can hear how he opens the cupboard and places the audiotape in it.]
+sequences_a16_kabine_baronin_seq_a16_kabine_baronin_auftritt_arzt#7;[The man has finished, the woman crawls back deeper under the bed]
+sequences_a16_kabine_baronin_seq_a16_kabine_baronin_auftritt_arzt#8;[Cut to the previous shot, the camera is under the bed and looks out from under the bed.]
+sequences_a16_kabine_baronin_seq_a16_kabine_baronin_auftritt_arzt#9;[The feet pass the bed, then they stop. The man seems to look around, thinking about whether he forgot anything.]
+sequences_a16_kabine_baronin_seq_a16_kabine_baronin_auftritt_arzt#10;[Then he is content and walks to the entrance of the cabin. You can hear the door opening and then closing, everything is quiet again.]
+sequences_a16_kabine_baronin_seq_a16_kabine_baronin_auftritt_arzt#11;[The woman crawls out of her hiding place and stands up.]
+spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_auftritt_arzt_st_1;That was close.
+sequences_a16_kabine_baronin_seq_a16_kabine_baronin_betreten#0;[You see the end of the animation in which the young woman gracefully climbs down the bath towel.]
+sequences_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken#0;[The young woman slides back into the cabin. She heads to the cupboard and glances at the bed. She finds the baroness' corpse covered in blood.]
+spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken_st_1_direction;shocked outcry
+spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken_st_1;Wahhh!
+spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken_st_2_direction;quietly to herself
+spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken_st_2;Oh my god!
+sequences_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken#3;[Knocking on the door.]
+spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken_st_3;Baroness von Trebitz? Are you okay?
+sequences_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken#5;[The woman whirls to the door, pauses for a second, has to prevent herself from taking the jewel, then finally climbs up the bath towel.]
+spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken_st_4;Hello? Baroness?
+sequences_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken#7;[The carer tries to open the door, rattles.]
+spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken_st_5;Hello?
+sequences_a16_kabine_baronin_seq_a16_kabine_baronin_reiseschrank_ende#0;[The young woman closes the portable cupboard, so it stands there just as before.]
+texts_a16_kabine_baronin_geheimfach_ausgang_mo_leave;Finish the investigation
+spokentexts_a16_kabine_baronin_geheimfach_ausgang_leave_1_st_1;Well... Then I should... Wait! What's that? A note!
+texts_a16_kabine_baronin_geheimfach_mechanismus_mo_ex_1__2__3;Examine the mechanism
+spokentexts_a16_kabine_baronin_geheimfach_mechanismus_ex_1_st_1;To me it looks like a combination lock. A good one too.
+spokentexts_a16_kabine_baronin_geheimfach_mechanismus_ex_1_st_2;The door only opens when the right symbols are in place.
+spokentexts_a16_kabine_baronin_geheimfach_mechanismus_ex_2_st_1;There are outlines of animals. A dog, a cat, a bear and a rooster, amongst others.
+spokentexts_a16_kabine_baronin_geheimfach_mechanismus_ex_2_st_2;Eight symbols per cylinder. That means more than four thousand possible combinations.
+spokentexts_a16_kabine_baronin_geheimfach_mechanismus_ex_3_st_1;If only I knew three of the four symbols, I could easily guess the last.
+spokentexts_a16_kabine_baronin_geheimfach_mechanismus_ex_3_st_2;But whilst I don't know at least three of them, I can't go any further.
+texts_a16_kabine_baronin_geheimfach_tuer_mo_ex_1__2;Examine the door
+spokentexts_a16_kabine_baronin_geheimfach_tuer_ex_1_st_1;I'd put money on the Eye of the Sphinx being behind this door.
+spokentexts_a16_kabine_baronin_geheimfach_tuer_ex_1_st_2;I don't think anyone would bet against me.
+spokentexts_a16_kabine_baronin_geheimfach_tuer_ex_2_st_1;The door is locked. I have to find the right combination to get in.
+texts_a16_kabine_baronin_geheimfach_zettel_mo_ex_1__2;Examine the slip
+spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_1;Hmm...
+spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_2_direction;reads out loud
+spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_2;Nefertiti, Guernica, AD, Buonarroti's Adam...
+spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_3;This could be a memory aid for the baroness. And it would explain how Inch discovered the combination.
+spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_4;I'm going to copy the hints.
+sequences_a16_kabine_baronin_geheimfach_zettel_ex_1#5;[The prompts are written in the quest log.]
+spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_5;Hmm. As I see it, I have to decifer these clues to find three of the symbols. Then I can guess the fourth.
+spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_6_direction;a bit puzzled
+spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_6;Well. Nefertiti was an Egyptian queen. The monogram and the two other clues aren't much help...
+spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_2_st_1;I copied the hints into my diary.
+spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_2_st_2;Maybe someone on board can help me to figure out at least three of the four symbols.
+texts_a16_kabine_baronin_luefungsschacht_luke_mo_use_1__2;Enter the cabin
+spokentexts_a16_kabine_baronin_luefungsschacht_luke_use_1_st_1;I could easily let myself drop down into the cabin.
+spokentexts_a16_kabine_baronin_luefungsschacht_luke_use_1_st_2;But how would I climb out again? I mean, without putting a chair or something like that under the entrance and leaving a clue behind?
+spokentexts_a16_kabine_baronin_luefungsschacht_luke_use_1_st_3;First I need a way to climb back into the ventilation shaft.
+sequences_a16_kabine_baronin_luefungsschacht_luke_use_1#5;[The woman begins to push herself back through the funnel.]
+spokentexts_a16_kabine_baronin_luefungsschacht_luke_use_2_st_1;OK. I'll lay the pole across the opening and lower myself down with the towel. I can get out the same way!
+sequences_a16_kabine_baronin_luefungsschacht_luke_use_2#2;[Cut to the cabin (you can see the funnel).]
+sequences_a16_kabine_baronin_luefungsschacht_luke_use_2#3;[The hatch is removed and disappears into the funnel. Then a bath towel is lowered down into the cabin.]
+sequences_a16_kabine_baronin_luefungsschacht_luke_use_2#4;[The young woman gracefully lowers herself down the bath towel .]
+sequences_a16_kabine_baronin_luefungsschacht_luke_use_2#5;[Shot to the normal cabin view, the player takes control.]
+sequences_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick#0;[The young woman pulls herself forward in the funnel and looks through a grid in the bottom of the funnel into the cabin (Idle).]
+sequences_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick#1;[Cut to the cabin. In this shot you see some things from the cabin but also the baroness and the grid.]
+sequences_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick#2;[The baroness knees on the floor and is furiously searching for a picture.]
+sequences_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick#3;[Cut to the normal cabin-shot.]
+sequences_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick#4;[The baroness finds a picture that she was obviously searching for. She freezes..
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_1_direction;in satisfaction
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_1;Jakob Aust!
+sequences_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick#6;[The baroness takes the picture, stands up and spins gleefully on the spot!]
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_2_direction;Triumphantly
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_2;I've finally got you!
+sequences_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick#8;[She places the photo on a table, takes a glass bottle, pours herself a sip and downs it. She is thinking about something and still has the glass in her hand (Idle).]
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_3_direction;Thinking gloomy thoughts
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_3;I'll have them arrest you and justice will be done.
+sequences_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick#10;[She put the glass decidedly back on the table. Then she goes to the door and pulls it open (Idle).]
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_4_direction;muted from outside
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_4;Can I be of assistance, madam?
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_5_direction;in a good mood
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_5;You can get out of the way!
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_7;Shall I tidy up, madam?
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_8;No. It's time to celebrate!
+sequences_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick#16;[The baroness leaves the cabin and closes the door.]
+sequences_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick#17;[Suddenly it's dark and quiet. Cut back into the funnel after about 2 sec.]
+sequences_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick#18;[From now on the butler is nowhere to be seen.]
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_9_direction;whispering
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_9;Excellent. The coast is clear.
+texts_a16_kabine_baronin_reiseschrank_ausgang_mo_leave;Finish the investigation
+texts_a16_kabine_baronin_reiseschrank_flaschen_mo_ex_1__2;Examine the bottles
+spokentexts_a16_kabine_baronin_reiseschrank_flaschen_ex_1_st_1;Gin, whiskey, liqueur, sherry, vodka, brandy and champagne. Every bottle is at least half empty.
+spokentexts_a16_kabine_baronin_reiseschrank_flaschen_ex_2_st_1;I wonder what the baroness is running away from. Loneliness? Disappointment? Grief?
+texts_a16_kabine_baronin_reiseschrank_glaeser_mo_ex_1;Examine the glasses
+spokentexts_a16_kabine_baronin_reiseschrank_glaeser_ex_1_st_1;A suitable glass for every occasion. But most of them look more or less unused.
+spokentexts_a16_kabine_baronin_reiseschrank_glaeser_ex_1_st_2;The baroness probably disregards style and etiquette when she's drinking alone and just uses the same glass.
+texts_a16_kabine_baronin_reiseschrank_lederriemen_mo_ex_1;Examine the leather strap
+texts_a16_kabine_baronin_reiseschrank_lederriemen_mo_use_1;Open the secret compartment
+spokentexts_a16_kabine_baronin_reiseschrank_lederriemen_ex_1_st_1;What's that?
+spokentexts_a16_kabine_baronin_reiseschrank_lederriemen_ex_1_st_2;A small leather strap?
+sequences_a16_kabine_baronin_reiseschrank_lederriemen_ex_1#3;[The woman carefully pulls the strap. Because of that a drawer with 2-3 bottles moves aside. Behind it appears the secret drawer.]
+spokentexts_a16_kabine_baronin_reiseschrank_lederriemen_ex_1_st_3_direction;is happy to have found something
+spokentexts_a16_kabine_baronin_reiseschrank_lederriemen_ex_1_st_3;Aha!
+sequences_a16_kabine_baronin_reiseschrank_lederriemen_ex_1#5;[Cut to the close-up secret drawer.]
+sequences_a16_kabine_baronin_reiseschrank_lederriemen_use_1#1;[The woman carefully pulls the strap. Because of that a drawer with 2-3 bottles moves aside. Behind it appears the secret drawer.]
+sequences_a16_kabine_baronin_reiseschrank_lederriemen_use_1#2;[Cut to the close-up secret drawer.]
+texts_a16_kabine_baronin_reiseschrank_schublade1_mo_ex_1;Search the drawer
+sequences_a16_kabine_baronin_reiseschrank_schublade1_ex_1#1;[The drawer opens.]
+spokentexts_a16_kabine_baronin_reiseschrank_schublade1_ex_1_st_1;Napkins and towels, but no jewel.
+spokentexts_a16_kabine_baronin_reiseschrank_schublade1_ex_1_st_2;Some napkins and towels... Nothing I can use.
+sequences_a16_kabine_baronin_reiseschrank_schublade1_ex_1#3;[The drawer closes.]
+texts_a16_kabine_baronin_reiseschrank_schublade2_mo_ex_1;Search the drawer
+sequences_a16_kabine_baronin_reiseschrank_schublade2_ex_1#1;[The drawer opens.]
+spokentexts_a16_kabine_baronin_reiseschrank_schublade2_ex_1_st_1;Corkscrew, bottle opener, coaster... Nothing else.
+spokentexts_a16_kabine_baronin_reiseschrank_schublade2_ex_1_st_2;Corkscrew, bottle opener, coaster... I can't use any of these.
+sequences_a16_kabine_baronin_reiseschrank_schublade2_ex_1#3;[The drawer closes.]
+texts_a16_kabine_baronin_reiseschrank_tuer_mo_ex_1;Search the shelf
+sequences_a16_kabine_baronin_reiseschrank_tuer_ex_1#1;[The door opens.]
+spokentexts_a16_kabine_baronin_reiseschrank_tuer_ex_1_st_1;Hmm. More bottles. Might be the good stuff.
+sequences_a16_kabine_baronin_reiseschrank_tuer_ex_1#3;[The door closes.]
+sequences_a16_kabine_baronin_reiseschrank_seq_a16_kabine_baronin_reiseschrank_geheimfach_ende#0;[The secret drawer closes.]
+texts_a16_kabine_frau_ausgang_mo_leave_1;Leave the cabin
+sequences_a16_kabine_frau_ausgang_leave_1#1;[The woman leaves the cabin.]
+texts_a16_kabine_frau_badezimmer_mo_ex_1__2;Examine the bathroom
+texts_a16_kabine_frau_badezimmer_mo_talk_mit_1__2;Talk to Adil
+spokentexts_a16_kabine_frau_badezimmer_ex_1_st_1;We booked this cabin because it's centrally located. Easy to duck in whenever we need to.
+spokentexts_a16_kabine_frau_badezimmer_ex_1_st_2_direction;she lies
+spokentexts_a16_kabine_frau_badezimmer_ex_1_st_2;Of course, the fact that it's a first-class cabin with a huge bathroom and shower had nothing to do with it.
+spokentexts_a16_kabine_frau_badezimmer_ex_2_st_1;As soon as I've swapped the jewels, I'll treat myself to a hot shower and then we'll see how the evening progresses.
+spokentexts_a16_kabine_frau_badezimmer_ex_3_st_1;I could use a hot shower. Crawling through ventilation ducts is a dirty job.
+spokentexts_a16_kabine_frau_badezimmer_ex_3_st_2;But business before pleasure.
+spokentexts_a16_kabine_frau_badezimmer_talk_mit_1_st_1_direction;loud
+spokentexts_a16_kabine_frau_badezimmer_talk_mit_1_st_1;Adil?
+spokentexts_a16_kabine_frau_badezimmer_talk_mit_1_st_2_direction;from the shower
+spokentexts_a16_kabine_frau_badezimmer_talk_mit_1_st_2;Yes?
+sequences_a16_kabine_frau_badezimmer_talk_mit_1#3;[The shower is turned off, the sound of water stops.]
+sequences_a16_kabine_frau_badezimmer_talk_mit_1#4;[The Arabian's head appears in the semi-open doorway.]
+spokentexts_a16_kabine_frau_badezimmer_talk_mit_2_st_1;I'll humor the king of long showers. I don't know what I'd ask him anyway.
+texts_a16_kabine_frau_bett_mo_ex_1__2;Look at Adil
+spokentexts_a16_kabine_frau_bett_ex_1_st_1;It happened pretty fast between us. It was magic when we first met.
+sequences_a16_kabine_frau_bett_ex_1#2;[The woman hunches her shoulders.]
+spokentexts_a16_kabine_frau_bett_ex_1_st_2;Birds of a feather flock together.
+spokentexts_a16_kabine_frau_bett_ex_1_st_3;And he can be very charming!
+spokentexts_a16_kabine_frau_bett_ex_1_st_4_direction;snoring
+spokentexts_a16_kabine_frau_bett_ex_1_st_4;*snore*
+spokentexts_a16_kabine_frau_bett_ex_2_st_1;Daddy wasn't at all amused when I brought him home, mind.
+spokentexts_a16_kabine_frau_bett_ex_2_st_2;But don't I think he'd have been satisfied with anyone.
+texts_a16_kabine_frau_halskette_mo_inventar_1__2;Necklace
+texts_a16_kabine_frau_halskette_mo_used_mit_salatzange_1;Combine the necklace with the salad tongs
+spokentexts_a16_kabine_frau_tasche_ex_1_st_2;I got the necklace from my father. It's supposed to remind me that money isn't the most important thing in life.
+spokentexts_a16_kabine_frau_tasche_ex_1_st_3_direction;quoting
+spokentexts_a16_kabine_frau_tasche_ex_1_st_3;"""If you all you've got is this penny, as well as family and friends, then you're a very rich girl,"" he said."
+spokentexts_a16_kabine_frau_halskette_ex_2_st_1;I'm going to repair the necklace. But that can wait until tonight.
+spokentexts_a16_kabine_frau_halskette_used_mit_salatzange_1_st_1;Hmm... I could jam the penny in and make a kind of improvised screwdriver... Why not?
+sequences_a16_kabine_frau_halskette_used_mit_salatzange_1#2;[From now on the necklace has a new Icon (without penny) and the penny sits in the middle of the salad tongs (see there).]
+texts_a16_kabine_frau_handtasche_mo_ex_1__2;Examine the handbag
+spokentexts_a16_kabine_frau_handtasche_ex_1_st_1;Handbags, dresses and high heels are the reason why there aren't many successful female thieves.
+spokentexts_a16_kabine_frau_handtasche_ex_1_st_2;They're all incredibly inconvenient if you want to climb around.
+spokentexts_a16_kabine_frau_handtasche_ex_2_st_1;There's nothing interesting in the handbag. I'll leave it here.
+texts_a16_kabine_frau_penny_mo_inventar_1;Penny
+texts_a16_kabine_frau_penny_mo_used_mit_salatzange_1;Combine the penny with the salad tongs
+spokentexts_a16_oberdeck_lueftungsschacht_used_mit_halskette_1_st_3;The penny fits perfectly into the screw slot. But my fingers aren't strong enough to unscrew the screw.
+spokentexts_a16_kabine_frau_penny_used_mit_salatzange_1_st_1;That's it! I can jam the penny in and make an improvised screwdriver!
+sequences_a16_kabine_frau_penny_used_mit_salatzange_1#2;[From now on the necklace has a new Icon (without penny) and the penny sits in the middle of the salad tongs (see there).]
+texts_a16_kabine_frau_tasche_mo_ex_1;Search the suitcase
+texts_a16_kabine_frau_tasche_mo_ex_2;Examine the suitcase
+sequences_a16_kabine_frau_tasche_ex_1#1;[The woman goes to the bag, kneels down, opens the zip, looks inside and remains kneeling (Idle).]
+spokentexts_a16_kabine_frau_tasche_ex_1_st_1;Normally I don't carry so many things around. But it would have been suspicious if I'd come aboard with nothing but a rucksack whilst pretending to be the daughter of a wealthy family.
+sequences_a16_kabine_frau_tasche_ex_1#3;[The woman sifts through the bag, takes out a small case and opens is. She looks inside. (Idle).]
+sequences_a16_kabine_frau_tasche_ex_1#6;[The woman takes the necklace out of the case, puts the case back into her bag and stands up.]
+spokentexts_a16_kabine_frau_tasche_ex_1_st_4;I'll take it with me. It'll bring me luck.
+spokentexts_a16_kabine_frau_tasche_ex_2_st_1;I always try to carry as few personal items as possible.
+spokentexts_a16_kabine_frau_tasche_ex_2_st_2;If my things are ever searched, they won't reveal my true identity.
+texts_a16_kabine_frau_triplette_mo_inventar_1;Fake jewel
+spokentexts_a16_kabine_frau_triplette_ex_1_st_1;I have no idea where Inch had the fake jewel made. But it's amazing!
+spokentexts_a16_kabine_frau_triplette_ex_1_st_2;Even someone with as much experience as I have has to look twice before realizing it's a fake.
+texts_a16_kabine_junge_frau_hutschachtel_mo_ex_1;Examine the hat box
+spokentexts_a16_kabine_junge_frau_hutschachtel_ex_1_st_1;I don't actually like wearing hats, but they do fit the role.
+spokentexts_a16_kabine_junge_frau_hutschachtel_ex_1_st_2;"And I have to admit that the day in London when we shopped for ""Patricia Mayers"" was a lot of fun."
+texts_a16_kabine_junge_frau_spiegel_mo_ex_1;Look in the mirror
+sequences_a16_kabine_junge_frau_spiegel_ex_1#1;[Young woman gets in position in front of the mirror.]
+spokentexts_a16_kabine_junge_frau_spiegel_ex_1_st_1_direction;motiviert
+spokentexts_a16_kabine_junge_frau_spiegel_ex_1_st_1;OK then. I am Patricia Mayers. Young attractive, clueless.
+spokentexts_a16_kabine_junge_frau_spiegel_ex_1_st_2_direction;eindringlich
+spokentexts_a16_kabine_junge_frau_spiegel_ex_1_st_2;I am Patricia Mayers.
+sequences_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten#0;[Die Frau kommt rein, schließt die Tür hinter sich. Dann entdeckt sie ihren schlafenden Freund und stellt sich normal hin.]
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_st_1;He has the enviable talent of being able to sleep anywhere, anytime.
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_st_2;He once fell asleep on a cable car and only woke up after he'd already gone up the mountain and back down again.
+sequences_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach#0;[The woman enters the cabin and closes the door. Then she sees her sleeping boyfriend and stands normal.]
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_1_direction;loud
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_1;Adil?
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_2_direction;from the shower
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_2;In the shower!
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_3_direction;loud
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_3;I found the secret compartment!
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_4_direction;from the shower
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_4;Brilliant! And the jewel?
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_5_direction;loud
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_5;I'm working on it.
+sequences_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts#0;[You see the ship from outside, it is bright. Then a fade to the night version of the ship. Text: A little while later...]
+sequences_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts#1;[Cut to the woman's cabin, shot to the bed.]
+sequences_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts#2;[The young woman sits on the edge of the bed, putting on her earrings (Idle). The shirtless Arabian lays under the cover behind her and looks at her. They are talking to each other (Idle).]
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_1;Inch bothers me.
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_2;He's shown what he's capable of. What if  he finds out about our plan?
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_3;How would he? We're careful.
+sequences_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts#6;[The woman has put on her earrings, and now sits a bit crumpled on the bed (Idle).]
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_4_direction;grim
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_4;He's more ruthless than we expected.
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_5;The bomb on the train... I don't want to think about it.
+sequences_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts#9;[The Arabian lays his hand soothingly on her back.]
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_6;We need to make sure that we stay calm.
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_7_direction;a bit upset
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_7;You mean that I stay calm?
+sequences_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts#12;[The woman stands up, gets in the normal position in front of the bed. The Arabian pulls his hand back, stays in the bed and looks at her.]
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_8_direction;Tenderly cheering
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_8;I'm not worried about you. I know you.
+texts_a16_nebendeck_ausgang_hinterdeck_mo_leave_1;Go to the rear
+sequences_a16_nebendeck_ausgang_hinterdeck_leave_1#1;[The young woman heads to the afterdeck.]
+texts_a16_nebendeck_ausgang_oberdeck_mo_leave_1;Go upstairs
+sequences_a16_nebendeck_ausgang_oberdeck_leave_1#1;[The woman begins to go upstairs to the upper deck.]
+texts_a16_nebendeck_ausgang_treppensaal_mo_leave_1;Go into the ship
+sequences_a16_nebendeck_ausgang_treppensaal_leave_1#1;[The young woman goes onto the landing.]
+texts_a16_nebendeck_ausgang_vorderdeck_mo_leave_1;Go to the forecastle
+sequences_a16_nebendeck_ausgang_vorderdeck_leave_1#1;[The young woman heads to the forecastle.]
+texts_a16_nebendeck_gangway_mo_ex_1;Examine the gangway
+spokentexts_a16_nebendeck_gangway_ex_1_st_1;Practicality was definitely placed ahead of design here.
+spokentexts_a16_nebendeck_gangway_ex_1_st_2;I guess the Lydia regularly docks at harbors that don't have their own gangways.
+spokentexts_a16_nebendeck_gangway_ex_1_st_3;And rather than make passengers climb ladders, they opted for the less beautiful alternative.
+sequences_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt#0;[The guardsman and the Arabian go downstairs and head to the forecastle.]
+spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_1_direction;accent
+spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_1;What is?
+spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_2_direction;accent
+spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_2;Did nothing!
+spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_3;Inspector Legrand thinks otherwise! Move!
+spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_4_direction;accent
+spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_4;But I have...
+sequences_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt#5;[Both freeze. A shot was heard.]
+spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_5;Gunshot!
+spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_6;I know that!
+spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_7_direction;in a hurry
+spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_7;Get moving! Into the cell!
+sequences_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt#9;[The guardsman pushes the Arabian forward.]
+spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_8;Ow!
+sequences_a16_nebendeck_seq_a16_nebendeck_betreten_aus_richtung_oberdeck#0;[The young woman walks down the last steps, maybe jumps down the last two steps, or the like. Then takes up the normal position again.]
+texts_a16_oberdeck_ausgang_treppe_mo_leave_1;Go downstairs
+sequences_a16_oberdeck_ausgang_treppe_leave_1#1;[The young woman begins to go downstairs.]
+texts_a16_oberdeck_fahne_mo_ex_1;Examine the flag
+texts_a16_oberdeck_fahne_mo_take_1;Take the pole
+spokentexts_a16_oberdeck_fahne_ex_1_st_1;No idea what kind of flag this is. But the pole it's attached to could be very useful one day.
+spokentexts_a16_oberdeck_fahne_ex_1_st_2;It's about 80cm long and looks quite stable!
+sequences_a16_oberdeck_fahne_take_1#1;[The woman takes the pole out of the holder, removes the flag and throws it carelessly into the lifeboat.]
+sequences_a16_oberdeck_fahne_take_1#2;[She looks at the pole, maybe whirls it for a moment through the air.]
+spokentexts_a16_oberdeck_fahne_take_1_st_1;Yes, it's sturdy. But it's also too cumbersome to carry around.
+sequences_a16_oberdeck_fahne_take_1#4;[The woman places the pole next to the funnel.]
+texts_a16_oberdeck_holzstab_mo_use_1;Use the pole with...
+texts_a16_oberdeck_holzstab_mo_used_mit_badetuch_1__2;Tie the bath towel the around wooden pole
+spokentexts_a16_oberdeck_holzstab_ex_1_st_1;Something tells me that this will be very useful. I just don't know how yet.
+spokentexts_a16_oberdeck_holzstab_ex_2_st_1;Maybe I can use this later...
+spokentexts_a16_oberdeck_holzstab_ex_3_st_1;I can use it to get into the cabin-and more importantly, to get back out again!
+spokentexts_a16_oberdeck_holzstab_used_mit_badetuch_1_st_1;OK. Let's see...
+sequences_a16_oberdeck_holzstab_used_mit_badetuch_1#2;[The woman takes off the bath towel and ties it to the pole. Then she puts the pole back in its place.]
+spokentexts_a16_oberdeck_holzstab_used_mit_badetuch_2_st_1;Hmm. I could tie the bath towel around the pole, put the pole across the ventilation shaft and climb down with help of the towel.
+spokentexts_a16_oberdeck_holzstab_used_mit_badetuch_2_st_2;Sounds like a plan!
+sequences_a16_oberdeck_holzstab_used_mit_badetuch_2#3;[The woman takes off the bath towel and ties it to the pole. Then she puts the pole back in its place.]
+texts_a16_oberdeck_lueftungsschacht_mo_ex_1__2;Examine the ventilation shaft
+texts_a16_oberdeck_lueftungsschacht_mo_used_mit_halskette_1;Unscrew the cover with the penny
+texts_a16_oberdeck_lueftungsschacht_mo_used_mit_holzstab_1;Break the cover open
+texts_a16_oberdeck_lueftungsschacht_mo_used_mit_holzstab_2__3;Climb into the ventilation shaft
+texts_a16_oberdeck_lueftungsschacht_mo_used_mit_salatzange_1;Unscrew the cover
+spokentexts_a16_oberdeck_lueftungsschacht_ex_1_st_1_direction;interested
+spokentexts_a16_oberdeck_lueftungsschacht_ex_1_st_1;Hmm...
+spokentexts_a16_oberdeck_lueftungsschacht_ex_1_st_2;A classic!
+spokentexts_a16_oberdeck_lueftungsschacht_ex_1_st_3;The thief enters through the ventilation shaft... Can it really be that easy?
+sequences_a16_oberdeck_lueftungsschacht_ex_1#4;[The woman tries to remove the grid from the funnel but it is screwed on tightly.]
+spokentexts_a16_oberdeck_lueftungsschacht_ex_1_st_4_direction;I knew it
+spokentexts_a16_oberdeck_lueftungsschacht_ex_1_st_4;No, it can't. The cover is screwed shut.
+sequences_a16_oberdeck_lueftungsschacht_ex_2#1;[The woman places her hand on the wall next to the funnel, takes a closer look (Idle).]
+sequences_a16_oberdeck_lueftungsschacht_ex_2#2;[Cut. In a close-up you see the slotted-head screws which fix the cover.]
+spokentexts_a16_oberdeck_lueftungsschacht_ex_2_st_1;All the first-class cabins have their own ventilation. The shaft might be my best point of entry.
+spokentexts_a16_oberdeck_lueftungsschacht_ex_2_st_2;But unfortunately, the cover is screwed shut
+sequences_a16_oberdeck_lueftungsschacht_ex_2#5;[The woman pushes herself away from the wall, stands normal again.]
+sequences_a16_oberdeck_lueftungsschacht_ex_2#6;[Cut back to the normal view.]
+spokentexts_a16_oberdeck_lueftungsschacht_leave_1_st_1;I'm not squeamish. But if there's a rat waiting for me, I'll call the whole thing off!
+sequences_a16_oberdeck_lueftungsschacht_leave_1#4;[The woman takes the pole with the bath towel and climbs gracefully into the funnel.]
+sequences_a16_oberdeck_lueftungsschacht_leave_1#6;[The woman gracefully climbs into the funnel.]
+sequences_a16_oberdeck_lueftungsschacht_leave_2#3;[The woman takes the pole with the bath towel and climbs gracefully into the funnel.]
+sequences_a16_oberdeck_lueftungsschacht_leave_2#4;[Continues in the cabin of the baroness, funnel-shot.]
+spokentexts_a16_oberdeck_lueftungsschacht_leave_2_st_1;I still haven't found a way to get back into the ventilation shaft from the cabin.
+spokentexts_a16_oberdeck_lueftungsschacht_leave_2_st_2;I'd need something like a rope and a way to tie it to the shaft.
+sequences_a16_oberdeck_lueftungsschacht_leave_3#1;[The woman gracefully climbs into the funnel.]
+sequences_a16_oberdeck_lueftungsschacht_leave_3#2;"[Continues with the sequence ""cabin_baroness_enter"" (the funnel-location is skipped from now on).]"
+spokentexts_a16_oberdeck_lueftungsschacht_leave_4_st_1;No. It doesn't make sense whilst I don't know at least three of the animal symbols. And I'm not going to find the solution in there.
+sequences_a16_oberdeck_lueftungsschacht_leave_5#11;[The woman climbs into the funnel.]
+sequences_a16_oberdeck_lueftungsschacht_leave_5#12;"[Continues in the cabin of the baroness, sequence ""corpse found"".]"
+spokentexts_a16_oberdeck_lueftungsschacht_used_mit_halskette_1_st_1;The penny might be the right size...
+sequences_a16_oberdeck_lueftungsschacht_used_mit_halskette_1#2;[The woman takes out the necklace, fiddles with it. She pockets the necklace again, has the penny in her hand.]
+sequences_a16_oberdeck_lueftungsschacht_used_mit_halskette_1#3;[From now on the necklace appears in the inventory without the penny.]
+sequences_a16_oberdeck_lueftungsschacht_used_mit_halskette_1#4;[The woman places her hand on the wall next to the funnel, takes a closer look (Idle).]
+sequences_a16_oberdeck_lueftungsschacht_used_mit_halskette_1#5;[Cut. In a close-up you see the slotted-head screws which fix the cover.]
+sequences_a16_oberdeck_lueftungsschacht_used_mit_halskette_1#6;[The woman sticks the penny into the groove and tries to turn it. First with one hand, then with both hands. It doesn't move.]
+spokentexts_a16_oberdeck_lueftungsschacht_used_mit_halskette_1_st_2_direction;effort
+spokentexts_a16_oberdeck_lueftungsschacht_used_mit_halskette_1_st_2;Hmmgh!
+sequences_a16_oberdeck_lueftungsschacht_used_mit_halskette_1#8;[Cut back into the normal view.]
+sequences_a16_oberdeck_lueftungsschacht_used_mit_halskette_1#9;[The woman pushes herself away from the wall, pockets the penny and stands there normal again.]
+spokentexts_a16_oberdeck_lueftungsschacht_used_mit_holzstab_1_st_1;No... There's no gap to put the pole in. I can't force the cover open.
+spokentexts_a16_oberdeck_lueftungsschacht_used_mit_holzstab_2_st_1;The pole alone won't help me in there.
+spokentexts_a16_oberdeck_lueftungsschacht_used_mit_holzstab_3_st_1;Here goes nothing.
+sequences_a16_oberdeck_lueftungsschacht_used_mit_holzstab_3#2;[The woman takes the pole with the bath towel and climbs gracefully into the funnel.]
+spokentexts_a16_oberdeck_lueftungsschacht_used_mit_penny_1_st_1;No. I can't turn the penny with my bare hands. I can only grip it with two fingers-that's not enough!
+spokentexts_a16_oberdeck_lueftungsschacht_used_mit_salatzange_1_st_1;All right.
+sequences_a16_oberdeck_lueftungsschacht_used_mit_salatzange_1#2;[The young woman takes the salad tongs and the penny out of her bag, fixes the penny and places it carefully on the screw.]
+sequences_a16_oberdeck_lueftungsschacht_used_mit_salatzange_1#3;[Cut to close-up.]
+sequences_a16_oberdeck_lueftungsschacht_used_mit_salatzange_1#4;[One hand on the left, the other hand on the right of the salad tongs she is unscrewing the grid of the funnel and with it removing the screws. She changes her grip, continues unscrewing.]
+sequences_a16_oberdeck_lueftungsschacht_used_mit_salatzange_1#5;[Because it's easier now, she removes the tongs (they have disappeared) and continues to release the screws with her fingers.]
+sequences_a16_oberdeck_lueftungsschacht_used_mit_salatzange_1#6;[Cut back.]
+spokentexts_a16_oberdeck_lueftungsschacht_used_mit_salatzange_1_st_2;That's it!
+sequences_a16_oberdeck_lueftungsschacht_used_mit_salatzange_1#8;[The hatch opens like a door and can be opened up to the wall.]
+spokentexts_a16_oberdeck_lueftungsschacht_used_mit_salatzange_1_st_3;I just hope that this is the right shaft!
+texts_a16_oberdeck_tuer_mo_ex_1__2;Examine the door
+spokentexts_a16_oberdeck_tuer_ex_1_st_1;Two handsome sailors are standing at the table and studying a marine map.
+spokentexts_a16_oberdeck_tuer_ex_1_st_2;Good thing they're busy - I can have a look around without being disturbed.
+spokentexts_a16_oberdeck_tuer_ex_2_st_1;If someone leaves the bridge, I'll pretend to be stargazing.
+spokentexts_a16_oberdeck_tuer_ex_2_st_2;And if that doesn't work, I'll just turn on the charm.
+sequences_a16_oberdeck_seq_a07_oberdeck_betreten#0;[The young woman walks up the last few stairs and stands normal again]
+sequences_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts#0;[You see the scene from the observer's view in his hiding place.]
+sequences_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts#1;[You can hear a muted shot.]
+sequences_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts#2;[Ohi and the inspector cringe.]
+spokentexts_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts_st_1;What was that?
+spokentexts_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts_st_2;A gunshot!
+spokentexts_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts_st_3;It came from one of the cabins!
+sequences_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts#6;[The doctor and the inspector start to run. Ohi also turns around in a hurry, but almost falls down. He has to pause and collect himself before he can follow the others.]
+sequences_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts#7;[Cut back to the normal view. For a moment nothing happens...]
+sequences_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts#8;[But then the butler leaves his hideout. Crushes a cigarette butt in his hands.]
+sequences_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts#9;[Cut to his face.]
+sequences_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts#10;[You see the pure hate in his face.]
+sequences_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts#11;[End of the chapter.]
+sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#2;[Cut. You see them both from a different perspective. The camera films out of the view of the person that watches the Arabian from the hiding place. The camera moves a bit back and forth etc..]
+sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#4;[The young woman nervously leaves the funnel. The Arabian steps over to her and at first she is frightened, until she recognises him.]
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_1_direction;scared, nervous
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_1;Adil!
+sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#6;[Cut to the normal view.]
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_2_direction;shocked
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_2;What happened?
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_3_direction;scared, nervous
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_3;The baroness! Blood everywhere!
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_4_direction;shocked
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_4;But who?
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_5_direction;nervous
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_5;I don't know! Inch?
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_6;That doesn't make any sense!
+sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#12;[Steps can be heard from downstairs. Somebody is going upstairs. The Arabian signals to his girlfriend and offers her a leg-up. They quickly escape to the roof.]
+sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#13;[The Arabian closes the grid and acts like he wants to escape as well. Then the inspector is already behind him, threatening him with his gun (Idle).]
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_7_direction;loud, threatening
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_7;Don't move!
+sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#15;[The Arabian ends his attempt to escape, gets in position with raised hands (Idle).]
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_8_direction;loud shouting
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_8;ZELLNER? UP HERE!
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_9;We've got our shadow. Who are you?
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_10_direction;with accent
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_10;I do nothing. Me crew!
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_11;Sure you are.
+sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#20;[The inspector glances around, but also looks at the funnel.]
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_12;What are you doing here?
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_13_direction;with accent
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_13;Just fresh air. Fffffff-ahhh.
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_14_direction;sarcastically
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_14;...sure. You just wanted to get a breath of fresh air. 
+sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#24;[Ohi and the doctor go upstairs and stand still when they arrive.]
+sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#25;[The Inspector briefly looks over his shoulder at Ohi.]
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_15;Zellner, look who we have here.
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_16;Well, if that's not our shadow.
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_17;And our stowaway.
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_18;Were you recently travelling via trunk?
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_19_direction;strong accent
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_19;I... nothing.
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_20;He claims to be part of the crew, just wanted to get some fresh air.
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_21;Oh, sure. And you obviously didn't attack me either, did you?
+sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#33;[Cut to the stairs.]
+sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#34;[The guardsman hurries upstairs, barely breathing.]
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_22;Understood. Take him to the detention cell, Robert.
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_23;We'll talk later, my friend.
+sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#37;[The Arabian goes to the guardsman lowering his arms and hanging his head.]
+sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#38;[The guardsman welcomes the Arabian, both begin to go down the stairs.]
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_24;The baroness won't open her door, sir!
+texts_a16_salon_ausgang_hinterdeck_mo_leave_1;Go to the afterdeck
+texts_a16_salon_ausgang_tuer_mo_leave_1;Leave the saloon
+sequences_a16_salon_ausgang_tuer_leave_1#1;[Ohi pushes the door open while he is walking away, he leaves the scene.]
+texts_a16_salon_geiger_und_kapitaen_mo_ex_1__2;Look at Captain DiConti and David Kreutzer
+texts_a16_salon_geiger_und_kapitaen_mo_talk_mit_1;Talk to Captain DiConti and David Kreutzer
+spokentexts_a16_salon_geiger_und_kapitaen_ex_1_st_1;I'm not an expert. But I think that Mr. Kreutzer really is a very skilled violinist.
+spokentexts_a16_salon_geiger_und_kapitaen_ex_1_st_2;At least, I liked it and the captain was certainly smitten.
+spokentexts_a16_salon_geiger_und_kapitaen_ex_2_st_1;Hmm. There seems to be tension between the violinist and the writer.
+spokentexts_a16_salon_geiger_und_kapitaen_ex_2_st_2;I'd better not get involved.
+spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_1;Excuse me, gentlemen?
+sequences_a16_salon_geiger_und_kapitaen_talk_mit_1#2;[Both stop talking, look at the woman (Idle).]
+spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_2_direction;loud
+spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_2;She can't have meant you, Mr. Kreutzer!
+spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_3_direction;loud to writer, edgy
+spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_3;Why don't you just let me have a conversation with the young lady?
+spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_4_direction;anxious
+spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_4;I just wanted...
+spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_5_direction;loud
+spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_5;Did you count the rings on your fingers, my dear?
+spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_6_direction;edgy
+spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_6;I think I'm going to stretch my legs.
+spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_7;But Mr. Kreutzer, please stay. You simply must tell me more about your wonderful violin!
+spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_8_direction;edgy, hardly controlled
+spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_8;If you insist.
+sequences_a16_salon_geiger_und_kapitaen_talk_mit_1#10;[Both turn back again and leave the woman alone.]
+texts_a16_salon_salatzange_mo_ex_1;Examine the salad tongs
+texts_a16_salon_salatzange_mo_inventar_1;Salad tongs
+texts_a16_salon_salatzange_mo_inventar_2;Improvised screwdriver
+spokentexts_a16_salon_salatzange_ex_1_st_1;Wooden salad tongs...
+spokentexts_a16_salon_salatzange_ex_1_st_2;Just small enough to carry around unseen.
+sequences_a16_salon_salatzange_ex_1#3;[The woman takes the salad tongs, puts them into her bag.]
+spokentexts_a16_salon_salatzange_ex_2_st_1;The salad tongs won't be missed until breakfast.
+spokentexts_a16_salon_salatzange_ex_3_st_1;I jammed a penny in between the tongs. If I hold the tongs at both ends, I can apply a lot of force!
+sequences_a16_salon_seq_a16_salon_betreten#0;[The door slowly closes behind the woman while she is standing in the room.]
+sequences_a16_salon_seq_a16_salon_betreten#1;[Could you probably do this as a background animation to avoid the player having to wait every time?]
+sequences_a16_salon_seq_a16_salon_konzert#0;[Close up to the young woman as she enters the location. You DON'T see whether she comes from the front or the back. You hear the sound of the violin.]
+sequences_a16_salon_seq_a16_salon_konzert#1;[The young woman pauses, interested, listens to the music.]
+sequences_a16_salon_seq_a16_salon_konzert#2;[Cut to the salon. You can see the violinist giving a concert. The captain and the writer are listening.]
+sequences_a16_salon_seq_a16_salon_konzert#3;[Cut to the violinist who performs with virtuosity.]
+sequences_a16_salon_seq_a16_salon_konzert#4;[Violinist performs with virtuosity.]
+sequences_a16_salon_seq_a16_salon_konzert#5;[Cut to the carer and the archaeologist who listen as well.]
+sequences_a16_salon_seq_a16_salon_konzert#6;[The archaeologist looks at the carer. She notices it and glances at him. He quickly concentrates on the violinist. She also looks away but can't suppress a smile.]
+sequences_a16_salon_seq_a16_salon_konzert#7;[Cut back to the violinist]
+sequences_a16_salon_seq_a16_salon_konzert#8;[The violinist finishes, takes a bow.]
+sequences_a16_salon_seq_a16_salon_konzert#9;[Cut to the captain and the writer.]
+sequences_a16_salon_seq_a16_salon_konzert#10;[The captain jumps up applauding. The writer applauds courteously.]
+spokentexts_a16_salon_seq_a16_salon_konzert_st_1_direction;amazed, smitten
+spokentexts_a16_salon_seq_a16_salon_konzert_st_1;Bravo! Bravissimo! Fantastico!
+sequences_a16_salon_seq_a16_salon_konzert#12;[The captain heads to the violinist, shakes his hand anxiously.]
+sequences_a16_salon_seq_a16_salon_konzert#13;[Cut to the carer and the archaeologist.]
+sequences_a16_salon_seq_a16_salon_konzert#14;[Both applaud. The carer stops, glances at the professor and goes to the writer. She bends down. (Idle).]
+sequences_a16_salon_seq_a16_salon_konzert#15;[Cut to the writer.]
+spokentexts_a16_salon_seq_a16_salon_konzert_st_2;Would it be okay for you if I get some fresh air up on deck?
+spokentexts_a16_salon_seq_a16_salon_konzert_st_3;Of course my dear. Give my regards to the sea.
+sequences_a16_salon_seq_a16_salon_konzert#18;[The carer starts to leave.]
+sequences_a16_salon_seq_a16_salon_konzert#19;[Cut to the professor.]
+sequences_a16_salon_seq_a16_salon_konzert#20;[The professor gazes after the carer, then also leaves the salon, heading to the landing.]
+sequences_a16_salon_seq_a16_salon_konzert#21;[Cut to the writer.]
+sequences_a16_salon_seq_a16_salon_konzert#22;[She watches the professor following the carer. The young woman consorts with her.]
+sequences_a16_salon_seq_a16_salon_konzert#23;[Cut to the total view.]
+sequences_a16_salon_seq_a16_salon_konzert#24;[The captain and the violinist sit down and talk to each other.]
+sequences_a16_salon_seq_a16_salon_konzert#25;[The player takes control.]
+texts_a16_treppensaal_ausgang_kabine_frau_mo_leave_1;Go into the cabin
+sequences_a16_treppensaal_ausgang_kabine_frau_leave_1#1;[The young woman goes into her cabin.]
+texts_a16_treppensaal_ausgang_nebendeck_mo_leave_1;Go to the side deck
+sequences_a16_treppensaal_ausgang_nebendeck_leave_1#1;[The young woman goes to the side deck.]
+texts_a16_treppensaal_plakette_mo_ex_1-3;Examine the poster
+spokentexts_a16_treppensaal_plakette_ex_1_st_1;"The poster proudly announces the ship's first Atlantic crossing. ""The city of New York welcomes the MS Lydia."""
+spokentexts_a16_treppensaal_plakette_ex_2_st_1;The silhouette of New York and of a ship. But not of this one. They probably use the same template for every ship.
+spokentexts_a16_treppensaal_plakette_ex_2_st_2;Looks pretty official, with a coat of arms, flags, seal and all the trappings. And the poster is clean as a whistle. Someone seems to cherish it.
+spokentexts_a16_treppensaal_plakette_ex_3_st_1;Hmm. Guernica - a Picasso painting that hangs in New York...
+spokentexts_a16_treppensaal_plakette_ex_3_st_2_direction;excited in the end
+spokentexts_a16_treppensaal_plakette_ex_3_st_2;And there are three animals depicted on the city's coat of arms. An eagle and two beavers! This could be it!
+spokentexts_a16_treppensaal_plakette_ex_3_st_3_direction;excited
+spokentexts_a16_treppensaal_plakette_ex_3_st_3;There's no eagle on the lock, but there's certainly a beaver!
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_22;That's it! Famous works of art and the cities in which they hang. Now I know for what I have to look for!
+spokentexts_a16_treppensaal_plakette_ex_3_st_5_direction;excited, self-contented
+spokentexts_a16_treppensaal_plakette_ex_3_st_5;Guernica equals New York equals beaver!
+spokentexts_a16_treppensaal_plakette_ex_3_st_6;Okay... The coat of arms of New York City is on the poster...
+spokentexts_a16_treppensaal_plakette_ex_3_st_7;There's the obligatory eagle. That can't be it, since there's no eagle on the lock.
+spokentexts_a16_treppensaal_plakette_ex_3_st_8_direction;excited
+spokentexts_a16_treppensaal_plakette_ex_3_st_8;But look here! How cute! There are two beavers posing on the New York City emblem!
+spokentexts_a16_treppensaal_plakette_ex_3_st_10_direction;ecstatic
+spokentexts_a16_treppensaal_plakette_ex_3_st_10;Keep it up! There are at least two more symbols to find!
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_15;I just need one more animal!
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_16;That's it! Three animals are all I need-I can guess the fourth.
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_17;But I could try to find the fourth symbol anyway, just to be sure.
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_18;All four symbols decoded-I'm so good!
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_19;Now I need to get back to the baroness' cabin. The jewel is waiting for me!
+texts_a16_treppensaal_treppe_mo_leave_1;Go downstairs
+sequences_a16_treppensaal_treppe_leave_1#1;[The young woman starts to go downstairs.]
+sequences_a16_treppensaal_treppe_leave_1#2;[Cut while she is still walking. Continues on the lower deck.]
+texts_a16_treppensaal_tuer_kabine_baronin_mo_ex_1;Listen at the door
+texts_a16_treppensaal_tuer_kabine_baronin_mo_ex_2a__2b__3;Examine the cabin door
+sequences_a16_treppensaal_tuer_kabine_baronin_ex_1#1;[The woman goes to the door, places her ear to it (Idle).]
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_1_direction;muted through the door
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_1;I'm sure I could help you if...
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_2_direction;muted through the door, annoyed
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_2;Stand aside.
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_3_direction;muted through the door
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_3;If you told me what you're looking for...
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_4_direction;muted through the door, annoyed
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_4;You're just getting in my way! Now get out!
+sequences_a16_treppensaal_tuer_kabine_baronin_ex_1#6;[The young woman steps back in shock, can't escape until the door opens and the butler appears. So she looks with great interest at something near the door.]
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_5;I'll wait at the door, madam.
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_6_direction;annoyed, dismissively
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_6;Yes, yes.
+sequences_a16_treppensaal_tuer_kabine_baronin_ex_1#9;[The butler leaves the cabin, can't avoid smiling. He closes the door and finds the young woman.]
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_7_direction;surprised
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_7;Oh!
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_8;Miss...
+sequences_a16_treppensaal_tuer_kabine_baronin_ex_1#12;[The young woman turns to him.]
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_9;Mayers.
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_10_direction;mistrustful
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_10;Can I help you?
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_11_direction;a bit nervous
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_11;No, I'm just having a look around the ship. Good day.
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_12;That was close.
+sequences_a16_treppensaal_tuer_kabine_baronin_ex_1#17;[The woman leaves to go to the side deck. The butler follows her with his eyes, mistrustful. He suspects something.]
+sequences_a16_treppensaal_tuer_kabine_baronin_ex_1#18;[When you enter this scene the next time, the butler sits in a chair next to the door.]
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_2a_st_1;Inch is watching the door. I need another way into the cabin.
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_2b_st_1;Even if I lure Inch away, I couldn't enter the cabin without the baroness noticing something.
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_2b_st_2;I have to find another way into the cabin.
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_3_st_1;I'll have to use my private entrance via the ventilation shaft.
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_3_st_2;If someone spots me going into the baroness' cabin, I'd have rather a lot to explain.
+texts_a16_treppensaal_tuer_salon_mo_leave_1;Go into the saloon
+sequences_a16_treppensaal_tuer_salon_leave_1#1;[The woman pulls the door open and enters the salon.]
+texts_a16_unterdeck_kabine_ermittler_mo_ex_1__2;Examine the door to Legrand's cabin
+spokentexts_a16_unterdeck_kabine_ermittler_ex_1_st_1;We briefly discussed whether we should try to steal the second Eye here on the ship.
+spokentexts_a16_unterdeck_kabine_ermittler_ex_1_st_2;The lack of escape routes and the ten-centimeter-thick door to the safe settled the question.
+spokentexts_a16_unterdeck_kabine_ermittler_ex_2_st_1;Legrand is an important part of our plan. He's the one who'll arrest Inch in the end.
+spokentexts_a16_unterdeck_kabine_ermittler_ex_2_st_2;But there's still a lot to do before that happens.
+texts_a16_unterdeck_krankenstation_tuer_mo_ex_1;Examine the doors to the hospital ward
+texts_a16_unterdeck_krankenstation_tuer_mo_leave_1__2;Enter the medical center
+spokentexts_a16_unterdeck_krankenstation_tuer_ex_1_st_1;The good doctor seems to be very busy. I shouldn't bother him.
+sequences_a16_unterdeck_krankenstation_tuer_leave_1#1;[The young woman knocks on the door.]
+spokentexts_a16_unterdeck_krankenstation_tuer_leave_1_st_1_direction;durch verschlossene Tür
+spokentexts_a16_unterdeck_krankenstation_tuer_leave_1_st_1;Come in!
+sequences_a16_unterdeck_krankenstation_tuer_leave_1#3;[The young woman opens the door, enters the room.]
+spokentexts_a16_unterdeck_krankenstation_tuer_leave_2_st_1;The doctor is upstairs. He probably locked the door.
+sequences_a16_unterdeck_krankenstation_tuer_leave_2#2;[The woman tries to open the door. It's locked.]
+spokentexts_a16_unterdeck_krankenstation_tuer_leave_2_st_2;Yes.
+texts_a16_unterdeck_pinnwand_mo_ex_1;Examine the pinboard
+spokentexts_a16_unterdeck_pinnwand_ex_1_st_1;The only regular event seems to be the nightly drink in the saloon. 
+spokentexts_a16_unterdeck_pinnwand_ex_1_st_2;Judging from the rest of the entertainment program, it seems necessary.
+texts_a16_unterdeck_schiffsmodell_mo_ex_1__2;Examine the model ship
+spokentexts_a16_unterdeck_schiffsmodell_ex_1_st_1_direction;bewundernd
+spokentexts_a16_unterdeck_schiffsmodell_ex_1_st_1;Very fine handiwork. The model maker even wrote the name of the ship on the tiny life preservers.
+spokentexts_a16_unterdeck_schiffsmodell_ex_1_st_2;But the winter garden at the back of the saloon is missing and the stern deck looks different. It was obviously made before the ship was remodeled.
+spokentexts_a16_unterdeck_schiffsmodell_ex_2_st_1;Maybe one of the crew whiled away the long nights at sea building the model.
+spokentexts_a16_unterdeck_schiffsmodell_ex_2_st_2;Only someone with a lot of time - and a love of the original - could build such a thing.
+texts_a16_unterdeck_treppe_mo_leave_1;Go upstairs
+sequences_a16_unterdeck_treppe_leave_1#1;[The young woman starts to go upstairs.]
+sequences_a16_unterdeck_treppe_leave_1#2;[While she is walking it switches to the landing.]
+texts_a16_unterdeck_zeitschrift_mo_ex_1-3;Look at the magazines
+spokentexts_a16_unterdeck_zeitschrift_ex_1_st_1;"Several journals and magazines... This looks pretty interesting: ""Art and Culture Today""."
+sequences_a16_unterdeck_zeitschrift_ex_1#2;[The woman picks up a magazine, opens it, turns the page and reads (Idle).]
+spokentexts_a16_unterdeck_zeitschrift_ex_1_st_2;There's something about the exhibition.
+spokentexts_a16_unterdeck_zeitschrift_ex_1_st_3_direction;reads, skims over the text
+spokentexts_a16_unterdeck_zeitschrift_ex_1_st_3;"""Unique masterpieces... Exhibited for the first time together in their home country... Tireless efforts of Baroness von Trebitz"""
+sequences_a16_unterdeck_zeitschrift_ex_1#5;[The woman closes the magazine and puts it back.]
+spokentexts_a16_unterdeck_zeitschrift_ex_2_st_1;No time for reading. I have to find the secret compartment in the baroness' cabin!
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_2;Maybe the art magazine will help me with the symbols?
+sequences_a16_unterdeck_zeitschrift_ex_3#6;[The woman picks up a magazine, opens it, turns the page and reads (Idle).]
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_3;Indeed! An article about different works of art and how they survived the Second World War. And there's also a picture of the bust of Nefertiti!
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_4_direction;reads, skims
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_4;"""The unique Egyptian work of art was...1913...hmm-hmm...permission to export to Germany..."""
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_5_direction;reads, skims
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_5;"""Second World War...safe at the Reich Bank...then a bunker...and then a salt mine..."""
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_6_direction;reads, skims
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_6;"""...prevented from shipping the bust to the United States...back in Berlin since 1956!"""
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_7_direction;reads, skims
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_7;"""Very glad... blah blah blah...soon in the Egyptian Museum of Berlin and hopefully someday in a reunified Berlin on the Museum Island..."""
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_8;Okay-so the bust of Nefertiti is located in Berlin.
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_9_direction;Thinks, ponders
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_9;Hmm. Berlin... Berlin... The bear! The Berlin bear!
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_10;There's a bear on Berlin's coat of arms!
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_11_direction;happy
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_11;Nefertiti-bear. That's it!
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_12;I have to find out where the other works of art are located and which animals are associated with those cities.
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_13;Now that I know what to look for, it'll be child's play!
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_14;And which animal is on the city's coat of arms? The Berlin bear!
+sequences_a16_unterdeck_zeitschrift_ex_3#21;[The woman closes the magazine and puts it back.]
+spokentexts_a16_unterdeck_zeitschrift_ex_4_st_1;The bust of Nefertiti is in Berlin. Berlin: bear. That works!
+sequences_a16_unterdeck_seq_a16_unterdeck_betreten_aus_richtung_treppensaal#0;[The woman walks down the last few steps, takes the normal position.]
+texts_a16_vorderdeck_ausgang_nebendeck_mo_leave_1;Go to the side deck
+sequences_a16_vorderdeck_ausgang_nebendeck_leave_1#1;[The young woman goes to the side deck.]
+texts_a16_vorderdeck_pflegerin_und_archaeologe_mo_ex_1;Look at Miss Miller and Professor Lucien.
+texts_a16_vorderdeck_pflegerin_und_archaeologe_mo_talk_mit_1;Talk to Miss Miller and Professor Lucien
+spokentexts_a16_vorderdeck_pflegerin_und_archaeologe_ex_1_st_1;The two of them seem to be in a private conversation! I'd better not disturb them.
+spokentexts_a16_vorderdeck_pflegerin_und_archaeologe_ex_1_st_2;When Adil and I were following the professor in London, I was disguised - but that doesn't mean he won't recognize me now.
+spokentexts_a16_vorderdeck_pflegerin_und_archaeologe_ex_2_st_1;Professor Lucien could certainly tell me everything there is to know about Nefertiti.
+spokentexts_a16_vorderdeck_pflegerin_und_archaeologe_ex_2_st_2;But he might also realize that I was in his museum in London. I'd better not talk to him.
+spokentexts_a16_vorderdeck_pflegerin_und_archaeologe_talk_mit_1_st_1;No. I won't talk to them as long I can avoid it.
+texts_a16_vorderdeck_shuffleboardflaeche_mo_ex_1;Examine the shuffleboard court
+spokentexts_a16_vorderdeck_shuffleboardflaeche_ex_1_st_1;Boule, curling, shuffleboard... All the same to me-I'm not interested in any of that now.
+texts_a16_vorderdeck_tuer_frachtraum_mo_ex_1;Examine the door to the cargo hold
+spokentexts_a16_vorderdeck_tuer_frachtraum_ex_1_st_1;This should be the entrance to the cargo hold. Not really my concern.
+sequences_a16_krankenstation_seq_a16_krankenstation_betreten_erstmalig#0;[Woman enters, closes the door.]
+spokentexts_a16_krankenstation_seq_a16_krankenstation_betreten_erstmalig_st_1;How can I help you, young lady?
+texts_araber_top_a16_araber_butler_inch_tseq_title;Butler Inch
+spokentexts_araber_top_a16_araber_butler_inch_tseq_st_1;Speaking of Inch.
+spokentexts_araber_top_a16_araber_butler_inch_tseq_st_2;I saw him talking to you in Venice. What was it about?
+spokentexts_araber_top_a16_araber_butler_inch_tseq_st_3;I saw you and Inch in Venice. What was it about?
+spokentexts_araber_top_a16_araber_butler_inch_tseq_st_4;He was angry because his attack on the train failed and because I lost my ticket.
+spokentexts_araber_top_a16_araber_butler_inch_tseq_st_5;How did you get on the ship?
+spokentexts_araber_top_a16_araber_butler_inch_tseq_st_6_direction;pitifully
+spokentexts_araber_top_a16_araber_butler_inch_tseq_st_6;As a stowaway, locked in a cold, dark cargo hold.
+spokentexts_araber_top_a16_araber_butler_inch_tseq_st_7_direction;sarcastically
+spokentexts_araber_top_a16_araber_butler_inch_tseq_st_7;Poor boy!
+texts_araber_top_a16_araber_ermittler_tseq_title;Legrand
+spokentexts_araber_top_a16_araber_ermittler_tseq_st_1;Will Legrand cause any trouble?
+spokentexts_araber_top_a16_araber_ermittler_tseq_st_2;Everything's still going according to plan. That means he's clever, but not clever enough.
+spokentexts_araber_top_a16_araber_ermittler_tseq_st_3;And the bobby?
+spokentexts_araber_top_a16_araber_ermittler_tseq_st_4;Peasant's cunning, nothing more. He won't be able to solve the puzzle on his own.
+spokentexts_araber_top_a16_araber_ermittler_tseq_st_5;There's still Inch.
+spokentexts_araber_top_a16_araber_ermittler_tseq_st_6;He doesn't suspect anything. We laid the foundation well. I've been his assistant for months already.
+spokentexts_araber_top_a16_araber_ermittler_tseq_st_7;He doesn't trust me but he thinks he can play me for a sucker. That's enough.
+texts_araber_top_a16_araber_geheimversteck_gefunden_tseq_title;Secret compartment
+spokentexts_araber_top_a16_araber_geheimversteck_gefunden_tseq_st_1;The secret compartment is secured with a combination lock.
+spokentexts_araber_top_a16_araber_geheimversteck_gefunden_tseq_st_2;Is there any way in?
+spokentexts_araber_top_a16_araber_geheimversteck_gefunden_tseq_st_3;Not without leaving evidence. I need the combination.
+spokentexts_araber_top_a16_araber_geheimversteck_gefunden_tseq_st_4;Are there any hints?
+spokentexts_araber_top_a16_araber_geheimversteck_gefunden_tseq_st_5;A memory aid, consisting of several works of art. There are animals on the lock.
+spokentexts_araber_top_a16_araber_geheimversteck_gefunden_tseq_st_6;Hmm. The works of art might hint at specific animals.
+spokentexts_araber_top_a16_araber_geheimversteck_gefunden_tseq_st_7;You don't say, genius!
+spokentexts_araber_top_a16_araber_geheimversteck_gefunden_tseq_st_8;I've already got that far.
+spokentexts_araber_top_a16_araber_geheimversteck_gefunden_tseq_st_9_direction;Thoughtfully
+spokentexts_araber_top_a16_araber_geheimversteck_gefunden_tseq_st_9;Yes, I think so too...
+texts_araber_top_a16_araber_geheimversteck_geschafft_tseq_title;Riddle solved!
+spokentexts_araber_top_a16_araber_geheimversteck_geschafft_tseq_st_1;I've got the combination! At least, I think I have.
+spokentexts_araber_top_a16_araber_geheimversteck_geschafft_tseq_st_2_direction;proud, motivating
+spokentexts_araber_top_a16_araber_geheimversteck_geschafft_tseq_st_2;That's my girl!
+spokentexts_araber_top_a16_araber_geheimversteck_geschafft_tseq_st_3;I'm going to steal the Eye now. When I come back, we can... celebrate a little.
+spokentexts_araber_top_a16_araber_geheimversteck_geschafft_tseq_st_4_direction;cheering
+spokentexts_araber_top_a16_araber_geheimversteck_geschafft_tseq_st_4;Hooray!
+texts_araber_top_a16_araber_geheimversteck_hilfe_ad_tseq_title;AD
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_ad_tseq_st_1;"Does the monogram ""AD"" mean anything to you?"
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_ad_tseq_st_2;Anno Domini?
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_ad_tseq_st_3;No, it can't be that. I think it stands for a name.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_ad_tseq_st_4_direction;Thinks
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_ad_tseq_st_4;No, no idea. Sorry.
+sequences_araber_top_a16_araber_geheimversteck_hilfe_ad_tseq#4;[As long as there is another topic besides ''rather not'' in the sub menu, back to the sub menu. If not, back to the main menu.]
+texts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_title;Alberto Durero
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_1;Alberto Durero
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_2;What about him?
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_3;It's the Spanish name of Albrecht Dürer.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_4;Why didn't you tell me that in the first place?
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_5;Can you match him to an animal?
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_6;Hmm. There's his watercolor of a brown hare.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_7;But there's no symbol of a hare.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_8;That's all I've got, sorry.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_9;What's his most famous work?
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_10;Hard to say. He did a lot. He was pioneer of woodcuts and printmaking.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_11;The baroness left his monogram as a hint, not the name of one of his artworks. So there must be a painting that everyone associates with him...
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_12;No, not to my knowledge. Although... He did have favorite motif...
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_13;And that was?
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_14;Himself. He made quite a few self-portraits.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_15;That's it! The artist is the art!
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_16;Sounds logical!
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_17;His most famous self-portrait is in the Prado in Madrid. I saw it with my own eyes two years ago.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_18;Madrid... Hmm.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_19;The baroness loves museums. She certainly knows the Prado and the city...
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_20;Does Madrid have something like a heraldic animal?
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_21;Sure! A bear. It's on the coat of arms and all over the city.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_23;AD equals Madrid equals bear!
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_24_direction;blankly
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_24;If you say so...
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_27;Brilliant! The bear.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_28;A bear again? Like in Berlin?
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_29;Why not? The same numbers appear more than once on combination locks.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_30;Hmm. That's true.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_31;The bear, then.
+texts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_tseq_title;Albrecht Dürer
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_tseq_st_1;Albrecht Dürer... What can you tell me about him?
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_tseq_st_2;Who?
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_tseq_st_3;Albrecht Dürer. The painter.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_tseq_st_4;Never heard of him.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_tseq_st_5_direction;upset, reproachfully
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_tseq_st_5;What?! And you want to be an art thief?
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_tseq_st_6;Is he famous for anything?
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_tseq_st_7;I'm asking YOU!
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_tseq_st_8;I have no idea who you're talking about.
+sequences_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_tseq#8;[As long as there is another topic besides ''rather not'' in the sub menu, back to the sub menu. If not, back to the main menu.]
+texts_araber_top_a16_araber_geheimversteck_hilfe_buonarrotie_tseq_title;Buonarroti's Adam
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_buonarrotie_tseq_st_1;Buonarroti's Adam... Who's that?
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_buonarrotie_tseq_st_2_direction;Thoughtfully
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_buonarrotie_tseq_st_2;Buonarroti... Seems familiar somehow.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_buonarrotie_tseq_st_3;To me as well, but I don't know why.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_buonarrotie_tseq_st_4_direction;Thinks
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_buonarrotie_tseq_st_4;Hmm. No. I have no idea. I don't know him.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_buonarrotie_tseq_st_5;Someone must!
+texts_araber_top_a16_araber_geheimversteck_hilfe_doch_nicht_tseq_title;Back
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_doch_nicht_tseq_st_1;OK then...
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_doch_nicht_tseq_st_2;I think I'll just have to find the answers on my own.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_doch_nicht_tseq_st_3_direction;startled]
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_doch_nicht_tseq_st_3;All right...?!
+sequences_araber_top_a16_araber_geheimversteck_hilfe_doch_nicht_tseq#5;[Back to the main menu.]
+texts_araber_top_a16_araber_geheimversteck_hilfe_guernica_newyork_tseq_title;New York
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_newyork_tseq_st_1;Guernica hangs in New York.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_newyork_tseq_st_2;Hmm. OK...
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_newyork_tseq_st_3;Do you know what the heraldic animal of New York is?
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_newyork_tseq_st_4;An eagle? It's all eagles over there.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_newyork_tseq_st_5_direction;laughs out loud
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_newyork_tseq_st_5;Pff! That's the second time I've heard that.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_newyork_tseq_st_6;But no, it can't be an eagle.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_newyork_tseq_st_7;No, it can't be that.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_newyork_tseq_st_8_direction;mocking
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_newyork_tseq_st_8;Then I don't know. You're playing the American. Shouldn't you know?
+sequences_araber_top_a16_araber_geheimversteck_hilfe_guernica_newyork_tseq#10;[As long as there is another topic besides ''rather not'' in the sub menu, back to the sub menu. If not, back to the main menu.]
+texts_araber_top_a16_araber_geheimversteck_hilfe_guernica_tseq_title;Guernica
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_tseq_st_1;"""Guernica""... Sounds Spanish, doesn't it?"
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_tseq_st_2;Yes. It's a city in the Basque region.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_tseq_st_3;Does it have a heraldic animal? Or maybe the region has one?
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_tseq_st_4;I don't know, I've never been there. I just know it because the city was bombed by the Nazis during the Spanish Civil War.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_tseq_st_5;Nazis in the Spanish Civil War?
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_tseq_st_6;Not officially, of course.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_tseq_st_7;At the request of General Franco, his friends from Germany reduced a defenseless city to ashes and rubble.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_tseq_st_8;Picasso immortalised the bombing in his famous painting.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_tseq_st_9;Really? Is it on display in Spain?
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_tseq_st_10;Silly! As long as Franco is in charge, he won't allow that.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_tseq_st_11;Where is it?
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_tseq_st_12;Hmm. No idea. Paris maybe? Picasso lived there for a long time.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_guernica_tseq_st_13;"Hmm. ""Maybe"" doesn't help me much."
+texts_araber_top_a16_araber_geheimversteck_hilfe_nofretete_tseq_title;Nefertiti
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_nofretete_tseq_st_1;"Does ""Nefertiti"" mean anything to you?"
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_nofretete_tseq_st_2;An Egyptian queen...
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_nofretete_tseq_st_3;That's it?
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_nofretete_tseq_st_4_direction;acted protest
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_nofretete_tseq_st_4;I didn't have an affair with her, if that's what you mean. She's not my type. And she's been dead for thousands of years.
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_nofretete_tseq_st_5_direction;amused
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_nofretete_tseq_st_5;Well then, I'll take your word for it.
+sequences_araber_top_a16_araber_geheimversteck_hilfe_nofretete_tseq#5;[As long as there is another topic besides ''rather not'' in the sub menu, back to the sub menu. If not, back to the main menu.]
+texts_araber_top_a16_araber_geheimversteck_hilfe_tseq_title;Combination
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_tseq_st_1;About the combination...
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_tseq_st_2;Yes?
+texts_araber_top_a16_araber_mann_in_kabine_tseq_title;Man in the cabin
+spokentexts_araber_top_a16_araber_mann_in_kabine_tseq_st_1;I almost got caught in the baroness' cabin.
+spokentexts_araber_top_a16_araber_mann_in_kabine_tseq_st_2;What happened?
+spokentexts_araber_top_a16_araber_mann_in_kabine_tseq_st_3;I don't know. A man came in and I just had time to hide under the bed.
+spokentexts_araber_top_a16_araber_mann_in_kabine_tseq_st_4;Maybe it was a steward who came to clean the cabin?
+spokentexts_araber_top_a16_araber_mann_in_kabine_tseq_st_5;And turn on a tape recorder in the cupboard?
+spokentexts_araber_top_a16_araber_mann_in_kabine_tseq_st_6;Hmm. Maybe it was Inch? He wanted some music?
+spokentexts_araber_top_a16_araber_mann_in_kabine_tseq_st_7;There was nothing on the tape. It was playing, but I didn't hear anything. Something is rotten here!
+spokentexts_araber_top_a16_araber_mann_in_kabine_tseq_st_9_direction;in a good mood, suggestively
+spokentexts_araber_top_a16_araber_mann_in_kabine_tseq_st_9;Don't bother your pretty little head about it. Swap the Eye and hurry back. I've got a surprise for you.
+spokentexts_araber_top_a16_araber_mann_in_kabine_tseq_st_10_direction;sarcastically
+spokentexts_araber_top_a16_araber_mann_in_kabine_tseq_st_10;"I don't think your ""surprise"" will really ""surprise"" me."
+texts_araber_top_a16_araber_plan_tseq_title;The plan
+spokentexts_araber_top_a16_araber_plan_tseq_st_1;Shall we go over the plan one more time?
+spokentexts_araber_top_a16_araber_plan_tseq_st_2;Good idea.
+spokentexts_araber_top_a16_araber_plan_tseq_st_3;We know that Inch hid the first Eye in the baroness' luggage.
+spokentexts_araber_top_a16_araber_plan_tseq_st_4;I'll break into her cabin and replace the Eye with a fake.
+spokentexts_araber_top_a16_araber_plan_tseq_st_5;Right.
+spokentexts_araber_top_a16_araber_plan_tseq_st_6;We'll steal the second Eye in Cairo.
+spokentexts_araber_top_a16_araber_plan_tseq_st_7;And Inch will be caught in the act.
+spokentexts_araber_top_a16_araber_plan_tseq_st_8;It's simple!
+spokentexts_araber_top_a16_araber_plan_tseq_st_9;The devil is in the detail. I have to get into the baroness's cabin undetected, then find the secret hiding place, and I can't leave any evidence behind.
+spokentexts_araber_top_a16_araber_plan_tseq_st_10;"Yes... And Inch said something about a ""combination"". So the hiding place might be locked."
+spokentexts_araber_top_a16_araber_plan_tseq_st_11;One step at a time. I think I'll assess the situation first.
+spokentexts_araber_top_a16_araber_plan_tseq_st_12_direction;joyfully
+spokentexts_araber_top_a16_araber_plan_tseq_st_12;And I think I'll make myself comfortable for a little while.
+sequences_araber_top_a16_araber_plan_tseq#12;[The Arabian pulls the cover up under his nose.]
+spokentexts_araber_top_a16_araber_plan_tseq_st_13;So this is how married life will be?
+spokentexts_araber_top_a16_araber_plan_tseq_st_14_direction;lazy, cosy
+spokentexts_araber_top_a16_araber_plan_tseq_st_14;Works for me!
+sequences_araber_top_a16_araber_plan_tseq#15;[The Arabian lowers the cover again.]
+texts_araber_top_a16_araber_triplette_tseq_title;Fake jewel
+spokentexts_araber_top_a16_araber_triplette_tseq_st_1;Everything went according to plan in London?
+spokentexts_araber_top_a16_araber_triplette_tseq_st_2;Except for the explosion, yes.
+spokentexts_araber_top_a16_araber_triplette_tseq_st_3;The bobby was right on time.
+spokentexts_araber_top_a16_araber_triplette_tseq_st_4;Because he had a good tip-off!
+spokentexts_araber_top_a16_araber_triplette_tseq_st_5_direction;ironically
+spokentexts_araber_top_a16_araber_triplette_tseq_st_5;"I had enough time to take the Eye, but ""unfortunately"", there was no time to replace it with the fake."
+spokentexts_araber_top_a16_araber_triplette_tseq_st_6;Where is it?
+spokentexts_araber_top_a16_araber_triplette_tseq_st_7;Trouser pocket.
+sequences_araber_top_a16_araber_triplette_tseq#7;[The woman reaches into the Arabian's trouser pocket, takes out a hanky and unfolds it. She examines the jewel inside (Idle).]
+spokentexts_araber_top_a16_araber_triplette_tseq_st_8;A work of art. Almost as beautiful as the original.
+spokentexts_araber_top_a16_araber_triplette_tseq_st_9;I can't tell the difference.
+sequences_araber_top_a16_araber_triplette_tseq#11;[The woman pockets the jewel and puts the hanky back.]
+spokentexts_araber_top_a16_araber_triplette_tseq_st_11;Inch could. But if all goes to plan, he won't have a chance to take a closer look at the jewel until after the burglary at the Egyptian Museum.
+texts_araber_top_a16_araber_verabschieden_2_tseq_title;Say goodbye
+spokentexts_araber_top_a16_araber_verabschieden_2_tseq_st_1;Oh, nothing.
+spokentexts_araber_top_a16_araber_verabschieden_2_tseq_st_2;I just wanted to see whether you'd drowned yet!
+spokentexts_araber_top_a16_araber_verabschieden_2_tseq_st_3_direction;beleidigt
+spokentexts_araber_top_a16_araber_verabschieden_2_tseq_st_3;Ha ha.
+sequences_araber_top_a16_araber_verabschieden_2_tseq#4;[The Arabian disappears into the shower.]
+sequences_araber_top_a16_araber_verabschieden_2_tseq#5;[The sound of the shower running starts again.]
+spokentexts_araber_top_a16_araber_verabschieden_2_tseq_st_4;I'll be going!
+spokentexts_araber_top_a16_araber_verabschieden_2_tseq_st_5;Don't waste all the hot water!
+spokentexts_araber_top_a16_araber_verabschieden_2_tseq_st_6;Never!
+sequences_araber_top_a16_araber_verabschieden_2_tseq#10;[The Arabian disappears into the shower.]
+sequences_araber_top_a16_araber_verabschieden_2_tseq#11;[The sound of the shower running starts again.]
+texts_araber_top_a16_araber_verabschieden_tseq_title;Say goodbye
+spokentexts_araber_top_a16_araber_verabschieden_tseq_st_1;I'll go out now and lead all the police and master-thieves around by the nose.
+sequences_araber_top_a16_araber_verabschieden_tseq#1;[The Arabian offers her a hug.]
+spokentexts_araber_top_a16_araber_verabschieden_tseq_st_2_direction;appealing, suggestively
+spokentexts_araber_top_a16_araber_verabschieden_tseq_st_2;I can think of something else to do...
+sequences_araber_top_a16_araber_verabschieden_tseq#3;[The young woman kneels on the bed, it seems like she wants to accept the offer. But then she just quickly kisses him on the forehead and gets to her feet again.]
+spokentexts_araber_top_a16_araber_verabschieden_tseq_st_3_direction;mocking
+spokentexts_araber_top_a16_araber_verabschieden_tseq_st_3;I can't!
+sequences_araber_top_a16_araber_verabschieden_tseq#5;[The young woman heads to the door, waves playfully (back to the Arabian) and places her hand on the door. The Arabian falls disappointed but amused back into the bed.]
+sequences_araber_top_a16_araber_verabschieden_tseq#6;[Continues in the landing.]
+texts_arzt_mo_ex_1;Look at Dr. Gebhardt
+texts_arzt_mo_talk_mit_1-3;Talk to Dr. Gebhardt
+texts_arzt_top_a16__arzt__ad_tseq_title;AD
+spokentexts_arzt_top_a16__arzt__ad_tseq_st_1;"Do you know what the monogram ""AD"" stands for?"
+spokentexts_arzt_top_a16__arzt__ad_tseq_st_2;What?
+spokentexts_arzt_top_a16__arzt__ad_tseq_st_3;A capital A with a small D below it.
+spokentexts_arzt_top_a16__arzt__ad_tseq_st_4_direction;annoyed
+spokentexts_arzt_top_a16__arzt__ad_tseq_st_4;Yes, I do. Will you leave me alone if I tell you what it means?
+spokentexts_arzt_top_a16__arzt__ad_tseq_st_5_direction;surprised
+spokentexts_arzt_top_a16__arzt__ad_tseq_st_5;You know?
+spokentexts_arzt_top_a16__arzt__ad_tseq_st_6_direction;annoyed, wants to get rid of her
+spokentexts_arzt_top_a16__arzt__ad_tseq_st_6;It's not just any monogram, it's the first. Albrecht Dürer, a German artist, signed all his works with it.
+spokentexts_arzt_top_a16__arzt__ad_tseq_st_7_direction;annoyed, wants to get rid of her
+spokentexts_arzt_top_a16__arzt__ad_tseq_st_7;He was the first artist to sign all of his work - with a monogram. It wasn't common to do so before then.
+spokentexts_arzt_top_a16__arzt__ad_tseq_st_8;Are you sure?
+spokentexts_arzt_top_a16__arzt__ad_tseq_st_9;His wooden engravings were and still are printed billions of times in Germany.
+spokentexts_arzt_top_a16__arzt__ad_tseq_st_10;Billions of times? You're exaggerating.
+spokentexts_arzt_top_a16__arzt__ad_tseq_st_11;Not at all. His work appears on German marks.
+spokentexts_arzt_top_a16__arzt__ad_tseq_st_12;And what...
+spokentexts_arzt_top_a16__arzt__ad_tseq_st_13;That's enough. I told you what you wanted to know. Please, leave me alone now.
+texts_arzt_top_a16__arzt__buonarrotie_tseq_title;Buonarroti
+spokentexts_arzt_top_a16__arzt__buonarrotie_tseq_st_1;Buonarroti...
+spokentexts_arzt_top_a16__arzt__buonarrotie_tseq_st_2_direction;annoyed, aggressive
+spokentexts_arzt_top_a16__arzt__buonarrotie_tseq_st_2;No idea. Don't know him.
+spokentexts_arzt_top_a16__arzt__buonarrotie_tseq_st_3;But...
+spokentexts_arzt_top_a16__arzt__buonarrotie_tseq_st_4_direction;annoyed, but pulls himself together
+spokentexts_arzt_top_a16__arzt__buonarrotie_tseq_st_4;Try your luck somewhere else and leave me alone, please. Thank you.
+texts_arzt_top_a16__arzt__guernica_tseq_title;Guernica
+spokentexts_arzt_top_a16__arzt__guernica_tseq_st_1;"Does ""Guernica"" mean anything to you?"
+spokentexts_arzt_top_a16__arzt__guernica_tseq_st_2;Listen, young lady-I don't know what they told you, but just because I'm German, I'm not responsible for the crimes of my government!
+spokentexts_arzt_top_a16__arzt__guernica_tseq_st_3;Crimes? What are you talking about?
+spokentexts_arzt_top_a16__arzt__guernica_tseq_st_4;We obeyed orders, just like everybody else. Now leave me alone.
+texts_arzt_top_a16__arzt__picasso_tseq_title;Picasso
+spokentexts_arzt_top_a16__arzt__picasso_tseq_st_1;"Have you ever heard of a ""Picasso""?"
+spokentexts_arzt_top_a16_arzt_nofretete_tseq_st_5;No, I'm sorry. I... I don't have time for that.
+spokentexts_arzt_top_a16_arzt_nofretete_tseq_st_6;That's enough! I'm saying this as politely as I can: please leave me alone now!
+spokentexts_arzt_top_a16_arzt_nofretete_tseq_st_7;We can discuss these unimportant things tomorrow, if it's really necessary.
+texts_arzt_top_a16_arzt_arzt_tseq_title;Doctor
+spokentexts_arzt_top_a16_arzt_arzt_tseq_st_1;Are you the ship's doctor?
+spokentexts_arzt_top_a16_arzt_arzt_tseq_st_2_direction;a bit confused because it's obvious
+spokentexts_arzt_top_a16_arzt_arzt_tseq_st_2;Err. Yes, of course!
+spokentexts_arzt_top_a16_arzt_arzt_tseq_st_3_direction;naive, a bit silly
+spokentexts_arzt_top_a16_arzt_arzt_tseq_st_3;You see! That's what I thought!
+spokentexts_arzt_top_a16_arzt_arzt_tseq_st_4_direction;naive, a bit silly
+spokentexts_arzt_top_a16_arzt_arzt_tseq_st_4;Because you've got a uniform and work in the medical center.
+spokentexts_arzt_top_a16_arzt_arzt_tseq_st_5_direction;anxious
+spokentexts_arzt_top_a16_arzt_arzt_tseq_st_5;Well spotted, young lady. My name is Doctor Gebhardt. How can I help you?
+texts_arzt_top_a16_arzt_gaeste_tseq_title;Passengers on board
+spokentexts_arzt_top_a16_arzt_gaeste_tseq_st_1;What are the other passengers like?
+spokentexts_arzt_top_a16_arzt_gaeste_tseq_st_2;Listen, young lady-I don't really have time to chat right now.
+spokentexts_arzt_top_a16_arzt_gaeste_tseq_st_3;Today is my first day and it's going... differently than I had expected.
+spokentexts_arzt_top_a16_arzt_gaeste_tseq_st_4;You do seem a little stressed. Maybe you should relax? Stress isn't good for you!
+spokentexts_arzt_top_a16_arzt_gaeste_tseq_st_5_direction;angry, pulls himself together
+spokentexts_arzt_top_a16_arzt_gaeste_tseq_st_5;You...
+spokentexts_arzt_top_a16_arzt_gaeste_tseq_st_6;You're right. If there's nothing else I can help you with...
+spokentexts_arzt_top_a16_arzt_gaeste_tseq_st_7;You weren't really helpful at all.
+sequences_arzt_top_a16_arzt_gaeste_tseq#7;[The woman turns to the door.]
+spokentexts_arzt_top_a16_arzt_gaeste_tseq_st_8;Maybe I'll come back later. Bye now!
+sequences_arzt_top_a16_arzt_gaeste_tseq#9;[The woman leaves, continues on the lower deck.]
+texts_arzt_top_a16_arzt_kapitaen_tseq_title;Captain
+spokentexts_arzt_top_a16_arzt_kapitaen_tseq_st_1;I was talking to the captain. He didn't look well. Is he sick?
+spokentexts_arzt_top_a16_arzt_kapitaen_tseq_st_2;I'm sure you'll understand that I can't discuss the medical history of one of my patients with you.
+spokentexts_arzt_top_a16_arzt_kapitaen_tseq_st_3;Why? Do you think I'm too stupid?
+spokentexts_arzt_top_a16_arzt_kapitaen_tseq_st_4;I... err... didn't mean that! It's a matter of confidentiality.
+spokentexts_arzt_top_a16_arzt_kapitaen_tseq_st_5;"I asked whether the captain is ill and you called him ""one of my patients"". Haven't you already answered my question?"
+spokentexts_arzt_top_a16_arzt_kapitaen_tseq_st_6_direction;annoyed
+spokentexts_arzt_top_a16_arzt_kapitaen_tseq_st_6;What do you want?!
+texts_arzt_top_a16_arzt_nofretete_tseq_title;Nefertiti
+spokentexts_arzt_top_a16_arzt_nofretete_tseq_st_1;Do you know the Egyptian queen Nefertiti?
+spokentexts_arzt_top_a16_arzt_nofretete_tseq_st_2;Err. Yes.
+spokentexts_arzt_top_a16_arzt_nofretete_tseq_st_3;There's a famous bust of her.
+spokentexts_arzt_top_a16_arzt_nofretete_tseq_st_4;Really? Tell me more!
+texts_arzt_top_a16_arzt_verabschieden_krankenstation_tseq_title;Say goodbye
+spokentexts_arzt_top_a16_arzt_verabschieden_krankenstation_tseq_st_1;I think I'll come back later.
+spokentexts_arzt_top_a16_arzt_verabschieden_krankenstation_tseq_st_2;I really am rather busy.
+spokentexts_arzt_top_a16_arzt_verabschieden_krankenstation_tseq_st_3_direction;generous
+spokentexts_arzt_top_a16_arzt_verabschieden_krankenstation_tseq_st_3;Oh, that's no problem.
+sequences_arzt_top_a16_arzt_verabschieden_krankenstation_tseq#3;[The woman turns to the door, leaves the hospital ward..]
+sequences_arzt_top_a16_arzt_verabschieden_krankenstation_tseq#4;[The conversation between the woman and the doctor is over.]
+texts_arzt_top_a16_arzt_verabschieden_treppensaal_tseq_title;Say goodbye
+spokentexts_arzt_top_a16_arzt_verabschieden_treppensaal_tseq_st_1;I ought to be going.
+spokentexts_arzt_top_a16_arzt_verabschieden_treppensaal_tseq_st_2;Thank God!
+sequences_arzt_top_a16_arzt_verabschieden_treppensaal_tseq#2;[The conversation between the woman and the doctor is over.]
+spokentexts_arzt_ex_1_st_1;It seems like Dr. Gebhardt was able to wrestle himself away from his work. But he still doesn't seem to be very relaxed - quite the opposite!
+spokentexts_arzt_ex_1_st_2;And why won't he go to the saloon?
+spokentexts_arzt_talk_mit_1_st_1;Dr. Gebhardt!
+spokentexts_arzt_talk_mit_1_st_2;Getting some fresh air?
+spokentexts_arzt_talk_mit_1_st_3;Oh, you... could say that.
+spokentexts_arzt_talk_mit_2_st_1;Dr. Gebhardt?
+spokentexts_arzt_talk_mit_2_st_2_direction;a bit annoyed
+spokentexts_arzt_talk_mit_2_st_2;Yes?
+spokentexts_arzt_talk_mit_3_st_1;Strange guy.
+spokentexts_arzt_talk_mit_3_st_2;I wonder what-or who-he's watching in the saloon.
+spokentexts_arzt_talk_mit_3_st_3;He seems like he's waiting for something and he's growing more nervous by the minute...
+texts_baronin_mo_talk_mit_1-2;Look at Baroness von Trebitz
+spokentexts_baronin_ex_1_st_1;The baroness seems to have a reason to celebrate. She's downing one glass of champagne after another.
+spokentexts_baronin_ex_2_st_1;The less I have to do with her, the better. Best if she doesn't even remember that I exist.
+spokentexts_baronin_ex_2_st_2;Although... based on her alcohol consumption, I don't really think I have to worry about that.
+texts_butler2_mo_ex_1-3;Examine the butler
+spokentexts_butler2_ex_1_st_1;Inch is intelligent and ruthless. A dangerous combination.
+spokentexts_butler2_ex_1_st_2;He's not a brilliant planner. But he is smart and careful. He senses danger.
+spokentexts_butler2_ex_1_st_3;I'm afraid he might suspect that something is wrong.
+spokentexts_butler2_ex_2_st_1;I think he's frightening.
+spokentexts_butler2_ex_2_st_2;You look in his face and you'd believe that he's at peace with the world and himself. But Adil has told me about his mood swings.
+spokentexts_butler2_ex_2_st_3;From one moment to the next, the mask falls away and he's capable of anything.
+spokentexts_butler2_ex_3_st_1;No use worrying about him now. I have a job to do.
+texts_geiger_mo_ex_1;Look at David Kreutzer
+texts_geiger_mo_talk_mit_1-4;Talk to David Kreutzer
+texts_geiger_top_a16_geiger_durchbruch_tseq_title;What happened?
+spokentexts_geiger_top_a16_geiger_durchbruch_tseq_st_1;What happened?
+spokentexts_geiger_top_a16_geiger_durchbruch_tseq_st_2;Earlier you told me that you were obsessed with success but then everything changed. What happened?
+spokentexts_geiger_top_a16_geiger_durchbruch_tseq_st_3;In a more dramatic story, I'd say that I broke my hand just before my big break.
+spokentexts_geiger_top_a16_geiger_durchbruch_tseq_st_4;Or that I was rejected because of my nationality or my name or that I was brought down by a conspiracy... But nothing like that ever happened.
+spokentexts_geiger_top_a16_geiger_durchbruch_tseq_st_5;I practiced like mad, got better and better-really good. But nothing happened.
+spokentexts_geiger_top_a16_geiger_durchbruch_tseq_st_6;The right people never heard me. I was never in the right place at the right time.
+spokentexts_geiger_top_a16_geiger_durchbruch_tseq_st_7;Can you imagine how it feels to always be on the cusp of a breakthrough?
+spokentexts_geiger_top_a16_geiger_durchbruch_tseq_st_8;To be just one evening away from becoming an overnight sensation?
+spokentexts_geiger_top_a16_geiger_durchbruch_tseq_st_10;To see how other, less talented violinists pass you by because you just aren't lucky enough?
+spokentexts_geiger_top_a16_geiger_durchbruch_tseq_st_11_direction;compassionately
+spokentexts_geiger_top_a16_geiger_durchbruch_tseq_st_11;How terrible.
+spokentexts_geiger_top_a16_geiger_durchbruch_tseq_st_12;For every star in the limelight, there are a dozen more that burn out unseen, fading month by month.
+spokentexts_geiger_top_a16_geiger_durchbruch_tseq_st_13;I didn't want to be one of those people who waste their lives chasing dreams without realizing that they're unattainable.
+spokentexts_geiger_top_a16_geiger_durchbruch_tseq_st_14;If I couldn't have the life that I always dreamed of and that my family expected from me, then at least I could have the next best life.
+texts_geiger_top_a16_geiger_naechstbeste_leben_tseq_title;The next best life
+spokentexts_geiger_top_a16_geiger_naechstbeste_leben_tseq_st_1;The next best life?
+spokentexts_geiger_top_a16_geiger_naechstbeste_leben_tseq_st_2;"""The next best life""... What do you mean by that?"
+spokentexts_geiger_top_a16_geiger_naechstbeste_leben_tseq_st_3;Mansions, limousines, parties... Everything you could wish for!
+spokentexts_geiger_top_a16_geiger_naechstbeste_leben_tseq_st_4;Though none of it belongs to me.
+spokentexts_geiger_top_a16_geiger_naechstbeste_leben_tseq_st_5;The lady called you a freeloader.
+spokentexts_geiger_top_a16_geiger_naechstbeste_leben_tseq_st_6;An ugly word... But maybe not so far from the truth.
+spokentexts_geiger_top_a16_geiger_naechstbeste_leben_tseq_st_7;I move with the rich and famous and at first glance, I live exactly the life my father always wished for me.
+spokentexts_geiger_top_a16_geiger_naechstbeste_leben_tseq_st_9;A carefree life, easygoing. And I play the violin, which I always loved to do.
+spokentexts_geiger_top_a16_geiger_naechstbeste_leben_tseq_st_10;But it's not really like that.
+spokentexts_geiger_top_a16_geiger_naechstbeste_leben_tseq_st_11;It's empty.
+spokentexts_geiger_top_a16_geiger_naechstbeste_leben_tseq_st_12;My life is just a shell, a show-and everyone knows it. I loved something once and I burned for it. But now?
+spokentexts_geiger_top_a16_geiger_naechstbeste_leben_tseq_st_13;"The violin is just an accessory for practicing my real ""profession""."
+spokentexts_geiger_top_a16_geiger_naechstbeste_leben_tseq_st_14;And your family?
+spokentexts_geiger_top_a16_geiger_naechstbeste_leben_tseq_st_15;How could I ever look them in the eyes? A failed violinist who gave up.
+texts_geiger_top_a16_geiger_schriftstellerin_tseq_title;Lady Westmacott
+spokentexts_geiger_top_a16_geiger_schriftstellerin_tseq_st_1;I just wanted to tell you that I really loved your music and that Lady Westmacott did not have the right to speak to you like that.
+spokentexts_geiger_top_a16_geiger_schriftstellerin_tseq_st_2;Lady Westmacott did not have the right to speak to you like that.
+spokentexts_geiger_top_a16_geiger_schriftstellerin_tseq_st_3;Really? How do you know? You don't know me.
+spokentexts_geiger_top_a16_geiger_schriftstellerin_tseq_st_4;Then-did she have the right?
+spokentexts_geiger_top_a16_geiger_schriftstellerin_tseq_st_5_direction;bitterly
+spokentexts_geiger_top_a16_geiger_schriftstellerin_tseq_st_5;No. SHE didn't. That cynical old witch enjoys exposing the weaknesses of others.
+spokentexts_geiger_top_a16_geiger_schriftstellerin_tseq_st_6_direction;grim
+spokentexts_geiger_top_a16_geiger_schriftstellerin_tseq_st_6;Although we all have them! She as well. She lusts for recognition and acts as though it weren't so... Disgraceful!
+spokentexts_geiger_top_a16_geiger_schriftstellerin_tseq_st_7;She rejects prizes and awards with snide remarks - but she's angry when others receive them. She needs to know that she's better than others.
+spokentexts_geiger_top_a16_geiger_schriftstellerin_tseq_st_10;You seem to know her quite well?
+spokentexts_geiger_top_a16_geiger_schriftstellerin_tseq_st_11;I've only met her once or twice. But I knew her son and some of her friends. One friend of hers supported me for a long time.
+spokentexts_geiger_top_a16_geiger_schriftstellerin_tseq_st_12;No one is brave enough to say it to her face, but everyone hates her.
+spokentexts_geiger_top_a16_geiger_schriftstellerin_tseq_st_13;Her or her success?
+texts_geiger_top_a16_geiger_seine_geschichte_tseq_title;His story
+spokentexts_geiger_top_a16_geiger_seine_geschichte_tseq_st_1;I just wonder why you're not performing on the world's great stages.
+spokentexts_geiger_top_a16_geiger_seine_geschichte_tseq_st_2;You're so talented. Why aren't you performing on the world's great stages?
+spokentexts_geiger_top_a16_geiger_seine_geschichte_tseq_st_3_direction;bitterly
+spokentexts_geiger_top_a16_geiger_seine_geschichte_tseq_st_3;Fate, perhaps? Or bad luck?
+spokentexts_geiger_top_a16_geiger_seine_geschichte_tseq_st_5_direction;grim
+spokentexts_geiger_top_a16_geiger_seine_geschichte_tseq_st_5;My parents opened every door for me and my sister and expected corresponding careers.
+spokentexts_geiger_top_a16_geiger_seine_geschichte_tseq_st_6;Overambitious parents who forced their children to play music?
+spokentexts_geiger_top_a16_geiger_seine_geschichte_tseq_st_7_direction;emotionally
+spokentexts_geiger_top_a16_geiger_seine_geschichte_tseq_st_7;No! It wasn't like that. I loved it!
+spokentexts_geiger_top_a16_geiger_seine_geschichte_tseq_st_8;I loved to play the violin. They didn't have to force me, I wanted to do it on my own!
+spokentexts_geiger_top_a16_geiger_seine_geschichte_tseq_st_9;I thought I would achieve my goals if only I worked hard enough!
+spokentexts_geiger_top_a16_geiger_seine_geschichte_tseq_st_10_direction;grim
+spokentexts_geiger_top_a16_geiger_seine_geschichte_tseq_st_10;But... it was not to be.
+texts_geiger_top_a16_geiger_seine_zukunft_tseq_title;His future
+spokentexts_geiger_top_a16_geiger_seine_zukunft_tseq_st_1;What does the future hold for you?
+spokentexts_geiger_top_a16_geiger_seine_zukunft_tseq_st_2;Isn't it obvious?
+spokentexts_geiger_top_a16_geiger_seine_zukunft_tseq_st_3;My hands are starting to shake from alcohol. What will be left once I lose my good looks?
+spokentexts_geiger_top_a16_geiger_seine_zukunft_tseq_st_4;I'll have nothing then. And so I'll put an end to it all.
+spokentexts_geiger_top_a16_geiger_seine_zukunft_tseq_st_5;You can't say things like that!
+spokentexts_geiger_top_a16_geiger_seine_zukunft_tseq_st_6;With my father's pistol. I always have it with me.
+sequences_geiger_top_a16_geiger_seine_zukunft_tseq#6;[The violinist taps on his jacket pocket. He notices that his pistol isn't there anymore.]
+spokentexts_geiger_top_a16_geiger_seine_zukunft_tseq_st_7_direction;shocked, unbelieving
+spokentexts_geiger_top_a16_geiger_seine_zukunft_tseq_st_7;It... It's gone!
+spokentexts_geiger_top_a16_geiger_seine_zukunft_tseq_st_8_direction;sarcastically laughing
+spokentexts_geiger_top_a16_geiger_seine_zukunft_tseq_st_8;Ha! Fate won't even grant me a quick death.
+sequences_geiger_top_a16_geiger_seine_zukunft_tseq#9;[The violinist makes a dismissive gesture and takes a long sip from the bottle.]
+texts_geiger_top_a16_geiger_verabschieden_tseq_title;Say goodbye
+spokentexts_geiger_top_a16_geiger_verabschieden_tseq_st_1;I'll leave you in peace.
+spokentexts_geiger_top_a16_geiger_verabschieden_tseq_st_9;Goodbye, Mr. Kreutzer.
+spokentexts_geiger_top_a16_geiger_verabschieden_tseq_st_10;Bye.
+spokentexts_geiger_top_a16_geiger_verabschieden_tseq_st_2;Don't you think you can still make it?
+spokentexts_geiger_top_a16_geiger_verabschieden_tseq_st_3;No, it's too late now. The real question is: did I give up too quickly back then?
+spokentexts_geiger_top_a16_geiger_verabschieden_tseq_st_4;I don't know.
+spokentexts_geiger_top_a16_geiger_verabschieden_tseq_st_5_direction;really grateful
+spokentexts_geiger_top_a16_geiger_verabschieden_tseq_st_5;Thank you for listening.
+spokentexts_geiger_top_a16_geiger_verabschieden_tseq_st_6;Goodbye, Mr. Kreutzer.
+sequences_geiger_top_a16_geiger_verabschieden_tseq#10;[When you enter the scene the next time, the violinist is gone.]
+spokentexts_geiger_ex_1_st_1;A handsome man and a talented musician, but he doesn't seem very happy.
+spokentexts_geiger_talk_mit_1_st_1;Hello Mr. Kreutzer!
+spokentexts_geiger_talk_mit_1_st_2;Do you want to have go at me like the old witch in there?
+spokentexts_geiger_talk_mit_1_st_3;I just wanted to talk to you.
+spokentexts_geiger_talk_mit_1_st_4;Now is not the best time.
+spokentexts_geiger_talk_mit_2_st_1;Mr. Kreutzer?
+spokentexts_geiger_talk_mit_2_st_2_direction;niedergeschlagen
+spokentexts_geiger_talk_mit_2_st_2;Yes?
+spokentexts_geiger_talk_mit_3_st_1;David?
+spokentexts_geiger_talk_mit_3_st_2_direction;depressed
+spokentexts_geiger_talk_mit_3_st_2;Oh, hello.
+spokentexts_geiger_talk_mit_4_st_1;I don't want to leave him alone with his dark thoughts, but I don't have time to care for him either.
+sequences_geiger_talk_mit_5#1;[Talking to the violinist, if you haven't seen how the writer offended him.]
+texts_kapitaen_mo_ex_1;Look at Captain DiConti
+texts_kapitaen_mo_talk_mit_1-4;Talk to Captain DiConti
+texts_kapitaen_top_a16_kapitaen_ad_tseq_title;AD
+spokentexts_kapitaen_top_a16_kapitaen_ad_tseq_st_1;"Do you have any idea what the monogram ""AD"" might stand for?"
+spokentexts_kapitaen_top_a16_kapitaen_ad_tseq_st_2;AD, AD... There was an Admiral Dilecelli in the navy who always signed AD because he didn't want anyone to know that his first name...
+spokentexts_kapitaen_top_a16_kapitaen_ad_tseq_st_3_direction;interrupts him
+spokentexts_kapitaen_top_a16_kapitaen_ad_tseq_st_3;It couldn't have anything to do with him.
+spokentexts_kapitaen_top_a16_kapitaen_ad_tseq_st_4;Well, hmm. No. I have no idea then.
+texts_kapitaen_top_a16_kapitaen_albrecht_duerer_tseq_title;Albrecht Dürer
+spokentexts_kapitaen_top_a16_kapitaen_albrecht_duerer_tseq_st_1;If you don't like Picasso, then maybe someone like Albrecht Dürer is more to your taste?
+spokentexts_kapitaen_top_a16_kapitaen_albrecht_duerer_tseq_st_2;Well, at least you can tell what his paintings are supposed to be. But he has his weaknesses as well.
+spokentexts_kapitaen_top_a16_kapitaen_albrecht_duerer_tseq_st_3;Do you know Albrecht Dürer?
+spokentexts_kapitaen_top_a16_kapitaen_albrecht_duerer_tseq_st_4;Yes. An artist. Not bad. But he has his weaknesses as well.
+spokentexts_kapitaen_top_a16_kapitaen_albrecht_duerer_tseq_st_5;For example?
+spokentexts_kapitaen_top_a16_kapitaen_albrecht_duerer_tseq_st_6_direction;makes a joke
+spokentexts_kapitaen_top_a16_kapitaen_albrecht_duerer_tseq_st_6;For one, he wasn't Italian!
+spokentexts_kapitaen_top_a16_kapitaen_albrecht_duerer_tseq_st_7_direction;amused
+spokentexts_kapitaen_top_a16_kapitaen_albrecht_duerer_tseq_st_7;That's a pity.
+spokentexts_kapitaen_top_a16_kapitaen_albrecht_duerer_tseq_st_8;You can say that again! At least he lived in Italy for a while.
+spokentexts_kapitaen_top_a16_kapitaen_albrecht_duerer_tseq_st_9;What else can you tell me about him?
+spokentexts_kapitaen_top_a16_kapitaen_albrecht_duerer_tseq_st_10;I once overheard an argument on board between a German and a Spaniard about who elevated the woodcut to an art form: Albrecht Dürer or Alberto Durero.
+spokentexts_kapitaen_top_a16_kapitaen_albrecht_duerer_tseq_st_11;Eventually, they realized that they were talking about the same man.
+spokentexts_kapitaen_top_a16_kapitaen_albrecht_duerer_tseq_st_12;Albrecht Dürer is called Alberto Durero in Spain?
+spokentexts_kapitaen_top_a16_kapitaen_albrecht_duerer_tseq_st_13;That's right. Don't ask me why.
+spokentexts_kapitaen_top_a16_kapitaen_albrecht_duerer_tseq_st_14_direction;To herself
+spokentexts_kapitaen_top_a16_kapitaen_albrecht_duerer_tseq_st_14;Alberto Durero... No wonder Adil didn't recognize the name Albrecht Dürer.
+texts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_title;Buonarroti's Adam
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_1;"""Buonarroti""... That sounds Italian, doesn't it?"
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_2;Ha! You can say that again!
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_4;Buonarroti is the name of the greatest artist of all time! Michelangelo Buonarroti, who most people only know by his first name.
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_5;Just imagine! One man, an Italian, achieves perfection in all three movements of graphic arts.
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_6;His David is the most famous statue in the world. As an architect he was a genius! He built parts of St. Peter's Basilica!
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_7_direction;suddenly illuminated
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_7;And as a painter Michelangelo painted the ceiling of the Sistine Chapel!
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_8;The Creation of Adam! The spark of life leaps from God to Adam. One of the most famous paintings in the world.
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_9_direction;pondering, rather to herself
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_9;Yes it is.
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_10_direction;pondering, rather to herself
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_10;The Sistine Chapel, Apostolic Palace, Vatican City... I don't know any animals associated with them.
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_11_direction;puzzled
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_11;Animals?
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_12;Oh... It's a game I used to play. My father posed me a riddle. I... I have to guess an animal.
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_13;And Buonarroti's Adam was the hint? Hmm. Perhaps he meant Rome? According to legend, the founders of the city, Romulus and Remus, were raised by a she-wolf.
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_14;Hmm. No. That's too vague.
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_15;Does Vatican City have an animal on its coat of arms?
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_16;No.
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_17;And the pope?
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_18_direction;snidely
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_18;Every pope has his own emblem. But the new one doesn't have an animal.
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_19;You don't seem to like the new pope?
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_20;"Too early to say. But who's fit to hold a candle to John XXIII? ""Il Papa buono"", as we used to call him. The good pope."
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_21;He just died recently! What was his heraldic animal?
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_22;He was a lion! And so was his heraldic animal.
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_23;For a Catholic, Buonarroti's Adam could be a mnemonic for the lion. Pope John XXIII was elected in the Sistine Chapel like every other pope...
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_26;"A work of art hints at a coat of arms with a lion on it. Hmm. Maybe. I'll make a note of ""lion""."
+texts_kapitaen_top_a16_kapitaen_guernica_tseq_title;Guernica
+spokentexts_kapitaen_top_a16_kapitaen_guernica_tseq_st_1;"""Guernica""... Does that mean anything to you?"
+spokentexts_kapitaen_top_a16_kapitaen_guernica_tseq_st_2;Not a harbor that I've ever docked at! Hahaha.
+spokentexts_kapitaen_top_a16_kapitaen_guernica_tseq_st_3;That's too bad.
+texts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_title;Illnesses
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_1;If you don't feel well, maybe you should take it easy.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_2;I'm afraid if I take it easy, it'll kill me.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_3_direction;laughs
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_3;You seem to be a pessimist!
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_4;Fatty liver, asthma, gall stones, jaundice, gout, shingles, hemorrhoids, varicose veins, circulatory trouble, knee problems, pulmonary embolism.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_5;Gastritis, migraine, neuralgia, tinnitus, rheumatism, pleurisy, thrombosis and constipation.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_6_direction;grim, giving up
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_6;Those are what's been diagnosed so far. My body is a curse.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_7_direction;shocked
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_7;Oh...I didn't mean to... I'm sorry.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_8;Forgive an old man - I didn't mean to shock you.
+texts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_title;Ship
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_1;You're still the captain of this beautiful ship!
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_2;Pff.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_3;They couldn't just get rid of me, so they stuck me somewhere where I can't make trouble anymore.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_4;Don't say that.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_5_direction;sad
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_5;This ship runs fine without me. The crew knows what to do. They don't need me. They... don't want me.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_7_direction;shocked
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_7;Captain...
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_6;It's...I'm sorry. I don't know why I'm burdening you with all that. Forgive me.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_8_direction;Tries to be in a good mood
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_8;"I'd like to rest for a while. Soon enough it'll be time to head ""back to the coalface"". Ha ha!"
+texts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_title;Captain DiConti
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_1;Is it true that you're a war hero?
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_2;Mmm-hmm. In two World Wars. That tells you how old I must be. Ha ha.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_3;You're as old as you feel.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_4;Oh God, I hope not!
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_5;Aren't you feeling well?
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_6;You shouldn't burden your pretty little head with the dark thoughts of an old man, my dear.
+texts_kapitaen_top_a16_kapitaen_newyork_tseq_title;New York
+spokentexts_kapitaen_top_a16_kapitaen_newyork_tseq_st_1;An old seaman like you must surely have been to New York, right?
+spokentexts_kapitaen_top_a16_kapitaen_newyork_tseq_st_2;Aye-aye!
+spokentexts_kapitaen_top_a16_kapitaen_newyork_tseq_st_3;My usual territory is the Mediterranean, but I've crossed the Atlantic many times.
+spokentexts_kapitaen_top_a16_kapitaen_newyork_tseq_st_4;It's always a great moment when the Statue of Liberty appears on the horizon.
+spokentexts_kapitaen_top_a16_kapitaen_newyork_tseq_st_5;You wouldn't happen to know the heraldic animal of New York?
+spokentexts_kapitaen_top_a16_kapitaen_newyork_tseq_st_6;Hmm. No. Maybe an eagle?
+texts_kapitaen_top_a16_kapitaen_nofretete_tseq_title;Nefertiti
+spokentexts_kapitaen_top_a16_kapitaen_nofretete_tseq_st_1;Do you know Nefertiti?
+spokentexts_kapitaen_top_a16_kapitaen_nofretete_tseq_st_2_direction;just guessing
+spokentexts_kapitaen_top_a16_kapitaen_nofretete_tseq_st_2;Is she... a Greek queen?
+spokentexts_kapitaen_top_a16_kapitaen_nofretete_tseq_st_3;No. She... Never mind.
+texts_kapitaen_top_a16_kapitaen_picasso_tseq_title;Picasso
+spokentexts_kapitaen_top_a16_kapitaen_picasso_tseq_st_1;Do you know Pablo Picasso?
+spokentexts_kapitaen_top_a16_kapitaen_picasso_tseq_st_2;Who doesn't know him?
+spokentexts_kapitaen_top_a16_kapitaen_picasso_tseq_st_3;"A dirty fraud selling his ""paintings"" for piles of money! Do you know that some of them go for THOUSANDS OF DOLLARS?!"
+spokentexts_kapitaen_top_a16_kapitaen_picasso_tseq_st_4;Rafael, Michelangelo, Leonardo di ser Piero da Vinci! THEY were artists!
+spokentexts_kapitaen_top_a16_kapitaen_picasso_tseq_st_5;So you're not familiar with Picasso's work?
+spokentexts_kapitaen_top_a16_kapitaen_picasso_tseq_st_6;No, not really. Somebody told me that Picasso was actually able to paint well when he was young.
+spokentexts_kapitaen_top_a16_kapitaen_picasso_tseq_st_7;But then, suddenly, he started to do strange things. Boxes and eyes everywhere. Maybe he had a stroke?
+texts_kapitaen_top_a16_kapitaen_schriftstellerin_ende_tseq_title;Change the subject
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_ende_tseq_st_1;I think that's enough for now.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_ende_tseq_st_2;No, that doesn't really interest me.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_ende_tseq_st_3;But of course.
+texts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_title;Family
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_1;Where is she from? Who were her parents?
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_2;Her father was a wealthy British salesman. Her mother died in childbirth.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_3;She had an outstanding education but was a lonely child, they say. Her father was away on business most of the time.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_4;I know how she feels. For many years, my father's career was also more important than me.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_5_direction;shocked
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_5;Don't say that, child! Your father paid for the life you now live.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_6;Did Lady Westmacott's father marry again?
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_7;"Yes. A woman fifteen years his junior. She didn't really care for the child. She was something of a ""high society lady""."
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_8;She made the headlines with her antics more often than the family would have liked.
+texts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_title;Journey
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_1;And what does an elderly lady like her want in Egypt?
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_2;Do you know what the lady wants to do in Cairo?
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_3;I couldn't really say. She was there many times with her husband, an archaeologist.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_4;He died a long time ago.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_5;I heard something about a reception at the Egyptian Museum?
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_6;Yes, for the Eyes of the Sphinx. Or rather, for the Eye.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_7;But I don't think she'd go to Cairo just for that. She usually stays away from official events.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_8;Didn't participate in the literary scene, either. Always stayed as far away as possible from high society. Probably because of her stepmother.
+texts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_title;Novels
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_st_1;And her novels? How did she come to be a writer?
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_st_2;Why did she want to become a writer?
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_st_3;In interviews she always mentions her French tutor who encouraged her to write when she was a child.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_st_4;After some poems and short stories she began to write detective novels-with great success.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_st_5;The rest is history. The experts are arguing whether she or Shakespeare has sold more books.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_st_6;Although she doesn't receive the same deference.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_st_7;That's true. But her books are much more innovative and extraordinary than people generally give her credit for.
+texts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_title;Lady Westmacott
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_1;Lovely concert, wasn't it?
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_2;You only heard the end. It was really wonderful!
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_3;All the more curious that Lady Westmacott embarrassed Mr. Kreutzer like that, don't you think?
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_4;I have no idea what got into her. They say she's a difficult person. But this...
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_5;Maybe it's the privilege of famous people to be a bit strange from time to time.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_6;When I still was a young sailor, Enrico Caruso was a passenger on our ship! And he...
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_7_direction;interrupts him
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_7;I think she's fascinating. She's achieved so much. All by herself.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_8;Lady Westmacott? Oh yes, that's true. The most successful writer in the world.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_9;Do you know more about her?
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_10;Everything! I'm her biggest fan! What do you want to know?
+texts_kapitaen_top_a16_kapitaen_schriftstellerin_wiedereinstieg_tseq_title;Lady Westmacott
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_wiedereinstieg_tseq_st_1;About Lady Westmacott... There's still something that interests me...
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_wiedereinstieg_tseq_st_2;What do you want to know?
+texts_kapitaen_top_a16_kapitaen_verabschieden_tseq_title;Say goodbye
+spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_1;I just realized that I need to be going.
+spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_2;I'm going to go have a look around.
+spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_3;All right.
+spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_4;I hope I'll see you at the reception tonight-ten o'clock.
+spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_5;You won't give an old salty sea dog the brush-off will you?
+spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_6;I'll be there.
+spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_7;Wonderful!
+spokentexts_kapitaen_ex_1_st_1;He's sweating profusely. Burst capillaries and a sweet odor.
+spokentexts_kapitaen_ex_1_st_2;I hope the crew doesn't take the captain for a role model and that they stay sober for the rest of the trip.
+spokentexts_kapitaen_talk_mit_1_st_1;Hello, Captain DiConti!
+spokentexts_kapitaen_talk_mit_1_st_2;Miss Mayers!
+spokentexts_kapitaen_talk_mit_1_st_3;How nice to see you. You look beautiful. We missed you at dinner!
+spokentexts_kapitaen_talk_mit_1_st_4;I was in my cabin. I... didn't feel very well.
+spokentexts_kapitaen_talk_mit_1_st_5;Oh, I hope you're feeling better.
+spokentexts_kapitaen_talk_mit_2_st_1;Captain DiConti?
+spokentexts_kapitaen_talk_mit_2_st_2;Yes?
+spokentexts_kapitaen_talk_mit_3_st_2;I don't know why... People just seem to open up to me. Is that a blessing or a curse?
+spokentexts_kapitaen_talk_mit_3_st_1;It must be horrible to look back bitterly at the end of one's life. Especially if it could have been a great life.
+spokentexts_kapitaen_talk_mit_4_st_1;I'll leave him alone with his thoughts.
+texts_schriftstellerin_mo_talk_mit_1-3;Talk to Lady Westmacott
+texts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_title;AD
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_1;I've got a puzzle for you!
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_2;Why do you always bombard me with strange questions? I can't imagine why.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_3;Oh, come on, you're the queen of mysteries!
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_4;Well? What is it then?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_5;"A monogram. A capital ""A"" with a small ""D"" on the bottom... Who does it belong to?"
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_6;Someone on the ship?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_7;No, no one on the ship.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_8;I don't know. Whose is it?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_9;I don't know either!
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_10;It doesn't make much sense to ask a riddle if you don't know the answer. Wouldn't you agree?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_11;Actually... I'd say that it doesn't make sense to ask someone a riddle if you DO know the answer.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_12_direction;stunned, approving
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_12;Touché.
+texts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_title;Albrecht Dürer
+spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_1;Are you interested in art?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_2;Not really. I'm more interested in real life, in people.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_3;So you don't know Albrecht Dürer?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_4;Just because I'm not interested in art doesn't mean that I'm ignorant.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_5;What can you tell me about him?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_6;Books, my dear, books!
+spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_7;In them you'll find the answers to all your questions. Even the most foolish ones!
+spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_8;I bet you don't know anything about him and just want to cover it up.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_9;Ah! You want to appeal to my honor! Too obvious, I'm afraid.
+texts_schriftstellerin_top_a16_schriftstellerin_buonarrotie_tseq_title;Buonarroti
+spokentexts_schriftstellerin_top_a16_schriftstellerin_buonarrotie_tseq_st_1;"I saw a sign in Venice. It said ""Buonarroti"". Do you know what it means?"
+spokentexts_schriftstellerin_top_a16_schriftstellerin_buonarrotie_tseq_st_2;I'm sorry, I don't speak Italian.
+texts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_title;The violinist
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_1;Mr. Kreutzer possesses impressive technique, don't you think?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_2;He certainly does.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_3;His numerous playmates in Austria can tell you more about it than I.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_5;You mean, Mr. Kreutzer is a womanizer?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_6;I'm not talking about cheap skirts. I'm talking about expensive clothes.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_7;A man like him needs funds to support his lifestyle.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_8_direction;loud
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_8;Just go over to him, my dear! Tell the maestro that your family is wealthy.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_9_direction;loud
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_9;You have everything he's looking for: money and a pretty face!
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_10_direction;angry
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_10;Hold your tongue!
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_11_direction;shocked, upset
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_11;Mr. Kreutzer! Lady Westmacott! Please!
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_12_direction;loud
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_12;Or did you have your eye on me, Mr. Kreutzer? Old, yes-but rich!
+sequences_schriftstellerin_top_a16_schriftstellerin_geiger_tseq#12;[The violinist stands up angrily, leaves the salon quickly.]
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_13_direction;hissing
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_13;Jezebel!
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_14;Mr. Kreutzer! Maestro!
+sequences_schriftstellerin_top_a16_schriftstellerin_geiger_tseq#15;[The captain doesn't really know whether he should look after the writer or the violinist. He looks briefly at the writer but then he follows the violinist.]
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_15_direction;content
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_15;That's better.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_16_direction;rather to herself, bitterly
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_16;Freeloader.
+texts_schriftstellerin_top_a16_schriftstellerin_guernica_tseq_title;Guernica
+spokentexts_schriftstellerin_top_a16_schriftstellerin_guernica_tseq_st_1;"Does ""Guernica"" mean anything to you?"
+spokentexts_schriftstellerin_top_a16_schriftstellerin_guernica_tseq_st_2;Why are you asking me all these strange questions?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_guernica_tseq_st_3;Do you usually ask strangers random questions?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_guernica_tseq_st_4;I... I'm curious. How shall I learn if I don't ask?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_guernica_tseq_st_5;Pick up a book.
+texts_schriftstellerin_top_a16_schriftstellerin_newyork_tseq_title;New York
+spokentexts_schriftstellerin_top_a16_schriftstellerin_newyork_tseq_st_1;Have you ever been to New York?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_newyork_tseq_st_2;For the love of God, what would I do there? We have the original York in England. That's quite enough for me.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_newyork_tseq_st_3;So you don't know the heraldic animal of New York?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_newyork_tseq_st_4;No. Probably an eagle. It's all eagles over there.
+texts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_title;Nefertiti
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_1;I hear you're well-versed in Egyptian history, Lady Westmacott. Can you tell me anything about Nefertiti?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_2;A queen. The main wife of Akhenaten.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_3;Did she have a favorite animal?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_4_direction;stunned
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_4;What a strange question!
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_5;I, um, just heard that they really adored cats in ancient Egypt.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_6;That's true. But I don't know whether Nefertiti had any special affinity for animals.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_7;Are there any famous works of art depicting her?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_8;Oh, yes. The bust of Nefertiti. One of the most beautiful ancient Egyptian sculptures! I saw it years ago in London.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_9;So the bust is located in England?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_10;No. It was discovered in 1912 in Tell el-Amarna by a German archaeologist and brought to Germany.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_11;I'm not sure where it is today. Ask the baroness-she's the expert on museums here!
+texts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_title;Picasso
+spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_1;It must be exciting to meet all the world's famous and powerful people.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_2;I stay away as far as possible from high society. Too shallow. Too boring.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_3;But some of them must be exciting! Have you ever met Picasso?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_4;Pff! They told him that he's a genius so often that he actually started to believe it himself.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_5;But his paintings are impressive. Guernica, for example.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_6;Well, it certainly is big, I have to give him that.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_7;Didn't he have to flee from Spain?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_8;Yes, from the fascists. But not just him. Many of his paintings as well. If I remember correctly, Guernica is currently on display in the Museum of Modern Art in New York.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_9;He bequeathed it to a future Spanish republic.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_10;And until then, it stays in New York?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_11;Yes. It's been there for years now.
+texts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_title;Journey
+spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_1;Is this your first trip on the Lydia?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_2;That's quite enough. Life is too short for conversations like this.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_3;I do wish that rather delightful Swiss policeman had come along.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_4;"I heard you had an ""interesting"" trip on the train."
+spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_5;It was thrilling!
+spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_6;I'm hoping for an encore! Perhaps in Cairo...
+texts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_title;Acting
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_1;You know... I'm not planning on throwing myself at a man.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_2;I'm not planning on throwing myself at a man.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_3;I'm glad to hear it.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_4;You have to work. Earn you own money.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_5;I will! My grades are excellent and I want to study acting in New York.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_6_direction;snidely
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_6;None of my books has ever been made into a good film. The stories were twisted, shortened and simplified so that even the dimmest fellow could follow them.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_7;I want to do theater. And travel. I speak three languages!
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_8;That would be three more than most people your age can speak.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_9;Do what you have to do. But stay away from bad men!
+texts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_title;Freeloader
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_1;You and Mr. Kreutzer... You seem to know each other?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_2;Not really. But I know his type.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_3;Parasites who cling to the rich and famous and suck them dry.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_4;The young, misunderstood painter. The innovative writer who writes books that no one wants to read. The musical talent that has to be supported.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_5;"The ladies and gentlemen of high society let the others use them and call themselves ""patrons"". Another word for ""fool""."
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_6;Didn't you finance archaeological excavations in the Near East and Egypt?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_7_direction;angry
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_7;For my husband! And I was there myself. I catalogued items for him and I didn't show him off like a trophy at cocktail parties.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_8_direction;grim, lost in thought
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_8;But my son was one of them.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_9_direction;grim, lost in thought
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_9;The worst kind. The kind that sucks not only the money but also the life right out of a person.
+texts_schriftstellerin_top_a16_schriftstellerin_verabschieden_tseq_title;Say goodbye
+spokentexts_schriftstellerin_top_a16_schriftstellerin_verabschieden_tseq_st_1;Err. Oh, nothing.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_verabschieden_tseq_st_2_direction;sarcastically
+spokentexts_schriftstellerin_top_a16_schriftstellerin_verabschieden_tseq_st_2;Do feel free to continue pestering me, child!
+spokentexts_schriftstellerin_top_a16_schriftstellerin_verabschieden_tseq_st_3;May I take my leave?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_verabschieden_tseq_st_4;As a matter of fact, I insist.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_verabschieden_tseq_st_6;You may.
+texts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_title;Prejudices
+spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_1;Are you easily prejudiced at your age?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_2;In my long experience, there's often a core of truth at the center of every prejudice.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_3;Prejudice is the reason of fools.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_4;Was that written in the book you once read?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_5;Oh, I've read many books. Good books.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_6;But not my books, you mean to say?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_7;You're a writer?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_10_direction;smiling
+spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_10;What can I do for you? Miss...
+spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_11;Mayers.
+spokentexts_schriftstellerin_ex_1_st_1;Lady Westmacott never let anyone tell her what to do. They say she was a stubborn one. And today she's one of the richest women in the world.
+spokentexts_schriftstellerin_talk_mit_1_st_1;A wonderful concert, wasn't it?
+sequences_schriftstellerin_talk_mit_1#2;[The writer looks disdainfully at the young woman.]
+spokentexts_schriftstellerin_talk_mit_1_st_2;I wouldn't have expected you to be a connoisseur of classical music.
+spokentexts_schriftstellerin_talk_mit_1_st_3;Because I'm American?
+spokentexts_schriftstellerin_talk_mit_1_st_4;Because you're young. And friendly and radiant. Someone like you doesn't have to know a lot to get along well in life.
+spokentexts_schriftstellerin_talk_mit_2_st_1;Lady Westmacott?
+spokentexts_schriftstellerin_talk_mit_2_st_2;Yes?
+spokentexts_schriftstellerin_talk_mit_3_st_1;The lady is not a fan of shallow conversation, which I respect.
+spokentexts_schriftstellerin_talk_mit_3_st_2;I shouldn't talk to her unless I have something serious to say.
