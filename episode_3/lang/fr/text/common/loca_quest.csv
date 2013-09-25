@@ -122,7 +122,7 @@ hint_quest16a_slot05;: J'ai besoin de quelque chose pour descendre.
 
 text_quest16b_slot06_titel;Ouvrir la cachette secrète
 text_quest16b_slot06_content;La cachette secrète doit être quelque part dans la cabine - mais où ?
-text_quest16b_slot07content;Adil avait raison. J'ai besoin d'entrer une combinaison pour ouvrir le compartiment secret.
+text_quest16b_slot07_content;Adil avait raison. J'ai besoin d'entrer une combinaison pour ouvrir le compartiment secret.
 text_quest16b_slot08_content;Peut-être que les autres passagers savent quelque chose.
 hint01_quest16b_slot08;Chaque indice peuvent m'aider pour une conversation avec les autres passagers.
 hint02_quest16b_slot08;Adil pourrait également être en mesure d'aider.
