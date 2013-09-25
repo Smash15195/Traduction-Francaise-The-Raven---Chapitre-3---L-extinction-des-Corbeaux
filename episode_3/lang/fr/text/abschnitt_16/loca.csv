@@ -10,96 +10,96 @@ characters_ohi;Ohi
 characters_pflegerin;Pflegerin
 characters_schriftstellerin;Schriftstellerin
 characters_wachmann;Wachmann
-texts_a16_hinterdeck_ausgang_nebendeck_mo_leave_1;Go to the front
+texts_a16_hinterdeck_ausgang_nebendeck_mo_leave_1;Allez à l'avant
 sequences_a16_hinterdeck_ausgang_nebendeck_leave_1#1;[The young woman heads to the side deck.]
-texts_a16_hinterdeck_ausgang_salon_mo_leave_1;Enter the saloon
+texts_a16_hinterdeck_ausgang_salon_mo_leave_1;Entrer dans le saloon
 sequences_a16_hinterdeck_ausgang_salon_leave_1#1;[The young woman heads to the salon.]
-texts_a16_hinterdeck_badetuch_mo_ex_1;Examine the bath towel
-texts_a16_hinterdeck_badetuch_mo_inventar;Bath towel
-texts_a16_hinterdeck_badetuch_mo_take_1__2;Take the bath towel
-spokentexts_a16_hinterdeck_badetuch_ex_1_st_1;Lovely big towel.
-spokentexts_a16_hinterdeck_badetuch_ex_1_st_2;I hope tomorrow I'll have a chance to sunbathe and enjoy the rest of the trip.
-spokentexts_a16_hinterdeck_badetuch_ex_2_st_1;I should have been a fashion designer!
+texts_a16_hinterdeck_badetuch_mo_ex_1;Examiner la serviette de bain
+texts_a16_hinterdeck_badetuch_mo_inventar;Serviette de bain
+texts_a16_hinterdeck_badetuch_mo_take_1__2;Prendre la serviette de bain
+spokentexts_a16_hinterdeck_badetuch_ex_1_st_1;Une grande et belle serviette.
+spokentexts_a16_hinterdeck_badetuch_ex_1_st_2;J'espère que demain j'aurais une chance de prendre le soleil et de profiter du reste du voyage.
+spokentexts_a16_hinterdeck_badetuch_ex_2_st_1;J'aurais dû être créatrice de mode !
 sequences_a16_hinterdeck_badetuch_take_1#2;[The young woman takes the bath towel and covers her shoulders with it.]
 sequences_a16_hinterdeck_badetuch_take_1#3;[The young woman wears the bath towel as a garment now.]
 spokentexts_a16_hinterdeck_badetuch_take_1_st_3_direction;puzzled
-spokentexts_a16_hinterdeck_badetuch_take_1_st_3;Hey, what are you doing?  
-spokentexts_a16_hinterdeck_badetuch_take_1_st_4;Oh, nothing. I want to sit down on the forecastle and enjoy the stars without ruining my dress.
-spokentexts_a16_hinterdeck_badetuch_take_1_st_5;Ah, the stars. Enjoy!
-texts_a16_hinterdeck_liegestuhl_mo_ex_1;Examine the deck chair
-texts_a16_hinterdeck_liegestuhl_mo_used_mit_handtuch;Reserve a deck chair
-spokentexts_a16_hinterdeck_liegestuhl_ex_1_st_1;A deck chair in the sunshine on a cruise ship. I'd be a fool to miss out on that tomorrow.
-spokentexts_a16_hinterdeck_liegestuhl_ex_1_st_2;But I have to take care of my duties before I can relax in the sun.
-spokentexts_a16_hinterdeck_liegestuhl_used_mit_handtuch_st_1;"I don't like people who ""reserve"" deck chairs with towels!"
-spokentexts_a16_hinterdeck_liegestuhl_used_mit_handtuch_st_2;I've heard that some of them get up extra early. On holiday!
-texts_a16_kabine_baronin_badetuch_mo_leave_1;Leave the cabin
+spokentexts_a16_hinterdeck_badetuch_take_1_st_3;Hé, Que faites-vous ?  
+spokentexts_a16_hinterdeck_badetuch_take_1_st_4;Oh, rien. Je voulais m'asseoir sur le gaillard et profiter des étoiles sans abîmer ma robe.
+spokentexts_a16_hinterdeck_badetuch_take_1_st_5;Ah, les étoiles. Joli spectacle !
+texts_a16_hinterdeck_liegestuhl_mo_ex_1;Examiner la chaise longue
+texts_a16_hinterdeck_liegestuhl_mo_used_mit_handtuch;Réserver une chaise longue
+spokentexts_a16_hinterdeck_liegestuhl_ex_1_st_1;Une chaise longue au soleil sur un bateau de croisière. Je serais folle de passer à côté de cela demain.
+spokentexts_a16_hinterdeck_liegestuhl_ex_1_st_2;Mais je dois m'occuper de mes tâches avant de pouvoir me détendre au soleil.
+spokentexts_a16_hinterdeck_liegestuhl_used_mit_handtuch_st_1;"Je n'aime pas les gens qui se ""réserve"" des chaises longues avec des serviettes !"
+spokentexts_a16_hinterdeck_liegestuhl_used_mit_handtuch_st_2;J'ai entendu dire que certains se levaient exprès plus tôt. Voilà des vacances !
+texts_a16_kabine_baronin_badetuch_mo_leave_1;Quitter la cabine
 sequences_a16_kabine_baronin_badetuch_leave_1#1;[The young woman gracefully lowers herself down the towel.]
-texts_a16_kabine_baronin_bett_mo_ex_1;Examine the bed
-spokentexts_a16_kabine_baronin_bett_ex_1_st_1;Maybe it was a steward who checked whether everything was ready for the baroness' nightly rest?
-spokentexts_a16_kabine_baronin_bett_ex_1_st_2;Whoever it was, I should leave as fast as possible before someone comes back!
-texts_a16_kabine_baronin_fotos_mo_ex_1__2;Look at the photos
-spokentexts_a16_kabine_baronin_fotos_ex_1_st_1;It seems like she was searching for a specific photo-and that she actually found it.
-spokentexts_a16_kabine_baronin_fotos_ex_1_st_2;"""Jakob Aust! Now I've got you"", she said."
-spokentexts_a16_kabine_baronin_fotos_ex_1_st_3;We got our hands on the list of passengers... but I don't recognize the name.
-spokentexts_a16_kabine_baronin_fotos_ex_2_st_1;Hundreds of black and white photos. Many of them tinted. From the twenties and thirties, I guess.
-spokentexts_a16_kabine_baronin_fotos_ex_2_st_2;I don't have the time to deal with them.
-texts_a16_kabine_baronin_gepaeck_mo_ex_1;Examine the luggage
-texts_a16_kabine_baronin_gepaeck_mo_ex_2;Search the luggage
-spokentexts_a16_kabine_baronin_gepaeck_ex_1_st_1;Far too many hiding places for a jewel.
-spokentexts_a16_kabine_baronin_gepaeck_ex_1_st_2;"But Inch said something about a ""combination"". That sounds like a little safe or a hidden compartment. And she wouldn't have something like that in her suitcase."
-spokentexts_a16_kabine_baronin_gepaeck_ex_2_st_1;Luckily, I don't have to go through all of these suitcases.
-spokentexts_a16_kabine_baronin_gepaeck_ex_2_st_2;Inch has been travelling with this woman through Europe for months. I almost feel sorry for him. Almost.
-texts_a16_kabine_baronin_handtasche_mo_ex_1__2;Search the handbag
-spokentexts_a16_kabine_baronin_handtasche_ex_1_st_1;No. The baroness and Inch aren't working together. He wouldn't hide the jewel in her handbag.
-spokentexts_a16_kabine_baronin_handtasche_ex_2_st_1;I'm here to steal one of the most valuable jewels in the world, not to swipe the contents of handbags!
-texts_a16_kabine_baronin_kleiderpuppe_mo_ex_1__2;Examine the mannequin
-spokentexts_a16_kabine_baronin_kleiderpuppe_ex_1_st_1;The mannequin could probably wear my clothes. It'd disappear under the baroness' clothes, though.
-spokentexts_a16_kabine_baronin_kleiderpuppe_ex_2_st_1;As a child I often stood in front of shop windows and tried to stand as still as the mannequins.
-spokentexts_a16_kabine_baronin_kleiderpuppe_ex_2_st_2;When I got bored I claimed that one of the mannequins had blinked and declared myself the winner.
-texts_a16_kabine_baronin_reiseschrank_mo_use_1__2;Open the portable cupboard
-spokentexts_a16_kabine_baronin_reiseschrank_ex_1_st_1;A giant portable cupboard... Maybe the jewel is inside?
-spokentexts_a16_kabine_baronin_reiseschrank_ex_2_st_1;Inch must have found the secret compartment and been certain that the baroness wasn't using it.
+texts_a16_kabine_baronin_bett_mo_ex_1;Examiner le lit
+spokentexts_a16_kabine_baronin_bett_ex_1_st_1;C'était peut-être un stewart qui a vérifié si tout était prêt pour la nuit de la baronne ?
+spokentexts_a16_kabine_baronin_bett_ex_1_st_2;Qui que ce soit, je devrais partir au plus vite avant que quelqu'un ne revienne !
+texts_a16_kabine_baronin_fotos_mo_ex_1__2;Regarder les photos
+spokentexts_a16_kabine_baronin_fotos_ex_1_st_1;C'est comme si elle était à la recherche d'une photo spécifique et qu'elle l'avait trouvée.
+spokentexts_a16_kabine_baronin_fotos_ex_1_st_2;"""Jakob Aust ! Maintenant, je vous tiens"", qu'elle disait."
+spokentexts_a16_kabine_baronin_fotos_ex_1_st_3;Nous avons mis la main sur la liste des passagers... Mais je ne reconnais pas ce nom.
+spokentexts_a16_kabine_baronin_fotos_ex_2_st_1;Des centaines de photos en noir et blanc. Beaucoup d'entre elles jaunies. Elles datent des années vingt et trente, j'imagine.
+spokentexts_a16_kabine_baronin_fotos_ex_2_st_2;Je n'ai pas le temps de m'attarder là-dessus.
+texts_a16_kabine_baronin_gepaeck_mo_ex_1;Examiner les bagages
+texts_a16_kabine_baronin_gepaeck_mo_ex_2;Fouiller les bagages
+spokentexts_a16_kabine_baronin_gepaeck_ex_1_st_1;Il beaucoup de cachettes pour un bijou.
+spokentexts_a16_kabine_baronin_gepaeck_ex_1_st_2;"Mais Inch a dit quelque chose sur une ""combinaison"". Cela donne l'impression d'un compartiment caché. Elle n'aurait pas quelque chose comme ça dans une valise."
+spokentexts_a16_kabine_baronin_gepaeck_ex_2_st_1;Heureusement, je n'aurais pas à fouiller toutes ces valises.
+spokentexts_a16_kabine_baronin_gepaeck_ex_2_st_2;Inch voyage avec cette femme à travers l'Europe depuis des mois. Je me sens presque triste pour lui. Presque.
+texts_a16_kabine_baronin_handtasche_mo_ex_1__2;Fouiller dans le sac à main
+spokentexts_a16_kabine_baronin_handtasche_ex_1_st_1;Non. La Baronne et Inch ne travaillent pas pareil. Il n'aurait jamais caché le bijou dans son sac à main.
+spokentexts_a16_kabine_baronin_handtasche_ex_2_st_1;Je suis ici pour voler l'un des joyaux les plus précieux du monde, pas pour piquer le contenu d'un sac à main !
+texts_a16_kabine_baronin_kleiderpuppe_mo_ex_1__2;Examiner le mannequin
+spokentexts_a16_kabine_baronin_kleiderpuppe_ex_1_st_1;Le mannequin pourrait probablement porter mes vêtements. Mais il aurait disparu sous les vêtements de la baronne.
+spokentexts_a16_kabine_baronin_kleiderpuppe_ex_2_st_1;Enfant, je suis souvent restée debout devant les vitrines, essayant de rester aussi immobile que les mannequins.
+spokentexts_a16_kabine_baronin_kleiderpuppe_ex_2_st_2;Quand je m'ennuyer je prétendais que l'un des mannequins avait cligné des yeux pour me déclarer gagnante.
+texts_a16_kabine_baronin_reiseschrank_mo_use_1__2;Ouvrir la malle de voyage
+spokentexts_a16_kabine_baronin_reiseschrank_ex_1_st_1;Une malle de voyage géante... Peut-être que le bijou est à l'intérieur ?
+spokentexts_a16_kabine_baronin_reiseschrank_ex_2_st_1;Inch doit avoir trouvé le compartiment secret et il savait que la Baronne ne s'en servait pas.
 sequences_a16_kabine_baronin_reiseschrank_use_1#1;[The young woman opens the clasp of the portable cupboard and unfolds it.]
 spokentexts_a16_kabine_baronin_reiseschrank_use_1_st_1_direction;sarcastically
-spokentexts_a16_kabine_baronin_reiseschrank_use_1_st_1;Impressive! For a quick drink on the go.
+spokentexts_a16_kabine_baronin_reiseschrank_use_1_st_1;Impressionnant ! Pour boire un verre en vitesse.
 sequences_a16_kabine_baronin_reiseschrank_use_2#1;[The young woman opens the clasp of the portable cupboard and unfolds it.]
-texts_a16_kabine_baronin_schrank_mo_ex_1;Search the cupboard
-texts_a16_kabine_baronin_schrank_mo_ex_2;Examine the cupboard
+texts_a16_kabine_baronin_schrank_mo_ex_1;Fouiller la malle de voyage
+texts_a16_kabine_baronin_schrank_mo_ex_2;Examiner la malle de voyage
 spokentexts_a16_kabine_baronin_schrank_ex_1_st_1_direction;Thoughtfully
-spokentexts_a16_kabine_baronin_schrank_ex_1_st_1;No...
-spokentexts_a16_kabine_baronin_schrank_ex_1_st_2;Inch said he hid the Eye in the baroness' luggage. Which makes sense.
-spokentexts_a16_kabine_baronin_schrank_ex_1_st_3;He can't be certain that he'll have the chance to hide it again when we arrive in Cairo.
-spokentexts_a16_kabine_baronin_schrank_ex_1_st_4;I'm sure that the Eye is in the baroness' luggage.
+spokentexts_a16_kabine_baronin_schrank_ex_1_st_1;Non...
+spokentexts_a16_kabine_baronin_schrank_ex_1_st_2;Inch a dit qu'il cachait l'oeil dans les bagages de la Baronne. Ce qui est logique.
+spokentexts_a16_kabine_baronin_schrank_ex_1_st_3;Il ne peut pas être sûr qu'il aura la possibilité de le cacher à nouveau lorsque nous serons au Caire.
+spokentexts_a16_kabine_baronin_schrank_ex_1_st_4;Je suis certaine que l'oeil est dans les bagages de la baronne.
 sequences_a16_kabine_baronin_schrank_ex_2#1;[The woman opens the cupboard, sees the audiotape.]
-spokentexts_a16_kabine_baronin_schrank_ex_2_st_1;What on earth is going on here?
+spokentexts_a16_kabine_baronin_schrank_ex_2_st_1;Qu'est-ce que cela veut dire ?
 sequences_a16_kabine_baronin_schrank_ex_2#3;[The young woman looks around.]
-spokentexts_a16_kabine_baronin_schrank_ex_2_st_2;I don't like that.
-spokentexts_a16_kabine_baronin_schrank_ex_2_st_3;Is someone else after the Eye as well?
+spokentexts_a16_kabine_baronin_schrank_ex_2_st_2;Je n'aime pas ça.
+spokentexts_a16_kabine_baronin_schrank_ex_2_st_3;Est-ce que quelqu'un d'autre est aussi après l'oeil ?
 sequences_a16_kabine_baronin_schrank_ex_2#6;[The young woman turns back.]
-spokentexts_a16_kabine_baronin_schrank_ex_2_st_4;But even if that is the case... What does the audiotape have to do with it?
+spokentexts_a16_kabine_baronin_schrank_ex_2_st_4;Mais même si c'est le cas... Qu'est-ce que cette bande sonore a à voir avec ça ?
 sequences_a16_kabine_baronin_schrank_ex_2#8;[The woman closes the cupboard.]
 spokentexts_a16_kabine_baronin_schrank_ex_2_st_5_direction;pulls herself together, bolsters herself up
-spokentexts_a16_kabine_baronin_schrank_ex_2_st_5;I can't let it get to me. I have a job to do!
-texts_a16_kabine_baronin_schreibblock_mo_bertrachten_1__2;Examine the notepad
-spokentexts_a16_kabine_baronin_schreibblock_ex_1_st_1;The baroness wrote something down and took the slip of paper with her... It's probably not important.
-texts_a16_kabine_baronin_sonnenblumenbild_mo_ex_1;Examine the painting
-spokentexts_a16_kabine_baronin_sonnenblumenbild_ex_1_st_1;Not even Adil would believe that this painting was an original.
-spokentexts_a16_kabine_baronin_sonnenblumenbild_ex_1_st_2;He was interested in art when we first met, but for him it was always about the content, not the technique.
-spokentexts_a16_kabine_baronin_sonnenblumenbild_ex_1_st_3;I had my work cut out teaching him to concentrate on the stroke, the material and the signature of the artist.
-spokentexts_a16_kabine_baronin_sonnenblumenbild_ex_1_st_4;It's the only way to distinguish an original from a fake.
-spokentexts_a16_kabine_baronin_sonnenblumenbild_ex_1_st_5;"""I don't care who painted it as long as it speaks to me"", he said."
-spokentexts_a16_kabine_baronin_sonnenblumenbild_ex_1_st_6;A perspective that as an art thief I can't share - but it's charming nonetheless.
-texts_a16_kabine_baronin_stuhl_mo_use_1;Slide the chair under the opening
-spokentexts_a16_kabine_baronin_stuhl_ex_1_st_1;An old-fashioned chair for an old-fashioned lady.
+spokentexts_a16_kabine_baronin_schrank_ex_2_st_5;Je ne dois pas me laisser distraire. Je du travail à faire !
+texts_a16_kabine_baronin_schreibblock_mo_bertrachten_1__2;Examiner le bloc-note
+spokentexts_a16_kabine_baronin_schreibblock_ex_1_st_1;La baronne a écrit quelque chose et elle a prit le bout de papier avec elle... Ce n'est probablement pas important.
+texts_a16_kabine_baronin_sonnenblumenbild_mo_ex_1;Examiner la peinture
+spokentexts_a16_kabine_baronin_sonnenblumenbild_ex_1_st_1;Même Adil ne pourrait croire que cette peinture est un original.
+spokentexts_a16_kabine_baronin_sonnenblumenbild_ex_1_st_2;Il était intéressé par l'art quand nous nous sommes rencontrés, mais pour lui, tout est une question de contenu, pas de technique.
+spokentexts_a16_kabine_baronin_sonnenblumenbild_ex_1_st_3;J'avais du pain sur la planche pour lui apprendre à se concentrer sur le trait, le matériau et la signature de l'artiste.
+spokentexts_a16_kabine_baronin_sonnenblumenbild_ex_1_st_4;C'est la seule façon de distinguer un original d'un faux.
+spokentexts_a16_kabine_baronin_sonnenblumenbild_ex_1_st_5;"""Je me fiche de qui l'a peint tant qu'il me parle"", qu'il me disait."
+spokentexts_a16_kabine_baronin_sonnenblumenbild_ex_1_st_6;Une perspective qu'en tant que voleuse d'art, je ne peux pas partager - mais il est charmant quand même.
+texts_a16_kabine_baronin_stuhl_mo_use_1;Faire glisser la chaise sous l'ouverture
+spokentexts_a16_kabine_baronin_stuhl_ex_1_st_1;Une chaise démodée pour une dame démodée.
 sequences_a16_kabine_baronin_stuhl_use_1#1;[The young woman pushes the chair under the vent of the funnel.]
 sequences_a16_kabine_baronin_stuhl_use_1#2;[Then she climbs on to the chair, pulls down one end of the bath towel, so it is hanging there like before.]
 sequences_a16_kabine_baronin_stuhl_use_1#3;[The young woman gets off the chair and pushes it back where it stood before.]
-texts_a16_kabine_baronin_tuer_mo_bertrachten_1;Examine the door
-texts_a16_kabine_baronin_tuer_mo_leave_1;Leave the cabin
-spokentexts_a16_kabine_baronin_tuer_ex_1_st_1;I'd prefer to lock the door. Someone could come in and catch me at any moment.
-spokentexts_a16_kabine_baronin_tuer_ex_1_st_2;But it's important not to leave a trace. Inch absolutely cannot find out about us.
-spokentexts_a16_kabine_baronin_tuer_ex_1_st_3;I must hurry.
-spokentexts_a16_kabine_baronin_tuer_leave_1_st_1;No. I'd better leave the cabin as I entered it. Somebody might see me if I go out through the door.
+texts_a16_kabine_baronin_tuer_mo_bertrachten_1;Examiner la porte
+texts_a16_kabine_baronin_tuer_mo_leave_1;Quitter la cabine
+spokentexts_a16_kabine_baronin_tuer_ex_1_st_1;Je préfère verrouiller la porte. Quelqu'un pourrait venir et me surprendre à tout moment.
+spokentexts_a16_kabine_baronin_tuer_ex_1_st_2;Mais il est important de ne pas laisser de trace. Inch ne doit absolument pas savoir à propos de nous deux.
+spokentexts_a16_kabine_baronin_tuer_ex_1_st_3;Je dois me dépêcher.
+spokentexts_a16_kabine_baronin_tuer_leave_1_st_1;Non, je ferais mieux de sortir de la cabine comme j'y suis entré. Quelqu'un pourrait me voir si je sors par la porte.
 sequences_a16_kabine_baronin_seq_a16_kabine_baronin_auftritt_arzt#0;[The young woman reaches for the towel. Suddenly she hears a noise at the door. It opens!]
 sequences_a16_kabine_baronin_seq_a16_kabine_baronin_auftritt_arzt#1;[The woman quickly throws the towel back into the funnel and disappears under the bed only a few seconds later.]
 sequences_a16_kabine_baronin_seq_a16_kabine_baronin_auftritt_arzt#2;[Cut to the sheet under the bed. The young woman lays frightened on the floor and looks out from under the bed.]
@@ -112,51 +112,51 @@ sequences_a16_kabine_baronin_seq_a16_kabine_baronin_auftritt_arzt#8;[Cut to the 
 sequences_a16_kabine_baronin_seq_a16_kabine_baronin_auftritt_arzt#9;[The feet pass the bed, then they stop. The man seems to look around, thinking about whether he forgot anything.]
 sequences_a16_kabine_baronin_seq_a16_kabine_baronin_auftritt_arzt#10;[Then he is content and walks to the entrance of the cabin. You can hear the door opening and then closing, everything is quiet again.]
 sequences_a16_kabine_baronin_seq_a16_kabine_baronin_auftritt_arzt#11;[The woman crawls out of her hiding place and stands up.]
-spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_auftritt_arzt_st_1;That was close.
+spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_auftritt_arzt_st_1;C'était moins une.
 sequences_a16_kabine_baronin_seq_a16_kabine_baronin_betreten#0;[You see the end of the animation in which the young woman gracefully climbs down the bath towel.]
 sequences_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken#0;[The young woman slides back into the cabin. She heads to the cupboard and glances at the bed. She finds the baroness' corpse covered in blood.]
 spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken_st_1_direction;shocked outcry
-spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken_st_1;Wahhh!
+spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken_st_1;Ahhh !
 spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken_st_2_direction;quietly to herself
-spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken_st_2;Oh my god!
+spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken_st_2;Oh mon Dieu !
 sequences_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken#3;[Knocking on the door.]
-spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken_st_3;Baroness von Trebitz? Are you okay?
+spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken_st_3;Baronne von Trebitz ? Vous allez bien ?
 sequences_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken#5;[The woman whirls to the door, pauses for a second, has to prevent herself from taking the jewel, then finally climbs up the bath towel.]
-spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken_st_4;Hello? Baroness?
+spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken_st_4;Hé ho ? Baronne ?
 sequences_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken#7;[The carer tries to open the door, rattles.]
-spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken_st_5;Hello?
+spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken_st_5;Hé ho ?
 sequences_a16_kabine_baronin_seq_a16_kabine_baronin_reiseschrank_ende#0;[The young woman closes the portable cupboard, so it stands there just as before.]
 texts_a16_kabine_baronin_geheimfach_ausgang_mo_leave;Finish the investigation
-spokentexts_a16_kabine_baronin_geheimfach_ausgang_leave_1_st_1;Well... Then I should... Wait! What's that? A note!
-texts_a16_kabine_baronin_geheimfach_mechanismus_mo_ex_1__2__3;Examine the mechanism
-spokentexts_a16_kabine_baronin_geheimfach_mechanismus_ex_1_st_1;To me it looks like a combination lock. A good one too.
-spokentexts_a16_kabine_baronin_geheimfach_mechanismus_ex_1_st_2;The door only opens when the right symbols are in place.
-spokentexts_a16_kabine_baronin_geheimfach_mechanismus_ex_2_st_1;There are outlines of animals. A dog, a cat, a bear and a rooster, amongst others.
-spokentexts_a16_kabine_baronin_geheimfach_mechanismus_ex_2_st_2;Eight symbols per cylinder. That means more than four thousand possible combinations.
-spokentexts_a16_kabine_baronin_geheimfach_mechanismus_ex_3_st_1;If only I knew three of the four symbols, I could easily guess the last.
-spokentexts_a16_kabine_baronin_geheimfach_mechanismus_ex_3_st_2;But whilst I don't know at least three of them, I can't go any further.
-texts_a16_kabine_baronin_geheimfach_tuer_mo_ex_1__2;Examine the door
-spokentexts_a16_kabine_baronin_geheimfach_tuer_ex_1_st_1;I'd put money on the Eye of the Sphinx being behind this door.
-spokentexts_a16_kabine_baronin_geheimfach_tuer_ex_1_st_2;I don't think anyone would bet against me.
-spokentexts_a16_kabine_baronin_geheimfach_tuer_ex_2_st_1;The door is locked. I have to find the right combination to get in.
-texts_a16_kabine_baronin_geheimfach_zettel_mo_ex_1__2;Examine the slip
+spokentexts_a16_kabine_baronin_geheimfach_ausgang_leave_1_st_1;Très bien... Alors je devrais... Attendez ! Qu'est-ce que c'est ? Une note !
+texts_a16_kabine_baronin_geheimfach_mechanismus_mo_ex_1__2__3;Examiner le mécanisme
+spokentexts_a16_kabine_baronin_geheimfach_mechanismus_ex_1_st_1;Pour moi, cela ressemble à une serrure à combinaison. Et de bonne qualité.
+spokentexts_a16_kabine_baronin_geheimfach_mechanismus_ex_1_st_2;La porte ne s'ouvre que lorsque les bons symboles sont en place.
+spokentexts_a16_kabine_baronin_geheimfach_mechanismus_ex_2_st_1;Il y a des animaux. Un chien, un chat, un ours et un coq, entre autres.
+spokentexts_a16_kabine_baronin_geheimfach_mechanismus_ex_2_st_2;Huit symboles par cylindre. Cela signifie plus de quatre mille combinaisons possibles.
+spokentexts_a16_kabine_baronin_geheimfach_mechanismus_ex_3_st_1;Si seulement je connaissais trois des quatre symboles, je pourrais facilement deviner le dernier.
+spokentexts_a16_kabine_baronin_geheimfach_mechanismus_ex_3_st_2;Mais tant que je ne connaitrais pas au moins trois d'entre eux, je ne pourrais pas aller plus loin.
+texts_a16_kabine_baronin_geheimfach_tuer_mo_ex_1__2;Examiner la porte
+spokentexts_a16_kabine_baronin_geheimfach_tuer_ex_1_st_1;Je parierai que l'oeil du Sphinx est derrière cette porte.
+spokentexts_a16_kabine_baronin_geheimfach_tuer_ex_1_st_2;Je ne crois pas que quiconque puisse parier contre ça.
+spokentexts_a16_kabine_baronin_geheimfach_tuer_ex_2_st_1;La porte est verrouillée. Je dois trouver la bonne combinaison pour l'ouvrir.
+texts_a16_kabine_baronin_geheimfach_zettel_mo_ex_1__2;Examiner le feuillet
 spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_1;Hmm...
 spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_2_direction;reads out loud
-spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_2;Nefertiti, Guernica, AD, Buonarroti's Adam...
-spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_3;This could be a memory aid for the baroness. And it would explain how Inch discovered the combination.
-spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_4;I'm going to copy the hints.
+spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_2;Nefertiti, Guernica, AD, Buonarroti Adam...
+spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_3;Ça pourrait être un aide-mémoire pour la baronne. Et ça expliquerait comment Inch a découvert la combinaison.
+spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_4;Je vais recopier ces indices.
 sequences_a16_kabine_baronin_geheimfach_zettel_ex_1#5;[The prompts are written in the quest log.]
-spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_5;Hmm. As I see it, I have to decifer these clues to find three of the symbols. Then I can guess the fourth.
+spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_5;Hmm. A première vue, je dois utiliser ces indices pour trouver trois des symboles. Ensuite, je pourrais deviner le quatrième.
 spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_6_direction;a bit puzzled
-spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_6;Well. Nefertiti was an Egyptian queen. The monogram and the two other clues aren't much help...
-spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_2_st_1;I copied the hints into my diary.
-spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_2_st_2;Maybe someone on board can help me to figure out at least three of the four symbols.
-texts_a16_kabine_baronin_luefungsschacht_luke_mo_use_1__2;Enter the cabin
-spokentexts_a16_kabine_baronin_luefungsschacht_luke_use_1_st_1;I could easily let myself drop down into the cabin.
-spokentexts_a16_kabine_baronin_luefungsschacht_luke_use_1_st_2;But how would I climb out again? I mean, without putting a chair or something like that under the entrance and leaving a clue behind?
-spokentexts_a16_kabine_baronin_luefungsschacht_luke_use_1_st_3;First I need a way to climb back into the ventilation shaft.
+spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_6;Bien. Nefertiti était une reine d'Égypte. Le monogramme et les deux autres indices ne sont guère utiles...
+spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_2_st_1;J'ai recopié les indices dans mon journal.
+spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_2_st_2;Peut-être que des personnes à bord pourraient m'aider à comprendre au moins trois des quatre symboles.
+texts_a16_kabine_baronin_luefungsschacht_luke_mo_use_1__2;Entrer dans la cabine
+spokentexts_a16_kabine_baronin_luefungsschacht_luke_use_1_st_1;Je pourrais facilement me laisser glisser dans la cabine.
+spokentexts_a16_kabine_baronin_luefungsschacht_luke_use_1_st_2;Mais comment pourrais-je en ressortir ? Je veux dire, sans mettre une chaise ou quelque chose comme ça sous l'entrée et sans laisser de traces ?
+spokentexts_a16_kabine_baronin_luefungsschacht_luke_use_1_st_3;J'ai d'abord besoin de trouver un moyen pour remonter par la ventilation.
 sequences_a16_kabine_baronin_luefungsschacht_luke_use_1#5;[The woman begins to push herself back through the funnel.]
-spokentexts_a16_kabine_baronin_luefungsschacht_luke_use_2_st_1;OK. I'll lay the pole across the opening and lower myself down with the towel. I can get out the same way!
+spokentexts_a16_kabine_baronin_luefungsschacht_luke_use_2_st_1;OK. Je vais poser le mât en travers de l'ouverture et utiliser la serviette pour descendre. Je pourrais sortir de la même manière !
 sequences_a16_kabine_baronin_luefungsschacht_luke_use_2#2;[Cut to the cabin (you can see the funnel).]
 sequences_a16_kabine_baronin_luefungsschacht_luke_use_2#3;[The hatch is removed and disappears into the funnel. Then a bath towel is lowered down into the cabin.]
 sequences_a16_kabine_baronin_luefungsschacht_luke_use_2#4;[The young woman gracefully lowers herself down the bath towel .]
@@ -167,238 +167,238 @@ sequences_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsscha
 sequences_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick#3;[Cut to the normal cabin-shot.]
 sequences_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick#4;[The baroness finds a picture that she was obviously searching for. She freezes..
 spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_1_direction;in satisfaction
-spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_1;Jakob Aust!
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_1;Jakob Aust !
 sequences_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick#6;[The baroness takes the picture, stands up and spins gleefully on the spot!]
 spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_2_direction;Triumphantly
-spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_2;I've finally got you!
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_2;Je vous ai finalement coincée !
 sequences_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick#8;[She places the photo on a table, takes a glass bottle, pours herself a sip and downs it. She is thinking about something and still has the glass in her hand (Idle).]
 spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_3_direction;Thinking gloomy thoughts
-spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_3;I'll have them arrest you and justice will be done.
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_3;Je vais vous faire arrêter et justice sera faite.
 sequences_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick#10;[She put the glass decidedly back on the table. Then she goes to the door and pulls it open (Idle).]
 spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_4_direction;muted from outside
-spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_4;Can I be of assistance, madam?
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_4;Puis-je vous aider, madame ?
 spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_5_direction;in a good mood
-spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_5;You can get out of the way!
-spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_7;Shall I tidy up, madam?
-spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_8;No. It's time to celebrate!
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_5;Vous pouvez surtout me ficher la paix !
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_7;Dois-je ranger, madame?
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_8;Non, c'est l'heure de faire la fête !
 sequences_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick#16;[The baroness leaves the cabin and closes the door.]
 sequences_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick#17;[Suddenly it's dark and quiet. Cut back into the funnel after about 2 sec.]
 sequences_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick#18;[From now on the butler is nowhere to be seen.]
 spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_9_direction;whispering
-spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_9;Excellent. The coast is clear.
-texts_a16_kabine_baronin_reiseschrank_ausgang_mo_leave;Finish the investigation
-texts_a16_kabine_baronin_reiseschrank_flaschen_mo_ex_1__2;Examine the bottles
-spokentexts_a16_kabine_baronin_reiseschrank_flaschen_ex_1_st_1;Gin, whiskey, liqueur, sherry, vodka, brandy and champagne. Every bottle is at least half empty.
-spokentexts_a16_kabine_baronin_reiseschrank_flaschen_ex_2_st_1;I wonder what the baroness is running away from. Loneliness? Disappointment? Grief?
-texts_a16_kabine_baronin_reiseschrank_glaeser_mo_ex_1;Examine the glasses
-spokentexts_a16_kabine_baronin_reiseschrank_glaeser_ex_1_st_1;A suitable glass for every occasion. But most of them look more or less unused.
-spokentexts_a16_kabine_baronin_reiseschrank_glaeser_ex_1_st_2;The baroness probably disregards style and etiquette when she's drinking alone and just uses the same glass.
-texts_a16_kabine_baronin_reiseschrank_lederriemen_mo_ex_1;Examine the leather strap
-texts_a16_kabine_baronin_reiseschrank_lederriemen_mo_use_1;Open the secret compartment
-spokentexts_a16_kabine_baronin_reiseschrank_lederriemen_ex_1_st_1;What's that?
-spokentexts_a16_kabine_baronin_reiseschrank_lederriemen_ex_1_st_2;A small leather strap?
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_9;Excellent. La voie est libre.
+texts_a16_kabine_baronin_reiseschrank_ausgang_mo_leave;Arrêter les investigations
+texts_a16_kabine_baronin_reiseschrank_flaschen_mo_ex_1__2;Examiner les bouteilles
+spokentexts_a16_kabine_baronin_reiseschrank_flaschen_ex_1_st_1;Gin, whisky, liqueur, sherry, vodka, brandy et champagne. Chaque bouteille est au moins à moitié vide.
+spokentexts_a16_kabine_baronin_reiseschrank_flaschen_ex_2_st_1;Je me demande ce que fuit la baronne. La solitude ? Une déception ? Un chagrin ?
+texts_a16_kabine_baronin_reiseschrank_glaeser_mo_ex_1;Examiner les verres
+spokentexts_a16_kabine_baronin_reiseschrank_glaeser_ex_1_st_1;Un verre pour chaque occasion. Mais la plupart semblent plus ou moins utilisé.
+spokentexts_a16_kabine_baronin_reiseschrank_glaeser_ex_1_st_2;La baronne oublie probablement tout style et étiquette quand elle boit seule et utilise simplement le même verre.
+texts_a16_kabine_baronin_reiseschrank_lederriemen_mo_ex_1;Examiner lanière de cuir
+texts_a16_kabine_baronin_reiseschrank_lederriemen_mo_use_1;Ouvrir le compartiment secret
+spokentexts_a16_kabine_baronin_reiseschrank_lederriemen_ex_1_st_1;Qu'est-ce que c'est ?
+spokentexts_a16_kabine_baronin_reiseschrank_lederriemen_ex_1_st_2;Une petite lanière de cuir ?
 sequences_a16_kabine_baronin_reiseschrank_lederriemen_ex_1#3;[The woman carefully pulls the strap. Because of that a drawer with 2-3 bottles moves aside. Behind it appears the secret drawer.]
 spokentexts_a16_kabine_baronin_reiseschrank_lederriemen_ex_1_st_3_direction;is happy to have found something
-spokentexts_a16_kabine_baronin_reiseschrank_lederriemen_ex_1_st_3;Aha!
+spokentexts_a16_kabine_baronin_reiseschrank_lederriemen_ex_1_st_3;Ah ah !
 sequences_a16_kabine_baronin_reiseschrank_lederriemen_ex_1#5;[Cut to the close-up secret drawer.]
 sequences_a16_kabine_baronin_reiseschrank_lederriemen_use_1#1;[The woman carefully pulls the strap. Because of that a drawer with 2-3 bottles moves aside. Behind it appears the secret drawer.]
 sequences_a16_kabine_baronin_reiseschrank_lederriemen_use_1#2;[Cut to the close-up secret drawer.]
-texts_a16_kabine_baronin_reiseschrank_schublade1_mo_ex_1;Search the drawer
+texts_a16_kabine_baronin_reiseschrank_schublade1_mo_ex_1;Fouiller le tiroir
 sequences_a16_kabine_baronin_reiseschrank_schublade1_ex_1#1;[The drawer opens.]
-spokentexts_a16_kabine_baronin_reiseschrank_schublade1_ex_1_st_1;Napkins and towels, but no jewel.
-spokentexts_a16_kabine_baronin_reiseschrank_schublade1_ex_1_st_2;Some napkins and towels... Nothing I can use.
+spokentexts_a16_kabine_baronin_reiseschrank_schublade1_ex_1_st_1;Des serviettes, mais pas de bijou.
+spokentexts_a16_kabine_baronin_reiseschrank_schublade1_ex_1_st_2;Des serviettes... Rien d'utile.
 sequences_a16_kabine_baronin_reiseschrank_schublade1_ex_1#3;[The drawer closes.]
-texts_a16_kabine_baronin_reiseschrank_schublade2_mo_ex_1;Search the drawer
+texts_a16_kabine_baronin_reiseschrank_schublade2_mo_ex_1;Fouiller le tiroir
 sequences_a16_kabine_baronin_reiseschrank_schublade2_ex_1#1;[The drawer opens.]
-spokentexts_a16_kabine_baronin_reiseschrank_schublade2_ex_1_st_1;Corkscrew, bottle opener, coaster... Nothing else.
-spokentexts_a16_kabine_baronin_reiseschrank_schublade2_ex_1_st_2;Corkscrew, bottle opener, coaster... I can't use any of these.
+spokentexts_a16_kabine_baronin_reiseschrank_schublade2_ex_1_st_1;Tire-bouchon, décapsuleur, dessous de verre... Rien d'autre.
+spokentexts_a16_kabine_baronin_reiseschrank_schublade2_ex_1_st_2;Tire-bouchon, décapsuleur, dessous de verre ... Je ne peux rien utiliser.
 sequences_a16_kabine_baronin_reiseschrank_schublade2_ex_1#3;[The drawer closes.]
-texts_a16_kabine_baronin_reiseschrank_tuer_mo_ex_1;Search the shelf
+texts_a16_kabine_baronin_reiseschrank_tuer_mo_ex_1;Fouiller l'étagère
 sequences_a16_kabine_baronin_reiseschrank_tuer_ex_1#1;[The door opens.]
-spokentexts_a16_kabine_baronin_reiseschrank_tuer_ex_1_st_1;Hmm. More bottles. Might be the good stuff.
+spokentexts_a16_kabine_baronin_reiseschrank_tuer_ex_1_st_1;Hmm. Des bouteilles. Pleines de bonnes choses.
 sequences_a16_kabine_baronin_reiseschrank_tuer_ex_1#3;[The door closes.]
 sequences_a16_kabine_baronin_reiseschrank_seq_a16_kabine_baronin_reiseschrank_geheimfach_ende#0;[The secret drawer closes.]
-texts_a16_kabine_frau_ausgang_mo_leave_1;Leave the cabin
+texts_a16_kabine_frau_ausgang_mo_leave_1;Quitter la cabine
 sequences_a16_kabine_frau_ausgang_leave_1#1;[The woman leaves the cabin.]
-texts_a16_kabine_frau_badezimmer_mo_ex_1__2;Examine the bathroom
-texts_a16_kabine_frau_badezimmer_mo_talk_mit_1__2;Talk to Adil
-spokentexts_a16_kabine_frau_badezimmer_ex_1_st_1;We booked this cabin because it's centrally located. Easy to duck in whenever we need to.
+texts_a16_kabine_frau_badezimmer_mo_ex_1__2;Examiner la salle de bain
+texts_a16_kabine_frau_badezimmer_mo_talk_mit_1__2;Parler à Adil
+spokentexts_a16_kabine_frau_badezimmer_ex_1_st_1;Nous avons réservé cette cabine car elle bien située. Utile pour s'échapper en douce à chaque fois que nous avons besoin.
 spokentexts_a16_kabine_frau_badezimmer_ex_1_st_2_direction;she lies
-spokentexts_a16_kabine_frau_badezimmer_ex_1_st_2;Of course, the fact that it's a first-class cabin with a huge bathroom and shower had nothing to do with it.
-spokentexts_a16_kabine_frau_badezimmer_ex_2_st_1;As soon as I've swapped the jewels, I'll treat myself to a hot shower and then we'll see how the evening progresses.
-spokentexts_a16_kabine_frau_badezimmer_ex_3_st_1;I could use a hot shower. Crawling through ventilation ducts is a dirty job.
-spokentexts_a16_kabine_frau_badezimmer_ex_3_st_2;But business before pleasure.
+spokentexts_a16_kabine_frau_badezimmer_ex_1_st_2;Bien sûr, le fait que c'est une cabine de première classe avec une immense salle de bains et une douche n'entrait pas dans l'équation.
+spokentexts_a16_kabine_frau_badezimmer_ex_2_st_1;Dès que j'aurais échangée les bijoux, je m'offre une douche chaude et ensuite nous verrons comment la soirée se passera.
+spokentexts_a16_kabine_frau_badezimmer_ex_3_st_1;Je rêve d'une douche chaude. Ramper dans les conduits de ventilation est un boulot salissant.
+spokentexts_a16_kabine_frau_badezimmer_ex_3_st_2;Mais les affaires avant le plaisir.
 spokentexts_a16_kabine_frau_badezimmer_talk_mit_1_st_1_direction;loud
-spokentexts_a16_kabine_frau_badezimmer_talk_mit_1_st_1;Adil?
+spokentexts_a16_kabine_frau_badezimmer_talk_mit_1_st_1;Adil ?
 spokentexts_a16_kabine_frau_badezimmer_talk_mit_1_st_2_direction;from the shower
-spokentexts_a16_kabine_frau_badezimmer_talk_mit_1_st_2;Yes?
+spokentexts_a16_kabine_frau_badezimmer_talk_mit_1_st_2;Oui ?
 sequences_a16_kabine_frau_badezimmer_talk_mit_1#3;[The shower is turned off, the sound of water stops.]
 sequences_a16_kabine_frau_badezimmer_talk_mit_1#4;[The Arabian's head appears in the semi-open doorway.]
-spokentexts_a16_kabine_frau_badezimmer_talk_mit_2_st_1;I'll humor the king of long showers. I don't know what I'd ask him anyway.
-texts_a16_kabine_frau_bett_mo_ex_1__2;Look at Adil
-spokentexts_a16_kabine_frau_bett_ex_1_st_1;It happened pretty fast between us. It was magic when we first met.
+spokentexts_a16_kabine_frau_badezimmer_talk_mit_2_st_1;Je vais pas déranger le roi des longues douches. Je ne sais pas quoi lui demander de toute façon.
+texts_a16_kabine_frau_bett_mo_ex_1__2;Regarder Adil
+spokentexts_a16_kabine_frau_bett_ex_1_st_1;Ça s'est passé très vite entre nous. C'était magique quand nous nous sommes rencontrés.
 sequences_a16_kabine_frau_bett_ex_1#2;[The woman hunches her shoulders.]
-spokentexts_a16_kabine_frau_bett_ex_1_st_2;Birds of a feather flock together.
-spokentexts_a16_kabine_frau_bett_ex_1_st_3;And he can be very charming!
+spokentexts_a16_kabine_frau_bett_ex_1_st_2;Qui se ressemble s'assemble.
+spokentexts_a16_kabine_frau_bett_ex_1_st_3;Et il peut être vraiment charmant !
 spokentexts_a16_kabine_frau_bett_ex_1_st_4_direction;snoring
-spokentexts_a16_kabine_frau_bett_ex_1_st_4;*snore*
-spokentexts_a16_kabine_frau_bett_ex_2_st_1;Daddy wasn't at all amused when I brought him home, mind.
-spokentexts_a16_kabine_frau_bett_ex_2_st_2;But don't I think he'd have been satisfied with anyone.
-texts_a16_kabine_frau_halskette_mo_inventar_1__2;Necklace
-texts_a16_kabine_frau_halskette_mo_used_mit_salatzange_1;Combine the necklace with the salad tongs
-spokentexts_a16_kabine_frau_tasche_ex_1_st_2;I got the necklace from my father. It's supposed to remind me that money isn't the most important thing in life.
+spokentexts_a16_kabine_frau_bett_ex_1_st_4;*ronflement*
+spokentexts_a16_kabine_frau_bett_ex_2_st_1;Papa n'était pas du tout content quand je l'ai ramenée à la maison.
+spokentexts_a16_kabine_frau_bett_ex_2_st_2;Mais je ne pense qu'il n'aurait été satisfait avec qui que ce soit.
+texts_a16_kabine_frau_halskette_mo_inventar_1__2;Collier
+texts_a16_kabine_frau_halskette_mo_used_mit_salatzange_1;Combiner le collier avec les pinces à salade
+spokentexts_a16_kabine_frau_tasche_ex_1_st_2;J'ai eu ce collier de mon père. Il est censé me rappeler que l'argent n'est pas la chose la plus importante dans la vie.
 spokentexts_a16_kabine_frau_tasche_ex_1_st_3_direction;quoting
-spokentexts_a16_kabine_frau_tasche_ex_1_st_3;"""If you all you've got is this penny, as well as family and friends, then you're a very rich girl,"" he said."
-spokentexts_a16_kabine_frau_halskette_ex_2_st_1;I'm going to repair the necklace. But that can wait until tonight.
-spokentexts_a16_kabine_frau_halskette_used_mit_salatzange_1_st_1;Hmm... I could jam the penny in and make a kind of improvised screwdriver... Why not?
+spokentexts_a16_kabine_frau_tasche_ex_1_st_3;"""Si tout ce qui te restes est ce penny, ainsi que ta famille et tes amis, alors tu es une jeune fille très riche,"" qu'il me disait."
+spokentexts_a16_kabine_frau_halskette_ex_2_st_1;Je réparerais le collier. Mais cela peut attendre jusqu'à ce soir.
+spokentexts_a16_kabine_frau_halskette_used_mit_salatzange_1_st_1;Hmm... Je pourrais coincer le penny et faire une sorte de tournevis improvisé... Pourquoi pas ?
 sequences_a16_kabine_frau_halskette_used_mit_salatzange_1#2;[From now on the necklace has a new Icon (without penny) and the penny sits in the middle of the salad tongs (see there).]
-texts_a16_kabine_frau_handtasche_mo_ex_1__2;Examine the handbag
-spokentexts_a16_kabine_frau_handtasche_ex_1_st_1;Handbags, dresses and high heels are the reason why there aren't many successful female thieves.
-spokentexts_a16_kabine_frau_handtasche_ex_1_st_2;They're all incredibly inconvenient if you want to climb around.
-spokentexts_a16_kabine_frau_handtasche_ex_2_st_1;There's nothing interesting in the handbag. I'll leave it here.
+texts_a16_kabine_frau_handtasche_mo_ex_1__2;Examiner le sac à main
+spokentexts_a16_kabine_frau_handtasche_ex_1_st_1;Sacs à main, robes et talons hauts sont la raison pour laquelle il n'y a pas beaucoup voleuses.
+spokentexts_a16_kabine_frau_handtasche_ex_1_st_2;Ils sont tous incroyablement peu pratique si vous voulez monter quelque part.
+spokentexts_a16_kabine_frau_handtasche_ex_2_st_1;Il y a rien d'intéressant dans le sac à main. Je vais le laisser ici.
 texts_a16_kabine_frau_penny_mo_inventar_1;Penny
-texts_a16_kabine_frau_penny_mo_used_mit_salatzange_1;Combine the penny with the salad tongs
-spokentexts_a16_oberdeck_lueftungsschacht_used_mit_halskette_1_st_3;The penny fits perfectly into the screw slot. But my fingers aren't strong enough to unscrew the screw.
-spokentexts_a16_kabine_frau_penny_used_mit_salatzange_1_st_1;That's it! I can jam the penny in and make an improvised screwdriver!
+texts_a16_kabine_frau_penny_mo_used_mit_salatzange_1;Combiner le penny avec les pinces à salade
+spokentexts_a16_oberdeck_lueftungsschacht_used_mit_halskette_1_st_3;Le penny s'intègre parfaitement dans la fente de la vis. Mais mes doigts ne sont pas assez forts pour la dévisser.
+spokentexts_a16_kabine_frau_penny_used_mit_salatzange_1_st_1;C'est ça ! Je ne peux coinçer le penny dedans et créer un tournevis !
 sequences_a16_kabine_frau_penny_used_mit_salatzange_1#2;[From now on the necklace has a new Icon (without penny) and the penny sits in the middle of the salad tongs (see there).]
-texts_a16_kabine_frau_tasche_mo_ex_1;Search the suitcase
-texts_a16_kabine_frau_tasche_mo_ex_2;Examine the suitcase
+texts_a16_kabine_frau_tasche_mo_ex_1;Fouiller la valise
+texts_a16_kabine_frau_tasche_mo_ex_2;Examiner la valise
 sequences_a16_kabine_frau_tasche_ex_1#1;[The woman goes to the bag, kneels down, opens the zip, looks inside and remains kneeling (Idle).]
-spokentexts_a16_kabine_frau_tasche_ex_1_st_1;Normally I don't carry so many things around. But it would have been suspicious if I'd come aboard with nothing but a rucksack whilst pretending to be the daughter of a wealthy family.
+spokentexts_a16_kabine_frau_tasche_ex_1_st_1;Normalement, je ne n'emporte pas autant de choses. Mais cela aurait été suspect si je venais à bord avec rien d'autre qu'un sac à dos tout en faisant semblant d'être la fille d'une riche famille.
 sequences_a16_kabine_frau_tasche_ex_1#3;[The woman sifts through the bag, takes out a small case and opens is. She looks inside. (Idle).]
 sequences_a16_kabine_frau_tasche_ex_1#6;[The woman takes the necklace out of the case, puts the case back into her bag and stands up.]
-spokentexts_a16_kabine_frau_tasche_ex_1_st_4;I'll take it with me. It'll bring me luck.
-spokentexts_a16_kabine_frau_tasche_ex_2_st_1;I always try to carry as few personal items as possible.
-spokentexts_a16_kabine_frau_tasche_ex_2_st_2;If my things are ever searched, they won't reveal my true identity.
-texts_a16_kabine_frau_triplette_mo_inventar_1;Fake jewel
-spokentexts_a16_kabine_frau_triplette_ex_1_st_1;I have no idea where Inch had the fake jewel made. But it's amazing!
-spokentexts_a16_kabine_frau_triplette_ex_1_st_2;Even someone with as much experience as I have has to look twice before realizing it's a fake.
-texts_a16_kabine_junge_frau_hutschachtel_mo_ex_1;Examine the hat box
-spokentexts_a16_kabine_junge_frau_hutschachtel_ex_1_st_1;I don't actually like wearing hats, but they do fit the role.
-spokentexts_a16_kabine_junge_frau_hutschachtel_ex_1_st_2;"And I have to admit that the day in London when we shopped for ""Patricia Mayers"" was a lot of fun."
-texts_a16_kabine_junge_frau_spiegel_mo_ex_1;Look in the mirror
+spokentexts_a16_kabine_frau_tasche_ex_1_st_4;Je le prends avec moi. Ça va me porter chance.
+spokentexts_a16_kabine_frau_tasche_ex_2_st_1;J'essaie toujours d'emporter le moins d'objets personnels que possible.
+spokentexts_a16_kabine_frau_tasche_ex_2_st_2;Si jamais mes effets personnels étaient trouvés, ils ne pourraient pas révéler ma véritable identité.
+texts_a16_kabine_frau_triplette_mo_inventar_1;Faux bijou
+spokentexts_a16_kabine_frau_triplette_ex_1_st_1;Je n'ai aucune idée d'où Inch a fait faire ce faux bijou. Mais il est incroyable !
+spokentexts_a16_kabine_frau_triplette_ex_1_st_2;Même quelqu'un avec autant d'expérience que moi, doit y regarder à deux fois avant de réaliser que c'est un faux.
+texts_a16_kabine_junge_frau_hutschachtel_mo_ex_1;Examiner la boîte à chapeau
+spokentexts_a16_kabine_junge_frau_hutschachtel_ex_1_st_1;Je n'aime pas vraiment porter des chapeaux, mais ils cadrent avec le rôle.
+spokentexts_a16_kabine_junge_frau_hutschachtel_ex_1_st_2;"Et je dois admettre que la journée à Londres lorsque nous avons fait du shopping pour ""Patricia Mayers"" était très plaisante."
+texts_a16_kabine_junge_frau_spiegel_mo_ex_1;Regarder dans le miroir
 sequences_a16_kabine_junge_frau_spiegel_ex_1#1;[Young woman gets in position in front of the mirror.]
 spokentexts_a16_kabine_junge_frau_spiegel_ex_1_st_1_direction;motiviert
-spokentexts_a16_kabine_junge_frau_spiegel_ex_1_st_1;OK then. I am Patricia Mayers. Young attractive, clueless.
+spokentexts_a16_kabine_junge_frau_spiegel_ex_1_st_1;OK alors. Je suis Patricia Mayers. Jeune, jolie et désemparés.
 spokentexts_a16_kabine_junge_frau_spiegel_ex_1_st_2_direction;eindringlich
-spokentexts_a16_kabine_junge_frau_spiegel_ex_1_st_2;I am Patricia Mayers.
+spokentexts_a16_kabine_junge_frau_spiegel_ex_1_st_2;Je suis Patricia Mayers.
 sequences_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten#0;[Die Frau kommt rein, schließt die Tür hinter sich. Dann entdeckt sie ihren schlafenden Freund und stellt sich normal hin.]
-spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_st_1;He has the enviable talent of being able to sleep anywhere, anytime.
-spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_st_2;He once fell asleep on a cable car and only woke up after he'd already gone up the mountain and back down again.
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_st_1;Il a ce talent d'être capable de dormir n'importe où, n'importe quand.
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_st_2;Une fois, il s'est endormi sur un téléphérique et ne s'est réveillé qu'après avoir fait le tour de la montagne et redescendu à la station.
 sequences_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach#0;[The woman enters the cabin and closes the door. Then she sees her sleeping boyfriend and stands normal.]
 spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_1_direction;loud
-spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_1;Adil?
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_1;Adil ?
 spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_2_direction;from the shower
-spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_2;In the shower!
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_2;Sous la douche !
 spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_3_direction;loud
-spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_3;I found the secret compartment!
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_3;J'ai trouvé le compartiment secret !
 spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_4_direction;from the shower
-spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_4;Brilliant! And the jewel?
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_4;Fantastique ! Et le bijou ?
 spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_5_direction;loud
-spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_5;I'm working on it.
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_erstmalig_betreten_nach_geheimfach_st_5;J'y travaille.
 sequences_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts#0;[You see the ship from outside, it is bright. Then a fade to the night version of the ship. Text: A little while later...]
 sequences_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts#1;[Cut to the woman's cabin, shot to the bed.]
 sequences_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts#2;[The young woman sits on the edge of the bed, putting on her earrings (Idle). The shirtless Arabian lays under the cover behind her and looks at her. They are talking to each other (Idle).]
-spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_1;Inch bothers me.
-spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_2;He's shown what he's capable of. What if  he finds out about our plan?
-spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_3;How would he? We're careful.
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_1;Inch me dérange.
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_2;Il a montré de quoi il est capable. Et s'il découvre notre plan ?
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_3;Comment pourrait-il? Nous faisons tellement attention.
 sequences_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts#6;[The woman has put on her earrings, and now sits a bit crumpled on the bed (Idle).]
 spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_4_direction;grim
-spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_4;He's more ruthless than we expected.
-spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_5;The bomb on the train... I don't want to think about it.
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_4;Il est plus impitoyable que nous le pensions.
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_5;La bombe dans le train... Je ne veux pas y penser.
 sequences_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts#9;[The Arabian lays his hand soothingly on her back.]
-spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_6;We need to make sure that we stay calm.
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_6;Nous devons faire en sorte de rester calme.
 spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_7_direction;a bit upset
-spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_7;You mean that I stay calm?
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_7;Tu veux dire que je dois rester calme ?
 sequences_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts#12;[The woman stands up, gets in the normal position in front of the bed. The Arabian pulls his hand back, stays in the bed and looks at her.]
 spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_8_direction;Tenderly cheering
-spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_8;I'm not worried about you. I know you.
-texts_a16_nebendeck_ausgang_hinterdeck_mo_leave_1;Go to the rear
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_8;Je ne suis pas inquiet pour toi. Je te connais.
+texts_a16_nebendeck_ausgang_hinterdeck_mo_leave_1;Aller à l'arrière
 sequences_a16_nebendeck_ausgang_hinterdeck_leave_1#1;[The young woman heads to the afterdeck.]
-texts_a16_nebendeck_ausgang_oberdeck_mo_leave_1;Go upstairs
+texts_a16_nebendeck_ausgang_oberdeck_mo_leave_1;Monter à l'étage
 sequences_a16_nebendeck_ausgang_oberdeck_leave_1#1;[The woman begins to go upstairs to the upper deck.]
-texts_a16_nebendeck_ausgang_treppensaal_mo_leave_1;Go into the ship
+texts_a16_nebendeck_ausgang_treppensaal_mo_leave_1;Entrer dans le navire
 sequences_a16_nebendeck_ausgang_treppensaal_leave_1#1;[The young woman goes onto the landing.]
-texts_a16_nebendeck_ausgang_vorderdeck_mo_leave_1;Go to the forecastle
+texts_a16_nebendeck_ausgang_vorderdeck_mo_leave_1;Aller vers le gaillard
 sequences_a16_nebendeck_ausgang_vorderdeck_leave_1#1;[The young woman heads to the forecastle.]
-texts_a16_nebendeck_gangway_mo_ex_1;Examine the gangway
-spokentexts_a16_nebendeck_gangway_ex_1_st_1;Practicality was definitely placed ahead of design here.
-spokentexts_a16_nebendeck_gangway_ex_1_st_2;I guess the Lydia regularly docks at harbors that don't have their own gangways.
-spokentexts_a16_nebendeck_gangway_ex_1_st_3;And rather than make passengers climb ladders, they opted for the less beautiful alternative.
+texts_a16_nebendeck_gangway_mo_ex_1;Examiner la passerelle
+spokentexts_a16_nebendeck_gangway_ex_1_st_1;On a presque l'impression qu'il a été placé ici pendant sa conception.
+spokentexts_a16_nebendeck_gangway_ex_1_st_2;Je suppose que le Lydia mouille régulièrement dans les ports qui n'ont pas leurs propres passerelles.
+spokentexts_a16_nebendeck_gangway_ex_1_st_3;Et plutôt que de faire monter les passagers par des échelles, ils ont opté pour la moins belle alternative.
 sequences_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt#0;[The guardsman and the Arabian go downstairs and head to the forecastle.]
 spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_1_direction;accent
-spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_1;What is?
+spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_1;Qu'est-ce que c'est ?
 spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_2_direction;accent
-spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_2;Did nothing!
-spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_3;Inspector Legrand thinks otherwise! Move!
+spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_2;Moi rien fait !
+spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_3;L'inspecteur Legrand pense la contraire ! Allez !
 spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_4_direction;accent
-spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_4;But I have...
+spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_4;Mais je dois...
 sequences_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt#5;[Both freeze. A shot was heard.]
-spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_5;Gunshot!
-spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_6;I know that!
+spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_5;Coup de feu !
+spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_6;Je sais !
 spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_7_direction;in a hurry
-spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_7;Get moving! Into the cell!
+spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_7;Allez ! Dans la cellule !
 sequences_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt#9;[The guardsman pushes the Arabian forward.]
-spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_8;Ow!
+spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_8;Aie !
 sequences_a16_nebendeck_seq_a16_nebendeck_betreten_aus_richtung_oberdeck#0;[The young woman walks down the last steps, maybe jumps down the last two steps, or the like. Then takes up the normal position again.]
-texts_a16_oberdeck_ausgang_treppe_mo_leave_1;Go downstairs
+texts_a16_oberdeck_ausgang_treppe_mo_leave_1;Aller en bas
 sequences_a16_oberdeck_ausgang_treppe_leave_1#1;[The young woman begins to go downstairs.]
-texts_a16_oberdeck_fahne_mo_ex_1;Examine the flag
-texts_a16_oberdeck_fahne_mo_take_1;Take the pole
-spokentexts_a16_oberdeck_fahne_ex_1_st_1;No idea what kind of flag this is. But the pole it's attached to could be very useful one day.
-spokentexts_a16_oberdeck_fahne_ex_1_st_2;It's about 80cm long and looks quite stable!
+texts_a16_oberdeck_fahne_mo_ex_1;Examiner le drapeau
+texts_a16_oberdeck_fahne_mo_take_1;Prendre le mât
+spokentexts_a16_oberdeck_fahne_ex_1_st_1;J'ai aucune idée du genre de drapeau que c'est. Mais le mât auquel il est attaché pourrait être très utile.
+spokentexts_a16_oberdeck_fahne_ex_1_st_2;80cm de long et il semble assez solide !
 sequences_a16_oberdeck_fahne_take_1#1;[The woman takes the pole out of the holder, removes the flag and throws it carelessly into the lifeboat.]
 sequences_a16_oberdeck_fahne_take_1#2;[She looks at the pole, maybe whirls it for a moment through the air.]
-spokentexts_a16_oberdeck_fahne_take_1_st_1;Yes, it's sturdy. But it's also too cumbersome to carry around.
+spokentexts_a16_oberdeck_fahne_take_1_st_1;Oui, c'est solide. Mais c'est aussi trop lourd à transporter.
 sequences_a16_oberdeck_fahne_take_1#4;[The woman places the pole next to the funnel.]
-texts_a16_oberdeck_holzstab_mo_use_1;Use the pole with...
-texts_a16_oberdeck_holzstab_mo_used_mit_badetuch_1__2;Tie the bath towel the around wooden pole
-spokentexts_a16_oberdeck_holzstab_ex_1_st_1;Something tells me that this will be very useful. I just don't know how yet.
-spokentexts_a16_oberdeck_holzstab_ex_2_st_1;Maybe I can use this later...
-spokentexts_a16_oberdeck_holzstab_ex_3_st_1;I can use it to get into the cabin-and more importantly, to get back out again!
-spokentexts_a16_oberdeck_holzstab_used_mit_badetuch_1_st_1;OK. Let's see...
+texts_a16_oberdeck_holzstab_mo_use_1;Utiliser la mât avec...
+texts_a16_oberdeck_holzstab_mo_used_mit_badetuch_1__2;Attacher la serviette de bain autour du mât en bois
+spokentexts_a16_oberdeck_holzstab_ex_1_st_1;Quelque chose me dit que ce sera très utile. Je ne sais pas encore pour quoi.
+spokentexts_a16_oberdeck_holzstab_ex_2_st_1;Je pourrais peut-être l'utiliser plus tard...
+spokentexts_a16_oberdeck_holzstab_ex_3_st_1;Je peux l'utiliser pour entrer dans la cabine et plus important encore, pour en sortir !
+spokentexts_a16_oberdeck_holzstab_used_mit_badetuch_1_st_1;OK. Voyons ça...
 sequences_a16_oberdeck_holzstab_used_mit_badetuch_1#2;[The woman takes off the bath towel and ties it to the pole. Then she puts the pole back in its place.]
-spokentexts_a16_oberdeck_holzstab_used_mit_badetuch_2_st_1;Hmm. I could tie the bath towel around the pole, put the pole across the ventilation shaft and climb down with help of the towel.
-spokentexts_a16_oberdeck_holzstab_used_mit_badetuch_2_st_2;Sounds like a plan!
+spokentexts_a16_oberdeck_holzstab_used_mit_badetuch_2_st_1;Hmm. Je pourrais attacher la serviette de bain autour du mât, mettre le mât en travers du puits de ventilation et descendre avec l'aide de la serviette.
+spokentexts_a16_oberdeck_holzstab_used_mit_badetuch_2_st_2;On dirait bien un plan !
 sequences_a16_oberdeck_holzstab_used_mit_badetuch_2#3;[The woman takes off the bath towel and ties it to the pole. Then she puts the pole back in its place.]
-texts_a16_oberdeck_lueftungsschacht_mo_ex_1__2;Examine the ventilation shaft
-texts_a16_oberdeck_lueftungsschacht_mo_used_mit_halskette_1;Unscrew the cover with the penny
-texts_a16_oberdeck_lueftungsschacht_mo_used_mit_holzstab_1;Break the cover open
-texts_a16_oberdeck_lueftungsschacht_mo_used_mit_holzstab_2__3;Climb into the ventilation shaft
-texts_a16_oberdeck_lueftungsschacht_mo_used_mit_salatzange_1;Unscrew the cover
+texts_a16_oberdeck_lueftungsschacht_mo_ex_1__2;Examiner le puits de ventilation
+texts_a16_oberdeck_lueftungsschacht_mo_used_mit_halskette_1;Dévisser la grille avec le penny
+texts_a16_oberdeck_lueftungsschacht_mo_used_mit_holzstab_1;Casser la grille
+texts_a16_oberdeck_lueftungsschacht_mo_used_mit_holzstab_2__3;Grimper dans le conduit d'aération
+texts_a16_oberdeck_lueftungsschacht_mo_used_mit_salatzange_1;Dévissez la grille
 spokentexts_a16_oberdeck_lueftungsschacht_ex_1_st_1_direction;interested
 spokentexts_a16_oberdeck_lueftungsschacht_ex_1_st_1;Hmm...
-spokentexts_a16_oberdeck_lueftungsschacht_ex_1_st_2;A classic!
-spokentexts_a16_oberdeck_lueftungsschacht_ex_1_st_3;The thief enters through the ventilation shaft... Can it really be that easy?
+spokentexts_a16_oberdeck_lueftungsschacht_ex_1_st_2;Un classique !
+spokentexts_a16_oberdeck_lueftungsschacht_ex_1_st_3;Le voleur pénètre par le conduit d'aération... Ça peut pas être aussi facile ?
 sequences_a16_oberdeck_lueftungsschacht_ex_1#4;[The woman tries to remove the grid from the funnel but it is screwed on tightly.]
 spokentexts_a16_oberdeck_lueftungsschacht_ex_1_st_4_direction;I knew it
-spokentexts_a16_oberdeck_lueftungsschacht_ex_1_st_4;No, it can't. The cover is screwed shut.
+spokentexts_a16_oberdeck_lueftungsschacht_ex_1_st_4;Non, c'est pas possible. La grille est vissée.
 sequences_a16_oberdeck_lueftungsschacht_ex_2#1;[The woman places her hand on the wall next to the funnel, takes a closer look (Idle).]
 sequences_a16_oberdeck_lueftungsschacht_ex_2#2;[Cut. In a close-up you see the slotted-head screws which fix the cover.]
-spokentexts_a16_oberdeck_lueftungsschacht_ex_2_st_1;All the first-class cabins have their own ventilation. The shaft might be my best point of entry.
-spokentexts_a16_oberdeck_lueftungsschacht_ex_2_st_2;But unfortunately, the cover is screwed shut
+spokentexts_a16_oberdeck_lueftungsschacht_ex_2_st_1;Toutes les cabines de première classe ont leur propre ventilation. Ce conduit est mon meilleur moyen d'entrer.
+spokentexts_a16_oberdeck_lueftungsschacht_ex_2_st_2;Mais malheureusement, le couvercle est vissé.
 sequences_a16_oberdeck_lueftungsschacht_ex_2#5;[The woman pushes herself away from the wall, stands normal again.]
 sequences_a16_oberdeck_lueftungsschacht_ex_2#6;[Cut back to the normal view.]
-spokentexts_a16_oberdeck_lueftungsschacht_leave_1_st_1;I'm not squeamish. But if there's a rat waiting for me, I'll call the whole thing off!
+spokentexts_a16_oberdeck_lueftungsschacht_leave_1_st_1;Je ne suis pas une chochotte. Mais s'il y a un rat qui m'attend, j'annule tout !
 sequences_a16_oberdeck_lueftungsschacht_leave_1#4;[The woman takes the pole with the bath towel and climbs gracefully into the funnel.]
 sequences_a16_oberdeck_lueftungsschacht_leave_1#6;[The woman gracefully climbs into the funnel.]
 sequences_a16_oberdeck_lueftungsschacht_leave_2#3;[The woman takes the pole with the bath towel and climbs gracefully into the funnel.]
 sequences_a16_oberdeck_lueftungsschacht_leave_2#4;[Continues in the cabin of the baroness, funnel-shot.]
-spokentexts_a16_oberdeck_lueftungsschacht_leave_2_st_1;I still haven't found a way to get back into the ventilation shaft from the cabin.
-spokentexts_a16_oberdeck_lueftungsschacht_leave_2_st_2;I'd need something like a rope and a way to tie it to the shaft.
+spokentexts_a16_oberdeck_lueftungsschacht_leave_2_st_1;Je n'ai pas encore trouvé de moyen pour retourner dans le conduit de ventilation depuis la cabine.
+spokentexts_a16_oberdeck_lueftungsschacht_leave_2_st_2;J'ai besoin de quelque chose comme une corde, quelque chose qui puisse se glisser dans le conduit.
 sequences_a16_oberdeck_lueftungsschacht_leave_3#1;[The woman gracefully climbs into the funnel.]
 sequences_a16_oberdeck_lueftungsschacht_leave_3#2;"[Continues with the sequence ""cabin_baroness_enter"" (the funnel-location is skipped from now on).]"
-spokentexts_a16_oberdeck_lueftungsschacht_leave_4_st_1;No. It doesn't make sense whilst I don't know at least three of the animal symbols. And I'm not going to find the solution in there.
+spokentexts_a16_oberdeck_lueftungsschacht_leave_4_st_1;Non, ça n'aurait pas de sens, tant que je ne connais pas au moins trois des symboles. Et je ne trouverais pas la solution à l'intérieur.
 sequences_a16_oberdeck_lueftungsschacht_leave_5#11;[The woman climbs into the funnel.]
 sequences_a16_oberdeck_lueftungsschacht_leave_5#12;"[Continues in the cabin of the baroness, sequence ""corpse found"".]"
-spokentexts_a16_oberdeck_lueftungsschacht_used_mit_halskette_1_st_1;The penny might be the right size...
+spokentexts_a16_oberdeck_lueftungsschacht_used_mit_halskette_1_st_1;Le penny pourrait être de la bonne taille ...
 sequences_a16_oberdeck_lueftungsschacht_used_mit_halskette_1#2;[The woman takes out the necklace, fiddles with it. She pockets the necklace again, has the penny in her hand.]
 sequences_a16_oberdeck_lueftungsschacht_used_mit_halskette_1#3;[From now on the necklace appears in the inventory without the penny.]
 sequences_a16_oberdeck_lueftungsschacht_used_mit_halskette_1#4;[The woman places her hand on the wall next to the funnel, takes a closer look (Idle).]
 sequences_a16_oberdeck_lueftungsschacht_used_mit_halskette_1#5;[Cut. In a close-up you see the slotted-head screws which fix the cover.]
 sequences_a16_oberdeck_lueftungsschacht_used_mit_halskette_1#6;[The woman sticks the penny into the groove and tries to turn it. First with one hand, then with both hands. It doesn't move.]
 spokentexts_a16_oberdeck_lueftungsschacht_used_mit_halskette_1_st_2_direction;effort
-spokentexts_a16_oberdeck_lueftungsschacht_used_mit_halskette_1_st_2;Hmmgh!
+spokentexts_a16_oberdeck_lueftungsschacht_used_mit_halskette_1_st_2;Hmmgh !
 sequences_a16_oberdeck_lueftungsschacht_used_mit_halskette_1#8;[Cut back into the normal view.]
 sequences_a16_oberdeck_lueftungsschacht_used_mit_halskette_1#9;[The woman pushes herself away from the wall, pockets the penny and stands there normal again.]
 spokentexts_a16_oberdeck_lueftungsschacht_used_mit_holzstab_1_st_1;No... There's no gap to put the pole in. I can't force the cover open.
