@@ -401,32 +401,32 @@ spokentexts_a16_oberdeck_lueftungsschacht_used_mit_halskette_1_st_2_direction;ef
 spokentexts_a16_oberdeck_lueftungsschacht_used_mit_halskette_1_st_2;Hmmgh !
 sequences_a16_oberdeck_lueftungsschacht_used_mit_halskette_1#8;[Cut back into the normal view.]
 sequences_a16_oberdeck_lueftungsschacht_used_mit_halskette_1#9;[The woman pushes herself away from the wall, pockets the penny and stands there normal again.]
-spokentexts_a16_oberdeck_lueftungsschacht_used_mit_holzstab_1_st_1;No... There's no gap to put the pole in. I can't force the cover open.
-spokentexts_a16_oberdeck_lueftungsschacht_used_mit_holzstab_2_st_1;The pole alone won't help me in there.
-spokentexts_a16_oberdeck_lueftungsschacht_used_mit_holzstab_3_st_1;Here goes nothing.
+spokentexts_a16_oberdeck_lueftungsschacht_used_mit_holzstab_1_st_1;Non... Il n'y a pas de trou pour mettre le mât. je ne peux pas forcer la grille.
+spokentexts_a16_oberdeck_lueftungsschacht_used_mit_holzstab_2_st_1;Le mât seul ne suffira pas à m'aider pour entrer là-dedans.
+spokentexts_a16_oberdeck_lueftungsschacht_used_mit_holzstab_3_st_1;Ça ne donnera rien.
 sequences_a16_oberdeck_lueftungsschacht_used_mit_holzstab_3#2;[The woman takes the pole with the bath towel and climbs gracefully into the funnel.]
-spokentexts_a16_oberdeck_lueftungsschacht_used_mit_penny_1_st_1;No. I can't turn the penny with my bare hands. I can only grip it with two fingers-that's not enough!
-spokentexts_a16_oberdeck_lueftungsschacht_used_mit_salatzange_1_st_1;All right.
+spokentexts_a16_oberdeck_lueftungsschacht_used_mit_penny_1_st_1;Non, je ne peux pas tourner le penny avec mes mains. Je ne n'arrive qu'a le saisir avec deux doigts, ce n'est pas assez !
+spokentexts_a16_oberdeck_lueftungsschacht_used_mit_salatzange_1_st_1;Très bien.
 sequences_a16_oberdeck_lueftungsschacht_used_mit_salatzange_1#2;[The young woman takes the salad tongs and the penny out of her bag, fixes the penny and places it carefully on the screw.]
 sequences_a16_oberdeck_lueftungsschacht_used_mit_salatzange_1#3;[Cut to close-up.]
 sequences_a16_oberdeck_lueftungsschacht_used_mit_salatzange_1#4;[One hand on the left, the other hand on the right of the salad tongs she is unscrewing the grid of the funnel and with it removing the screws. She changes her grip, continues unscrewing.]
 sequences_a16_oberdeck_lueftungsschacht_used_mit_salatzange_1#5;[Because it's easier now, she removes the tongs (they have disappeared) and continues to release the screws with her fingers.]
 sequences_a16_oberdeck_lueftungsschacht_used_mit_salatzange_1#6;[Cut back.]
-spokentexts_a16_oberdeck_lueftungsschacht_used_mit_salatzange_1_st_2;That's it!
+spokentexts_a16_oberdeck_lueftungsschacht_used_mit_salatzange_1_st_2;Ça y est !
 sequences_a16_oberdeck_lueftungsschacht_used_mit_salatzange_1#8;[The hatch opens like a door and can be opened up to the wall.]
-spokentexts_a16_oberdeck_lueftungsschacht_used_mit_salatzange_1_st_3;I just hope that this is the right shaft!
-texts_a16_oberdeck_tuer_mo_ex_1__2;Examine the door
-spokentexts_a16_oberdeck_tuer_ex_1_st_1;Two handsome sailors are standing at the table and studying a marine map.
-spokentexts_a16_oberdeck_tuer_ex_1_st_2;Good thing they're busy - I can have a look around without being disturbed.
-spokentexts_a16_oberdeck_tuer_ex_2_st_1;If someone leaves the bridge, I'll pretend to be stargazing.
-spokentexts_a16_oberdeck_tuer_ex_2_st_2;And if that doesn't work, I'll just turn on the charm.
+spokentexts_a16_oberdeck_lueftungsschacht_used_mit_salatzange_1_st_3;J'espère simplement que c'est le bon conduit !
+texts_a16_oberdeck_tuer_mo_ex_1__2;Examiner la porte
+spokentexts_a16_oberdeck_tuer_ex_1_st_1;Deux beaux marins se tiennent autour d'une table et étudie une carte marine.
+spokentexts_a16_oberdeck_tuer_ex_1_st_2;C'est une bonne chose qu'ils soient occupés - je peux jeter un coup d'oeil sans être dérangée.
+spokentexts_a16_oberdeck_tuer_ex_2_st_1;Si quelqu'un quitte le pont, je pourrais faire semblant d'observer les étoiles.
+spokentexts_a16_oberdeck_tuer_ex_2_st_2;Et si cela ne fonctionne pas, je lui ferais du charme.
 sequences_a16_oberdeck_seq_a07_oberdeck_betreten#0;[The young woman walks up the last few stairs and stands normal again]
 sequences_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts#0;[You see the scene from the observer's view in his hiding place.]
 sequences_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts#1;[You can hear a muted shot.]
 sequences_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts#2;[Ohi and the inspector cringe.]
-spokentexts_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts_st_1;What was that?
-spokentexts_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts_st_2;A gunshot!
-spokentexts_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts_st_3;It came from one of the cabins!
+spokentexts_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts_st_1;Qu'est-ce que c'était ?
+spokentexts_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts_st_2;Un coup de feu !
+spokentexts_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts_st_3;Ça venait d'une des cabines !
 sequences_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts#6;[The doctor and the inspector start to run. Ohi also turns around in a hurry, but almost falls down. He has to pause and collect himself before he can follow the others.]
 sequences_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts#7;[Cut back to the normal view. For a moment nothing happens...]
 sequences_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts#8;[But then the butler leaves his hideout. Crushes a cigarette butt in his hands.]
@@ -436,84 +436,84 @@ sequences_a16_oberdeck_seq_a07_oberdeck_ende_des_abschnitts#11;[End of the chapt
 sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#2;[Cut. You see them both from a different perspective. The camera films out of the view of the person that watches the Arabian from the hiding place. The camera moves a bit back and forth etc..]
 sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#4;[The young woman nervously leaves the funnel. The Arabian steps over to her and at first she is frightened, until she recognises him.]
 spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_1_direction;scared, nervous
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_1;Adil!
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_1;Adil !
 sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#6;[Cut to the normal view.]
 spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_2_direction;shocked
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_2;What happened?
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_2;Que s'est-il passé ?
 spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_3_direction;scared, nervous
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_3;The baroness! Blood everywhere!
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_3;La Baronne ! Du sang partout !
 spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_4_direction;shocked
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_4;But who?
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_4;Mais qui donc...
 spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_5_direction;nervous
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_5;I don't know! Inch?
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_6;That doesn't make any sense!
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_5;Je ne sais pas ! Inch ?
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_6;Ça n'a pas de sens !
 sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#12;[Steps can be heard from downstairs. Somebody is going upstairs. The Arabian signals to his girlfriend and offers her a leg-up. They quickly escape to the roof.]
 sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#13;[The Arabian closes the grid and acts like he wants to escape as well. Then the inspector is already behind him, threatening him with his gun (Idle).]
 spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_7_direction;loud, threatening
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_7;Don't move!
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_7;Ne bougez pas !
 sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#15;[The Arabian ends his attempt to escape, gets in position with raised hands (Idle).]
 spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_8_direction;loud shouting
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_8;ZELLNER? UP HERE!
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_9;We've got our shadow. Who are you?
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_8;ZELLNER ? ICI, SUR LE PONT SUPERIEUR !
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_9;Nous avons notre ombre. Qui êtes-vous ?
 spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_10_direction;with accent
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_10;I do nothing. Me crew!
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_11;Sure you are.
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_10;Moi rien fait. Moi équipage !
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_11;Bien sûr.
 sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#20;[The inspector glances around, but also looks at the funnel.]
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_12;What are you doing here?
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_12;Que faisiez-vous ici ?
 spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_13_direction;with accent
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_13;Just fresh air. Fffffff-ahhh.
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_13;Air frais. Fffffff-ahhh.
 spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_14_direction;sarcastically
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_14;...sure. You just wanted to get a breath of fresh air. 
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_14;...Bien sûr. Vous vouliez juste prendre une bouffée d'air frais. 
 sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#24;[Ohi and the doctor go upstairs and stand still when they arrive.]
 sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#25;[The Inspector briefly looks over his shoulder at Ohi.]
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_15;Zellner, look who we have here.
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_16;Well, if that's not our shadow.
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_17;And our stowaway.
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_18;Were you recently travelling via trunk?
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_15;Zellner, regardez ce que nous avons ici.
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_16;Eh bien, si ce n'est pas notre ombre !
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_17;Et notre passager clandestin.
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_18;Vous avez passé du temps caché dans une malle récemment ?
 spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_19_direction;strong accent
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_19;I... nothing.
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_20;He claims to be part of the crew, just wanted to get some fresh air.
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_21;Oh, sure. And you obviously didn't attack me either, did you?
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_19;Moi rien fait..
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_20;Il prétend faire partie de l'équipage. Il voulait juste prendre l'air.
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_21;Bien sûr. Et de toute évidence vous ne m'avez pas attaquer non plus, hein ?
 sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#33;[Cut to the stairs.]
 sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#34;[The guardsman hurries upstairs, barely breathing.]
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_22;Understood. Take him to the detention cell, Robert.
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_23;We'll talk later, my friend.
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_22;Compris. Emmenez-le dans la cellule, Robert.
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_23;Nous parlerons plus tard, mon ami.
 sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#37;[The Arabian goes to the guardsman lowering his arms and hanging his head.]
 sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#38;[The guardsman welcomes the Arabian, both begin to go down the stairs.]
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_24;The baroness won't open her door, sir!
-texts_a16_salon_ausgang_hinterdeck_mo_leave_1;Go to the afterdeck
-texts_a16_salon_ausgang_tuer_mo_leave_1;Leave the saloon
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_24;La baronne n'a pas ouvert sa porte, monsieur !
+texts_a16_salon_ausgang_hinterdeck_mo_leave_1;Aller sur le pont arrière
+texts_a16_salon_ausgang_tuer_mo_leave_1;Quitter le salon
 sequences_a16_salon_ausgang_tuer_leave_1#1;[Ohi pushes the door open while he is walking away, he leaves the scene.]
-texts_a16_salon_geiger_und_kapitaen_mo_ex_1__2;Look at Captain DiConti and David Kreutzer
-texts_a16_salon_geiger_und_kapitaen_mo_talk_mit_1;Talk to Captain DiConti and David Kreutzer
-spokentexts_a16_salon_geiger_und_kapitaen_ex_1_st_1;I'm not an expert. But I think that Mr. Kreutzer really is a very skilled violinist.
-spokentexts_a16_salon_geiger_und_kapitaen_ex_1_st_2;At least, I liked it and the captain was certainly smitten.
-spokentexts_a16_salon_geiger_und_kapitaen_ex_2_st_1;Hmm. There seems to be tension between the violinist and the writer.
-spokentexts_a16_salon_geiger_und_kapitaen_ex_2_st_2;I'd better not get involved.
-spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_1;Excuse me, gentlemen?
+texts_a16_salon_geiger_und_kapitaen_mo_ex_1__2;Regardez le Capitaine DiConti et David Kreutzer
+texts_a16_salon_geiger_und_kapitaen_mo_talk_mit_1;Parler au Capitaine DiConti et David Kreutzer
+spokentexts_a16_salon_geiger_und_kapitaen_ex_1_st_1;Je ne suis pas une experte. Mais je pense que M. Kreutzer est un violoniste vraiment très doué.
+spokentexts_a16_salon_geiger_und_kapitaen_ex_1_st_2;Du moins, j'ai bien aimé et le capitaine certainement aussi.
+spokentexts_a16_salon_geiger_und_kapitaen_ex_2_st_1;Hmm. Il semble y avoir des tensions entre le violoniste et l'écrivaine.
+spokentexts_a16_salon_geiger_und_kapitaen_ex_2_st_2;Je ferais mieux de ne pas m'en occuper.
+spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_1;Excusez-moi, messieurs ?
 sequences_a16_salon_geiger_und_kapitaen_talk_mit_1#2;[Both stop talking, look at the woman (Idle).]
 spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_2_direction;loud
-spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_2;She can't have meant you, Mr. Kreutzer!
+spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_2;Elle ne peut pas vous entendre, M. Kreutzer !
 spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_3_direction;loud to writer, edgy
-spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_3;Why don't you just let me have a conversation with the young lady?
+spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_3;Pourquoi ne pouvez-vous pas me laisser avoir une conversation avec la jeune femme ?
 spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_4_direction;anxious
-spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_4;I just wanted...
+spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_4;Je voulais simplement...
 spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_5_direction;loud
-spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_5;Did you count the rings on your fingers, my dear?
+spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_5;Avez-vous compté les bagues sur vos doigts, ma chère ?
 spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_6_direction;edgy
-spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_6;I think I'm going to stretch my legs.
-spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_7;But Mr. Kreutzer, please stay. You simply must tell me more about your wonderful violin!
+spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_6;Je pense que je vais aller me dégourdir les jambes.
+spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_7;Mais M. Kreutzer, veuillez rester. Vous devez m'en dire plus sur votre merveilleux violon !
 spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_8_direction;edgy, hardly controlled
-spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_8;If you insist.
+spokentexts_a16_salon_geiger_und_kapitaen_talk_mit_1_st_8;Si vous insistez.
 sequences_a16_salon_geiger_und_kapitaen_talk_mit_1#10;[Both turn back again and leave the woman alone.]
-texts_a16_salon_salatzange_mo_ex_1;Examine the salad tongs
-texts_a16_salon_salatzange_mo_inventar_1;Salad tongs
-texts_a16_salon_salatzange_mo_inventar_2;Improvised screwdriver
-spokentexts_a16_salon_salatzange_ex_1_st_1;Wooden salad tongs...
-spokentexts_a16_salon_salatzange_ex_1_st_2;Just small enough to carry around unseen.
+texts_a16_salon_salatzange_mo_ex_1;Examiner les pinces à salade
+texts_a16_salon_salatzange_mo_inventar_1;Pinces à salade
+texts_a16_salon_salatzange_mo_inventar_2;Tournevis improvisé
+spokentexts_a16_salon_salatzange_ex_1_st_1;Des pinces à salade en bois...
+spokentexts_a16_salon_salatzange_ex_1_st_2;Juste assez petite pour les emporter l'air de rien.
 sequences_a16_salon_salatzange_ex_1#3;[The woman takes the salad tongs, puts them into her bag.]
-spokentexts_a16_salon_salatzange_ex_2_st_1;The salad tongs won't be missed until breakfast.
-spokentexts_a16_salon_salatzange_ex_3_st_1;I jammed a penny in between the tongs. If I hold the tongs at both ends, I can apply a lot of force!
+spokentexts_a16_salon_salatzange_ex_2_st_1;Les pinces à salade ne manqueront pas au petit-déjeuner.
+spokentexts_a16_salon_salatzange_ex_3_st_1;J'ai bloqué un penny entre les pinces. Si je tiens les pinces aux deux extrémités, je peux avoir un effet de levier !
 sequences_a16_salon_seq_a16_salon_betreten#0;[The door slowly closes behind the woman while she is standing in the room.]
 sequences_a16_salon_seq_a16_salon_betreten#1;[Could you probably do this as a background animation to avoid the player having to wait every time?]
 sequences_a16_salon_seq_a16_salon_konzert#0;[Close up to the young woman as she enters the location. You DON'T see whether she comes from the front or the back. You hear the sound of the violin.]
@@ -528,13 +528,13 @@ sequences_a16_salon_seq_a16_salon_konzert#8;[The violinist finishes, takes a bow
 sequences_a16_salon_seq_a16_salon_konzert#9;[Cut to the captain and the writer.]
 sequences_a16_salon_seq_a16_salon_konzert#10;[The captain jumps up applauding. The writer applauds courteously.]
 spokentexts_a16_salon_seq_a16_salon_konzert_st_1_direction;amazed, smitten
-spokentexts_a16_salon_seq_a16_salon_konzert_st_1;Bravo! Bravissimo! Fantastico!
+spokentexts_a16_salon_seq_a16_salon_konzert_st_1;Bravo ! Bravissimo ! Fantastico !
 sequences_a16_salon_seq_a16_salon_konzert#12;[The captain heads to the violinist, shakes his hand anxiously.]
 sequences_a16_salon_seq_a16_salon_konzert#13;[Cut to the carer and the archaeologist.]
 sequences_a16_salon_seq_a16_salon_konzert#14;[Both applaud. The carer stops, glances at the professor and goes to the writer. She bends down. (Idle).]
 sequences_a16_salon_seq_a16_salon_konzert#15;[Cut to the writer.]
-spokentexts_a16_salon_seq_a16_salon_konzert_st_2;Would it be okay for you if I get some fresh air up on deck?
-spokentexts_a16_salon_seq_a16_salon_konzert_st_3;Of course my dear. Give my regards to the sea.
+spokentexts_a16_salon_seq_a16_salon_konzert_st_2;Serait-il acceptable pour vous, si je prenais un peu d'air frais sur le pont ?
+spokentexts_a16_salon_seq_a16_salon_konzert_st_3;Bien sûr, ma chère. Présentez mes respects à la mer.
 sequences_a16_salon_seq_a16_salon_konzert#18;[The carer starts to leave.]
 sequences_a16_salon_seq_a16_salon_konzert#19;[Cut to the professor.]
 sequences_a16_salon_seq_a16_salon_konzert#20;[The professor gazes after the carer, then also leaves the salon, heading to the landing.]
@@ -543,163 +543,163 @@ sequences_a16_salon_seq_a16_salon_konzert#22;[She watches the professor followin
 sequences_a16_salon_seq_a16_salon_konzert#23;[Cut to the total view.]
 sequences_a16_salon_seq_a16_salon_konzert#24;[The captain and the violinist sit down and talk to each other.]
 sequences_a16_salon_seq_a16_salon_konzert#25;[The player takes control.]
-texts_a16_treppensaal_ausgang_kabine_frau_mo_leave_1;Go into the cabin
+texts_a16_treppensaal_ausgang_kabine_frau_mo_leave_1;Aller dans la cabine
 sequences_a16_treppensaal_ausgang_kabine_frau_leave_1#1;[The young woman goes into her cabin.]
-texts_a16_treppensaal_ausgang_nebendeck_mo_leave_1;Go to the side deck
+texts_a16_treppensaal_ausgang_nebendeck_mo_leave_1;Aller au pont-promenade
 sequences_a16_treppensaal_ausgang_nebendeck_leave_1#1;[The young woman goes to the side deck.]
-texts_a16_treppensaal_plakette_mo_ex_1-3;Examine the poster
-spokentexts_a16_treppensaal_plakette_ex_1_st_1;"The poster proudly announces the ship's first Atlantic crossing. ""The city of New York welcomes the MS Lydia."""
-spokentexts_a16_treppensaal_plakette_ex_2_st_1;The silhouette of New York and of a ship. But not of this one. They probably use the same template for every ship.
-spokentexts_a16_treppensaal_plakette_ex_2_st_2;Looks pretty official, with a coat of arms, flags, seal and all the trappings. And the poster is clean as a whistle. Someone seems to cherish it.
-spokentexts_a16_treppensaal_plakette_ex_3_st_1;Hmm. Guernica - a Picasso painting that hangs in New York...
+texts_a16_treppensaal_plakette_mo_ex_1-3;Examiner l'affiche
+spokentexts_a16_treppensaal_plakette_ex_1_st_1;"L'affiche annonce fièrement la première traversée de l'Atlantique du navire. ""La ville de New York accueille le MS Lydia."""
+spokentexts_a16_treppensaal_plakette_ex_2_st_1;La silhouette de New York et d'un navire. Mais pas de celui-ci. Ils ont probablement utilisés le même modèle pour chaque affiche.
+spokentexts_a16_treppensaal_plakette_ex_2_st_2;Elle fait très officielle, avec des armoiries, des drapeaux et tout l'attirail. Cette affiche est propre comme un sou neuf. Quelqu'un semble beaucoup y tenir.
+spokentexts_a16_treppensaal_plakette_ex_3_st_1;Hmm. Guernica - un tableau de Picasso exposé à New York...
 spokentexts_a16_treppensaal_plakette_ex_3_st_2_direction;excited in the end
-spokentexts_a16_treppensaal_plakette_ex_3_st_2;And there are three animals depicted on the city's coat of arms. An eagle and two beavers! This could be it!
+spokentexts_a16_treppensaal_plakette_ex_3_st_2;Et il y a trois animaux représentés sur les armoiries de la ville. Un aigle et deux castors ! Cela pourrait ça !
 spokentexts_a16_treppensaal_plakette_ex_3_st_3_direction;excited
-spokentexts_a16_treppensaal_plakette_ex_3_st_3;There's no eagle on the lock, but there's certainly a beaver!
-spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_22;That's it! Famous works of art and the cities in which they hang. Now I know for what I have to look for!
+spokentexts_a16_treppensaal_plakette_ex_3_st_3;Il n'y a pas d'aigle sur la combinaison, mais il y a certainement un castor !
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_22;C'est ça ! De célèbres oeuvres d'art exposées dans les villes. Maintenant, je sais ce que je dois chercher !
 spokentexts_a16_treppensaal_plakette_ex_3_st_5_direction;excited, self-contented
-spokentexts_a16_treppensaal_plakette_ex_3_st_5;Guernica equals New York equals beaver!
-spokentexts_a16_treppensaal_plakette_ex_3_st_6;Okay... The coat of arms of New York City is on the poster...
-spokentexts_a16_treppensaal_plakette_ex_3_st_7;There's the obligatory eagle. That can't be it, since there's no eagle on the lock.
+spokentexts_a16_treppensaal_plakette_ex_3_st_5;Guernica égal New York égal castor !
+spokentexts_a16_treppensaal_plakette_ex_3_st_6;D'aacord... Les armoiries de la ville de New York est sur l'affiche...
+spokentexts_a16_treppensaal_plakette_ex_3_st_7;Il y a l'aigle réglementaire. Cela ne peut pas être ça, il n'y a pas d'aigle sur la combinaison.
 spokentexts_a16_treppensaal_plakette_ex_3_st_8_direction;excited
-spokentexts_a16_treppensaal_plakette_ex_3_st_8;But look here! How cute! There are two beavers posing on the New York City emblem!
+spokentexts_a16_treppensaal_plakette_ex_3_st_8;Mais voyez donc ça ! Comme c'est mignon ! Il y a deux castors posant sur l'emblème de New York !
 spokentexts_a16_treppensaal_plakette_ex_3_st_10_direction;ecstatic
-spokentexts_a16_treppensaal_plakette_ex_3_st_10;Keep it up! There are at least two more symbols to find!
-spokentexts_a16_unterdeck_zeitschrift_ex_3_st_15;I just need one more animal!
-spokentexts_a16_unterdeck_zeitschrift_ex_3_st_16;That's it! Three animals are all I need-I can guess the fourth.
-spokentexts_a16_unterdeck_zeitschrift_ex_3_st_17;But I could try to find the fourth symbol anyway, just to be sure.
-spokentexts_a16_unterdeck_zeitschrift_ex_3_st_18;All four symbols decoded-I'm so good!
-spokentexts_a16_unterdeck_zeitschrift_ex_3_st_19;Now I need to get back to the baroness' cabin. The jewel is waiting for me!
-texts_a16_treppensaal_treppe_mo_leave_1;Go downstairs
+spokentexts_a16_treppensaal_plakette_ex_3_st_10;Continuons comme ça ! Il y a au moins deux autres symboles à trouver !
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_15;J'ai juste besoin d'un animal de plus !
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_16;C'est ça ! Trois animaux, c'est tout ce dont j'ai besoin, je peux deviner le quatrième.
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_17;Mais je pourrais essayer de trouver le quatrième symbole quand même, juste pour être sûr.
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_18;Les quatre symboles ont été décodés, je suis trop forte !
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_19;Maintenant, je dois retourner à la cabine de la Baronne. Un bijou m'attend !
+texts_a16_treppensaal_treppe_mo_leave_1;Descendre
 sequences_a16_treppensaal_treppe_leave_1#1;[The young woman starts to go downstairs.]
 sequences_a16_treppensaal_treppe_leave_1#2;[Cut while she is still walking. Continues on the lower deck.]
-texts_a16_treppensaal_tuer_kabine_baronin_mo_ex_1;Listen at the door
-texts_a16_treppensaal_tuer_kabine_baronin_mo_ex_2a__2b__3;Examine the cabin door
+texts_a16_treppensaal_tuer_kabine_baronin_mo_ex_1;Écouter à la porte
+texts_a16_treppensaal_tuer_kabine_baronin_mo_ex_2a__2b__3;Examiner la porte de la cabine
 sequences_a16_treppensaal_tuer_kabine_baronin_ex_1#1;[The woman goes to the door, places her ear to it (Idle).]
 spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_1_direction;muted through the door
-spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_1;I'm sure I could help you if...
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_1;Je suis sûr que je pourrais vous aider si...
 spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_2_direction;muted through the door, annoyed
-spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_2;Stand aside.
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_2;Restez en dehors de ça.
 spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_3_direction;muted through the door
-spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_3;If you told me what you're looking for...
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_3;Si vous me disiez ce que vous cherchez...
 spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_4_direction;muted through the door, annoyed
-spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_4;You're just getting in my way! Now get out!
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_4;Vous ne faites que de me gêner ! Maintenant, sortez !
 sequences_a16_treppensaal_tuer_kabine_baronin_ex_1#6;[The young woman steps back in shock, can't escape until the door opens and the butler appears. So she looks with great interest at something near the door.]
-spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_5;I'll wait at the door, madam.
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_5;Je vais attendre à la porte, madame.
 spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_6_direction;annoyed, dismissively
-spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_6;Yes, yes.
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_6;Oui, oui.
 sequences_a16_treppensaal_tuer_kabine_baronin_ex_1#9;[The butler leaves the cabin, can't avoid smiling. He closes the door and finds the young woman.]
 spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_7_direction;surprised
-spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_7;Oh!
-spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_8;Miss...
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_7;Oh !
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_8;Mademoiselle...
 sequences_a16_treppensaal_tuer_kabine_baronin_ex_1#12;[The young woman turns to him.]
 spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_9;Mayers.
 spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_10_direction;mistrustful
-spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_10;Can I help you?
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_10;Puis-je vous aider ?
 spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_11_direction;a bit nervous
-spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_11;No, I'm just having a look around the ship. Good day.
-spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_12;That was close.
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_11;Non, je faisais juste un tour sur le navire. Bonne journée.
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_1_st_12;C'était moins une.
 sequences_a16_treppensaal_tuer_kabine_baronin_ex_1#17;[The woman leaves to go to the side deck. The butler follows her with his eyes, mistrustful. He suspects something.]
 sequences_a16_treppensaal_tuer_kabine_baronin_ex_1#18;[When you enter this scene the next time, the butler sits in a chair next to the door.]
-spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_2a_st_1;Inch is watching the door. I need another way into the cabin.
-spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_2b_st_1;Even if I lure Inch away, I couldn't enter the cabin without the baroness noticing something.
-spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_2b_st_2;I have to find another way into the cabin.
-spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_3_st_1;I'll have to use my private entrance via the ventilation shaft.
-spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_3_st_2;If someone spots me going into the baroness' cabin, I'd have rather a lot to explain.
-texts_a16_treppensaal_tuer_salon_mo_leave_1;Go into the saloon
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_2a_st_1;Inch fixe la porte. J'ai dois trouver une autre façon d'entrer dans la cabine.
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_2b_st_1;Même si je leurre Inch, je ne pourrais pas entrer dans la cabine sans que la Baronne remarque quelque chose.
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_2b_st_2;Je dois trouver une autre façon d'entrer dans la cabine.
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_3_st_1;Je dois utiliser mon entrée privée via le conduit de ventilation.
+spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_3_st_2;Si quelqu'un me repère en train d'entrer dans la cabine de la Baronne, j'aurais beaucoup d'explications a donner.
+texts_a16_treppensaal_tuer_salon_mo_leave_1;Aller dans le salon
 sequences_a16_treppensaal_tuer_salon_leave_1#1;[The woman pulls the door open and enters the salon.]
-texts_a16_unterdeck_kabine_ermittler_mo_ex_1__2;Examine the door to Legrand's cabin
-spokentexts_a16_unterdeck_kabine_ermittler_ex_1_st_1;We briefly discussed whether we should try to steal the second Eye here on the ship.
-spokentexts_a16_unterdeck_kabine_ermittler_ex_1_st_2;The lack of escape routes and the ten-centimeter-thick door to the safe settled the question.
-spokentexts_a16_unterdeck_kabine_ermittler_ex_2_st_1;Legrand is an important part of our plan. He's the one who'll arrest Inch in the end.
-spokentexts_a16_unterdeck_kabine_ermittler_ex_2_st_2;But there's still a lot to do before that happens.
-texts_a16_unterdeck_krankenstation_tuer_mo_ex_1;Examine the doors to the hospital ward
-texts_a16_unterdeck_krankenstation_tuer_mo_leave_1__2;Enter the medical center
-spokentexts_a16_unterdeck_krankenstation_tuer_ex_1_st_1;The good doctor seems to be very busy. I shouldn't bother him.
+texts_a16_unterdeck_kabine_ermittler_mo_ex_1__2;Examiner la porte de la cabine de Legrand
+spokentexts_a16_unterdeck_kabine_ermittler_ex_1_st_1;Nous avons brièvement discuté pour savoir si nous devrions essayer de voler le deuxième oeil sur le navire.
+spokentexts_a16_unterdeck_kabine_ermittler_ex_1_st_2;Le manque de d'échappatoires et la porte de dix centimètres d'épaisseur du coffre ont réglés la question.
+spokentexts_a16_unterdeck_kabine_ermittler_ex_2_st_1;Legrand est une partie importante de notre plan. Il est celui qui doit arrêter Inch.
+spokentexts_a16_unterdeck_kabine_ermittler_ex_2_st_2;Mais il y a encore beaucoup de travail avant d'en arriver là.
+texts_a16_unterdeck_krankenstation_tuer_mo_ex_1;Examiner les portes de l'infirmerie
+texts_a16_unterdeck_krankenstation_tuer_mo_leave_1__2;Entrer dans l'infirmerie
+spokentexts_a16_unterdeck_krankenstation_tuer_ex_1_st_1;Ce bon docteur semble être très occupé. Je ne devrais pas le déranger.
 sequences_a16_unterdeck_krankenstation_tuer_leave_1#1;[The young woman knocks on the door.]
 spokentexts_a16_unterdeck_krankenstation_tuer_leave_1_st_1_direction;durch verschlossene Tür
-spokentexts_a16_unterdeck_krankenstation_tuer_leave_1_st_1;Come in!
+spokentexts_a16_unterdeck_krankenstation_tuer_leave_1_st_1;Entrez !
 sequences_a16_unterdeck_krankenstation_tuer_leave_1#3;[The young woman opens the door, enters the room.]
-spokentexts_a16_unterdeck_krankenstation_tuer_leave_2_st_1;The doctor is upstairs. He probably locked the door.
+spokentexts_a16_unterdeck_krankenstation_tuer_leave_2_st_1;Le médecin est à l'étage. Il a probablement verrouillé la porte.
 sequences_a16_unterdeck_krankenstation_tuer_leave_2#2;[The woman tries to open the door. It's locked.]
-spokentexts_a16_unterdeck_krankenstation_tuer_leave_2_st_2;Yes.
-texts_a16_unterdeck_pinnwand_mo_ex_1;Examine the pinboard
-spokentexts_a16_unterdeck_pinnwand_ex_1_st_1;The only regular event seems to be the nightly drink in the saloon. 
-spokentexts_a16_unterdeck_pinnwand_ex_1_st_2;Judging from the rest of the entertainment program, it seems necessary.
-texts_a16_unterdeck_schiffsmodell_mo_ex_1__2;Examine the model ship
+spokentexts_a16_unterdeck_krankenstation_tuer_leave_2_st_2;Oui.
+texts_a16_unterdeck_pinnwand_mo_ex_1;Examinez le tableau
+spokentexts_a16_unterdeck_pinnwand_ex_1_st_1;Le seul événement régulier semble être la buvette de nuit dans le salon.
+spokentexts_a16_unterdeck_pinnwand_ex_1_st_2;A en juger par le reste du programme, ça semble nécessaire.
+texts_a16_unterdeck_schiffsmodell_mo_ex_1__2;Examiner le modèle réduit de navire
 spokentexts_a16_unterdeck_schiffsmodell_ex_1_st_1_direction;bewundernd
-spokentexts_a16_unterdeck_schiffsmodell_ex_1_st_1;Very fine handiwork. The model maker even wrote the name of the ship on the tiny life preservers.
-spokentexts_a16_unterdeck_schiffsmodell_ex_1_st_2;But the winter garden at the back of the saloon is missing and the stern deck looks different. It was obviously made before the ship was remodeled.
-spokentexts_a16_unterdeck_schiffsmodell_ex_2_st_1;Maybe one of the crew whiled away the long nights at sea building the model.
-spokentexts_a16_unterdeck_schiffsmodell_ex_2_st_2;Only someone with a lot of time - and a love of the original - could build such a thing.
-texts_a16_unterdeck_treppe_mo_leave_1;Go upstairs
+spokentexts_a16_unterdeck_schiffsmodell_ex_1_st_1;Un très bel ouvrage. Le maquettiste a même écrit le nom du bateau sur les petits gilets de sauvetage.
+spokentexts_a16_unterdeck_schiffsmodell_ex_1_st_2;Mais le jardin d'hiver à l'arrière est absent et le pont arrière est différent. Il a été évidemment fait avant que le navire soit rénové.
+spokentexts_a16_unterdeck_schiffsmodell_ex_2_st_1;C'est peut-être quelqu'un de l'équipage qui pendant ses longues nuits en mer a fait ce modèle réduit.
+spokentexts_a16_unterdeck_schiffsmodell_ex_2_st_2;Seule une personne avec beaucoup de temps - et d'amour pour l'original - pourrait faire une telle chose.
+texts_a16_unterdeck_treppe_mo_leave_1;Monter à l'étage
 sequences_a16_unterdeck_treppe_leave_1#1;[The young woman starts to go upstairs.]
 sequences_a16_unterdeck_treppe_leave_1#2;[While she is walking it switches to the landing.]
-texts_a16_unterdeck_zeitschrift_mo_ex_1-3;Look at the magazines
-spokentexts_a16_unterdeck_zeitschrift_ex_1_st_1;"Several journals and magazines... This looks pretty interesting: ""Art and Culture Today""."
+texts_a16_unterdeck_zeitschrift_mo_ex_1-3;Regarder les magazines
+spokentexts_a16_unterdeck_zeitschrift_ex_1_st_1;"Plusieurs journaux et magazines... L'un d'eux semble plutôt intéressant: ""Art et Culture""."
 sequences_a16_unterdeck_zeitschrift_ex_1#2;[The woman picks up a magazine, opens it, turns the page and reads (Idle).]
-spokentexts_a16_unterdeck_zeitschrift_ex_1_st_2;There's something about the exhibition.
+spokentexts_a16_unterdeck_zeitschrift_ex_1_st_2;Il y a quelque chose au sujet de l'exposition.
 spokentexts_a16_unterdeck_zeitschrift_ex_1_st_3_direction;reads, skims over the text
-spokentexts_a16_unterdeck_zeitschrift_ex_1_st_3;"""Unique masterpieces... Exhibited for the first time together in their home country... Tireless efforts of Baroness von Trebitz"""
+spokentexts_a16_unterdeck_zeitschrift_ex_1_st_3;"""Chefs-d'oeuvre uniques... Exposés pour la première fois ensemble dans leur pays d'origine... Efforts inlassables de la Baronne von Trebitz"""
 sequences_a16_unterdeck_zeitschrift_ex_1#5;[The woman closes the magazine and puts it back.]
-spokentexts_a16_unterdeck_zeitschrift_ex_2_st_1;No time for reading. I have to find the secret compartment in the baroness' cabin!
-spokentexts_a16_unterdeck_zeitschrift_ex_3_st_2;Maybe the art magazine will help me with the symbols?
+spokentexts_a16_unterdeck_zeitschrift_ex_2_st_1;Pas de temps pour la lecture. Je dois trouver le compartiment secret dans la cabine de la Baronne !
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_2;Peut-être que cette revue d'art va m'aider avec les symboles ?
 sequences_a16_unterdeck_zeitschrift_ex_3#6;[The woman picks up a magazine, opens it, turns the page and reads (Idle).]
-spokentexts_a16_unterdeck_zeitschrift_ex_3_st_3;Indeed! An article about different works of art and how they survived the Second World War. And there's also a picture of the bust of Nefertiti!
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_3;Effectivement ! Un article sur différentes oeuvres d'art et comment elles ont survécu à la Seconde Guerre mondiale. Il y a aussi une photo du buste de Néfertiti !
 spokentexts_a16_unterdeck_zeitschrift_ex_3_st_4_direction;reads, skims
-spokentexts_a16_unterdeck_zeitschrift_ex_3_st_4;"""The unique Egyptian work of art was...1913...hmm-hmm...permission to export to Germany..."""
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_4;"""Une pièce unique de l'art égyptien d'art... 1913... hmm-hmm... autorisation de l'exporter vers l'Allemagne..."""
 spokentexts_a16_unterdeck_zeitschrift_ex_3_st_5_direction;reads, skims
-spokentexts_a16_unterdeck_zeitschrift_ex_3_st_5;"""Second World War...safe at the Reich Bank...then a bunker...and then a salt mine..."""
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_5;"""Deuxième Guerre mondiale... coffre-fort à la Banque du Reich... puis un bunker... et une mine de sel..."""
 spokentexts_a16_unterdeck_zeitschrift_ex_3_st_6_direction;reads, skims
-spokentexts_a16_unterdeck_zeitschrift_ex_3_st_6;"""...prevented from shipping the bust to the United States...back in Berlin since 1956!"""
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_6;"""...empêché d'embarquer le buste aux États-Unis... de retour à Berlin depuis 1956 !"""
 spokentexts_a16_unterdeck_zeitschrift_ex_3_st_7_direction;reads, skims
-spokentexts_a16_unterdeck_zeitschrift_ex_3_st_7;"""Very glad... blah blah blah...soon in the Egyptian Museum of Berlin and hopefully someday in a reunified Berlin on the Museum Island..."""
-spokentexts_a16_unterdeck_zeitschrift_ex_3_st_8;Okay-so the bust of Nefertiti is located in Berlin.
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_7;"""Très heureux... bla bla bla... bientôt au Musée égyptien de Berlin et j'espère un jour dans un Berlin réunifié sur l'île aux musées..."""
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_8;D'accord, le buste de Néfertiti est situé à Berlin.
 spokentexts_a16_unterdeck_zeitschrift_ex_3_st_9_direction;Thinks, ponders
-spokentexts_a16_unterdeck_zeitschrift_ex_3_st_9;Hmm. Berlin... Berlin... The bear! The Berlin bear!
-spokentexts_a16_unterdeck_zeitschrift_ex_3_st_10;There's a bear on Berlin's coat of arms!
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_9;Hmm. Berlin... Berlin... L'ours ! L'ours de Berlin !
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_10;Il y a un ours sur le blason de Berlin !
 spokentexts_a16_unterdeck_zeitschrift_ex_3_st_11_direction;happy
-spokentexts_a16_unterdeck_zeitschrift_ex_3_st_11;Nefertiti-bear. That's it!
-spokentexts_a16_unterdeck_zeitschrift_ex_3_st_12;I have to find out where the other works of art are located and which animals are associated with those cities.
-spokentexts_a16_unterdeck_zeitschrift_ex_3_st_13;Now that I know what to look for, it'll be child's play!
-spokentexts_a16_unterdeck_zeitschrift_ex_3_st_14;And which animal is on the city's coat of arms? The Berlin bear!
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_11;Nefertiti-ours. Voilà !
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_12;Je dois savoir où les autres oeuvres d'art se trouvent et quels animaux sont associées à ces villes.
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_13;Maintenant que je sais ce qu'il faut chercher, ce sera un jeu d'enfant !
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_14;Et quel animal est sur ​​le blason de la ville ? L'ours de Berlin !
 sequences_a16_unterdeck_zeitschrift_ex_3#21;[The woman closes the magazine and puts it back.]
-spokentexts_a16_unterdeck_zeitschrift_ex_4_st_1;The bust of Nefertiti is in Berlin. Berlin: bear. That works!
+spokentexts_a16_unterdeck_zeitschrift_ex_4_st_1;Le buste de Néfertiti est à Berlin. Berlin: ours. Ça marche !
 sequences_a16_unterdeck_seq_a16_unterdeck_betreten_aus_richtung_treppensaal#0;[The woman walks down the last few steps, takes the normal position.]
-texts_a16_vorderdeck_ausgang_nebendeck_mo_leave_1;Go to the side deck
+texts_a16_vorderdeck_ausgang_nebendeck_mo_leave_1;Aller sur le pont avant
 sequences_a16_vorderdeck_ausgang_nebendeck_leave_1#1;[The young woman goes to the side deck.]
-texts_a16_vorderdeck_pflegerin_und_archaeologe_mo_ex_1;Look at Miss Miller and Professor Lucien.
-texts_a16_vorderdeck_pflegerin_und_archaeologe_mo_talk_mit_1;Talk to Miss Miller and Professor Lucien
-spokentexts_a16_vorderdeck_pflegerin_und_archaeologe_ex_1_st_1;The two of them seem to be in a private conversation! I'd better not disturb them.
-spokentexts_a16_vorderdeck_pflegerin_und_archaeologe_ex_1_st_2;When Adil and I were following the professor in London, I was disguised - but that doesn't mean he won't recognize me now.
-spokentexts_a16_vorderdeck_pflegerin_und_archaeologe_ex_2_st_1;Professor Lucien could certainly tell me everything there is to know about Nefertiti.
-spokentexts_a16_vorderdeck_pflegerin_und_archaeologe_ex_2_st_2;But he might also realize that I was in his museum in London. I'd better not talk to him.
-spokentexts_a16_vorderdeck_pflegerin_und_archaeologe_talk_mit_1_st_1;No. I won't talk to them as long I can avoid it.
-texts_a16_vorderdeck_shuffleboardflaeche_mo_ex_1;Examine the shuffleboard court
-spokentexts_a16_vorderdeck_shuffleboardflaeche_ex_1_st_1;Boule, curling, shuffleboard... All the same to me-I'm not interested in any of that now.
-texts_a16_vorderdeck_tuer_frachtraum_mo_ex_1;Examine the door to the cargo hold
-spokentexts_a16_vorderdeck_tuer_frachtraum_ex_1_st_1;This should be the entrance to the cargo hold. Not really my concern.
+texts_a16_vorderdeck_pflegerin_und_archaeologe_mo_ex_1;Regarder Mlle Miller et le Professeur Lucien.
+texts_a16_vorderdeck_pflegerin_und_archaeologe_mo_talk_mit_1;Parler à Mlle Miller et au Professeur Lucien
+spokentexts_a16_vorderdeck_pflegerin_und_archaeologe_ex_1_st_1;Ils semblent avoir une conversation privée ! Je ferais mieux de ne pas les déranger.
+spokentexts_a16_vorderdeck_pflegerin_und_archaeologe_ex_1_st_2;Quand Adil et moi suivions le professeur à Londres, j'étais déguisée - mais cela ne signifie pas qu'il ne me reconnaîtra pas.
+spokentexts_a16_vorderdeck_pflegerin_und_archaeologe_ex_2_st_1;Le professeur Lucien pourrait certainement me dire tout ce qu'il y a à savoir à propos de Nefertiti.
+spokentexts_a16_vorderdeck_pflegerin_und_archaeologe_ex_2_st_2;Mais il peut aussi se rendre compte que j'étais dans son musée à Londres. Je ferais mieux de ne pas lui parler.
+spokentexts_a16_vorderdeck_pflegerin_und_archaeologe_talk_mit_1_st_1;Non, je ne leur parlerais pas aussi longtemps que je pourrais l'éviter.
+texts_a16_vorderdeck_shuffleboardflaeche_mo_ex_1;Examiner le terrain de jeu
+spokentexts_a16_vorderdeck_shuffleboardflaeche_ex_1_st_1;Boule, curling, jeu de palet... Tout ça c'est la même chose pour moi et je n'est pas le temps pour cela maintenant.
+texts_a16_vorderdeck_tuer_frachtraum_mo_ex_1;Examiner la porte de la soute
+spokentexts_a16_vorderdeck_tuer_frachtraum_ex_1_st_1;Cela doit être l'entrée de la soute. Inutile de m'en préoccuper.
 sequences_a16_krankenstation_seq_a16_krankenstation_betreten_erstmalig#0;[Woman enters, closes the door.]
-spokentexts_a16_krankenstation_seq_a16_krankenstation_betreten_erstmalig_st_1;How can I help you, young lady?
-texts_araber_top_a16_araber_butler_inch_tseq_title;Butler Inch
-spokentexts_araber_top_a16_araber_butler_inch_tseq_st_1;Speaking of Inch.
-spokentexts_araber_top_a16_araber_butler_inch_tseq_st_2;I saw him talking to you in Venice. What was it about?
-spokentexts_araber_top_a16_araber_butler_inch_tseq_st_3;I saw you and Inch in Venice. What was it about?
-spokentexts_araber_top_a16_araber_butler_inch_tseq_st_4;He was angry because his attack on the train failed and because I lost my ticket.
-spokentexts_araber_top_a16_araber_butler_inch_tseq_st_5;How did you get on the ship?
+spokentexts_a16_krankenstation_seq_a16_krankenstation_betreten_erstmalig_st_1;Comment puis-je pour toi, belle demoiselle ?
+texts_araber_top_a16_araber_butler_inch_tseq_title;Majordome Inch
+spokentexts_araber_top_a16_araber_butler_inch_tseq_st_1;En parlant de Inch.
+spokentexts_araber_top_a16_araber_butler_inch_tseq_st_2;Je l'ai vu parler avec toi à Venise. Qu'y avait-il ?
+spokentexts_araber_top_a16_araber_butler_inch_tseq_st_3;Je t'ai vu avec Inch à Venise. Qu'y avait-il ?
+spokentexts_araber_top_a16_araber_butler_inch_tseq_st_4;Il était en colère parce que son attaque du train a échoué et parce que j'ai perdu mon billet.
+spokentexts_araber_top_a16_araber_butler_inch_tseq_st_5;Comment es-tu monté sur le bateau ?
 spokentexts_araber_top_a16_araber_butler_inch_tseq_st_6_direction;pitifully
-spokentexts_araber_top_a16_araber_butler_inch_tseq_st_6;As a stowaway, locked in a cold, dark cargo hold.
+spokentexts_araber_top_a16_araber_butler_inch_tseq_st_6;Comme un passager clandestin, enfermé dans une froide malle sombre.
 spokentexts_araber_top_a16_araber_butler_inch_tseq_st_7_direction;sarcastically
-spokentexts_araber_top_a16_araber_butler_inch_tseq_st_7;Poor boy!
+spokentexts_araber_top_a16_araber_butler_inch_tseq_st_7;Pauvre chou !
 texts_araber_top_a16_araber_ermittler_tseq_title;Legrand
-spokentexts_araber_top_a16_araber_ermittler_tseq_st_1;Will Legrand cause any trouble?
-spokentexts_araber_top_a16_araber_ermittler_tseq_st_2;Everything's still going according to plan. That means he's clever, but not clever enough.
-spokentexts_araber_top_a16_araber_ermittler_tseq_st_3;And the bobby?
-spokentexts_araber_top_a16_araber_ermittler_tseq_st_4;Peasant's cunning, nothing more. He won't be able to solve the puzzle on his own.
-spokentexts_araber_top_a16_araber_ermittler_tseq_st_5;There's still Inch.
-spokentexts_araber_top_a16_araber_ermittler_tseq_st_6;He doesn't suspect anything. We laid the foundation well. I've been his assistant for months already.
-spokentexts_araber_top_a16_araber_ermittler_tseq_st_7;He doesn't trust me but he thinks he can play me for a sucker. That's enough.
-texts_araber_top_a16_araber_geheimversteck_gefunden_tseq_title;Secret compartment
+spokentexts_araber_top_a16_araber_ermittler_tseq_st_1;Legrand va-t-il poser problème ?
+spokentexts_araber_top_a16_araber_ermittler_tseq_st_2;Tout se déroule toujours comme prévu. Ça veut dire qu'il est intelligent, mais pas assez intelligent.
+spokentexts_araber_top_a16_araber_ermittler_tseq_st_3;Et le bobby ?
+spokentexts_araber_top_a16_araber_ermittler_tseq_st_4;Rien de plus qu'un paysan rusé. Il ne sera pas capable de résoudre le puzzle de lui-même.
+spokentexts_araber_top_a16_araber_ermittler_tseq_st_5;Il y a toujours Inch.
+spokentexts_araber_top_a16_araber_ermittler_tseq_st_6;Il ne se doute de rien. Nous avons de bonnes bases. J'ai été son assistant pendant des mois.
+spokentexts_araber_top_a16_araber_ermittler_tseq_st_7;Il n'a pas confiance en moi, mais il pense qu'il peut se servir de moi pour des clopinettes. C'est finit.
+texts_araber_top_a16_araber_geheimversteck_gefunden_tseq_title;Compartiment secret
 spokentexts_araber_top_a16_araber_geheimversteck_gefunden_tseq_st_1;The secret compartment is secured with a combination lock.
 spokentexts_araber_top_a16_araber_geheimversteck_gefunden_tseq_st_2;Is there any way in?
 spokentexts_araber_top_a16_araber_geheimversteck_gefunden_tseq_st_3;Not without leaving evidence. I need the combination.
