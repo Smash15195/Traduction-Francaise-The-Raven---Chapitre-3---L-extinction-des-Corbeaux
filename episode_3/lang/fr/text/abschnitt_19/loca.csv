@@ -3,58 +3,58 @@ characters_butler;Butler
 characters_frau;Frau
 characters_ohi;Ohi
 characters_wache;Wache
-texts_a19_aussen_platz_abfluss_mo_ex_1__2;Examine the drain
-texts_a19_aussen_platz_abfluss_mo_used_mit_draht;Put the wire in the drain
-spokentexts_a19_aussen_platz_abfluss_ex_1_st_1;I don't want to crawl through stinking sewers just to get into the museum! There must be another way!
-spokentexts_a19_aussen_platz_abfluss_ex_2_st_1;There's a metal grate over the drain to prevent people from tripping. I can't make out what's below.
-spokentexts_a19_aussen_platz_abfluss_used_mit_draht_st_1;Hmm. Maybe I can fish something out of the sewer with the wire?
+texts_a19_aussen_platz_abfluss_mo_ex_1__2;Examiner la grille d'égout
+texts_a19_aussen_platz_abfluss_mo_used_mit_draht;Placer le fil dans la grille d'égout
+spokentexts_a19_aussen_platz_abfluss_ex_1_st_1;Je ne veux pas ramper dans des égouts nauséabonds juste pour entrer dans le musée ! Il doit y avoir un autre moyen !
+spokentexts_a19_aussen_platz_abfluss_ex_2_st_1;Il y a une grille en métal dans le caniveau pour éviter que les gens ne trébuchent. Impossible de voir ce qu'il y a en dessous.
+spokentexts_a19_aussen_platz_abfluss_used_mit_draht_st_1;Hmm. Peut être que je peux remonter quelque chose depuis les égouts avec le fil ?
 sequences_a19_aussen_platz_abfluss_used_mit_draht#2;[The Arab pulls out the wire, looks at the top. Then he puts the tip into the grate and breaks the rest of the wire.]
 sequences_a19_aussen_platz_abfluss_used_mit_draht#3;[The Arab takes the wire out again, looks at his work. The tip of the wire is now hidden almost at right angles. He nods with satisfaction and inserts the wire deep into the drain.]
 sequences_a19_aussen_platz_abfluss_used_mit_draht#4;[The Arab is stirring something back and forth.]
-spokentexts_a19_aussen_platz_abfluss_used_mit_draht_st_2;Nothing. I can't even touch the bottom.
+spokentexts_a19_aussen_platz_abfluss_used_mit_draht_st_2;Rien. Je n'arrive même pas à atteindre le fond.
 sequences_a19_aussen_platz_abfluss_used_mit_draht#6;[The Arab pulls out the wire, takes it.]
-spokentexts_a19_aussen_platz_abfluss_used_mit_draht_st_3;It was worth a try.
-texts_a19_aussen_platz_ausgang_seitenstrasse_mo_leave_1;Go into the side street
+spokentexts_a19_aussen_platz_abfluss_used_mit_draht_st_3;Ça valait le coup d'essayer.
+texts_a19_aussen_platz_ausgang_seitenstrasse_mo_leave_1;Aller dans la rue transversale
 sequences_a19_aussen_platz_ausgang_seitenstrasse_leave_1#1;[The Arab is leaving the scene, further in the side street.]
-texts_a19_aussen_platz_ausgang_treppe_mo_leave_1;Go out to the entrance
+texts_a19_aussen_platz_ausgang_treppe_mo_leave_1;Aller vers l'entrée
 sequences_a19_aussen_platz_ausgang_treppe_leave_1#1;[The Arab began to climb the first stairs.]
 sequences_a19_aussen_platz_seq_a19_aussen_platz_ankunft#0;[You can see the museum from the outside. The Arab stand in front of it and considers it.]
 sequences_a19_aussen_platz_seq_a19_aussen_platz_ankunft#1;[The Arab looks at the museum.]
-spokentexts_a19_aussen_platz_seq_a19_aussen_platz_ankunft_st_1;I can't afford to slip up.
-spokentexts_a19_aussen_platz_seq_a19_aussen_platz_ankunft_st_2;Part of me wants to abandon the whole plan and go back to Europe.
+spokentexts_a19_aussen_platz_seq_a19_aussen_platz_ankunft_st_1;Je n'ai pas le droit à l'erreur.
+spokentexts_a19_aussen_platz_seq_a19_aussen_platz_ankunft_st_2;Une part de moi voudrait tout abandonner et rentrer en Europe.
 sequences_a19_aussen_platz_seq_a19_aussen_platz_ankunft#4;[The young woman in a convertible is approaching, drives past the Arab. He looks at her, she acts as if she do not notice him.]
 sequences_a19_aussen_platz_seq_a19_aussen_platz_ankunft#5;[Cut to the face of the young woman.]
 sequences_a19_aussen_platz_seq_a19_aussen_platz_ankunft#6;[Blinks to the Arab encouragingly but unremarkable.]
 sequences_a19_aussen_platz_seq_a19_aussen_platz_ankunft#7;[Cut back.]
-spokentexts_a19_aussen_platz_seq_a19_aussen_platz_ankunft_st_3;What if something goes wrong and Legrand catches on? I couldn't bear it if something happened to her.
+spokentexts_a19_aussen_platz_seq_a19_aussen_platz_ankunft_st_3;Et si quelque chose tournait mal et Legrand était après nous ? Je ne supporterais pas qu'il lui arrive quoi que ce soit.
 sequences_a19_aussen_platz_seq_a19_aussen_platz_ankunft#9;[The Arab turns toward side street, another deep breath.]
-spokentexts_a19_aussen_platz_seq_a19_aussen_platz_ankunft_st_4;The last act. The end of the Raven...
+spokentexts_a19_aussen_platz_seq_a19_aussen_platz_ankunft_st_4;Le dernier acte. La fin du Corbeau...
 sequences_a19_aussen_platz_seq_a19_aussen_platz_ankunft#11;[The Arab began to walk away towards the street.]
 sequences_a19_aussen_platz_seq_a19_aussen_platz_ankunft_von_treppe#0;[The Arab goes down the last stairs, then stands at the beginning of the stairs.]
-texts_a19_aussen_schild_mo_ex_1__2;Examine the sign
+texts_a19_aussen_schild_mo_ex_1__2;Examiner la pancarte
 spokentexts_a19_aussen_schild_ex_1_st_1_direction;reads
-spokentexts_a19_aussen_schild_ex_1_st_1;"Today the museum is officially closed for preparations for the big ""Eye of the Sphinx"" exhibit."
-spokentexts_a19_aussen_schild_ex_2_st_1;The Sphinx still has two eyes on the poster. They need to put an eye patch on it.
-texts_a19_aussen_tuer_ausgang_museum_mo_leave_1-6;Enter the museum
-texts_a19_aussen_tuer_ausgang_museum_mo_leave_7;Sneak into the museum
-texts_a19_aussen_tuer_ausgang_museum_mo_used_mit_tennisball_1-3;Throw the tennis ball into the museum
+spokentexts_a19_aussen_schild_ex_1_st_1;"Aujourd'hui le musée est officiellement fermé à cause des préparatifs pour la grande exposition de ""l'Oeil du Sphinx""."
+spokentexts_a19_aussen_schild_ex_2_st_1;Le Sphinx a toujours deux yeux sur l'affiche. Il devrait lui mettre un cache-oeil.
+texts_a19_aussen_tuer_ausgang_museum_mo_leave_1-6;Entrer dans le musée
+texts_a19_aussen_tuer_ausgang_museum_mo_leave_7;Se faufiler dans le musée
+texts_a19_aussen_tuer_ausgang_museum_mo_used_mit_tennisball_1-3;Jeter la balle de tennis dans le musée
 sequences_a19_aussen_tuer_ausgang_museum_leave_1#1;[The Arab goes to the museum. Next in the hall.]
-spokentexts_a19_aussen_tuer_ausgang_museum_leave_2_st_1;That won't work. I can't just talk the guard into letting me in.
-spokentexts_a19_aussen_tuer_ausgang_museum_leave_3_st_1;Next attempt...
+spokentexts_a19_aussen_tuer_ausgang_museum_leave_2_st_1;Ça ne marchera pas. Le garde ne me laissera pas entrer avec de simples mots.
+spokentexts_a19_aussen_tuer_ausgang_museum_leave_3_st_1;Prochain essai...
 sequences_a19_aussen_tuer_ausgang_museum_leave_3#4;[The Arab goes to the museum. Next in the hall.]
-spokentexts_a19_aussen_tuer_ausgang_museum_leave_4_st_1;No. Disguise or no disguise, the security guard won't let me in if I'm not a registered worker.
-spokentexts_a19_aussen_tuer_ausgang_museum_leave_5_st_1;Even if I am on the list of craftsmen... I don't look like one.
-spokentexts_a19_aussen_tuer_ausgang_museum_leave_5_st_2;The security guard might recognize me and that would be it.
-spokentexts_a19_aussen_tuer_ausgang_museum_leave_5_st_3;I should find myself a proper outfit just to be safe.
+spokentexts_a19_aussen_tuer_ausgang_museum_leave_4_st_1;Non. Déguisé ou non, le garde ne me laissera pas entrer si je ne suis pas un travailleur enregistré.
+spokentexts_a19_aussen_tuer_ausgang_museum_leave_5_st_1;Même si je suis sur la liste des ouvriers... Je n'ai pas l'air d'en être un.
+spokentexts_a19_aussen_tuer_ausgang_museum_leave_5_st_2;Le garde pourrait me reconnaître et ce serait terminé.
+spokentexts_a19_aussen_tuer_ausgang_museum_leave_5_st_3;Je ferais mieux de me trouver une tenue adéquate pour être tranquille.
 sequences_a19_aussen_tuer_ausgang_museum_leave_6#1;[The Arab goes to the museum. Next in the hall.]
-spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_1_st_1;That might cause a commotion in the museum, but is that really necessary?
+spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_1_st_1;Ca pourrait créer du tumulte dans le musée, mais est-ce vraiment nécessaire ?
 sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_2#1;[The Arab grabs into his pocket, pulls out a tennis ball and holds it towards the dog.]
 sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_2#2;[The dog comes jumped excitedly, sits in front of the Arab, wags his tail and secured the ball]
 spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_2_st_1_direction;speaks with dog
-spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_2_st_1;Well? Who wants to become an accomplice in a burglary?
+spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_2_st_1;Alors ? Qui veut devenir complice dans un cambriolage ?
 sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_2#4;[The Arab moves the ball in front of the dog's head to the left and right, dog fixes with fascination the ball, can not wait.]
 spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_2_st_2_direction;speaks with dog
-spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_2_st_2;Yes, who wants to be an accomplice?
+spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_2_st_2;Oui, qui veut devenir complice ?
 sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_2#6;[The Arab gets up and tumbles the ball through the open door to the museum.]
 sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_2#7;[The dog is barking  after the ball in direction of  the museum.]
 sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3#1;[The Arab grabs into his pocket, pulls out a tennis ball and holds it towards the dog.]
@@ -62,40 +62,40 @@ sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3#2;[The dog comes 
 sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3#3;[The Arab gets up and tumbles the ball through the open door to the museum.]
 sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3#4;[The dog is barking behind the ball in the direction of the museum. The Arab pushes himself with his back at the door and waits.]
 spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3_st_1_direction;angry, a few meters away
-spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3_st_1;Stupid mutt...
+spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3_st_1;Stupide clébard...
 spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3_st_2_direction;angry, a few meters away
-spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3_st_2;I'll get you this time!
+spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3_st_2;Je t'aurai cette fois !
 sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3#7;[The dog comes with the ball in his mouth from the museum and is running for the stairs. There he stops and turns to the door.]
 sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3#8;[From the door the guard comes running. He runs to the dog. Dog gets scared and runs a little further down the stairs. The guard  threatens the dog.]
 spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3_st_3_direction;angry
-spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3_st_3;Next time!
+spokentexts_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3_st_3;La prochaine fois !
 sequences_a19_aussen_tuer_ausgang_museum_used_mit_tennisball_3#10;[Now the player has 3 seconds to click on the door (everything else is disabled). Mouseover: Sneak into the museum].
-texts_a19_aussen_tuer_ausgang_treppe_mo_leave_1;Go downstairs
-texts_a19_aussen_tuer_ausgang_treppe_mo_used_mit_tennisball_1__2;Throw the tennis ball down the stairs
+texts_a19_aussen_tuer_ausgang_treppe_mo_leave_1;Aller en bas
+texts_a19_aussen_tuer_ausgang_treppe_mo_used_mit_tennisball_1__2;Lancer la balle de tennis dans les escaliers
 sequences_a19_aussen_tuer_ausgang_treppe_leave_1#1;[The Arab began to descend the stairs.]
 sequences_a19_aussen_tuer_ausgang_treppe_used_mit_tennisball_1#1;[See the top dog.]
 sequences_a19_aussen_tuer_ausgang_treppe_used_mit_tennisball_2#1;[See the top dog.]
-texts_a19_aussen_tuer_hund_mo_ex_1-4;Look at the dog
-texts_a19_aussen_tuer_hund_mo_talk_mit_1;Talk to the dog
-texts_a19_aussen_tuer_hund_mo_used_mit_tennisball_1__2;Play with the dog
-spokentexts_a19_aussen_tuer_hund_ex_1_st_1;I like dogs. I had a border collie back home. Followed me everywhere. He was very old, but the most loyal friend you could wish for.
-spokentexts_a19_aussen_tuer_hund_ex_2_st_1;I'd like to keep playing with the pup, but that's hardly going to get me into the museum.
-spokentexts_a19_aussen_tuer_hund_ex_3_st_1;The little dog is crazy about the ball.
-spokentexts_a19_aussen_tuer_hund_ex_3_st_2;Maybe I can somehow use that to my advantage...
-spokentexts_a19_aussen_tuer_hund_ex_4_st_1;When it comes to distracting security guards, my little partner does a good job!
+texts_a19_aussen_tuer_hund_mo_ex_1-4;Regarder le chien
+texts_a19_aussen_tuer_hund_mo_talk_mit_1;Parler au chien
+texts_a19_aussen_tuer_hund_mo_used_mit_tennisball_1__2;Jouer avec le chien
+spokentexts_a19_aussen_tuer_hund_ex_1_st_1;J'aime les chiens. J'avais un border collie à la maison. Il me suivait partout. Il était très âgé, mais c'était l'ami le plus loyal qu'on pouvait trouver.
+spokentexts_a19_aussen_tuer_hund_ex_2_st_1;J'aimerais continuer à jouer avec le chiot, mais ça ne risque pas de m'aider à entrer dans le musée.
+spokentexts_a19_aussen_tuer_hund_ex_3_st_1;Le petit chien adore la balle.
+spokentexts_a19_aussen_tuer_hund_ex_3_st_2;Peut être que ça pourrait m'être utile...
+spokentexts_a19_aussen_tuer_hund_ex_4_st_1;Quand il s'agit de distraire les gardes, mon petit ami fait du beau boulot !
 sequences_a19_aussen_tuer_hund_talk_mit_1#1;[The Arab kneels or bends down to the dog. The dog is jumping around excitedly.]
 spokentexts_a19_aussen_tuer_hund_talk_mit_1_st_1_direction;speaks with dog
-spokentexts_a19_aussen_tuer_hund_talk_mit_1_st_1;Who's a good dog?
+spokentexts_a19_aussen_tuer_hund_talk_mit_1_st_1;Qui est un bon chien ?
 sequences_a19_aussen_tuer_hund_talk_mit_1#3;[The dog jumps in the vicinity of the Arab, the Arab caresses and fondles him and the dog is happy.]
 spokentexts_a19_aussen_tuer_hund_talk_mit_1_st_2_direction;speaks with dog
-spokentexts_a19_aussen_tuer_hund_talk_mit_1_st_2;Yes, who's a good dog then?
+spokentexts_a19_aussen_tuer_hund_talk_mit_1_st_2;Oui, qui est un bon chien alors ?
 sequences_a19_aussen_tuer_hund_talk_mit_1#5;[The dog jumps joyfully away from the Arab and the Arab stands up again.]
-spokentexts_a19_aussen_tuer_hund_talk_mit_1_st_3;Good dog. 
-spokentexts_a19_aussen_tuer_hund_used_mit_tennisball_1_st_1;Yes... That might be just the thing!
+spokentexts_a19_aussen_tuer_hund_talk_mit_1_st_3;Bon chien. 
+spokentexts_a19_aussen_tuer_hund_used_mit_tennisball_1_st_1;Oui... Ca pourrait être parfait !
 sequences_a19_aussen_tuer_hund_used_mit_tennisball_1#2;[The Arab grabs into his pocket, pulls out a tennis ball and holds it towards the dog.]
 sequences_a19_aussen_tuer_hund_used_mit_tennisball_1#3;[The dog comes jumped excitedly, sits in front of the Arab, wags his tail and secured the ball]
 spokentexts_a19_aussen_tuer_hund_used_mit_tennisball_1_st_2_direction;speaks with dog
-spokentexts_a19_aussen_tuer_hund_used_mit_tennisball_1_st_2;You want it?
+spokentexts_a19_aussen_tuer_hund_used_mit_tennisball_1_st_2;Tu la veux ?
 sequences_a19_aussen_tuer_hund_used_mit_tennisball_1#5;[The Arab moves the ball in front of the dog's head to the left and right, dog fixes with fascination the ball, can not wait.]
 sequences_a19_aussen_tuer_hund_used_mit_tennisball_1#6;[The Arab gets up and throws the ball down the stairs.]
 sequences_a19_aussen_tuer_hund_used_mit_tennisball_1#7;[Cut to the square in front of the museum.]
@@ -104,147 +104,147 @@ sequences_a19_aussen_tuer_hund_used_mit_tennisball_1#9;[At the bottom of the sta
 sequences_a19_aussen_tuer_hund_used_mit_tennisball_1#10;[Cut back to the door.]
 sequences_a19_aussen_tuer_hund_used_mit_tennisball_1#11;[The Arab takes the dog, strokes his head and takes the ball.]
 spokentexts_a19_aussen_tuer_hund_used_mit_tennisball_1_st_3_direction;speaks with dog
-spokentexts_a19_aussen_tuer_hund_used_mit_tennisball_1_st_3;Yes, you like that, don't you?
+spokentexts_a19_aussen_tuer_hund_used_mit_tennisball_1_st_3;Oui, tu aimes ça, n'est-ce pas ?
 sequences_a19_aussen_tuer_hund_used_mit_tennisball_1#13;[The Arab gets up again and takes the ball, the dog returns to its original position.]
 sequences_a19_aussen_tuer_hund_used_mit_tennisball_2#1;[The Arab grabs into his pocket, pulls out a tennis ball and throws it down stairs.]
 sequences_a19_aussen_tuer_hund_used_mit_tennisball_2#2;[The dog runs after the ball (out of the picture).]
 sequences_a19_aussen_tuer_hund_used_mit_tennisball_2#3;[The Arab is waiting a short moment, then the dogwith the ball in his mouth comes into the picture.]
 sequences_a19_aussen_tuer_hund_used_mit_tennisball_2#4;[The Arab takes the dog, strokes his head and takes the ball.]
 spokentexts_a19_aussen_tuer_hund_used_mit_tennisball_2_st_1_direction;speaks with dog
-spokentexts_a19_aussen_tuer_hund_used_mit_tennisball_2_st_1;Good dog!
+spokentexts_a19_aussen_tuer_hund_used_mit_tennisball_2_st_1;Bon chien !
 sequences_a19_aussen_tuer_hund_used_mit_tennisball_2#6;[The Arab gets up again and takes the ball, the dog returns to its original position.]
 sequences_a19_aussen_tuer_seq_a19_aussen_tuer_ankunft_von_treppe#0;[The Arab goes up the last stairs, then stands at the top of the stairs.]
 sequences_a19_aussen_tuer_seq_a19_aussen_tuer_araber_schluepft_durch_tuer#0;[The Arab slips through the door into the interior of the museum, out of sight.]
 sequences_a19_aussen_tuer_seq_a19_aussen_tuer_araber_schluepft_durch_tuer#1;"[The guard shrugs annoyed ""who cares"", turns around and walks toward the door.]"
 sequences_a19_aussen_tuer_seq_a19_aussen_tuer_ball_erstmalig_ende#0;[The dog comes running  out of the museum, puts the ball on the floor and iswaiting, tail wagging. The Arab has positioned something besie, so that the guards can not see him.]
-spokentexts_a19_aussen_tuer_seq_a19_aussen_tuer_ball_erstmalig_ende_st_1;You made yourself an enemy, pup!
+spokentexts_a19_aussen_tuer_seq_a19_aussen_tuer_ball_erstmalig_ende_st_1;Tu t'es fait un ennemi, mon petit !
 sequences_a19_aussen_tuer_seq_a19_aussen_tuer_wache_geht_zurueck#0;[The guard shrugs annoyed, turns around and goes back to the museum.]
 sequences_a19_aussen_tuer_seq_a19_aussen_tuer_wache_geht_zurueck#1;[As soon as the guard turns around, the Arab takes an unsuspecting emphasizes attitude, maybe he looks with his hand over his eyes interested in direction of the city or scratches on the walls around the museum etc.]
 sequences_a19_aussen_tuer_seq_a19_aussen_tuer_wache_geht_zurueck#2;[As soon as the guard is in the door, the Arab amkes a quick look at hiim and goes back to its normal position.]
 sequences_a19_aussen_tuer_seq_a19_aussen_tuer_wache_geht_zurueck#3;[At the same time, the dog will run up the stairs, lays the ball off with his tail wagging.]
-texts_a19_dach_ausgang_rabennest_mo_leave_1;Enter the attic
+texts_a19_dach_ausgang_rabennest_mo_leave_1;Entrer dans le grenier
 sequences_a19_dach_ausgang_rabennest_leave_1#1;[The Arab pulls the door and climb through the opening.]
 sequences_a19_dach_ausgang_rabennest_leave_1#2;[Next in Rabennest (section 20).]
-texts_a19_dach_ausgang_seite_mo_leave_1;Climb down
+texts_a19_dach_ausgang_seite_mo_leave_1;Descendre
 sequences_a19_dach_ausgang_seite_leave_1#1;[The Arab jumps onto the ladder begins to climb down.]
-texts_a19_dach_oberlicht_mo_ex_1__2;Look out of the skylight
+texts_a19_dach_oberlicht_mo_ex_1__2;Regarder par la verrière
 sequences_a19_dach_oberlicht_ex_1#1;[The Arab will set a foot on the rim of the light and bows over, so that he can see down.]
-spokentexts_a19_dach_oberlicht_ex_1_st_1;"There's a small room down there. Should be the museum's ""treasure chamber"" if my sense of direction is right."
-spokentexts_a19_dach_oberlicht_ex_1_st_2;The treasure chamber is down there. And beneath it is the secret basement...
+spokentexts_a19_dach_oberlicht_ex_1_st_1;"Il y a une petite pièce en bas. Surement la ""salle au trésor"" du musée, si je me fie à mon sens de l'orientation."
+spokentexts_a19_dach_oberlicht_ex_1_st_2;La salle au trésor est en bas. Et en dessous se trouve la cave secrète...
 sequences_a19_dach_oberlicht_ex_1#7;[The Arab pulls his foot back, is back again as normal.]
 sequences_a19_dach_oberlicht_ex_2#1;[The Arab will set a foot on the rim of the light and bows over, so that he can see down.]
-spokentexts_a19_dach_oberlicht_ex_2_st_1;No sign of the Eye or Legrand. Shouldn't be much longer before they arrive.
+spokentexts_a19_dach_oberlicht_ex_2_st_1;Aucun signe de l'Oeil ou de Legrand. Ils ne devraient plus tarder.
 sequences_a19_dach_oberlicht_ex_2#3;[The Arab pulls his foot back, is back again as normal.]
-texts_a19_dach_schornstein_mo_ex_1-5;Examine the chimney
-texts_a19_dach_schornstein_mo_ex_3-5;Examine the wall
+texts_a19_dach_schornstein_mo_ex_1-5;Examiner la cheminée
+texts_a19_dach_schornstein_mo_ex_3-5;Examiner le mur
 sequences_a19_dach_schornstein_ex_1#1;[The Arab put his hand at the chimney.]
-spokentexts_a19_dach_schornstein_ex_1_st_1;Cold. I'd be surprised if they needed to use it often in this climate.
-spokentexts_a19_dach_schornstein_ex_2_st_1;Nothing out of the ordinary. Wait, what's this? 
+spokentexts_a19_dach_schornstein_ex_1_st_1;Froid. Je serais étonné s'ils avaient besoin de l'utiliser avec ce climat.
+spokentexts_a19_dach_schornstein_ex_2_st_1;Rien qui ne sorte de l'ordinaire. Encore que, qu'est-ce que c'est ? 
 sequences_a19_dach_schornstein_ex_2#2;[The Arab has discovered something on the stone wall and touches it.]
-spokentexts_a19_dach_schornstein_ex_2_st_2;Someone scratched a triangle into the stone. Could that mean something?
+spokentexts_a19_dach_schornstein_ex_2_st_2;Quelqu'un a gravé un triangle sur la pierre. Qu'est-ce que cela pourrait signifier ?
 sequences_a19_dach_schornstein_ex_2#4;[The Arab pushes the bricks, trying to pull it with both hands from the wall..]
-spokentexts_a19_dach_schornstein_ex_2_st_3;Won't budge.
-spokentexts_a19_dach_schornstein_ex_3_st_1;Guessing won't get me where I need to be.
-spokentexts_a19_dach_schornstein_ex_3_st_2;I need to get the blueprints from Mister X. According to Inch, they show the secret passages in the building - and hopefully instructions for getting into them.
-spokentexts_a19_dach_schornstein_ex_4_st_1;Hmm... The secret passage is somewhere around here on the blueprints.
-spokentexts_a19_dach_schornstein_ex_4_st_2;And so is the triangle scratched into the stone...
+spokentexts_a19_dach_schornstein_ex_2_st_3;Ca refuse de bouger.
+spokentexts_a19_dach_schornstein_ex_3_st_1;Spéculer ne va pas me faire avancer.
+spokentexts_a19_dach_schornstein_ex_3_st_2;Il me faut les plans de Monsieur X. Selon Inch, ils devraient m'indiquer les passages secrets au sein du bâtiment et, espérons, la façon d'y accéder.
+spokentexts_a19_dach_schornstein_ex_4_st_1;Hmm... Le passage secret est par ici d'après les plans.
+spokentexts_a19_dach_schornstein_ex_4_st_2;Tout comme le triangle gravé sur la pierre...
 sequences_a19_dach_schornstein_ex_4#5;[Next in Closeup of the chimney.]
 sequences_a19_dach_schornstein_ex_5#1;[Next in Closeup of the chimney.]
 sequences_a19_dach_seq_a19_dach_geheimtuer_geoeffnet#0;[The Arab takes a step back. A click is heard and the secret door opens a gap.]
-spokentexts_a19_dach_seq_a19_dach_geheimtuer_geoeffnet_st_1;There we go.
-spokentexts_a19_dach_seq_a19_dach_geheimtuer_geoeffnet_st_2;The digits are written from right to left! In this part of the world  they read from right to left.
-texts_a19_dach_kamin_ausgang_dach_mo_leave_1;Back
+spokentexts_a19_dach_seq_a19_dach_geheimtuer_geoeffnet_st_1;C'est parti.
+spokentexts_a19_dach_seq_a19_dach_geheimtuer_geoeffnet_st_2;Les chiffres sont écrits de droite à gauche ! Dans cette partie du monde on lit de droite à gauche.
+texts_a19_dach_kamin_ausgang_dach_mo_leave_1;Retour
 sequences_a19_dach_kamin_ausgang_dach_leave_1#1;[Next on the roof.]
-texts_a19_dach_kamin_dreick_mo_ex_1;Examine the symbol
-spokentexts_a19_dach_kamin_dreick_ex_1_st_1;That's the same triangle as on the blueprints.
-spokentexts_a19_dach_kamin_dreick_ex_1_st_2;The numbers 3, 6 and 2 are written next to it. I can't read anything else.
-texts_a19_dach_kamin_falscher_stein_mo_use_1a__1b__1c;Press the stone
-spokentexts_a19_dach_kamin_falscher_stein_use_1a_st_1;Hmm. No.
-spokentexts_a19_dach_kamin_falscher_stein_use_1b_st_1;Nothing.
-spokentexts_a19_dach_kamin_falscher_stein_use_1c_st_1;Nothing's happening.
-texts_a19_dach_kamin_richtiger_stein1_mo_use_1;Press the stone
-texts_a19_dach_kamin_richtiger_stein1_mo_use_2;Pull the stone back out
-spokentexts_a19_dach_kamin_richtiger_stein1_use_1_st_1;Maybe this one...
+texts_a19_dach_kamin_dreick_mo_ex_1;Examiner le symbole
+spokentexts_a19_dach_kamin_dreick_ex_1_st_1;C'ets le même triangle que sur les plans.
+spokentexts_a19_dach_kamin_dreick_ex_1_st_2;Les chiffres 3, 6 et 2 sont écrits à côté. Je ne peux rien lire d'autre.
+texts_a19_dach_kamin_falscher_stein_mo_use_1a__1b__1c;Appuyer sur la pierre
+spokentexts_a19_dach_kamin_falscher_stein_use_1a_st_1;Hmm. Non.
+spokentexts_a19_dach_kamin_falscher_stein_use_1b_st_1;Rien.
+spokentexts_a19_dach_kamin_falscher_stein_use_1c_st_1;Il ne se passe rien.
+texts_a19_dach_kamin_richtiger_stein1_mo_use_1;Appuyer sur la pierre
+texts_a19_dach_kamin_richtiger_stein1_mo_use_2;Tirer la pierre
+spokentexts_a19_dach_kamin_richtiger_stein1_use_1_st_1;Peut être celle-ci...
 sequences_a19_dach_kamin_richtiger_stein1_use_1#4;[The stone is being pushed a little into the wall.]
 spokentexts_a19_dach_kamin_richtiger_stein1_use_1_st_2_direction;pleased
-spokentexts_a19_dach_kamin_richtiger_stein1_use_1_st_2;Aha!
+spokentexts_a19_dach_kamin_richtiger_stein1_use_1_st_2;Aha !
 sequences_a19_dach_kamin_richtiger_stein1_use_2#1;[The stone is drawn back into the original position.]
-texts_a19_dach_kamin_richtiger_stein2_mo_use_1;Press the stone
-texts_a19_dach_kamin_richtiger_stein2_mo_use_2;Pull the stone back out
+texts_a19_dach_kamin_richtiger_stein2_mo_use_1;Appuyer sur la pierre
+texts_a19_dach_kamin_richtiger_stein2_mo_use_2;Tirer la pierre
 sequences_a19_dach_kamin_richtiger_stein2_use_1#1;[The stone is being pushed a little into the wall.]
 spokentexts_a19_dach_kamin_richtiger_stein2_use_1_st_1_direction;pleased
-spokentexts_a19_dach_kamin_richtiger_stein2_use_1_st_1;Very good!
+spokentexts_a19_dach_kamin_richtiger_stein2_use_1_st_1;Très bien !
 sequences_a19_dach_kamin_richtiger_stein2_use_2#1;[The stone is drawn back into the original position.]
-texts_a19_dach_kamin_richtiger_stein3_mo_use_1;Press the stone
-texts_a19_dach_kamin_richtiger_stein3_mo_use_2;Pull the stone back out
+texts_a19_dach_kamin_richtiger_stein3_mo_use_1;Appuyer sur la pierre
+texts_a19_dach_kamin_richtiger_stein3_mo_use_2;Tirer la pierre
 sequences_a19_dach_kamin_richtiger_stein3_use_1#1;[The stone is being pushed a little into the wall.]
 spokentexts_a19_dach_kamin_richtiger_stein3_use_1_st_1_direction;pleased
-spokentexts_a19_dach_kamin_richtiger_stein3_use_1_st_1;Aha!
+spokentexts_a19_dach_kamin_richtiger_stein3_use_1_st_1;Aha !
 sequences_a19_dach_kamin_richtiger_stein3_use_2#1;[The stone is drawn back into the original position.]
-spokentexts_a19_dach_kamin_seq__a19_dach_kamin_falsche_kombination_st_1;Hmm. Strange. Maybe the order is wrong?
-texts_a19_eingangsbereich_ausgang_aussen_mo_leave_1;Go outside
-texts_a19_eingangsbereich_ausgang_haupthalle_mo_leave_1;Go into the main hall
-texts_a19_eingangsbereich_charakter_geiger_mo_ex_1__2;Examine the violinist
-spokentexts_a19_eingangsbereich_charakter_geiger_ex_1_st_1;I'll keep an eye on him. When my girlfriend is around, anyway.
-spokentexts_a19_eingangsbereich_charakter_geiger_ex_2_st_1;He travels the world, giving concerts here and there. What a charmed life!
-texts_a19_eingangsbereich_charakter_pflegerin_mo_ex_1__2;Examine the woman
-spokentexts_a19_eingangsbereich_charakter_pflegerin_ex_1_st_1;The author's companion. She seems to be waiting for something.
-spokentexts_a19_eingangsbereich_charakter_pflegerin_ex_2_st_1;Maybe she's waiting for the safe too? Hmm. I wouldn't have thought she'd be so interested in the jewel.
-texts_a19_eingangsbereich_schatzkammer_mo_ex_1a__1b__2;Examine the treasure chamber
-spokentexts_a19_eingangsbereich_schatzkammer_ex_1a_st_1;The Eye hasn't taken its place in the treasure chamber yet.
-spokentexts_a19_eingangsbereich_schatzkammer_ex_1a_st_2;I'd better not show my face there.
-spokentexts_a19_eingangsbereich_schatzkammer_ex_1a_st_3;The room is under video surveillance.
-spokentexts_a19_eingangsbereich_schatzkammer_ex_1b_st_1;I'm curious what points of entry Mister X's blueprints will reveal. I think Inch paid dearly for it-he certainly seems to expect a lot from it.
-spokentexts_a19_eingangsbereich_schatzkammer_ex_2_st_1;The blueprint shows a basement located directly below the treasure chamber.
-spokentexts_a19_eingangsbereich_schatzkammer_ex_2_st_2;Why does Inch want to get inside? And how will he get into the treasure chamber from there?
+spokentexts_a19_dach_kamin_seq__a19_dach_kamin_falsche_kombination_st_1;Hmm. Étrange. Peut être que l'ordre est faux ?
+texts_a19_eingangsbereich_ausgang_aussen_mo_leave_1;Aller dehors
+texts_a19_eingangsbereich_ausgang_haupthalle_mo_leave_1;Aller dans le hall principal
+texts_a19_eingangsbereich_charakter_geiger_mo_ex_1__2;Examiner le violoniste
+spokentexts_a19_eingangsbereich_charakter_geiger_ex_1_st_1;Je vais le garder à l'oeil. Quand ma petite amie est dans les parages en tout cas.
+spokentexts_a19_eingangsbereich_charakter_geiger_ex_2_st_1;Il voyage à travers le monde, fait des concerts ici et là. Quelle vie charmante !
+texts_a19_eingangsbereich_charakter_pflegerin_mo_ex_1__2;Examiner la femme
+spokentexts_a19_eingangsbereich_charakter_pflegerin_ex_1_st_1;La compagne de l'auteur. Elle semble attendre quelque chose.
+spokentexts_a19_eingangsbereich_charakter_pflegerin_ex_2_st_1;Peut être qu'elle attend le coffre elle aussi ? Hmm. Je ne pensais pas qu'elle serait autant intéressé par le joyau.
+texts_a19_eingangsbereich_schatzkammer_mo_ex_1a__1b__2;Examiner la salle au trésor
+spokentexts_a19_eingangsbereich_schatzkammer_ex_1a_st_1;L'Oeil n'a pas encore pris sa place dans la salle au trésor.
+spokentexts_a19_eingangsbereich_schatzkammer_ex_1a_st_2;Mieux vaut ne pas me montrer là bas.
+spokentexts_a19_eingangsbereich_schatzkammer_ex_1a_st_3;La pièce est sous vidéo-surveillance.
+spokentexts_a19_eingangsbereich_schatzkammer_ex_1b_st_1;Je me demande quels accès les plans de Monsieur X vont révéler. Je pense qu'Inch les a payés cher, il avait vraiment l'air d'en attendre beaucoup.
+spokentexts_a19_eingangsbereich_schatzkammer_ex_2_st_1;Les plans montrent une cave située directement sous la salle au trésor.
+spokentexts_a19_eingangsbereich_schatzkammer_ex_2_st_2;Pourquoi Inch veut-il entrer à l'intérieur ? Et comment atteindra-t-il la salle au trésor ensuite ?
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig#0;[The ball tumbles through the big door to the guard room. Moments later, the dog runs behind yapping at full speed.]
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig#1;[The dog is no longer visible on the floor of the station but the reaction of the guard is unique. He nearly falls off his chair, so scared is he.]
 spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig_st_1_direction;scared
-spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig_st_1;Arrhhh!
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig_st_1;Arrhhh !
 spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig_st_2_direction;angry
-spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig_st_2;What are you doing?
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig_st_2;Que fais-tu ?
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig#4;[The guard jumps up, then dives like he was trying to catch the dog.]
 spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig_st_3_direction;angry
-spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig_st_3;Come here... you ... argh!
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig_st_3;Viens ici... toi ... argh !
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig#6;[The guard turns a few times, can not grab the little dog.]
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig#7;[Then the dog runs with the ball into the door to the outside. The guard makes a few steps menacingly behind him.]
-spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig_st_4;Stay away, you fleabag! Next time I'll wring your neck, even if it costs me my job!
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig_st_4;Ne reviens pas, sac à puces ! La prochaine fois je te tordrai le coup, même si ça me coûte mon boulot !
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig#9;[The guard calms himself, looks around, if no one has seen his inappropriate outburst.]
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_ball_erstmalig#10;[Then he turns around and goes back to the guard room.]
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_keine_verkleidung_kein_eintrag#0;[The Arab is coming into the museum, looks around and takes a few steps into the hall.]
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_keine_verkleidung_kein_eintrag#1;[Cut to the museum guard in the guard room.]
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_keine_verkleidung_kein_eintrag#2;[The guard reads newspaper. He looks bored in the newspaper as the Arab comes in.]
-spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_keine_verkleidung_kein_eintrag_st_1;The museum is closed today. Come back tomorrow.
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_keine_verkleidung_kein_eintrag_st_1;Le musée est fermé aujourd'hui. Revenez demain.
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_keine_verkleidung_kein_eintrag#4;[The guard looks back at the paper.]
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_keine_verkleidung_kein_eintrag#5;[The Arab goes to the switch. The conversation between Arab and the guard starts.]
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#0;[The Arab is coming into the museum, looks around and takes a few steps into the hall.]
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#1;[Cut to the museum guard in the guard room.]
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#2;[The guard reads newspaper. He looks bored in the newspaper as the Arab comes in.]
-spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_1;Weren't you just here?
-spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_2;I talked to my boss again. He said we MUST be on the list.
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_1;N'êtes-vous pas déjà venu ?
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_2;J'ai parlé à mon patron une nouvelle fois. Il a dit que nous DEVIONS être sur la liste.
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#6;[The guard takes annoyed the clipboard, looks on it casually. Actually, he wants to make one point clear.]
-spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_3;Your boss can come and see for himself... There's no...
-spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_4;Hamid's...
-spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_5;Hmm?
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_3;Votre patron peut venir et voir par lui-même... Il n'y a pas...
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_4;Hamid...
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_5;Hmm ?
 spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_6_direction;clears throat
 spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_6;Hrrm.
 spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_7_direction;embarrassed
-spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_7;My coworker's handwriting...
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_7;L'écriture de mon collègue...
 spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_8_direction;embarrassed
-spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_8;Can hardly make out a single word...
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_8;Complètement illisible...
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#13;[The guard puts down the clipboard.]
-spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_kein_eintrag_st_2;Or... Are you one of the craftsmen?
-spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_11;I am indeed.
-spokentexts_wache_top_a19_wache_handwerker_ja_tseq_st_2;All right.
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_kein_eintrag_st_2;Ou... Êtes-vous un des ouvriers ?
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_11;Tout à fait.
+spokentexts_wache_top_a19_wache_handwerker_ja_tseq_st_2;Très bien.
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#19;[The guard picks up the clipboard. He focused the cap of the Arab, trying to read the writing. Then he looks through the list.]
 spokentexts_wache_top_a19_wache_handwerker_ja_tseq_st_3_direction;reads
-spokentexts_wache_top_a19_wache_handwerker_ja_tseq_st_3;Hamid's... Hamid's... Hamid's...
-spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_14;Ah, yes. Here.
+spokentexts_wache_top_a19_wache_handwerker_ja_tseq_st_3;Hamid... Hamid... Hamid...
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_14;Ah, oui. Ici.
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#22;[The guard pulls out a visitor's pass, places it on the counter.]
-spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_15;Here. Put this on.
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_15;Voilà. Mettez ça.
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#24;[The guard begins to read again.]
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#25;[The Arab takes the visitor pass.]
-spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_16;Many thanks.
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_16;Merci bien.
 spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_17_direction;bored hum
 spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_17;Hmmh.
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#28;[From now on, the Arab can move freely through the museum and enters it at any time.]
@@ -612,4 +612,3 @@ sequences_wache_top_a19_wache_verabschieden_tseq#3;[The Arab goes back to the do
 texts_shotchange_vortreppe_mo;Go down stairs
 texts_shotchange_zumeingang_mo;Go up stairs
 texts_a19_seite_draht_mo_inventar_2;Bended wire
-
