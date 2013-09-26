@@ -35,7 +35,7 @@ spokentexts_a16_hinterdeck_liegestuhl_used_mit_handtuch_st_2;J'ai entendu dire q
 texts_a16_kabine_baronin_badetuch_mo_leave_1;Quitter la cabine
 sequences_a16_kabine_baronin_badetuch_leave_1#1;[The young woman gracefully lowers herself down the towel.]
 texts_a16_kabine_baronin_bett_mo_ex_1;Examiner le lit
-spokentexts_a16_kabine_baronin_bett_ex_1_st_1;C'était peut-être un stewart qui a vérifié si tout était prêt pour la nuit de la baronne ?
+spokentexts_a16_kabine_baronin_bett_ex_1_st_1;C'était peut-être un stewart qui a vérifié si tout était prêt pour la nuit de la Baronne ?
 spokentexts_a16_kabine_baronin_bett_ex_1_st_2;Qui que ce soit, je devrais partir au plus vite avant que quelqu'un ne revienne !
 texts_a16_kabine_baronin_fotos_mo_ex_1__2;Regarder les photos
 spokentexts_a16_kabine_baronin_fotos_ex_1_st_1;C'est comme si elle était à la recherche d'une photo spécifique et qu'elle l'avait trouvée.
@@ -53,7 +53,7 @@ texts_a16_kabine_baronin_handtasche_mo_ex_1__2;Fouiller dans le sac à main
 spokentexts_a16_kabine_baronin_handtasche_ex_1_st_1;Non. La Baronne et Inch ne travaillent pas pareil. Il n'aurait jamais caché le bijou dans son sac à main.
 spokentexts_a16_kabine_baronin_handtasche_ex_2_st_1;Je suis ici pour voler l'un des joyaux les plus précieux du monde, pas pour piquer le contenu d'un sac à main !
 texts_a16_kabine_baronin_kleiderpuppe_mo_ex_1__2;Examiner le mannequin
-spokentexts_a16_kabine_baronin_kleiderpuppe_ex_1_st_1;Le mannequin pourrait probablement porter mes vêtements. Mais il aurait disparu sous les vêtements de la baronne.
+spokentexts_a16_kabine_baronin_kleiderpuppe_ex_1_st_1;Le mannequin pourrait probablement porter mes vêtements. Mais il aurait disparu sous les vêtements de la Baronne.
 spokentexts_a16_kabine_baronin_kleiderpuppe_ex_2_st_1;Enfant, je suis souvent restée debout devant les vitrines, essayant de rester aussi immobile que les mannequins.
 spokentexts_a16_kabine_baronin_kleiderpuppe_ex_2_st_2;Quand je m'ennuyer je prétendais que l'un des mannequins avait cligné des yeux pour me déclarer gagnante.
 texts_a16_kabine_baronin_reiseschrank_mo_use_1__2;Ouvrir la malle de voyage
@@ -69,7 +69,7 @@ spokentexts_a16_kabine_baronin_schrank_ex_1_st_1_direction;Thoughtfully
 spokentexts_a16_kabine_baronin_schrank_ex_1_st_1;Non...
 spokentexts_a16_kabine_baronin_schrank_ex_1_st_2;Inch a dit qu'il cachait l'oeil dans les bagages de la Baronne. Ce qui est logique.
 spokentexts_a16_kabine_baronin_schrank_ex_1_st_3;Il ne peut pas être sûr qu'il aura la possibilité de le cacher à nouveau lorsque nous serons au Caire.
-spokentexts_a16_kabine_baronin_schrank_ex_1_st_4;Je suis certaine que l'oeil est dans les bagages de la baronne.
+spokentexts_a16_kabine_baronin_schrank_ex_1_st_4;Je suis certaine que l'oeil est dans les bagages de la Baronne.
 sequences_a16_kabine_baronin_schrank_ex_2#1;[The woman opens the cupboard, sees the audiotape.]
 spokentexts_a16_kabine_baronin_schrank_ex_2_st_1;Qu'est-ce que cela veut dire ?
 sequences_a16_kabine_baronin_schrank_ex_2#3;[The young woman looks around.]
@@ -81,7 +81,7 @@ sequences_a16_kabine_baronin_schrank_ex_2#8;[The woman closes the cupboard.]
 spokentexts_a16_kabine_baronin_schrank_ex_2_st_5_direction;pulls herself together, bolsters herself up
 spokentexts_a16_kabine_baronin_schrank_ex_2_st_5;Je ne dois pas me laisser distraire. Je du travail à faire !
 texts_a16_kabine_baronin_schreibblock_mo_bertrachten_1__2;Examiner le bloc-note
-spokentexts_a16_kabine_baronin_schreibblock_ex_1_st_1;La baronne a écrit quelque chose et elle a prit le bout de papier avec elle... Ce n'est probablement pas important.
+spokentexts_a16_kabine_baronin_schreibblock_ex_1_st_1;La Baronne a écrit quelque chose et elle a prit le bout de papier avec elle... Ce n'est probablement pas important.
 texts_a16_kabine_baronin_sonnenblumenbild_mo_ex_1;Examiner la peinture
 spokentexts_a16_kabine_baronin_sonnenblumenbild_ex_1_st_1;Même Adil ne pourrait croire que cette peinture est un original.
 spokentexts_a16_kabine_baronin_sonnenblumenbild_ex_1_st_2;Il était intéressé par l'art quand nous nous sommes rencontrés, mais pour lui, tout est une question de contenu, pas de technique.
@@ -143,7 +143,7 @@ texts_a16_kabine_baronin_geheimfach_zettel_mo_ex_1__2;Examiner le feuillet
 spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_1;Hmm...
 spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_2_direction;reads out loud
 spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_2;Nefertiti, Guernica, AD, Buonarroti Adam...
-spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_3;Ça pourrait être un aide-mémoire pour la baronne. Et ça expliquerait comment Inch a découvert la combinaison.
+spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_3;Ça pourrait être un aide-mémoire pour la Baronne. Et ça expliquerait comment Inch a découvert la combinaison.
 spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_4;Je vais recopier ces indices.
 sequences_a16_kabine_baronin_geheimfach_zettel_ex_1#5;[The prompts are written in the quest log.]
 spokentexts_a16_kabine_baronin_geheimfach_zettel_ex_1_st_5;Hmm. A première vue, je dois utiliser ces indices pour trouver trois des symboles. Ensuite, je pourrais deviner le quatrième.
@@ -189,10 +189,10 @@ spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungssc
 texts_a16_kabine_baronin_reiseschrank_ausgang_mo_leave;Arrêter les investigations
 texts_a16_kabine_baronin_reiseschrank_flaschen_mo_ex_1__2;Examiner les bouteilles
 spokentexts_a16_kabine_baronin_reiseschrank_flaschen_ex_1_st_1;Gin, whisky, liqueur, sherry, vodka, brandy et champagne. Chaque bouteille est au moins à moitié vide.
-spokentexts_a16_kabine_baronin_reiseschrank_flaschen_ex_2_st_1;Je me demande ce que fuit la baronne. La solitude ? Une déception ? Un chagrin ?
+spokentexts_a16_kabine_baronin_reiseschrank_flaschen_ex_2_st_1;Je me demande ce que fuit la Baronne. La solitude ? Une déception ? Un chagrin ?
 texts_a16_kabine_baronin_reiseschrank_glaeser_mo_ex_1;Examiner les verres
 spokentexts_a16_kabine_baronin_reiseschrank_glaeser_ex_1_st_1;Un verre pour chaque occasion. Mais la plupart semblent plus ou moins utilisé.
-spokentexts_a16_kabine_baronin_reiseschrank_glaeser_ex_1_st_2;La baronne oublie probablement tout style et étiquette quand elle boit seule et utilise simplement le même verre.
+spokentexts_a16_kabine_baronin_reiseschrank_glaeser_ex_1_st_2;La Baronne oublie probablement tout style et étiquette quand elle boit seule et utilise simplement le même verre.
 texts_a16_kabine_baronin_reiseschrank_lederriemen_mo_ex_1;Examiner lanière de cuir
 texts_a16_kabine_baronin_reiseschrank_lederriemen_mo_use_1;Ouvrir le compartiment secret
 spokentexts_a16_kabine_baronin_reiseschrank_lederriemen_ex_1_st_1;Qu'est-ce que c'est ?
@@ -480,7 +480,7 @@ spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_22;Compris. Emmenez
 spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_23;Nous parlerons plus tard, mon ami.
 sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#37;[The Arabian goes to the guardsman lowering his arms and hanging his head.]
 sequences_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt#38;[The guardsman welcomes the Arabian, both begin to go down the stairs.]
-spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_24;La baronne n'a pas ouvert sa porte, monsieur !
+spokentexts_a16_oberdeck_seq_a07_oberdeck_leiche_entdeckt_st_24;La Baronne n'a pas ouvert sa porte, monsieur !
 texts_a16_salon_ausgang_hinterdeck_mo_leave_1;Aller sur le pont arrière
 texts_a16_salon_ausgang_tuer_mo_leave_1;Quitter le salon
 sequences_a16_salon_ausgang_tuer_leave_1#1;[Ohi pushes the door open while he is walking away, he leaves the scene.]
@@ -735,7 +735,7 @@ spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st
 spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_8;C'est tout ce que je sais, désolé.
 spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_9;Quel est son œuvre la plus célèbre ?
 spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_10;Difficile à dire. Il en a fait beaucoup. Il a été pionnier en gravures sur bois et estampes.
-spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_11;La baronne a laissée son monogramme comme indice, pas le nom d'une de ses oeuvres. Donc il doit y avoir une peinture que tout le monde lui associe...
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_11;La Baronne a laissée son monogramme comme indice, pas le nom d'une de ses oeuvres. Donc il doit y avoir une peinture que tout le monde lui associe...
 spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_12;Non, pas à ma connaissance. Quoique... Il avait un motif préféré...
 spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_13;Et c'était ?
 spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_14;Lui-même. Il a fait bon nombre d'autoportraits.
@@ -743,7 +743,7 @@ spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st
 spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_16;Ça semble logique !
 spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_17;Son plus célèbre autoportrait est au musée du Prado à Madrid. Je l'ai vu de mes propres yeux il y a deux ans.
 spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_18;Madrid... Hmm.
-spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_19;La baronne aime les musées. Elle connait certainement le Prado et la ville...
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_19;La Baronne aime les musées. Elle connait certainement le Prado et la ville...
 spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_20;Est-ce que Madrid a quelque chose comme un animal héraldique ?
 spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_21;Bien sûr ! Un ours. Il est sur le blason et partout dans la ville.
 spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_23;AD égal Madrid égal ours !
@@ -818,7 +818,7 @@ texts_araber_top_a16_araber_geheimversteck_hilfe_tseq_title;Combinaison
 spokentexts_araber_top_a16_araber_geheimversteck_hilfe_tseq_st_1;À propos de la combinaison...
 spokentexts_araber_top_a16_araber_geheimversteck_hilfe_tseq_st_2;Oui ?
 texts_araber_top_a16_araber_mann_in_kabine_tseq_title;L'homme dans la cabine
-spokentexts_araber_top_a16_araber_mann_in_kabine_tseq_st_1;J'ai failli me faire surprendre dans la cabine de la baronne.
+spokentexts_araber_top_a16_araber_mann_in_kabine_tseq_st_1;J'ai failli me faire surprendre dans la cabine de la Baronne.
 spokentexts_araber_top_a16_araber_mann_in_kabine_tseq_st_2;Qu'est-ce qui s'est passé ?
 spokentexts_araber_top_a16_araber_mann_in_kabine_tseq_st_3;Je ne sais pas. Un homme est entré et j'ai juste eu le temps de me cacher sous le lit.
 spokentexts_araber_top_a16_araber_mann_in_kabine_tseq_st_4;Peut-être que c'était un stewart pour nettoyer la cabine ?
@@ -832,13 +832,13 @@ spokentexts_araber_top_a16_araber_mann_in_kabine_tseq_st_10;"Je crois pas que ta
 texts_araber_top_a16_araber_plan_tseq_title;Le plan
 spokentexts_araber_top_a16_araber_plan_tseq_st_1;Si nous faisions le point sur le plan encore une fois ?
 spokentexts_araber_top_a16_araber_plan_tseq_st_2;Bonne idée.
-spokentexts_araber_top_a16_araber_plan_tseq_st_3;Nous savons que Inch a caché le premier oeil dans les bagages de la baronne.
+spokentexts_araber_top_a16_araber_plan_tseq_st_3;Nous savons que Inch a caché le premier oeil dans les bagages de la Baronne.
 spokentexts_araber_top_a16_araber_plan_tseq_st_4;Je vais dans sa cabine et remplace l'oeil par un faux.
 spokentexts_araber_top_a16_araber_plan_tseq_st_5;Exact.
 spokentexts_araber_top_a16_araber_plan_tseq_st_6;Nous volons le deuxième oeil au Caire.
 spokentexts_araber_top_a16_araber_plan_tseq_st_7;Et Inch sera pris en flagrant délit.
 spokentexts_araber_top_a16_araber_plan_tseq_st_8;Aussi simple !
-spokentexts_araber_top_a16_araber_plan_tseq_st_9;Le diable est dans le détail. Je dois entrer en douce dans la cabine de la baronne, trouver la cachette secrète et je ne dois laisser aucune traces derrière moi.
+spokentexts_araber_top_a16_araber_plan_tseq_st_9;Le diable est dans le détail. Je dois entrer en douce dans la cabine de la Baronne, trouver la cachette secrète et je ne dois laisser aucune traces derrière moi.
 spokentexts_araber_top_a16_araber_plan_tseq_st_10;"Oui... Et Inch a dit quelque chose à propos d'une ""combinaison"". Alors, la cachette est peut être fermée."
 spokentexts_araber_top_a16_araber_plan_tseq_st_11;Une étape à la fois. Je pense que je vais évaluer la situation en premier.
 spokentexts_araber_top_a16_araber_plan_tseq_st_12_direction;joyfully
@@ -978,8 +978,8 @@ spokentexts_arzt_talk_mit_2_st_2;Oui ?
 spokentexts_arzt_talk_mit_3_st_1;Drôle de type.
 spokentexts_arzt_talk_mit_3_st_2;Je me demande ce-qui ou ce-qu'il regarde dans le salon.
 spokentexts_arzt_talk_mit_3_st_3;On dirait qu'il attend quelque chose et il est de plus en plus en plus nerveux à chaque minute...
-texts_baronin_mo_talk_mit_1-2;Regarder la baronne von Trebitz
-spokentexts_baronin_ex_1_st_1;La baronne semble avoir quelque chose a fêter. Elle descend les verres de champagne les uns après les autres.
+texts_baronin_mo_talk_mit_1-2;Regarder la Baronne von Trebitz
+spokentexts_baronin_ex_1_st_1;La Baronne semble avoir quelque chose a fêter. Elle descend les verres de champagne les uns après les autres.
 spokentexts_baronin_ex_2_st_1;Moins j'ai à faire avec elle, mieux c'est. Mieux vaut qu'elle ne se souvienne pas j'existe.
 spokentexts_baronin_ex_2_st_2;Quoique... en s'appuyant sur sa consommation d'alcool, je ne pense pas vraiment que je puisse m'inquiéter à ce sujet.
 texts_butler2_mo_ex_1-3;Observer le majordome
@@ -1133,282 +1133,282 @@ spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_13;Et Adam Buonarroti 
 spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_14;Hmm. Non, c'est trop vague.
 spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_15;Est-ce que la Cité du Vatican a un animal sur son blason ?
 spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_16;Non.
-spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_17;Et le Pape ?
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_17;Et le pape ?
 spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_18_direction;snidely
 spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_18;Chaque pape a son propre emblème. Mais le nouveau ne dispose pas d'un animal.
-spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_19;Vous ne semblez pas aimer le nouveau Pape ?
-spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_20;"Trop tôt pour le dire. Mais qui arrive à la cheville de Jean XXIII ? ""Il Papa buono"", comme nous l'appelions. Le bon Pape."
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_19;Vous ne semblez pas aimer le nouveau pape ?
+spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_20;"Trop tôt pour le dire. Mais qui arrive à la cheville de Jean XXIII ? ""Il Papa buono"", comme nous l'appelions. Le bon pape."
 spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_21;Il vient de mourir récemment ! Quel était son animal ?
 spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_22;C'était un lion ! Et c'était son emblème héraldique.
 spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_23;Pour un catholique, Adam Buonarroti pourrait être un moyen mnémotechnique pour le lion. Le pape Jean XXIII a été élu dans la Chapelle Sixtine comme tout les autres papes...
 spokentexts_kapitaen_top_a16_kapitaen_buonarrotie_tseq_st_26;"Une oeuvre d'art indice pour un blason avec un lion dessus. Hmm. Peut-être. Je vais faire une note pour ""lion""."
 texts_kapitaen_top_a16_kapitaen_guernica_tseq_title;Guernica
-spokentexts_kapitaen_top_a16_kapitaen_guernica_tseq_st_1;"""Guernica""... Does that mean anything to you?"
-spokentexts_kapitaen_top_a16_kapitaen_guernica_tseq_st_2;Not a harbor that I've ever docked at! Hahaha.
-spokentexts_kapitaen_top_a16_kapitaen_guernica_tseq_st_3;That's too bad.
-texts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_title;Illnesses
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_1;If you don't feel well, maybe you should take it easy.
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_2;I'm afraid if I take it easy, it'll kill me.
+spokentexts_kapitaen_top_a16_kapitaen_guernica_tseq_st_1;"""Guernica""... Ça signifie quelque chose pour vous ?"
+spokentexts_kapitaen_top_a16_kapitaen_guernica_tseq_st_2;Ce n'est certainement pas un port dans lequel j'ai accosté ! Hahaha.
+spokentexts_kapitaen_top_a16_kapitaen_guernica_tseq_st_3;C'est dommage.
+texts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_title;Maladies
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_1;Si vous ne vous sentez pas bien, peut-être que vous devriez lever le pied.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_2;Je crains que lever le pied me tuera.
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_3_direction;laughs
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_3;You seem to be a pessimist!
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_4;Fatty liver, asthma, gall stones, jaundice, gout, shingles, hemorrhoids, varicose veins, circulatory trouble, knee problems, pulmonary embolism.
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_5;Gastritis, migraine, neuralgia, tinnitus, rheumatism, pleurisy, thrombosis and constipation.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_3;Vous semblez être pessimiste !
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_4;Stéatose hépatique, asthme, calculs biliaires, ictère, goutte, bardeaux, hémorroïdes, varices, troubles circulatoires, problèmes de genou, embolie pulmonaire.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_5;Gastrite, migraine, névralgies, acouphènes, rhumatismes, pleurésie, thrombose et constipation.
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_6_direction;grim, giving up
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_6;Those are what's been diagnosed so far. My body is a curse.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_6;Sont les joyeusetés qui m'ont été diagnostiqué à ce jour. Mon corps est une malédiction.
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_7_direction;shocked
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_7;Oh...I didn't mean to... I'm sorry.
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_8;Forgive an old man - I didn't mean to shock you.
-texts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_title;Ship
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_1;You're still the captain of this beautiful ship!
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_7;Oh... je ne voulais pas... Je suis désolé.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_8;Pardonnez un vieil homme - je ne voulais pas vous choquer.
+texts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_title;Navire
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_1;Vous êtes tout de même le capitaine de ce beau navire !
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_2;Pff.
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_3;They couldn't just get rid of me, so they stuck me somewhere where I can't make trouble anymore.
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_4;Don't say that.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_3;Ils ne pouvaient simplement pas se débarrasser de moi, alors ils m'ont coincé quelque part où je ne peux pas faire de vagues.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_4;Ne dites pas cela.
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_5_direction;sad
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_5;This ship runs fine without me. The crew knows what to do. They don't need me. They... don't want me.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_5;Ce navire fonctionne très bien sans moi. L'équipage sait quoi faire. Ils n'ont pas besoin de moi. Ils... ne veulent pas de moi.
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_7_direction;shocked
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_7;Captain...
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_6;It's...I'm sorry. I don't know why I'm burdening you with all that. Forgive me.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_7;Capitaine...
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_6;C'est... Je suis désolé. Je ne sais pas pourquoi je vous impose tout cela. Pardonnez-moi.
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_8_direction;Tries to be in a good mood
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_8;"I'd like to rest for a while. Soon enough it'll be time to head ""back to the coalface"". Ha ha!"
-texts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_title;Captain DiConti
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_1;Is it true that you're a war hero?
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_2;Mmm-hmm. In two World Wars. That tells you how old I must be. Ha ha.
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_3;You're as old as you feel.
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_4;Oh God, I hope not!
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_5;Aren't you feeling well?
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_6;You shouldn't burden your pretty little head with the dark thoughts of an old man, my dear.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_8;"J'aimerais me reposer. Assez rapidement, il sera temps de revenir ""à la surface"". Ha ha !"
+texts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_title;Capitaine DiConti
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_1;Est-il vrai que vous êtes un héros de guerre ?
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_2;Mmm-hmm. Dans deux guerres mondiales. Ça vous donne une idée de mon âge. Ha ha.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_3;Vous êtes vieux que votre corps vous le fait sentir.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_4;Oh mon Dieu, j'espère que non !
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_5;Vous ne vous sentez pas bien ?
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_6;Vous ne devriez pas encombrer votre jolie petite tête avec les sombres pensées d'un vieil homme, ma chère.
 texts_kapitaen_top_a16_kapitaen_newyork_tseq_title;New York
-spokentexts_kapitaen_top_a16_kapitaen_newyork_tseq_st_1;An old seaman like you must surely have been to New York, right?
-spokentexts_kapitaen_top_a16_kapitaen_newyork_tseq_st_2;Aye-aye!
-spokentexts_kapitaen_top_a16_kapitaen_newyork_tseq_st_3;My usual territory is the Mediterranean, but I've crossed the Atlantic many times.
-spokentexts_kapitaen_top_a16_kapitaen_newyork_tseq_st_4;It's always a great moment when the Statue of Liberty appears on the horizon.
-spokentexts_kapitaen_top_a16_kapitaen_newyork_tseq_st_5;You wouldn't happen to know the heraldic animal of New York?
-spokentexts_kapitaen_top_a16_kapitaen_newyork_tseq_st_6;Hmm. No. Maybe an eagle?
+spokentexts_kapitaen_top_a16_kapitaen_newyork_tseq_st_1;Un vieux marin comme vous doit sûrement avoir été à New York, non ?
+spokentexts_kapitaen_top_a16_kapitaen_newyork_tseq_st_2;Holà-holà !
+spokentexts_kapitaen_top_a16_kapitaen_newyork_tseq_st_3;Mon territoire habituel est la Méditerranée, mais j'ai traversé l'Atlantique plusieurs fois.
+spokentexts_kapitaen_top_a16_kapitaen_newyork_tseq_st_4;C'est toujours un grand moment lorsque la Statue de la Liberté apparaît à l'horizon.
+spokentexts_kapitaen_top_a16_kapitaen_newyork_tseq_st_5;Vous ne connaitriez pas l'animal emblématique de New York ?
+spokentexts_kapitaen_top_a16_kapitaen_newyork_tseq_st_6;Hmm. Non. C'est peut-être un aigle ?
 texts_kapitaen_top_a16_kapitaen_nofretete_tseq_title;Nefertiti
-spokentexts_kapitaen_top_a16_kapitaen_nofretete_tseq_st_1;Do you know Nefertiti?
+spokentexts_kapitaen_top_a16_kapitaen_nofretete_tseq_st_1;Connaissez-vous Nefertiti ?
 spokentexts_kapitaen_top_a16_kapitaen_nofretete_tseq_st_2_direction;just guessing
-spokentexts_kapitaen_top_a16_kapitaen_nofretete_tseq_st_2;Is she... a Greek queen?
-spokentexts_kapitaen_top_a16_kapitaen_nofretete_tseq_st_3;No. She... Never mind.
+spokentexts_kapitaen_top_a16_kapitaen_nofretete_tseq_st_2;C'était... une reine grecque ?
+spokentexts_kapitaen_top_a16_kapitaen_nofretete_tseq_st_3;Non, elle... Oubliez-ça.
 texts_kapitaen_top_a16_kapitaen_picasso_tseq_title;Picasso
-spokentexts_kapitaen_top_a16_kapitaen_picasso_tseq_st_1;Do you know Pablo Picasso?
-spokentexts_kapitaen_top_a16_kapitaen_picasso_tseq_st_2;Who doesn't know him?
-spokentexts_kapitaen_top_a16_kapitaen_picasso_tseq_st_3;"A dirty fraud selling his ""paintings"" for piles of money! Do you know that some of them go for THOUSANDS OF DOLLARS?!"
-spokentexts_kapitaen_top_a16_kapitaen_picasso_tseq_st_4;Rafael, Michelangelo, Leonardo di ser Piero da Vinci! THEY were artists!
-spokentexts_kapitaen_top_a16_kapitaen_picasso_tseq_st_5;So you're not familiar with Picasso's work?
-spokentexts_kapitaen_top_a16_kapitaen_picasso_tseq_st_6;No, not really. Somebody told me that Picasso was actually able to paint well when he was young.
-spokentexts_kapitaen_top_a16_kapitaen_picasso_tseq_st_7;But then, suddenly, he started to do strange things. Boxes and eyes everywhere. Maybe he had a stroke?
-texts_kapitaen_top_a16_kapitaen_schriftstellerin_ende_tseq_title;Change the subject
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_ende_tseq_st_1;I think that's enough for now.
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_ende_tseq_st_2;No, that doesn't really interest me.
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_ende_tseq_st_3;But of course.
-texts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_title;Family
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_1;Where is she from? Who were her parents?
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_2;Her father was a wealthy British salesman. Her mother died in childbirth.
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_3;She had an outstanding education but was a lonely child, they say. Her father was away on business most of the time.
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_4;I know how she feels. For many years, my father's career was also more important than me.
+spokentexts_kapitaen_top_a16_kapitaen_picasso_tseq_st_1;Connaissez-vous Pablo Picasso ?
+spokentexts_kapitaen_top_a16_kapitaen_picasso_tseq_st_2;Qui ne le connaît pas ?
+spokentexts_kapitaen_top_a16_kapitaen_picasso_tseq_st_3;"Un petit scribouillard qui vend ses ""peintures"" pour des montagnes d'argent ! Savez-vous que certaines d'entre elles valent des MILLIERS DE DOLLARS ?!"
+spokentexts_kapitaen_top_a16_kapitaen_picasso_tseq_st_4;Rafael, Michelangelo, Leonardo di ser Piero da Vinci! EUX c'étaient des artistes !
+spokentexts_kapitaen_top_a16_kapitaen_picasso_tseq_st_5;Donc vous n'êtes pas familier avec l'oeuvre de Picasso ?
+spokentexts_kapitaen_top_a16_kapitaen_picasso_tseq_st_6;Non, pas vraiment. Quelqu'un m'a dit que Picasso était effectivement en mesure de bien peindre quand il était jeune.
+spokentexts_kapitaen_top_a16_kapitaen_picasso_tseq_st_7;Mais, tout à coup, il a commencé à faire des choses étranges. Les boîtes et des yeux partout. Peut-être qu'il a eu un accident cérébral ?
+texts_kapitaen_top_a16_kapitaen_schriftstellerin_ende_tseq_title;Changer de sujet
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_ende_tseq_st_1;Je pense que ça suffit pour l'instant.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_ende_tseq_st_2;Non, cela ne m'intéresse pas vraiment.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_ende_tseq_st_3;Mais bien sûr.
+texts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_title;Famille
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_1;D'où vient-elle ? Qui étaient ses parents ?
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_2;Son père était un riche vendeur britannique. Sa mère est morte en couches.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_3;Elle a eu une excellente éducation, mais était une enfant solitaire. Son père était en voyage d'affaires la plupart du temps.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_4;Je sais comment elle se sent. Depuis de nombreuses années, la carrière de mon père était également plus importante que moi.
 spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_5_direction;shocked
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_5;Don't say that, child! Your father paid for the life you now live.
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_6;Did Lady Westmacott's father marry again?
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_7;"Yes. A woman fifteen years his junior. She didn't really care for the child. She was something of a ""high society lady""."
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_8;She made the headlines with her antics more often than the family would have liked.
-texts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_title;Journey
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_1;And what does an elderly lady like her want in Egypt?
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_2;Do you know what the lady wants to do in Cairo?
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_3;I couldn't really say. She was there many times with her husband, an archaeologist.
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_4;He died a long time ago.
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_5;I heard something about a reception at the Egyptian Museum?
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_6;Yes, for the Eyes of the Sphinx. Or rather, for the Eye.
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_7;But I don't think she'd go to Cairo just for that. She usually stays away from official events.
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_8;Didn't participate in the literary scene, either. Always stayed as far away as possible from high society. Probably because of her stepmother.
-texts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_title;Novels
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_st_1;And her novels? How did she come to be a writer?
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_st_2;Why did she want to become a writer?
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_st_3;In interviews she always mentions her French tutor who encouraged her to write when she was a child.
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_st_4;After some poems and short stories she began to write detective novels-with great success.
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_st_5;The rest is history. The experts are arguing whether she or Shakespeare has sold more books.
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_st_6;Although she doesn't receive the same deference.
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_st_7;That's true. But her books are much more innovative and extraordinary than people generally give her credit for.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_5;Ne dites pas cela, mon enfant ! Votre père a payé pour la vie que vous vivez actuellement.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_6;Le père de Lady Westmacott s'est remarié ?
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_7;"Oui. Une femme de quinze ans sa cadette. Elle ne s'est pas vraiment occupée des enfants. Elle avait quelque chose d'une ""dame de la haute société""."
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_familie_tseq_st_8;Elle fait les gros titres avec ses pitreries plus souvent que sa famille l'aurait souhaité.
+texts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_title;Voyage
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_1;Et qu'est-ce une vieille dame comme elle va faire en Égypte ?
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_2;Savez-vous ce que cette dame veut faire au Caire ?
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_3;Je ne pourrais pas vraiment le dire. Elle y a été de nombreuses fois avec son mari archéologue.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_4;Il est mort il y a bien longtemps.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_5;J'ai entendu parler d'une réception au Musée égyptien ?
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_6;Exact, pou les Yeux du Sphinx. Ou plutôt, pour l'oeil.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_7;Mais je ne pense pas qu'elle irait au Caire juste pour ça. Elle reste généralement loin des manifestations officielles.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_8;Pas pour participer à la scène littéraire, non plus. Elle reste toujours aussi loin que possible de la haute société. Probablement à cause de sa belle-mère.
+texts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_title;Romans
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_st_1;Et ses romans ? Comment est-elle venue à être écrivaine ?
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_st_2;Pourquoi voulait-elle devenir un écrivaine ?
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_st_3;Dans les interviews elle mentionne toujours son professeur de français qui l'a encouragé à écrire quand elle était enfant.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_st_4;Après quelques poèmes et nouvelles, elle a commencé à écrire des romans policiers, avec beaucoup de succès.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_st_5;Le reste appartient à l'histoire. Les experts se disputent pour savoir si elle ou Shakespeare a vendu plus de livres.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_st_6;Même si elle ne reçoit pas la même déférence.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_st_7;C'est vrai. Mais ses livres sont beaucoup plus innovants et extraordinaire que les gens donnent qui généralement les critique.
 texts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_title;Lady Westmacott
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_1;Lovely concert, wasn't it?
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_2;You only heard the end. It was really wonderful!
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_3;All the more curious that Lady Westmacott embarrassed Mr. Kreutzer like that, don't you think?
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_4;I have no idea what got into her. They say she's a difficult person. But this...
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_5;Maybe it's the privilege of famous people to be a bit strange from time to time.
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_6;When I still was a young sailor, Enrico Caruso was a passenger on our ship! And he...
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_1;Beau concert, n'est-ce pas ?
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_2;Vous n'avez entendu que la fin. C'était vraiment merveilleux !
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_3;Plutôt curieux que Lady Westmacott ai embarrassé M. Kreutzer comme ça, vous ne pensez pas ?
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_4;Je n'ai aucune idée de ce qui lui a pris. Ils disent que c'est une personne difficile. Mais cette...
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_5;C'est peut-être le privilège des gens célèbres d'être un peu bizarre de temps en temps.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_6;Quand j'étais encore un jeune marin, Enrico Caruso a été passager sur notre navire ! Et il...
 spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_7_direction;interrupts him
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_7;I think she's fascinating. She's achieved so much. All by herself.
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_8;Lady Westmacott? Oh yes, that's true. The most successful writer in the world.
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_9;Do you know more about her?
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_10;Everything! I'm her biggest fan! What do you want to know?
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_7;Je la trouve fascinante. Elle a accompli tant de choses. Elle s'est faite toute seule.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_8;Lady Westmacott ? Oh oui, c'est vrai. L'écrivaine la plus couronnée de succès dans le monde.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_9;Que savez-vous de plus à son sujet ?
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_tseq_st_10;Tout ! Je suis son plus grand fan ! Que voulez-vous savoir ?
 texts_kapitaen_top_a16_kapitaen_schriftstellerin_wiedereinstieg_tseq_title;Lady Westmacott
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_wiedereinstieg_tseq_st_1;About Lady Westmacott... There's still something that interests me...
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_wiedereinstieg_tseq_st_2;What do you want to know?
-texts_kapitaen_top_a16_kapitaen_verabschieden_tseq_title;Say goodbye
-spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_1;I just realized that I need to be going.
-spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_2;I'm going to go have a look around.
-spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_3;All right.
-spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_4;I hope I'll see you at the reception tonight-ten o'clock.
-spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_5;You won't give an old salty sea dog the brush-off will you?
-spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_6;I'll be there.
-spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_7;Wonderful!
-spokentexts_kapitaen_ex_1_st_1;He's sweating profusely. Burst capillaries and a sweet odor.
-spokentexts_kapitaen_ex_1_st_2;I hope the crew doesn't take the captain for a role model and that they stay sober for the rest of the trip.
-spokentexts_kapitaen_talk_mit_1_st_1;Hello, Captain DiConti!
-spokentexts_kapitaen_talk_mit_1_st_2;Miss Mayers!
-spokentexts_kapitaen_talk_mit_1_st_3;How nice to see you. You look beautiful. We missed you at dinner!
-spokentexts_kapitaen_talk_mit_1_st_4;I was in my cabin. I... didn't feel very well.
-spokentexts_kapitaen_talk_mit_1_st_5;Oh, I hope you're feeling better.
-spokentexts_kapitaen_talk_mit_2_st_1;Captain DiConti?
-spokentexts_kapitaen_talk_mit_2_st_2;Yes?
-spokentexts_kapitaen_talk_mit_3_st_2;I don't know why... People just seem to open up to me. Is that a blessing or a curse?
-spokentexts_kapitaen_talk_mit_3_st_1;It must be horrible to look back bitterly at the end of one's life. Especially if it could have been a great life.
-spokentexts_kapitaen_talk_mit_4_st_1;I'll leave him alone with his thoughts.
-texts_schriftstellerin_mo_talk_mit_1-3;Talk to Lady Westmacott
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_wiedereinstieg_tseq_st_1;A propos de Lady Westmacott... Il y a encore une chose qui m'intrigue...
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_wiedereinstieg_tseq_st_2;Que voulez-vous savoir ?
+texts_kapitaen_top_a16_kapitaen_verabschieden_tseq_title;Dire au revoir
+spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_1;Je viens de réaliser que je dois y aller.
+spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_2;Je vais aller faire un tour.
+spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_3;Très bien.
+spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_4;J'espère que je vous verrai à la réception de vingt heures ce soir.
+spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_5;Vous ne ferez pas faux bond à un vieux loup de mer, n'est-ce pas ?
+spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_6;Je serai là.
+spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_7;Merveilleux !
+spokentexts_kapitaen_ex_1_st_1;Il transpirait abondamment. Les pores dilatés et une odeur sucrée.
+spokentexts_kapitaen_ex_1_st_2;J'espère que l'équipage ne prend pas le Capitaine comme modèle et qu'ils restent sobre pour la traversée.
+spokentexts_kapitaen_talk_mit_1_st_1;Bonjour, Capitaine DiConti !
+spokentexts_kapitaen_talk_mit_1_st_2;Mademoiselle Mayers !
+spokentexts_kapitaen_talk_mit_1_st_3;Quel plaisir de vous voir. Vous êtes magnifique. Vous nous avez manqué au dîner !
+spokentexts_kapitaen_talk_mit_1_st_4;J'étais dans ma cabine. Je... ne se sentait pas très bien.
+spokentexts_kapitaen_talk_mit_1_st_5;Oh, j'espère que vous vous sentez mieux.
+spokentexts_kapitaen_talk_mit_2_st_1;Capitaine DiConti ?
+spokentexts_kapitaen_talk_mit_2_st_2;Oui ?
+spokentexts_kapitaen_talk_mit_3_st_2;Je ne sais pas pourquoi... Les gens semblent s'ouvrir à moi. Est-ce une bénédiction ou une malédiction ?
+spokentexts_kapitaen_talk_mit_3_st_1;Ce doit être horrible comme regarder derrière soi avec amertume à la fin de sa vie. Surtout si elle aurait pu être meilleure.
+spokentexts_kapitaen_talk_mit_4_st_1;Je vais le laisser seul avec ses pensées.
+texts_schriftstellerin_mo_talk_mit_1-3;Parler à Lady Westmacott
 texts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_title;AD
-spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_1;I've got a puzzle for you!
-spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_2;Why do you always bombard me with strange questions? I can't imagine why.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_3;Oh, come on, you're the queen of mysteries!
-spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_4;Well? What is it then?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_5;"A monogram. A capital ""A"" with a small ""D"" on the bottom... Who does it belong to?"
-spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_6;Someone on the ship?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_7;No, no one on the ship.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_8;I don't know. Whose is it?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_9;I don't know either!
-spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_10;It doesn't make much sense to ask a riddle if you don't know the answer. Wouldn't you agree?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_11;Actually... I'd say that it doesn't make sense to ask someone a riddle if you DO know the answer.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_1;J'ai un casse-tête pour vous !
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_2;Pourquoi vous me bombardez toujours de questions étranges ? J'arrive pas à comprendre pourquoi.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_3;Oh, allez, vous êtes la reine des mystères !
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_4;Et bien ? Qu'est-ce donc ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_5;"Un monogramme. Une capitale ""A"" avec un petit ""D"" en bas... A qui appartient-il ?"
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_6;C'est quelqu'un sur le bateau ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_7;Non, personne sur le navire.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_8;Je ne sais pas. Qui est-ce ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_9;Je ne sais pas non plus !
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_10;Ça n'a pas beaucoup de sens de poser une énigme si vous ne connaissez pas la réponse. N'êtes-vous pas d'accord ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_11;En fait ... Je dirais que cela n'aurait pas de sens de demander à quelqu'un une énigme Si elle CONNAISSAIT la réponse.
 spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_12_direction;stunned, approving
 spokentexts_schriftstellerin_top_a16_schriftstellerin_ad_tseq_st_12;Touché.
 texts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_title;Albrecht Dürer
-spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_1;Are you interested in art?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_2;Not really. I'm more interested in real life, in people.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_3;So you don't know Albrecht Dürer?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_4;Just because I'm not interested in art doesn't mean that I'm ignorant.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_5;What can you tell me about him?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_6;Books, my dear, books!
-spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_7;In them you'll find the answers to all your questions. Even the most foolish ones!
-spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_8;I bet you don't know anything about him and just want to cover it up.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_9;Ah! You want to appeal to my honor! Too obvious, I'm afraid.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_1;Êtes-vous intéressé pour l'art ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_2;Pas vraiment. Je suis plus intéressée par la vraie vie, par les gens.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_3;Donc, vous ne savez pas qui est Albrecht Dürer ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_4;Ce n'est pas parce que je ne suis pas intéressée par l'art que cela signifie que je suis ignorante.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_5;Que pouvez-vous me dire sur lui ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_6;Les livres, ma chère, les livres !
+spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_7;En eux, vous trouverez les réponses à toutes vos questions. Même les plus folles !
+spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_8;Je parie que vous ne savez rien sur lui et vous essayez de le cacher.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_albrecht_duerer_tseq_st_9;Ah ! Vous essayez de faire appel à mon honneur ! Trop évident, je le crains.
 texts_schriftstellerin_top_a16_schriftstellerin_buonarrotie_tseq_title;Buonarroti
-spokentexts_schriftstellerin_top_a16_schriftstellerin_buonarrotie_tseq_st_1;"I saw a sign in Venice. It said ""Buonarroti"". Do you know what it means?"
-spokentexts_schriftstellerin_top_a16_schriftstellerin_buonarrotie_tseq_st_2;I'm sorry, I don't speak Italian.
-texts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_title;The violinist
-spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_1;Mr. Kreutzer possesses impressive technique, don't you think?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_2;He certainly does.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_3;His numerous playmates in Austria can tell you more about it than I.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_5;You mean, Mr. Kreutzer is a womanizer?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_6;I'm not talking about cheap skirts. I'm talking about expensive clothes.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_7;A man like him needs funds to support his lifestyle.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_buonarrotie_tseq_st_1;"J'ai vu un panneau à Venise. il disait ""Buonarroti"". Savez-vous ce que cela signifie ?"
+spokentexts_schriftstellerin_top_a16_schriftstellerin_buonarrotie_tseq_st_2;Je suis désolé, je ne parle pas italien.
+texts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_title;Le violoniste
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_1;M. Kreutzer possède une technique impressionnante, n'est-ce pas ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_2;Certainement.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_3;Ses nombreuses camarades de jeu en Autriche pourront vous en dire plus à ce sujet que moi.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_5;Vous voulez dire que M. Kreutzer est un coureur de jupons ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_6;Je ne parle pas de jupes bon marché. Je parle de robes coûteuses.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_7;Un homme comme lui a besoin de fonds pour soutenir son train de vie.
 spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_8_direction;loud
-spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_8;Just go over to him, my dear! Tell the maestro that your family is wealthy.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_8;Il suffit d'aller vers lui, ma chère ! Dites au maestro que votre famille est riche.
 spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_9_direction;loud
-spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_9;You have everything he's looking for: money and a pretty face!
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_9;Vous avez tout ce qu'il cherche : l'argent et un joli minois !
 spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_10_direction;angry
-spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_10;Hold your tongue!
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_10;Tenez votre langue !
 spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_11_direction;shocked, upset
-spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_11;Mr. Kreutzer! Lady Westmacott! Please!
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_11;M. Kreutzer ! Lady Westmacott ! S'il vous plaît !
 spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_12_direction;loud
-spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_12;Or did you have your eye on me, Mr. Kreutzer? Old, yes-but rich!
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_12;Ou avez-vous des vues sur moi, M. Kreutzer ? Vielle, oui, mais riche !
 sequences_schriftstellerin_top_a16_schriftstellerin_geiger_tseq#12;[The violinist stands up angrily, leaves the salon quickly.]
 spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_13_direction;hissing
-spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_13;Jezebel!
-spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_14;Mr. Kreutzer! Maestro!
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_13;Jézabel !
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_14;M. Kreutzer ! Maestro !
 sequences_schriftstellerin_top_a16_schriftstellerin_geiger_tseq#15;[The captain doesn't really know whether he should look after the writer or the violinist. He looks briefly at the writer but then he follows the violinist.]
 spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_15_direction;content
-spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_15;That's better.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_15;C'est mieux.
 spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_16_direction;rather to herself, bitterly
-spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_16;Freeloader.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_16;Profiteur.
 texts_schriftstellerin_top_a16_schriftstellerin_guernica_tseq_title;Guernica
-spokentexts_schriftstellerin_top_a16_schriftstellerin_guernica_tseq_st_1;"Does ""Guernica"" mean anything to you?"
-spokentexts_schriftstellerin_top_a16_schriftstellerin_guernica_tseq_st_2;Why are you asking me all these strange questions?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_guernica_tseq_st_3;Do you usually ask strangers random questions?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_guernica_tseq_st_4;I... I'm curious. How shall I learn if I don't ask?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_guernica_tseq_st_5;Pick up a book.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_guernica_tseq_st_1;"Est-ce que ""Guernica"" vous dit quelque chose ?"
+spokentexts_schriftstellerin_top_a16_schriftstellerin_guernica_tseq_st_2;Pourquoi me posez-vous toutes ces questions étranges ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_guernica_tseq_st_3;Vous posez souvent à des inconnus des questions au hasard ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_guernica_tseq_st_4;Je... Je suis curieuse. Comment pourrais-je apprendre si je ne demandais pas ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_guernica_tseq_st_5;Prenez un livre.
 texts_schriftstellerin_top_a16_schriftstellerin_newyork_tseq_title;New York
-spokentexts_schriftstellerin_top_a16_schriftstellerin_newyork_tseq_st_1;Have you ever been to New York?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_newyork_tseq_st_2;For the love of God, what would I do there? We have the original York in England. That's quite enough for me.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_newyork_tseq_st_3;So you don't know the heraldic animal of New York?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_newyork_tseq_st_4;No. Probably an eagle. It's all eagles over there.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_newyork_tseq_st_1;Avez-vous déjà été à New York ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_newyork_tseq_st_2;Pour l'amour de Dieu, qu'y ferais-je ? Nous avons le York original en Angleterre. C'est bien suffisant pour moi.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_newyork_tseq_st_3;Donc, vous ne savez pas quel est l'animal de New York ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_newyork_tseq_st_4;Non. C'est probablement un aigle. Tout est avec des aigles là-bas.
 texts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_title;Nefertiti
-spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_1;I hear you're well-versed in Egyptian history, Lady Westmacott. Can you tell me anything about Nefertiti?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_2;A queen. The main wife of Akhenaten.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_3;Did she have a favorite animal?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_1;J'ai entendue dire que vous êtes très érudite en histoire égyptienne, Lady Westmacott. Pouvez-vous me dire quelque chose sur Nefertiti ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_2;C'est une reine. La principale épouse d'Akhenaton.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_3;Avait-elle un animal préféré ?
 spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_4_direction;stunned
-spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_4;What a strange question!
-spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_5;I, um, just heard that they really adored cats in ancient Egypt.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_6;That's true. But I don't know whether Nefertiti had any special affinity for animals.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_7;Are there any famous works of art depicting her?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_8;Oh, yes. The bust of Nefertiti. One of the most beautiful ancient Egyptian sculptures! I saw it years ago in London.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_9;So the bust is located in England?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_10;No. It was discovered in 1912 in Tell el-Amarna by a German archaeologist and brought to Germany.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_11;I'm not sure where it is today. Ask the baroness-she's the expert on museums here!
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_4;Quelle question étrange !
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_5;Je, euh, j'ai juste entendu dire qu'ils adoraient les chats dans l'Egypte ancienne.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_6;C'est vrai. Mais je ne sais pas si Nefertiti avait une affinité particulière pour les animaux.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_7;Y a-t-il des oeuvres d'art célèbres la représentant ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_8;Oh, oui. Le buste de Néfertiti. Une des plus belles sculptures égyptiennes antiques ! Je l'ai vu il y a quelques années à Londres.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_9;Ainsi, le buste se trouve en Angleterre ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_10;Non, il a été découvert en 1912 à Tell el-Amarna par un archéologue allemand et transféré en Allemagne.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_nofretete_tseq_st_11;Je ne sais pas où il est aujourd'hui. Demandez à la Baronne c'est elle l'experte des musées ici !
 texts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_title;Picasso
-spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_1;It must be exciting to meet all the world's famous and powerful people.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_2;I stay away as far as possible from high society. Too shallow. Too boring.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_3;But some of them must be exciting! Have you ever met Picasso?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_4;Pff! They told him that he's a genius so often that he actually started to believe it himself.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_5;But his paintings are impressive. Guernica, for example.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_6;Well, it certainly is big, I have to give him that.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_7;Didn't he have to flee from Spain?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_8;Yes, from the fascists. But not just him. Many of his paintings as well. If I remember correctly, Guernica is currently on display in the Museum of Modern Art in New York.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_9;He bequeathed it to a future Spanish republic.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_10;And until then, it stays in New York?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_11;Yes. It's been there for years now.
-texts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_title;Journey
-spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_1;Is this your first trip on the Lydia?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_2;That's quite enough. Life is too short for conversations like this.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_3;I do wish that rather delightful Swiss policeman had come along.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_4;"I heard you had an ""interesting"" trip on the train."
-spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_5;It was thrilling!
-spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_6;I'm hoping for an encore! Perhaps in Cairo...
-texts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_title;Acting
-spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_1;You know... I'm not planning on throwing myself at a man.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_2;I'm not planning on throwing myself at a man.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_3;I'm glad to hear it.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_4;You have to work. Earn you own money.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_5;I will! My grades are excellent and I want to study acting in New York.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_1;Ça doit être excitant de rencontrer tous ces gens célèbres et puissants dans le monde.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_2;J'évite autant que possible la haute société. Trop peu profonde. Trop ennuyeuse.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_3;Mais certains d'entre eux doivent être passionnants ! Avez-vous déjà rencontré Picasso ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_4;Pff ! Ils disent de lui que c'est un génie si souvent qu'il commence à le croire lui-même.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_5;Mais ses peintures sont impressionnants. Guernica, par exemple.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_6;Eh bien, une chose est sure, il est grand, je dois lui accorder ça.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_7;N'a-t-il pas à fuit l'Espagne ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_8;Oui, à cause des fascistes. Mais pas uniquement lui. Beaucoup de ses peintures aussi. Si je me souviens bien, Guernica est actuellement exposé au Musée d'Art Moderne de New York.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_9;Il le légua à une hypothétique future république espagnole.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_10;Et jusque-là, il reste à New York ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_11;Oui. Il s'y trouve depuis des années.
+texts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_title;Voyage
+spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_1;Est-ce votre premier voyage sur le Lydia ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_2;Ça suffit. La vie est trop courte pour des conversations de ce genre.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_3;J'aimerais que ce policier suisse plutôt charmante revienne.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_4;"J'ai entendu dire que vous aviez fait un ""intéressant"" voyage dans un train."
+spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_5;C'était passionnant !
+spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_6;J'espère un deuxième acte ! Peut-être au Caire...
+texts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_title;Baratiner
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_1;Vous savez... Je n'ai pas l'intention de me jeter sur un homme.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_2;Je n'ai pas l'intention de me jeter sur un homme.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_3;Je suis heureuse de l'entendre.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_4;Vous devez travailler. Vous devez gagnez votre propre argent.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_5;Je le ferai ! Mes notes sont excellentes et je veux étudier l'art dramatique à New York.
 spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_6_direction;snidely
-spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_6;None of my books has ever been made into a good film. The stories were twisted, shortened and simplified so that even the dimmest fellow could follow them.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_7;I want to do theater. And travel. I speak three languages!
-spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_8;That would be three more than most people your age can speak.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_9;Do what you have to do. But stay away from bad men!
-texts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_title;Freeloader
-spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_1;You and Mr. Kreutzer... You seem to know each other?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_2;Not really. But I know his type.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_3;Parasites who cling to the rich and famous and suck them dry.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_4;The young, misunderstood painter. The innovative writer who writes books that no one wants to read. The musical talent that has to be supported.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_5;"The ladies and gentlemen of high society let the others use them and call themselves ""patrons"". Another word for ""fool""."
-spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_6;Didn't you finance archaeological excavations in the Near East and Egypt?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_6;Aucun de mes livres n'a jamais été fait dans un bon film. Les histoires étaient tordus, raccourcies et simplifiées de sorte que même le plus obscur imbécile pouvait la comprendre.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_7;Je veux faire du théâtre. Et voyager. Je parle trois langues !
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_8;C'est trois de plus que la plupart des gens de votre âge peuvent parler.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_9;Faites ce que vous avez à faire. Mais rester loin des méchants garçons !
+texts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_title;Profiteur
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_1;Vous et M. Kreutzer... Vous semblez vous connaître ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_2;Pas vraiment. Mais je connais son genre.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_3;Les parasites qui s'accrochent aux riches et aux célébrités et qui les sucent jusqu'à la moelle .
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_4;Le jeune peintre incompris. L'écrivain novateur qui écrit des livres que personne ne veut lire. Le musicien qui doit être pris en charge.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_5;"Les dames et messieurs de la haute société les appelles entres eux ""patrons"". Un synonyme pour ""idiot""."
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_6;N'avez-vous pas financée des fouilles archéologiques au Proche-Orient et en Égypte ?
 spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_7_direction;angry
-spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_7;For my husband! And I was there myself. I catalogued items for him and I didn't show him off like a trophy at cocktail parties.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_7;Pour mon mari ! Et j'étais là moi aussi. Je cataloguais les articles pour lui et je ne le montrais pas comme un trophée lors de cocktails.
 spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_8_direction;grim, lost in thought
-spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_8;But my son was one of them.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_8;Mais mon fils était l'un d'eux.
 spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_9_direction;grim, lost in thought
-spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_9;The worst kind. The kind that sucks not only the money but also the life right out of a person.
-texts_schriftstellerin_top_a16_schriftstellerin_verabschieden_tseq_title;Say goodbye
-spokentexts_schriftstellerin_top_a16_schriftstellerin_verabschieden_tseq_st_1;Err. Oh, nothing.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schmarotzer_tseq_st_9;La pire espèce. Celle qui aspire non seulement l'argent mais aussi la vie d'une personne.
+texts_schriftstellerin_top_a16_schriftstellerin_verabschieden_tseq_title;Dire au revoir
+spokentexts_schriftstellerin_top_a16_schriftstellerin_verabschieden_tseq_st_1;Euhh. Oh, rien.
 spokentexts_schriftstellerin_top_a16_schriftstellerin_verabschieden_tseq_st_2_direction;sarcastically
-spokentexts_schriftstellerin_top_a16_schriftstellerin_verabschieden_tseq_st_2;Do feel free to continue pestering me, child!
-spokentexts_schriftstellerin_top_a16_schriftstellerin_verabschieden_tseq_st_3;May I take my leave?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_verabschieden_tseq_st_4;As a matter of fact, I insist.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_verabschieden_tseq_st_6;You may.
-texts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_title;Prejudices
-spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_1;Are you easily prejudiced at your age?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_2;In my long experience, there's often a core of truth at the center of every prejudice.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_3;Prejudice is the reason of fools.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_4;Was that written in the book you once read?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_5;Oh, I've read many books. Good books.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_6;But not my books, you mean to say?
-spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_7;You're a writer?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_verabschieden_tseq_st_2;Sentez-vous libre de continuer à me harceler, mon enfant !
+spokentexts_schriftstellerin_top_a16_schriftstellerin_verabschieden_tseq_st_3;Puis-je prendre congé ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_verabschieden_tseq_st_4;Tout à fait, j'insiste.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_verabschieden_tseq_st_6;Vous pouvez.
+texts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_title;Préjugés
+spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_1;Vous avez facilement des préjugés à votre âge ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_2;Croyez-en ma longue expérience, il y a souvent un fond de vérité au centre de tous les préjugés.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_3;Les préjugés sont la raison des sots.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_4;Était-ce écrit dans un livre que vous avez lu ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_5;Oh, j'ai lu beaucoup de livres. De bons livres.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_6;Mais pas dans mes livres, c'est ce que vous voulez dire ?
+spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_7;Vous êtes une écrivaine ?
 spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_10_direction;smiling
-spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_10;What can I do for you? Miss...
+spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_10;Que puis-je faire pour vous ? Mademoiselle. ..
 spokentexts_schriftstellerin_top_a16_schriftstellerin_vorurteile_tseq_st_11;Mayers.
-spokentexts_schriftstellerin_ex_1_st_1;Lady Westmacott never let anyone tell her what to do. They say she was a stubborn one. And today she's one of the richest women in the world.
-spokentexts_schriftstellerin_talk_mit_1_st_1;A wonderful concert, wasn't it?
+spokentexts_schriftstellerin_ex_1_st_1;Lady Westmacott ne laisse jamais personne lui dire quoi faire. Ils disent qu'elle était têtue. Et aujourd'hui, elle est l'une des femmes les plus riches du monde.
+spokentexts_schriftstellerin_talk_mit_1_st_1;Un concert magnifique, n'est-ce pas ?
 sequences_schriftstellerin_talk_mit_1#2;[The writer looks disdainfully at the young woman.]
-spokentexts_schriftstellerin_talk_mit_1_st_2;I wouldn't have expected you to be a connoisseur of classical music.
-spokentexts_schriftstellerin_talk_mit_1_st_3;Because I'm American?
-spokentexts_schriftstellerin_talk_mit_1_st_4;Because you're young. And friendly and radiant. Someone like you doesn't have to know a lot to get along well in life.
-spokentexts_schriftstellerin_talk_mit_2_st_1;Lady Westmacott?
-spokentexts_schriftstellerin_talk_mit_2_st_2;Yes?
-spokentexts_schriftstellerin_talk_mit_3_st_1;The lady is not a fan of shallow conversation, which I respect.
-spokentexts_schriftstellerin_talk_mit_3_st_2;I shouldn't talk to her unless I have something serious to say.
+spokentexts_schriftstellerin_talk_mit_1_st_2;Je ne m'attendais pas à ce que vous soyez une fine connaisseuse de musique classique.
+spokentexts_schriftstellerin_talk_mit_1_st_3;Parce que je suis Américaine ?
+spokentexts_schriftstellerin_talk_mit_1_st_4;Parce que vous êtes jeune, rayonnante et lumineuse. Quelqu'un comme vous n'a pas à érudit pour avancer dans la vie.
+spokentexts_schriftstellerin_talk_mit_2_st_1;Lady Westmacott ?
+spokentexts_schriftstellerin_talk_mit_2_st_2;oui ?
+spokentexts_schriftstellerin_talk_mit_3_st_1;Cette dame n'est pas friande de conversations superficielles, ce que je respecte.
+spokentexts_schriftstellerin_talk_mit_3_st_2;Je ne devrais pas lui parler si je n'ai pas quelque chose de sérieux à lui dire.
