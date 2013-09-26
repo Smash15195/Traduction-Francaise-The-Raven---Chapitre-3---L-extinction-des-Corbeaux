@@ -5,28 +5,28 @@ characters_ohi;Ohi
 characters_wachmann;Wachmann
 sequences_a22_dach_seq_a22_dach_auftritt_des_ermittlers#0;[The butler turns away on the roof away from the wall.]
 spokentexts_a22_dach_seq_a22_dach_auftritt_des_ermittlers_st_1_direction;satisfied
-spokentexts_a22_dach_seq_a22_dach_auftritt_des_ermittlers_st_1;You've met your match, Raven. You hear me? Wherever you are, I beat you!
+spokentexts_a22_dach_seq_a22_dach_auftritt_des_ermittlers_st_1;Vous avez trouvé votre égal, Corbeau. Vous m'entendez ? Où que vous soyez, je vous ai battu !
 sequences_a22_dach_seq_a22_dach_auftritt_des_ermittlers#2;[The butler goes a few steps,  grabs in his his jacket pocket and pulls out the stones, without opening his hand.]
 sequences_a22_dach_seq_a22_dach_auftritt_des_ermittlers#3;[Behind a chimney emerges the Investigator.]
-spokentexts_a22_dach_seq_a22_dach_auftritt_des_ermittlers_st_2;Good evening, Mister Inch.
+spokentexts_a22_dach_seq_a22_dach_auftritt_des_ermittlers_st_2;Bonsoir, Monsieur Inch.
 sequences_a22_dach_seq_a22_dach_auftritt_des_ermittlers#5;[The butler is shocked, staring at the investigator. The investigator raises a weapon.]
 spokentexts_a22_dach_seq_a22_dach_auftritt_des_ermittlers_st_3_direction;unbelieving, shocked
-spokentexts_a22_dach_seq_a22_dach_auftritt_des_ermittlers_st_3;You?!
-spokentexts_a22_dach_seq_a22_dach_auftritt_des_ermittlers_st_4;The Eyes of the Sphinx, if you would be so kind.
+spokentexts_a22_dach_seq_a22_dach_auftritt_des_ermittlers_st_3;Vous ?!
+spokentexts_a22_dach_seq_a22_dach_auftritt_des_ermittlers_st_4;Les Yeux du Sphinx, s'il vous plait.
 sequences_a22_dach_seq_a22_dach_auftritt_des_ermittlers#8;[The investigator holds his outstretched hand towards the butler.]
-spokentexts_a22_dach_seq_a22_dach_auftritt_des_ermittlers_st_5;That's impossible!
-spokentexts_a22_dach_seq_a22_dach_auftritt_des_ermittlers_st_6;The jewels. Now!
+spokentexts_a22_dach_seq_a22_dach_auftritt_des_ermittlers_st_5;C'est impossible !
+spokentexts_a22_dach_seq_a22_dach_auftritt_des_ermittlers_st_6;Les joyaux. Maintenant !
 sequences_a22_dach_seq_a22_dach_auftritt_des_ermittlers#11;[As if in a trance the Butler raises his hand, opens his hands and he looks at the stones. He hesitates.]
 sequences_a22_dach_seq_a22_dach_auftritt_des_ermittlers#12;[Excited, he holds one of the stones againts the light, looks at it and just ignors the investigator. Shock and anger gets in the face of the butler.]
 spokentexts_a22_dach_seq_a22_dach_auftritt_des_ermittlers_st_7_direction;Anger, hatred
-spokentexts_a22_dach_seq_a22_dach_auftritt_des_ermittlers_st_7;Aaarrrgh!
+spokentexts_a22_dach_seq_a22_dach_auftritt_des_ermittlers_st_7;Aaarrrgh !
 sequences_a22_dach_seq_a22_dach_auftritt_des_ermittlers#14;[The butler whirls toward secret door, running toward it. The investigator brings himself into a shooting position, takes the gun in both hands.]
-spokentexts_a22_dach_seq_a22_dach_auftritt_des_ermittlers_st_8;Inch! Don't move a muscle! You're under arrest!
+spokentexts_a22_dach_seq_a22_dach_auftritt_des_ermittlers_st_8;Inch ! Ne bougez plus ! Vous êtes en état d'arrestation !
 sequences_a22_dach_seq_a22_dach_auftritt_des_ermittlers#16;[The butler ignors him, tries to open the door, already half open.]
 sequences_a22_dach_seq_a22_dach_auftritt_des_ermittlers#17;[The investigator lowers the gun a bit, is aiming precisely and fires a shot.]
 sequences_a22_dach_seq_a22_dach_auftritt_des_ermittlers#18;[The butler is hit on the thigh. The butler bends sharply, falling to the right. The stones fly him out of his hand. He tries to hold himself, but can't with his broken arm. He staggers.]
 spokentexts_a22_dach_seq_a22_dach_auftritt_des_ermittlers_st_9_direction;Pain, surprise
-spokentexts_a22_dach_seq_a22_dach_auftritt_des_ermittlers_st_9;AARGH!
+spokentexts_a22_dach_seq_a22_dach_auftritt_des_ermittlers_st_9;AARGH !
 sequences_a22_dach_seq_a22_dach_auftritt_des_ermittlers#20;[The investigator recognizes the danger, runs up to the butler.]
 sequences_a22_dach_seq_a22_dach_auftritt_des_ermittlers#21;[The Butler falls on the sloping roof, rolls over, disappears over the edge, split seconds before the investigator is there to hold him.]
 sequences_a22_dach_seq_a22_dach_hartes_pflaster#0;[Closeup of cobblestones in the street.]
@@ -40,59 +40,59 @@ sequences_a22_dach_seq_a22_dach_hartes_pflaster#7;"[Continue with the sequence "
 sequences_a22_dach_seq_a22_dach_monolog_des_ermittlers#0;[Cut to the raven nest. Closeup on the investigator.]
 sequences_a22_dach_seq_a22_dach_monolog_des_ermittlers#1;[The Investigator gets in from the direction of the roof.]
 spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_1_direction;from the off
-spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_1;A master thief who stole two cheap fakes and then fell to his death.
+spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_1;Un voleur de haut vol qui a dérobé deux contrefaçons et est tombé dans le vide.
 sequences_a22_dach_seq_a22_dach_monolog_des_ermittlers#3;[It can be seen the face of the investigator, as he scans the room a little perplexed with his eyes.]
 spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_2_direction;from the off
-spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_2;A shot that no one could explain.
+spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_2;Un coup de feu que personne n'a pu expliquer.
 sequences_a22_dach_seq_a22_dach_monolog_des_ermittlers#5;[Cut. Now you can see the whole room. It is empty.]
 sequences_a22_dach_seq_a22_dach_monolog_des_ermittlers#6;[The investigator stands thoughtful and a little perplexed at the door.]
 sequences_a22_dach_seq_a22_dach_monolog_des_ermittlers#7;[Fade out.]
 spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_3_direction;from the off
-spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_3;But for the newspapers, it was the real jewels that were the heart of the story.
+spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_3;Mais pour les journaux, les vrais joyaux étaient le coeur de l'histoire.
 sequences_a22_dach_seq_a22_dach_monolog_des_ermittlers#9;[Fade-in. Entrance, a display case.]
 sequences_a22_dach_seq_a22_dach_monolog_des_ermittlers#10;[The camera glides up the box until finally two gems appears. Both eyes of the Sphinx.]
 spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_4_direction;from the off
-spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_4;The Eyes of the Sphinx. Reunited in the Egyptian Museum.
+spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_4;Les Yeux du Sphinx. Réunis à nouveau à l'Egyptian Museum.
 sequences_a22_dach_seq_a22_dach_monolog_des_ermittlers#12;[Cut back. The guard and the Investigator are on the glass case, looking at the stones. The main entrance of the museum is no longer blocked.]
-spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_5;What kind of game is this?
-spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_6;The Raven's game.
-spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_7;At least you caught him!
+spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_5;Quel genre de jeu est-ce donc ?
+spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_6;Le jeu du Corbeau.
+spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_7;Au moins vous l'avez eu !
 spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_8_direction;embarrassed
-spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_8;Um. Again.
-spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_9;I saw the surprise and the anger in Inch's eyes. He knew he'd been played.
-spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_10;You don't mean...
-spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_11;At first they wanted us to believe that it was Gebhardt and now we're supposed to believe that it was Inch.
+spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_8;Um. À nouveau.
+spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_9;J'ai vu la surprise et la colère dans les yeux de Inch. Il a compris qu'il avait été manipulé.
+spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_10;Vous ne pensez pas que...
+spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_11;On a d'abord voulu nous faire croire que c'était Gebhardt et maintenant nous sommes censés penser que c'était Inch.
 sequences_a22_dach_seq_a22_dach_monolog_des_ermittlers#20;[The Investigator goes determined and with quick steps towards the front door.]
 spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_12_direction;while walking
-spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_12;He's still out there.
+spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_12;Il est toujours au large.
 sequences_a22_dach_seq_a22_dach_monolog_des_ermittlers#22;"[The guard remains there,a bit puzzled, raises his arms in a ""I do not know"" gesture.]"
-spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_13;So then - who IS the Raven?
+spokentexts_a22_dach_seq_a22_dach_monolog_des_ermittlers_st_13;Mais alors, qui EST le Corbeau ?
 sequences_a22_dach_seq_a22_dach_monolog_des_ermittlers#24;[The guard runs after the Investigator.]
 sequences_a22_dach_seq_a22_dach_monolog_des_ermittlers#25;[End of section.]
 sequences_a22_rabennest_seq_a22_rabennest_ankunft#0;[Fade in. It can be seen the exit toward the stairs.]
 sequences_a22_rabennest_seq_a22_rabennest_ankunft#1;[The Arab quietly climbs the staircase. He is out of breath, but he's silent. ]
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_1;How did you do it? How did you plant the message on the safe in the train? How did you know that Gebhardt killed the baroness?
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_1;Comment avez-vous fait ? Comment avez-vous déposé le message sur le coffre à bord du train ? Comment saviez-vous que Gebhardt avait tué la Baronne ?
 sequences_a22_rabennest_seq_a22_rabennest_ankunft#4;[The Arab takes short breath, and gets back his power. Then he raises the gun, gets up and moves cautiously toward them.]
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_2;And the demolition charge below the treasure chamber. How... how did you manage it all? Even if your arm isn't lame...
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_3;Oh, it is. Believe me.
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_4;I needed help, it's true. A messenger boy to replace my arms and legs.
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_2;Et les explosifs sous la salle au trésor. Comment... comment avez-vous réussi tout ça ? Même si votre bras n'est pas handicapé...
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_3;Oh, Il l'est. Croyez moi.
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_4;J'ai eu besoin d'aide, c'est exact. Un coursier pour remplacer mes bras et mes jambes.
 sequences_a22_rabennest_seq_a22_rabennest_ankunft#8;[Now, Ohi and the Butler notes the Arab and turns around to face him.]
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_5;A messenger boy?
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_5;Un coursier ?
 sequences_a22_rabennest_seq_a22_rabennest_ankunft#10;[Butler looks at the Arab.]
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_6;Ah! Adil.
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_7;This could be interesting.
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_6;Ah ! Adil.
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_7;Ça pourrait être intéressant.
 sequences_a22_rabennest_seq_a22_rabennest_ankunft#13;[The Arab raises the gun of the guard, then aims at the Butler.]
 spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_8_direction;to Ohi
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_8;He's quite talented - but unreliable.
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_40;He has a mind of his own. His own plans. Don't you, Adil? 
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_9;I never wanted blood to be shed.
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_41;But it's time to make an exception.
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_8;Il a du talent mais manque de fiabilité.
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_40;C'est une forte tête. Il a ses propres plans. N'est-ce pas Adil ? 
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_9;Je n'ai jamais voulu que le sang coule.
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_41;Mais il est temps de faire une exception.
 sequences_a22_rabennest_seq_a22_rabennest_ankunft#16;[The Arab aims at one leg of the Butler, pulls the trigger. Nothing. Surprised, he tries it again. Again nothing. No shot.]
 spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_10;Tsk tsk tsk.
 sequences_a22_rabennest_seq_a22_rabennest_ankunft#18;[The butler is aiming at the Arab, he let down the weapon full of fear.]
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_11;He only forgot one thing.
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_12;I keep things firmly in hand! Always.
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_13;End of story.
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_11;Il a juste oublié un détail.
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_12;Je garde les choses fermement en main ! Toujours.
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_13;Fin de l'histoire.
 sequences_a22_rabennest_seq_a22_rabennest_ankunft#22;[The Butler swings the weapon in Ohis direction. A short pause. Then a shot is heard.]
 sequences_a22_rabennest_seq_a22_rabennest_ankunft#23;[A short time it is not clear who shot whom (the real shot can't be seen).]
 sequences_a22_rabennest_seq_a22_rabennest_ankunft#24;[Cut to Ohi. The camera shows his surprised face. Then the cam goes down on him.]
@@ -100,98 +100,98 @@ sequences_a22_rabennest_seq_a22_rabennest_ankunft#25;[Ohi's hands holding his st
 sequences_a22_rabennest_seq_a22_rabennest_ankunft#26;[Cut to a long shot.]
 sequences_a22_rabennest_seq_a22_rabennest_ankunft#27;[You can see clearly now that the butler has the smoking gun in his hand. The Arab is petrified. Ohi slowly is falling forward and is lying dead.]
 spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_14_direction;scared
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_14;No!
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_14;Non !
 sequences_a22_rabennest_seq_a22_rabennest_ankunft#29;[With quick steps he is next to Ohi. He kneels down, touches on the lifeless body, he do not know what to do.]
 spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_15_direction;cold
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_15;Stupid little policeman.
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_15;Stupide petit policier.
 spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_16_direction;cold
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_16;He shouldn't have messed with the Raven.
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_16;Il n'aurait pas dû se frotter au Corbeau.
 sequences_a22_rabennest_seq_a22_rabennest_ankunft#32;[The Arab looks hateful, with tears in his eyes.]
 spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_17_direction;hateful
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_17;YOU AREN'T THE RAVEN!
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_17;VOUS N'ÊTES PAS LE CORBEAU !
 spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_18_direction;hateful
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_18;The Raven would never have shot a defenseless old man!
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_18;Le Corbeau n'aurait jamais tiré sur un vieil homme sans défense !
 sequences_a22_rabennest_seq_a22_rabennest_ankunft#35;[The Butlergrabs into his pocket, pulls out the two eyes of the Sphinx, keeps them on the flat hand.]
 spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_19_direction;suppressed anger
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_19;No. He wouldn't have. But now he has. At least, that's what everyone will think.
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_19;Non. Il ne l'aurait pas fait. Mais maintenant c'est le cas. En tout cas, c'est ce que tout le monde va penser.
 spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_20_direction;tired, beaten
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_20;Why does that matter? Who are you?
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_21;We worked for him. For the Raven. My brother and I.
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_20;Pourquoi est-ce si important ? Qui êtes-vous ?
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_21;Nous avons travaillé pour lui. Pour le Corbeau. Mon frère et moi.
 sequences_a22_rabennest_seq_a22_rabennest_ankunft#39;[The butler takes the gun stronger in his hand, struggles against his anger.]
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_22;He's responsible for my brother being shot and for my crippled arm. He sacrificed us!
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_25;Who? Who is the Raven?!
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_26;I don't know. I never met him and, in all these years, I've never found him.
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_22;Il est responsable de la mort de mon frère et de mon bras handicapé. Il nous a sacrifiés !
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_25;Qui ? Qui est le Corbeau ?!
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_26;Je ne sais pas. Je ne l'ai jamais rencontré et, malgré toutes ces années, je ne l'ai jamais trouvé.
 sequences_a22_rabennest_seq_a22_rabennest_ankunft#45;[The Arab is stunned.]
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_27;You don't know who you worked for?
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_28;No one knows who the Raven is. Some say he's dead. The fact is, he never returned to the stage after that fatal night in Paris.
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_27;Vous ne savez pas pour qui vous travailliez ?
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_28;Personne ne connait l'identité du Corbeau. Certains disent qu'il est mort. Le fait est qu'il n'a jamais repris du service après cette nuit fatale à Paris.
 spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_29_direction;has succeeded
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_29;So you want to lure him out of hiding...
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_29;Donc vous vouliez le faire sortir de sa cachette...
 spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_30_direction;grim
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_30;And if anything can, it's the burglary of the century, executed by another thief - while using his name!
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_30;Et si quelque chose peut le faire c'est bien le cambriolage du siècle, perpétré en son nom par un autre voleur !
 spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_31_direction;unbelieving
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_31;He doesn't come.
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_32;But I still got my revenge!
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_31;Il n'est pas venu.
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_32;Mais j'ai tout de même eu ma revanche !
 spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_33_direction;triumphantly
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_33;"The ""gentleman thief""-now a bomb-throwing murderer!"
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_33;"Le ""voleur élégant"", maintenant un meurtrier poseur de bombes !"
 spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_34_direction;grim satisfaction
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_34;Oh, I do hope he is still with us, watching helplessly as I ruin his life's work... as he ruined mine!
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_34;Oh, j'espère vraiment qu'il est encore parmi nous, impuissant devant la façon dont je ruine son oeuvre... comme il a ruiné la mienne !
 sequences_a22_rabennest_seq_a22_rabennest_ankunft#54;[The butler looks briefly to the secret door, then turns back.]
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_35;Enough chatter. I'll be going.
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_35;Assez bavardé. Je dois y aller.
 sequences_a22_rabennest_seq_a22_rabennest_ankunft#56;[The Butler throws the Arab his gun. He catches it dazed, staring at the gun in his hands (but he does not make it ready to fire).]
 spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_36_direction;uncomprehendingly
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_36;But why...
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_37;Your little girlfriend escaped. And if I can't eliminate all the witnesses, I can at least destroy their credibility.
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_36;Mais pourquoi...
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_37;Votre petite amie s'est échappée. Si je ne peux pas éliminer tous les témoins, je peux au moins détruire leur crédibilité.
 sequences_a22_rabennest_seq_a22_rabennest_ankunft#59;[The Arab gets better, gets up, aimes at the Butler, pulls the trigger. The gun is empty.]
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_38;Why did you just shoot poor Constable Zellner, lad? They'll hang you and your accomplice.
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_38;Pourquoi avez-vous tiré sur le pauvre Officier Zellner, jeune homme ? Ils seront sans pitié pour vous et votre complice.
 spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_39_direction;laughs
-spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_39;Hahaha!
+spokentexts_a22_rabennest_seq_a22_rabennest_ankunft_st_39;Hahaha !
 sequences_a22_rabennest_seq_a22_rabennest_ankunft#62;[While still laughing, he climbs through the secret door. The Arab runs after him, but it's too late. The door has closed.]
 sequences_a23_duene_seq_a23_duene_twist#0;[A dune. The young woman is sitting on a picnic blanket and watch the sea.]
 sequences_a23_duene_seq_a23_duene_twist#1;[The young woman looks to the sea (idle).]
 sequences_a23_duene_seq_a23_duene_twist#2;[Cut to closeup.]
 sequences_a23_duene_seq_a23_duene_twist#3;[Feets are coming into the picture. She looks up.]
-spokentexts_a23_duene_seq_a23_duene_twist_st_1;Hello there, handsome devil.
+spokentexts_a23_duene_seq_a23_duene_twist_st_1;Bonjour mon joli.
 sequences_a23_duene_seq_a23_duene_twist#5;[The Arab sits next to her in the wind, gives her a kiss.]
-spokentexts_a23_duene_seq_a23_duene_twist_st_2;Hey there, pretty lady.
+spokentexts_a23_duene_seq_a23_duene_twist_st_2;Salut beauté.
 sequences_a23_duene_seq_a23_duene_twist#7;[The Arab continues to kiss, but she pulls away.]
-spokentexts_a23_duene_seq_a23_duene_twist_st_3;Don't. My father will be here any moment.
-spokentexts_a23_duene_seq_a23_duene_twist_st_4;Did you tell him about our engagement?
+spokentexts_a23_duene_seq_a23_duene_twist_st_3;Non. Mon père sera là d'un instant à l'autre.
+spokentexts_a23_duene_seq_a23_duene_twist_st_4;Lui as-tu pas parlé de nos fiançailles ?
 spokentexts_a23_duene_seq_a23_duene_twist_st_5_direction;from the off
-spokentexts_a23_duene_seq_a23_duene_twist_st_5;She did.
+spokentexts_a23_duene_seq_a23_duene_twist_st_5;Elle l'a fait.
 sequences_a23_duene_seq_a23_duene_twist#11;[Cut to Ohi, who is standing behind them.]
 sequences_a23_duene_seq_a23_duene_twist#12;[Ohi is behind the two, both are turning around while sitting.]
 spokentexts_a23_duene_seq_a23_duene_twist_st_6_direction;slightly reproachful
-spokentexts_a23_duene_seq_a23_duene_twist_st_6;I almost slipped out of character.
-spokentexts_a23_duene_seq_a23_duene_twist_st_7;Oh, Daddy... We all know that'd never happen. You were Anton Jakob Zellner through and through - even with the world crashing down around you.
+spokentexts_a23_duene_seq_a23_duene_twist_st_6;J'ai failli sortir de mon rôle.
+spokentexts_a23_duene_seq_a23_duene_twist_st_7;Oh, Papa... Nous savons tous que c'est impossible. Tu étais Anton Jakob Zellner d'un bout à l'autre, même avec le monde en perdition autour de toi.
 sequences_a23_duene_seq_a23_duene_twist#15;[As she talks, the young woman stretched out his hand inviting Ohi. He takes the hand, and sits down with the two.]
 spokentexts_a23_duene_seq_a23_duene_twist_st_8_direction;satisfied
-spokentexts_a23_duene_seq_a23_duene_twist_st_8;Didn't go too badly, did it?
-spokentexts_a23_duene_seq_a23_duene_twist_st_9;Well, Inch nearly blew us up and I was almost charged with murder.
+spokentexts_a23_duene_seq_a23_duene_twist_st_8;Ça ne s'est pas trop mal passé, n'est-ce pas ?
+spokentexts_a23_duene_seq_a23_duene_twist_st_9;Eh bien, Inch nous a presque fait tous exploser et j'ai failli être accusé de meurtre.
 spokentexts_a23_duene_seq_a23_duene_twist_st_10_direction;happy
-spokentexts_a23_duene_seq_a23_duene_twist_st_10;Ah, yes-exciting, wasn't it?
-spokentexts_a23_duene_seq_a23_duene_twist_st_11;I haven't had fun like that since I retired.
+spokentexts_a23_duene_seq_a23_duene_twist_st_10;Ah, oui. Excitant, non ?
+spokentexts_a23_duene_seq_a23_duene_twist_st_11;Je ne m'étais pas autant amusé depuis que j'ai pris ma retraite.
 spokentexts_a23_duene_seq_a23_duene_twist_st_12_direction;serious, somewhat reproachfully
-spokentexts_a23_duene_seq_a23_duene_twist_st_12;Dr. Gebhardt nearly killed you!
-spokentexts_a23_duene_seq_a23_duene_twist_st_13;No one could have seen that coming. At least we managed to clear things up quickly.
-spokentexts_a23_duene_seq_a23_duene_twist_st_14;I would have preferred it if things went according to the old plan. We'd have swapped the jewel aboard the ship and Alex wouldn't have been kidnapped by Inch.
-spokentexts_a23_duene_seq_a23_duene_twist_st_15;And I'd have preferred it if you hadn't given me a nasty bump on my noggin!
+spokentexts_a23_duene_seq_a23_duene_twist_st_12;Le Dr Gebhardt vous a presque tué !
+spokentexts_a23_duene_seq_a23_duene_twist_st_13;Personne ne pouvait prévoir ça. Au moins nous sommes parvenus à remettre les choses en place rapidement.
+spokentexts_a23_duene_seq_a23_duene_twist_st_14;J'aurais préféré que tout se passe comme prévu initialement. Nous aurions échangé les joyaux à bord du navire et Alex n'aurait pas été kidnappée par Inch.
+spokentexts_a23_duene_seq_a23_duene_twist_st_15;Et j'aurais préféré ne pas recevoir une sale bosse sur ma tête !
 spokentexts_a23_duene_seq_a23_duene_twist_st_16_direction;offended
-spokentexts_a23_duene_seq_a23_duene_twist_st_16;And what would your excuse have been for staying on board if I hadn't? Hey, I improvised.
-spokentexts_a23_duene_seq_a23_duene_twist_st_17;Hmm. Good point.
+spokentexts_a23_duene_seq_a23_duene_twist_st_16;Et quelle aurait été votre excuse pour rester à bord ? Hé, j'ai improvisé.
+spokentexts_a23_duene_seq_a23_duene_twist_st_17;Hmm. Bien vu.
 sequences_a23_duene_seq_a23_duene_twist#26;[The young woman leans against Ohis shoulder. The Arab begins to open a champagne bottle and filles three glasses.]
-spokentexts_a23_duene_seq_a23_duene_twist_st_18;I was afraid Inch would realize that you were wearing a bulletproof vest.
-spokentexts_a23_duene_seq_a23_duene_twist_st_19;"He was too confident. After he foiled your ""plan"", he thought he had everything under control."
-spokentexts_a23_duene_seq_a23_duene_twist_st_20;He never really took a look at the emerald in the display case. He just assumed that they shipped the real jewel from Switzerland.
-spokentexts_a23_duene_seq_a23_duene_twist_st_21;And after my little tussle with Inch, we had both jewels.    
-spokentexts_a23_duene_seq_a23_duene_twist_st_22;He blew half the museum to smithereens just to steal a fake.
-spokentexts_a23_duene_seq_a23_duene_twist_st_23;He was always rude and insolent. I never should have worked with him. His double-dealing cost his brother's life...
-spokentexts_a23_duene_seq_a23_duene_twist_st_24;And his own as well.
-spokentexts_a23_duene_seq_a23_duene_twist_st_25;I'd still rather see him in jail than in a morgue.
+spokentexts_a23_duene_seq_a23_duene_twist_st_18;J'avais peur qu'Inch ne découvre que tu portais un gilet pare-balles.
+spokentexts_a23_duene_seq_a23_duene_twist_st_19;"Il était trop sûr de lui. Après avoir fait échouer votre ""plan"", il pensait contrôler parfaitement la situation."
+spokentexts_a23_duene_seq_a23_duene_twist_st_20;Il n'a jamais observé correctement l'émeraude dans la vitrine. Il a simplement supposé qu'ils avaient envoyé le vrai joyau depuis la Suisse.
+spokentexts_a23_duene_seq_a23_duene_twist_st_21;Et après ma petite échauffourée avec Inch, nous possédions les deux joyaux.    
+spokentexts_a23_duene_seq_a23_duene_twist_st_22;Il a réduit la moitié du musée en miettes pour voler une copie.
+spokentexts_a23_duene_seq_a23_duene_twist_st_23;Il a toujours été impoli et insolent. Je n'aurais jamais dû travailler avec lui. Son double-jeu a coûté sa vie à son frère...
+spokentexts_a23_duene_seq_a23_duene_twist_st_24;Et la sienne également.
+spokentexts_a23_duene_seq_a23_duene_twist_st_25;J'aurais tout de même préféré le voir finir derrière les barreaux plutôt qu'à la morgue.
 sequences_a23_duene_seq_a23_duene_twist#35;[The Arab gives the wife and Ohi one glass of champagn. They take it, the woman sits up straight.]
-spokentexts_a23_duene_seq_a23_duene_twist_st_26;He shouldn't have messed with the Raven.
+spokentexts_a23_duene_seq_a23_duene_twist_st_26;Il n'aurait jamais dû se frotter au Corbeau.
 sequences_a23_duene_seq_a23_duene_twist#37;[The Arab takes his own glass in hand, they raise the glasses.]
-spokentexts_a23_duene_seq_a23_duene_twist_st_27;To your retirement!
-spokentexts_a23_duene_seq_a23_duene_twist_st_28;To the future!
+spokentexts_a23_duene_seq_a23_duene_twist_st_27;À ta retraite !
+spokentexts_a23_duene_seq_a23_duene_twist_st_28;À l'avenir !
 sequences_a23_duene_seq_a23_duene_twist#40;[They begin to empty their glasses.]
 sequences_a23_duene_seq_a23_duene_twist#41;[Cut back. The three figures on the dune in front of the sea.]
 sequences_a23_duene_seq_a23_duene_twist#42;[End of section.]
@@ -201,7 +201,7 @@ sequences_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_1#2;[The 
 sequences_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_1#3;[He looks tired and weak, but works possessed.]
 sequences_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_1#4;[He takes a new photo, looks and freezes.]
 spokentexts_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_1_st_1_direction;grim satisfaction
-spokentexts_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_1_st_1;Finally.
+spokentexts_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_1_st_1;Enfin.
 sequences_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_1#6;[He puts the magnifying glass away as he pleased looks at the photo. Now with the free hand he grabs diagonally behind the nightstand. His hand is looking for the pill bottles.]
 sequences_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_1#7;[The camera moves with his hand. It can be seen that the pills are gone.]
 sequences_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_1#8;[Also the investigator has now noticed that something seems to be not right. Casually, he looks to the bedside table, then he freeze. The pills are gone. Instead, there is a letter there, leaning against the lamp.]
@@ -211,17 +211,17 @@ sequences_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_1#11;[Go 
 sequences_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2#0;[The investigator takes the letter, hesitates a moment, then opens it. He pulls out a folded sheet, opens it, and begins to read.]
 sequences_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2#1;[Cut to the letter.]
 spokentexts_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2_st_1_direction;reads
-spokentexts_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2_st_1;Dear Nico, the Raven is dead.
+spokentexts_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2_st_1;Cher Nico, le Corbeau est mort.
 spokentexts_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2_st_2_direction;reads
-spokentexts_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2_st_2;Dear Nico, the Raven is dead.
+spokentexts_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2_st_2;Cher Nico, le Corbeau est mort.
 spokentexts_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2_st_3_direction;reads
-spokentexts_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2_st_3;Yet other criminals live. And they are more brutal and ruthless than he ever was. Who will stop them?
+spokentexts_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2_st_3;Malgré cela d'autres criminels subsistent. Et ils sont plus violents et impitoyables qu'il ne l'a jamais été. Qui va les arrêter ?
 spokentexts_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2_st_4_direction;reads
-spokentexts_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2_st_4;It would be tragic if a good policeman failed to do so because he was hunting for a dead man and ruining himself in the process.
+spokentexts_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2_st_4;Ce serait tragique si un bon policier refusait de le faire car trop occupé à pourchasser un fantôme et à ruiner sa vie par la même occasion.
 spokentexts_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2_st_5_direction;reads
-spokentexts_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2_st_5;Let the dead rest in peace. They are not coming back. R.
+spokentexts_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2_st_5;Laissez les morts reposer en paix. Ils ne reviendront pas. R.
 spokentexts_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2_st_6_direction;reads
-spokentexts_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2_st_6;Let the dead rest in peace. They are not coming back. R.
+spokentexts_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2_st_6;Laissez les morts reposer en paix. Ils ne reviendront pas. R.
 sequences_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2#8;[The investigator thinks about it. The paper still in his hand. Then he lifts the envelope. He has noticed that there is something inside.]
 sequences_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2#9;[He grabs in and pulls out a raven feather.]
 sequences_a25_kabine_ermittler_seq_a25_kabine_ermittler_spielende_teil_2#10;[Cut. Closeup of the face of the investigator.]
