@@ -4,231 +4,231 @@ characters_direktor;Direktor
 characters_frau;Frau
 characters_ohi;Ohi
 characters_wachmann;Wachmann
-texts_a20_dach_ausgang_rabennest_mo_betrachen_1__2;Examine the secret door
+texts_a20_dach_ausgang_rabennest_mo_betrachen_1__2;Examiner la porte secrète
 spokentexts_a20_dach_ausgang_rabennest_ex_1_st_1_direction;slightly anxious
-spokentexts_a20_dach_ausgang_rabennest_ex_1_st_1;I can't stop thinking about her, but I must.
+spokentexts_a20_dach_ausgang_rabennest_ex_1_st_1;Je ne peux pas m'empêcher de penser à elle, pourtant il le faut.
 spokentexts_a20_dach_ausgang_rabennest_ex_1_st_2_direction;Pulling himself together
-spokentexts_a20_dach_ausgang_rabennest_ex_1_st_2;I have a job to do and it won't help either of us if I'm not totally focused.
+spokentexts_a20_dach_ausgang_rabennest_ex_1_st_2;J'ai un boulot à faire et être déconcentré n'avancera personne.
 spokentexts_a20_dach_ausgang_rabennest_ex_2_st_1_direction;slightly evocative, trying to convince himself
-spokentexts_a20_dach_ausgang_rabennest_ex_2_st_1;Everything will be fine. Nothing will go wrong. We'll walk out of the museum and get married.
-texts_a20_dach_ausgang_seite_mo_leave_1;Go down the ladder
-spokentexts_a20_dach_ausgang_seite_leave_1_st_1;No. Inch said everything I need is in the bag.
-spokentexts_a20_dach_ausgang_seite_leave_1_st_2;I believe him. He wants the jewel. Until he gets it, he won't put any obstacles in my path!
-texts_a20_dach_diamant_mo_inventar_1;Diamond
-spokentexts_a20_dach_diamant_ex_1_st_1;The diamond isn't bad... Not flawless, but very big.
-spokentexts_a20_dach_diamant_ex_1_st_2;Would it be good for an engagement ring?
-spokentexts_a20_dach_diamant_ex_2_st_1;Hmm. Diamond is the hardest natural substance in the world... I have to be able to use that to my advantage somehow!
-texts_a20_dach_kaugummi_mo_inventar_1;Chewing gum
-spokentexts_a20_dach_kaugummi_ex_1_st_1;I once heard that chewing gum improves concentration. I could really use the help.
-texts_a20_dach_kaugummipackung_mo_use_1;Chew gum
+spokentexts_a20_dach_ausgang_rabennest_ex_2_st_1;Tout va rentrer dans l'ordre. Tout va bien se passer. Nous allons quitter ce musée et nous marier.
+texts_a20_dach_ausgang_seite_mo_leave_1;Descendre l'échelle
+spokentexts_a20_dach_ausgang_seite_leave_1_st_1;Non. Inch a dit que tout ce dont j'avais besoin se trouvait dans le sac.
+spokentexts_a20_dach_ausgang_seite_leave_1_st_2;Je le crois. Il veut le joyau. Tant qu'il ne l'aura pas, il ne me mettra pas de batons dans les roues !
+texts_a20_dach_diamant_mo_inventar_1;Diamant
+spokentexts_a20_dach_diamant_ex_1_st_1;Le diamant n'est pas mal... Pas parfait, mais très gros.
+spokentexts_a20_dach_diamant_ex_1_st_2;Serait-il adapté pour une bague de fiançailles ?
+spokentexts_a20_dach_diamant_ex_2_st_1;Hmm. Le diamant est le matériel naturel le plus dur qui soit... Je devrais bien pouvoir utiliser cette propriété à mon avantage !
+texts_a20_dach_kaugummi_mo_inventar_1;Chewing-gum
+spokentexts_a20_dach_kaugummi_ex_1_st_1;J'ai entendu dire que mâcher du chewing-gum améliorait la concentration. Ca ne serait pas de trop dans ma situation.
+texts_a20_dach_kaugummipackung_mo_use_1;Mâcher le chewing-gum
 sequences_a20_dach_kaugummipackung_use_1#1;[The Arab gets out his chewing gum wrapper and looks at it.]
-spokentexts_a20_dach_kaugummipackung_use_1_st_1;Only one piece left...
+spokentexts_a20_dach_kaugummipackung_use_1_st_1;Il n'en reste qu'un...
 sequences_a20_dach_kaugummipackung_use_1#3;[The Arab takes out the gum stick and puts it in his mouth (chewing perhaps short conspicuous). Then he crumpled up the pack and hesitates.]
 spokentexts_a20_dach_kaugummipackung_use_1_st_2_direction;full mouth, surprised
-spokentexts_a20_dach_kaugummipackung_use_1_st_2;What's this?
+spokentexts_a20_dach_kaugummipackung_use_1_st_2;Qu'est-ce que c'est que ça ?
 sequences_a20_dach_kaugummipackung_use_1#5;[The Arab folds the package apart, looks inside. He holds a flat hand out and shakes the package out on it. A diamond falls into his hands.]
 sequences_a20_dach_kaugummipackung_use_1#6;[The Arab puts the gum pack away (it'S is gone, but the aluminum foil of the gum stick is now in the inventory) and considers the diamond in his hand.]
-spokentexts_a20_dach_kaugummipackung_use_1_st_3;Unless this is the most expensive chewing gum commercial ever, Inch wanted me to find the diamond.
-spokentexts_a20_dach_kaugummipackung_use_1_st_4;I'm sure it's not a reward for all my hard work.
+spokentexts_a20_dach_kaugummipackung_use_1_st_3;A moins que ce ne soit le coup de pub le plus cher de l'histoire, Inch voulait que je trouve le diamant.
+spokentexts_a20_dach_kaugummipackung_use_1_st_4;Je ne pense pas que ce soit une récompense pour mon dur labeur.
 sequences_a20_dach_kaugummipackung_use_1#9;[The Arab thinks for a moment, then he throws the diamond into the air, grabs it  and puts it on.]
-spokentexts_a20_dach_kaugummipackung_use_2_st_1;A pack of chewing gum. My favorite brand!
-texts_a20_dach_kaugummipapier_mo_inventar_1;Chewing gum wrapper
-spokentexts_a20_dach_kaugummipapier_ex_1_st_1;Once the chewing gum loses its flavor, I can wrap it in this and throw it away.
-texts_a20_dach_kiste_mo_ex_1;Examine the tarp
-spokentexts_a20_dach_kiste_ex_1_st_1;That tarp is covering something...
+spokentexts_a20_dach_kaugummipackung_use_2_st_1;Un paquet de chewing-gum. Ma marque préférée !
+texts_a20_dach_kaugummipapier_mo_inventar_1;Papier de chewing-gum
+spokentexts_a20_dach_kaugummipapier_ex_1_st_1;Une fois que le chewing-gum n'aura plus de goût je pourrai l'envelopper dedans et le jeter.
+texts_a20_dach_kiste_mo_ex_1;Examiner la bâche
+spokentexts_a20_dach_kiste_ex_1_st_1;Une bâche qui couvre quelque chose...
 sequences_a20_dach_kiste_ex_1#2;[The Arab is going to the tarp and knocks on it.]
-spokentexts_a20_dach_kiste_ex_1_st_2;Hmm. Bucket, rags, squeegee... Tools of the trade for window washers.
-spokentexts_a20_dach_kiste_ex_1_st_3;Probably didn't feel like carrying their equipment up to the roof every time, so they stashed it here.
-texts_a20_dach_kletterausruestung_mo_ex_1;Examine the climbing equipment
-texts_a20_dach_kletterausruestung_mo_use_1;Put on the climbing equipment
-spokentexts_a20_dach_kletterausruestung_ex_1_st_1;This is the same climbing equipment that I wore for the burglary in London.
-spokentexts_a20_dach_kletterausruestung_ex_1_st_2;Only the mask is missing. Does Inch want to make sure that the security cameras can see my handsome face?
+spokentexts_a20_dach_kiste_ex_1_st_2;Hmm. Seau, chiffons, raclette... Des outils classiques pour lever les fenêtres.
+spokentexts_a20_dach_kiste_ex_1_st_3;Ils ne voulaient probablement pas trimballer leur équipement jusqu'au toit tous le sjours et ont décidé de le ranger ici.
+texts_a20_dach_kletterausruestung_mo_ex_1;Examiner l'équipement d'escalade
+texts_a20_dach_kletterausruestung_mo_use_1;Enfiler l'équipement d'escalade
+spokentexts_a20_dach_kletterausruestung_ex_1_st_1;C'est exactement le même équipement que j'ai utilisé pour le cambriolage de Londres.
+spokentexts_a20_dach_kletterausruestung_ex_1_st_2;Il me manque que le masque. Inch veut-il s'assurer que les caméras de surveillance voient mon joli minoi ?
 sequences_a20_dach_kletterausruestung_use_1#1;"[The whole idea is the ""Move"" not to worry about fade to black, but with a couple of cuts that covers up that the Arab can not really change his clothes. After the short sequence he stands in the burglar outfit.]"
 sequences_a20_dach_kletterausruestung_use_1#2;[The Arab picks up the climbing gear. Cut to closeup. It can be seen how he throws the equipment over the shoulders.]
 sequences_a20_dach_kletterausruestung_use_1#3;[Cut to the thigh, which are already in the climbing equipment. The camera moves up and you can just see how the Arab grabs the belt.]
 sequences_a20_dach_kletterausruestung_use_1#4;[Cut to a long shot, the Arab  stands in burglar outfit and checks here and there a belt.]
-texts_a20_dach_kurbel_mo_ex_1;Examine the crank
-texts_a20_dach_kurbel_mo_use_1;Use the crank with...
+texts_a20_dach_kurbel_mo_ex_1;Examiner la manivelle
+texts_a20_dach_kurbel_mo_use_1;Utiliser la manivelle avec...
 spokentexts_a20_dach_kurbel_ex_1_st_1_direction;whistle
-spokentexts_a20_dach_kurbel_ex_1_st_1;*whistle*
+spokentexts_a20_dach_kurbel_ex_1_st_1;*siffle*
 sequences_a20_dach_kurbel_ex_1#2;[The Arab grabs the crank, looks at it.]
-spokentexts_a20_dach_kurbel_ex_1_st_2;A crank... Something for opening windows that are too heavy to move with your hands!
-spokentexts_a20_dach_kurbel_ex_1_st_3;Your new home.
+spokentexts_a20_dach_kurbel_ex_1_st_2;Une manivelle... Utile pour ouvrir les fenêtres qui sont trop lourdes pour être manipulées à mains nues !
+spokentexts_a20_dach_kurbel_ex_1_st_3;Ta nouvelle demeure.
 sequences_a20_dach_kurbel_ex_1#5;[The Arab lays the crank next to the window.]
-spokentexts_a20_dach_kurbel_ex_2_st_1;The window washers should never have been allowed to leave the crank up here. Maybe I can use it to open the window. 
-texts_a20_dach_lappen_mo_ex_1;Examine the window washers' tools
-texts_a20_dach_lappen_mo_inventar_1;Rag
-texts_a20_dach_lappen_mo_use_1;Use the wet rag with...
-spokentexts_a20_dach_lappen_ex_1_st_1;I don't need the squeegee. The bucket? Hmm. Not really.
-spokentexts_a20_dach_lappen_ex_1_st_2;This rag, on the other hand... I could wipe away fingerprints with it.
+spokentexts_a20_dach_kurbel_ex_2_st_1;Les laveurs de carreaux n'auraient jamais dû laisser la manivelle ici. Je peut peut être l'utilise rpour ouvrir la fenpetre. 
+texts_a20_dach_lappen_mo_ex_1;Examiner les outils des laveurs de carreaux
+texts_a20_dach_lappen_mo_inventar_1;Chiffon
+texts_a20_dach_lappen_mo_use_1;Utiliser le chiffon avec...
+spokentexts_a20_dach_lappen_ex_1_st_1;Je n'ai pas besoin de la raclette. Le seau ? Hmm. Pas vraiment.
+spokentexts_a20_dach_lappen_ex_1_st_2;Par contre ce chiffon... Je pourrais effacer mes empreintes avec.
 sequences_a20_dach_lappen_ex_1#3;[The Arab takes the cloth and puts it on.]
-spokentexts_a20_dach_lappen_ex_2_st_1;A small rag. Maybe for polishing windows?
-spokentexts_a20_dach_lappen_ex_3_st_1;The rag is dripping wet.
+spokentexts_a20_dach_lappen_ex_2_st_1;Un petit chiffon. Peut être pour essuyer les vitres ?
+spokentexts_a20_dach_lappen_ex_3_st_1;Le chiffon est trempé.
 sequences_a20_dach_lappen_use_1#1;[As soon as you click on the cloth, it sticks on the cursor and can be used with things in the scene.]
-texts_a20_dach_scheibe_mo_ex_1-4;Examine the window
-texts_a20_dach_scheibe_mo_ex_6;Examine the entrance
-texts_a20_dach_scheibe_mo_leave_1;Abseil down into the treasure chamber
-texts_a20_dach_scheibe_mo_use_1__2;Open the window
-texts_a20_dach_scheibe_mo_used_mit_kaugummipapier_1-3;Override the electrical contacts with the chewing gum wrapper
-texts_a20_dach_scheibe_mo_used_mit_kurbel_1-3;Open the window with the crank
-texts_a20_dach_scheibe_mo_used_mit_lappen_1;Polish the window
-texts_a20_dach_scheibe_mo_used_mit_lappen_2_3;Use the rag with the window
-texts_a20_dach_scheibe_mo_used_mit_messer_1_2;Use the knife with the window
+texts_a20_dach_scheibe_mo_ex_1-4;Examiner la fenêtre
+texts_a20_dach_scheibe_mo_ex_6;Examiner l'entrée
+texts_a20_dach_scheibe_mo_leave_1;Descendre en rappel dans la salle au trésor
+texts_a20_dach_scheibe_mo_use_1__2;Ouvrir la fenêtre
+texts_a20_dach_scheibe_mo_used_mit_kaugummipapier_1-3;Neutraliser le courant électrique avec le papier du chewing-gum
+texts_a20_dach_scheibe_mo_used_mit_kurbel_1-3;Ouvrir la fenêtre avec la manivelle
+texts_a20_dach_scheibe_mo_used_mit_lappen_1;Essuyer la fenêtre
+texts_a20_dach_scheibe_mo_used_mit_lappen_2_3;Utiliser le chiffon sur la fenêtre
+texts_a20_dach_scheibe_mo_used_mit_messer_1_2;Utiliser le couteau sur la fenêtre
 sequences_a20_dach_scheibe_ex_1#1;[The Arab leans on the glass roof, uses a hand to protect himself against the sun.]
-spokentexts_a20_dach_scheibe_ex_1_st_1;I can see the treasure chamber.
-spokentexts_a20_dach_scheibe_ex_1_st_2;There are several people moving around down there. I think the Eye is being delivered.
+spokentexts_a20_dach_scheibe_ex_1_st_1;J'ai vue sur la salle au trésor.
+spokentexts_a20_dach_scheibe_ex_1_st_2;Il y a plusieurs personnes en bas. Je crois que l'Oeil est en train d'arriver.
 sequences_a20_dach_scheibe_ex_1#4;[The Arab pushes himself off from the glass roof, is back down to normal.]
-spokentexts_a20_dach_scheibe_ex_2_st_1;This window can be opened. Must be an entrance for the window washers and maintenance crews when they have to work up here in the cupola.
+spokentexts_a20_dach_scheibe_ex_2_st_1;On peut ouvrir cette fenêtre. Elle doit servir d'accès aux laveurs et aux techniciens quand ils doivent travailler ici dans la coupole.
 sequences_a20_dach_scheibe_ex_2#2;[The Arab leans with one hand, looks at the glass along in the direction locking mechanism.]
-spokentexts_a20_dach_scheibe_ex_2_st_2;Hmm. There's a mechanism that opens the window when you turn the crank.
-spokentexts_a20_dach_scheibe_ex_2_st_3;Hmm. I see two contacts down there on the frame. There's a piece of metal stuck between them and fixed to the window.
-spokentexts_a20_dach_scheibe_ex_2_st_4;If I open the window, the piece of metal will move, breaking the circuit and setting off an alarm...
-spokentexts_a20_dach_scheibe_ex_2_st_5;Unless the guards have been notified beforehand, which is hardly an option in my case. I have to bypass the circuit!
+spokentexts_a20_dach_scheibe_ex_2_st_2;Hmm. Il y a un mécanisme qui ouvre la fenêtre quand on tourne la manivelle.
+spokentexts_a20_dach_scheibe_ex_2_st_3;Hmm. Je vois deux contacts sur le bord. Un bout de métal est coincé entre les deux et fixé à la fenêtre.
+spokentexts_a20_dach_scheibe_ex_2_st_4;Si j'ouvre la fenêtre le bout de métal va bouger, casser le circuit et déclencher l'alarme...
+spokentexts_a20_dach_scheibe_ex_2_st_5;A moins que les gardes n'aient été prévenus à l'avance, mais je doute que ce soit le cas ici. Je dois contourner le circuit !
 sequences_a20_dach_scheibe_ex_2#7;[The Arab pushes himself back from the window and stands there normal.]
-spokentexts_a20_dach_scheibe_ex_3_st_1;Somehow I have to get at the contacts of the alarm system and override the circuit... Only then I can open the window safely.
-spokentexts_a20_dach_scheibe_ex_4_st_1;Without a seal, there's a one or two centimeter gap below the window. Just enough to slip a couple of fingers through.
-spokentexts_a20_dach_scheibe_ex_5_st_1;The water in the rag should carry the electricity from one contact to the other, even if the piece of metal moves when the window is opened...
-spokentexts_a20_dach_scheibe_ex_6_st_1;This is my way into the museum. The only question is, how do I get down?
-spokentexts_a20_dach_scheibe_use_1_st_1;The contacts have been bypassed. But I can't just open the window. I need a crank or something like that.
-spokentexts_a20_dach_scheibe_use_2_st_1;I think this crank will do the trick.
+spokentexts_a20_dach_scheibe_ex_3_st_1;Je dois trouver un moyen d'atteindre les contacts électriques du système d'alarme et neutraliser le circuit... Je pourrais ensuite ouvrir la fenêtre sans danger.
+spokentexts_a20_dach_scheibe_ex_4_st_1;Sans le caoutchouc, il y a un espace d'un ou deux centimètres sous la fenêtre. Juste assez pour glisser deux doigts au travers.
+spokentexts_a20_dach_scheibe_ex_5_st_1;L'eau du chiffon devrait pouvoir conduire l'électricité d'un contact à l'autre, même si le bout de métal bouge quand la fenêtre sera ouverte...
+spokentexts_a20_dach_scheibe_ex_6_st_1;Voilà mon accès au musée. Reste à savoir comment je vais descendre.
+spokentexts_a20_dach_scheibe_use_1_st_1;J'ai contourné le circuit. Mais je ne peux pas ouvrir la fenêtre comme ça. Il me faut une manivelle ou quelque chose dans le genre.
+spokentexts_a20_dach_scheibe_use_2_st_1;Cette manivelle devrait faire l'affaire.
 sequences_a20_dach_scheibe_use_2#2;[The Arab picks up the crank, puts it on and opens the window. Then he puts the crank on the wall next to the open window.]
-spokentexts_a20_dach_scheibe_use_2_st_2;Excellent-no alarm!
-spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_1_st_1;How's that supposed to work? The contacts are on the other side of the window! I can't reach them.
-spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_2_st_1;Yes... The aluminum foil might bypass the circuit...
+spokentexts_a20_dach_scheibe_use_2_st_2;Parfait, pas d'alarme !
+spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_1_st_1;Comment ce truc fonctionne-t-il ? Les contacts sont de l'autre côté de la fenêtre ! Je ne peux pas les atteindre.
+spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_2_st_1;Oui... Le papier aluminium pourrait contourner le circuit...
 sequences_a20_dach_scheibe_used_mit_kaugummipapier_2#2;[The Arab pulls out the wrapping paper of the gum stick and puts his hand through the slot.]
-spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_2_st_2;Argh! Darn tight.
+spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_2_st_2;Argh ! C'est serré.
 sequences_a20_dach_scheibe_used_mit_kaugummipapier_2#4;[The Arab tries ion, it seems not to work quite.]
-spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_2_st_3;I can override the contacts with the strip, but I can't - ahh! Damn!
-spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_2_st_4;I lost the strip!
+spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_2_st_3;Je peux contourner le circuit avec le papier, mais je n'arrive pas... Ahh ! Punaise !
+spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_2_st_4;Le papier m'a échappé !
 sequences_a20_dach_scheibe_used_mit_kaugummipapier_2#7;[The Arab pulls his hand back, stands up.]
-spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_2_st_5;It wouldn't have worked anyway. The gap was too small.
-spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_3_st_1;That might have been an alternative, but the waterlogged rag should work just as well.
+spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_2_st_5;Ca n'aurait pas marché de toute façon. L'espace était trop petit.
+spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_3_st_1;C'était une solution de secours mais le chiffon mouillé devrait marcher tout aussi bien.
 sequences_a20_dach_scheibe_used_mit_kurbel_1#2;[The Arab leans with one hand, looks at the glass along in the direction locking mechanism.]
 sequences_a20_dach_scheibe_used_mit_kurbel_1#7;[The Arab pushes himself back from the window and stands there normal.]
 sequences_a20_dach_scheibe_used_mit_kurbel_3#1;[The Arab picks up the crank, puts it on and opens the window. Then he puts the crank on the wall next to the open window.]
-spokentexts_a20_dach_scheibe_used_mit_lappen_1_st_1;That really isn't my job.
-spokentexts_a20_dach_scheibe_used_mit_lappen_2_st_1;What's that supposed to do? Rags don't conduct electricity.
+spokentexts_a20_dach_scheibe_used_mit_lappen_1_st_1;Ce n'est pas vraiment mon boulot.
+spokentexts_a20_dach_scheibe_used_mit_lappen_2_st_1;Qu'est-ce que c'ets censé faire ? Les chiffons ne sont pas conducteurs.
 sequences_a20_dach_scheibe_used_mit_lappen_3#1;[The Arab takes the wet rag, kneels down in front of the window and presses the wet rag through the crack under the window.]
-spokentexts_a20_dach_scheibe_used_mit_lappen_3_st_1;OK, I'm in. And now back... and forth... and away we go!
+spokentexts_a20_dach_scheibe_used_mit_lappen_3_st_1;OK, C'est parti. Et maintenant en arrière... et en avant... et à bientôt !
 sequences_a20_dach_scheibe_used_mit_lappen_3#3;[The Arab is shaking the cloth back and forth and then let him roll over so that he lands on the contacts.]
-spokentexts_a20_dach_scheibe_used_mit_lappen_3_st_2;Got it! The wet rag is lying on the contacts!
+spokentexts_a20_dach_scheibe_used_mit_lappen_3_st_2;C'est bon ! Le chiffon mouillée est pil sur les contacts !
 sequences_a20_dach_scheibe_used_mit_lappen_3#5;[The Arab stands up, wiping his hands dry on his pants and stands normally.]
-spokentexts_a20_dach_scheibe_used_mit_messer_1_st_1;Hmm. I can't cut any of the windows out of the frame. But this window has a rubber seal on the bottom and the sides...
+spokentexts_a20_dach_scheibe_used_mit_messer_1_st_1;Hmm. Je ne peux pas sortir les fenêtres de leur support. Mais il y a du caoutchouc en bas et sur les côtés de la fenêtre...
 sequences_a20_dach_scheibe_used_mit_messer_1#2;[The Arab pulls out a knife, cuts down at the window and finally moves a thick rubber strips (about 1-1.5 cm in diameter) out.]
 sequences_a20_dach_scheibe_used_mit_messer_1#3;[The Arab throws the seal aside and takes the knife.]
-spokentexts_a20_dach_scheibe_used_mit_messer_1_st_2;The roof of the museum is now officially drafty.
-spokentexts_a20_dach_scheibe_used_mit_messer_2_st_1;I cut away as much of the seal as possible. I can't make the gap any larger with the knife.
-texts_a20_dach_seil_mo_ex_2__3;Examine the rope
-texts_a20_dach_seil_mo_use_1;Use the rope with...
-texts_a20_dach_seil_mo_use_2;Abseil down
-spokentexts_a20_dach_seil_ex_1a_st_1;A good rope, and more than long enough to abseil down into the treasure chamber.
-spokentexts_a20_dach_seil_ex_1b_st_1;I'll leave it there until I need it.
+spokentexts_a20_dach_scheibe_used_mit_messer_1_st_2;Le toit du musée est maintenant officiellement source de courants d'air.
+spokentexts_a20_dach_scheibe_used_mit_messer_2_st_1;J'ai enlevé autant de caoutchouc que possible. Impossible d'élargir l'espace davantage avec le couteau.
+texts_a20_dach_seil_mo_ex_2__3;Examiner la corde
+texts_a20_dach_seil_mo_use_1;Utiliser la corde avec...
+texts_a20_dach_seil_mo_use_2;Descendre en rappel
+spokentexts_a20_dach_seil_ex_1a_st_1;Une bonne corde et suffisamment longue pour descendre en rappel dans la salle au trésor.
+spokentexts_a20_dach_seil_ex_1b_st_1;Je vais la laisser ici tant que je ne suis pas prêt.
 sequences_a20_dach_seil_use_1#1;"[Sequence ""Araber_seilt_sich_ab"" is played.]"
-texts_a20_dach_stoffbeutel_mo_inventar_1;Cloth bag
-spokentexts_a20_dach_stoffbeutel_ex_1_st_1;A small cloth bag that can be drawn together at the top.
-spokentexts_a20_dach_stoffbeutel_ex_1_st_2;There was a pack of gum in the bag with a diamond inside. Inch wanted to make sure that it didn't get lost.
-texts_a20_dach_tasche_mo_ex_1;Search the bag
-texts_a20_dach_tasche_mo_ex_2;Examine the bag
+texts_a20_dach_stoffbeutel_mo_inventar_1;Sac en tissu
+spokentexts_a20_dach_stoffbeutel_ex_1_st_1;Un petit sac en tissu qui peut êtré noué.
+spokentexts_a20_dach_stoffbeutel_ex_1_st_2;Il y avait un paquet de chewing-gum contenant un diamant dans le sac. Inch voulait être sûr qu'il ne s'égare pas.
+texts_a20_dach_tasche_mo_ex_1;Fouiller le sac
+texts_a20_dach_tasche_mo_ex_2;Examiner le sac
 sequences_a20_dach_tasche_ex_1#1;[The Arab picks up the bag, put them on a wall, opens it and begins to search in it.]
 sequences_a20_dach_tasche_ex_1#2;[The Arab takes out climbing equipment, places them next to the wall.]
-spokentexts_a20_dach_tasche_ex_1_st_1;Climbing equipment...
+spokentexts_a20_dach_tasche_ex_1_st_1;De l'équipement d'escalade...
 sequences_a20_dach_tasche_ex_1#4;[The Arab grabs in again, pulls out a rope and putts it on the equipment.]
-spokentexts_a20_dach_tasche_ex_1_st_2;Including a rope...
+spokentexts_a20_dach_tasche_ex_1_st_2;Dont une corde...
 sequences_a20_dach_tasche_ex_1#6;[The Arab pushes apart the bag and looks inside.]
-spokentexts_a20_dach_tasche_ex_1_st_3;A cloth bag...
+spokentexts_a20_dach_tasche_ex_1_st_3;Un sac en tissu...
 sequences_a20_dach_tasche_ex_1#8;[The Arab grabs into his pocket, pulls out the bag and looks at it.]
 sequences_a20_dach_tasche_ex_1#9;[The Arab opens the bag.]
 spokentexts_a20_dach_tasche_ex_1_st_4_direction;irritated
-spokentexts_a20_dach_tasche_ex_1_st_4;Hmm?
+spokentexts_a20_dach_tasche_ex_1_st_4;Hmm ?
 spokentexts_a20_dach_tasche_ex_1_st_5_direction;irritated
-spokentexts_a20_dach_tasche_ex_1_st_5;A pack of gum?
-spokentexts_a20_dach_tasche_ex_1_st_6;Why did Inch put a pack of gum in a cloth bag?
+spokentexts_a20_dach_tasche_ex_1_st_5;Un paquet de chewing-gum ?
+spokentexts_a20_dach_tasche_ex_1_st_6;Pourquoi Inch a-t-il mis un paquet de chewing-gum dans le sac ?
 sequences_a20_dach_tasche_ex_1#13;[The Arab takes the pack of gum and the bag and puts it in his pocket. Then he looks again into the bag.]
-spokentexts_a20_dach_tasche_ex_1_st_7;That's all.
+spokentexts_a20_dach_tasche_ex_1_st_7;C'est tout.
 sequences_a20_dach_tasche_ex_1#15;[The Arab let the bag fall in front of the wall on the ground.]
 spokentexts_a20_dach_tasche_ex_1_st_8;Climbing equipment and a pack of chewing gum! I'm beginning to feel underequipped for this burglary.
 spokentexts_a20_dach_tasche_ex_1_st_9_direction;breathes little and annoyed
-spokentexts_a20_dach_tasche_ex_1_st_9;*exhales*. Looks like I'll have to improvise.
-spokentexts_a20_dach_tasche_ex_2_st_1;There's nothing else in the bag, and I don't need the bag itself.
-texts_a20_dach_wasserhahn_mo_ex_1;Examine the water tap
-texts_a20_dach_wasserhahn_mo_use_1;Open the water tap
-texts_a20_dach_wasserhahn_mo_used_mit_lappen_1;Wet the rag
-spokentexts_a20_dach_wasserhahn_ex_1_st_1;Maybe the tap is meant to depressurize the water tank if it rains too much?
-spokentexts_a20_dach_wasserhahn_ex_1_st_2;Or it's just a practical way for the window washers to get some fresh water up here.
+spokentexts_a20_dach_tasche_ex_1_st_9;*expire*. On dirait que je vais devoir improviser.
+spokentexts_a20_dach_tasche_ex_2_st_1;Il n'y a rien d'autre dans le sac, et ce dernier m'est inutile.
+texts_a20_dach_wasserhahn_mo_ex_1;Examiner le robinet
+texts_a20_dach_wasserhahn_mo_use_1;Ouvrir le robinet
+texts_a20_dach_wasserhahn_mo_used_mit_lappen_1;Mouiller le chiffon
+spokentexts_a20_dach_wasserhahn_ex_1_st_1;Le robinet sert peut être à dépressuriser le réservoir si il pleut trop ?
+spokentexts_a20_dach_wasserhahn_ex_1_st_2;Ou c'ets simplement un moyen pratique pour les laveurs de carreaux d'obtenir de l'eau fraîche ici.
 sequences_a20_dach_wasserhahn_use_1#1;[The Arab turned on the tap, water runs out.]
 sequences_a20_dach_wasserhahn_use_1#2;[Shortly afterwards, he closes the tap again.]
 sequences_a20_dach_wasserhahn_used_mit_lappen_1#1;[The Arab pulls out the cloth, holding it under the tap and turn on the tap. The water runs through the cloth.]
-spokentexts_a20_dach_wasserhahn_used_mit_lappen_1_st_1;Whew! Cold!
+spokentexts_a20_dach_wasserhahn_used_mit_lappen_1_st_1;Wahou ! Froide !
 sequences_a20_dach_wasserhahn_used_mit_lappen_1#3;[The Arab closes the tap again and holds the dripping cloth with two fingers infront to himself.]
-spokentexts_a20_dach_wasserhahn_used_mit_lappen_1_st_2;Dripping wet. I'm not putting it in my pocket like that!
+spokentexts_a20_dach_wasserhahn_used_mit_lappen_1_st_2;Complètement trempé. Je ne vais pas le mettre dans mon poche dans cet état !
 sequences_a20_dach_wasserhahn_used_mit_lappen_1#5;[The Arab lays the cloth next to the window.]
 sequences_a20_dach_seq_a20_dach_araber_seilt_sich_ab#0;[The Arab grabs the rope. Then he climbs through the window and looks down.]
 spokentexts_a20_dach_seq_a20_dach_araber_seilt_sich_ab_st_1_direction;whisper
-spokentexts_a20_dach_seq_a20_dach_araber_seilt_sich_ab_st_1;OK. I don't see anyone...
+spokentexts_a20_dach_seq_a20_dach_araber_seilt_sich_ab_st_1;OK. Je ne vois personne...
 sequences_a20_dach_seq_a20_dach_araber_seilt_sich_ab#2;[The Arab attaches the rope to the grid and hooks it on. He don't throws the rope down, but rather keeps it at the body. Then he climbed over the railing and begins to lowers down on the rope.]
 sequences_a20_dach_seq_a20_dach_araber_seilt_sich_ab#3;[Next in the the treasure room.]
 sequences_a20_dach_seq_a20_dach_araber_start#0;[The Arab Is on the wall with the secret door, his hand thoughtfully placed on the wall. He takes the hand away, and goes into normal position.]
 spokentexts_a20_dach_seq_a20_dach_araber_start_st_1_direction;exhale long and deep
-spokentexts_a20_dach_seq_a20_dach_araber_start_st_1;Phew.
+spokentexts_a20_dach_seq_a20_dach_araber_start_st_1;Pfiu.
 spokentexts_a20_dach_seq_araber_will_sich_abseilen_ohne_kletterausruestung_st_1;Not without climbing equipment.
-texts_a20_keller_ausgang_haupthalle_mo_ex_1;Feel the wall
-texts_a20_keller_ausgang_haupthalle_mo_ex_2;Examine the mechanism
-texts_a20_keller_ausgang_haupthalle_mo_use_1;Open the secret door
+texts_a20_keller_ausgang_haupthalle_mo_ex_1;Toucher le mur
+texts_a20_keller_ausgang_haupthalle_mo_ex_2;Examiner le mécanisme
+texts_a20_keller_ausgang_haupthalle_mo_use_1;Ouvrir la porte secrète
 sequences_a20_keller_ausgang_haupthalle_ex_1#1;[The Arab scans the wall.]
-spokentexts_a20_keller_ausgang_haupthalle_ex_1_st_1;There's some kind of mechanism here, but I can't see anything without a light!
-spokentexts_a20_keller_ausgang_haupthalle_ex_2_st_1;According to the blueprints, there's supposed to be a secret door here leading into the main hall. This must be the locking mechanism.
+spokentexts_a20_keller_ausgang_haupthalle_ex_1_st_1;Il y a une sorte de mécanisme par ici, mais impossible de voir quoi que ce soit sans lumière !
+spokentexts_a20_keller_ausgang_haupthalle_ex_2_st_1;D'après les plans, il devrait y avoir une porte secrète menant au hall principal par ici. Ce doit être le mécanisme de verrouillage.
 sequences_a20_keller_ausgang_haupthalle_use_1#1;[The Arab makes something at the mechanism. Then he released him.]
-spokentexts_a20_keller_ausgang_haupthalle_use_1_st_1;Careful now.
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_1;Tout doux.
 sequences_a20_keller_ausgang_haupthalle_use_1#3;[The Arab pushes the door very carefully a piece.]
 sequences_a20_keller_ausgang_haupthalle_use_1#4;[Suddenly a woman's hand grabs on the door and opens it farther and faster. The Arab is terrified.]
 sequences_a20_keller_ausgang_haupthalle_use_1#5;[The young woman appears in the door, with one hand she opened the door, in the other she carries a bag over his chest. She looks dispirited.]
 spokentexts_a20_keller_ausgang_haupthalle_use_1_st_2_direction;surprised worried
-spokentexts_a20_keller_ausgang_haupthalle_use_1_st_2;What the... What are you doing here?
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_2;Qu'est-ce que... Que fais-tu ici ?
 spokentexts_a20_keller_ausgang_haupthalle_use_1_st_3_direction;worried, anxious
-spokentexts_a20_keller_ausgang_haupthalle_use_1_st_3;What if Inch sees you?!
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_3;Si Inch te surprenait ?!
 sequences_a20_keller_ausgang_haupthalle_use_1#8;[The door opens a bit more. The butler stands behind the young woman and pushes her into the basement. The Arab staggers back in shock and fear.]
 spokentexts_a20_keller_ausgang_haupthalle_use_1_st_4_direction;shocked, toneless
-spokentexts_a20_keller_ausgang_haupthalle_use_1_st_4;No...
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_4;Non...
 spokentexts_a20_keller_ausgang_haupthalle_use_1_st_5_direction;scared
-spokentexts_a20_keller_ausgang_haupthalle_use_1_st_5;I'm sorry. He... caught me.
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_5;Je suis désolée. Il... m'a attrapé.
 sequences_a20_keller_ausgang_haupthalle_use_1#11;[The Butler pulls a gun on the woman who clings at the bag, scared. He closes the door. The Arab is a little off, do not know what to do.]
 spokentexts_a20_keller_ausgang_haupthalle_use_1_st_6_direction;threatening
-spokentexts_a20_keller_ausgang_haupthalle_use_1_st_6;You and your little girlfriend... You thought you could go behind my back?!
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_6;Vous et votre petite amie... Vous avez cru pouvoir comploter derrière mon dos ?!
 sequences_a20_keller_ausgang_haupthalle_use_1#13;[The Butler raises the gun to the head of the young woman. She's scared. The Arab gets awake again, takes a step on both, raises his hand soothingly.]
 spokentexts_a20_keller_ausgang_haupthalle_use_1_st_7_direction;pleadingly
-spokentexts_a20_keller_ausgang_haupthalle_use_1_st_7;Inch, no!
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_7;Inch, non !
 spokentexts_a20_keller_ausgang_haupthalle_use_1_st_8_direction;gloomy, threatening
-spokentexts_a20_keller_ausgang_haupthalle_use_1_st_8;You deserve to die here and now.
-spokentexts_a20_keller_ausgang_haupthalle_use_1_st_9;But then I wouldn't get the Eye.
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_8;Vous méritez de mourir sur le champ.
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_9;Mais dans ce cas je ne pourrais pas obtenir l'Oeil.
 spokentexts_a20_keller_ausgang_haupthalle_use_1_st_10_direction;desperate, imploring
-spokentexts_a20_keller_ausgang_haupthalle_use_1_st_10;Don't hurt her... Please!
-spokentexts_a20_keller_ausgang_haupthalle_use_1_st_11;We'll see.
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_10;Ne lui faites pas de mal... S'il vous plait !
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_11;On verra.
 sequences_a20_keller_ausgang_haupthalle_use_1#19;[The butler takes a bag, that he wears around his neck, and puts it on the floor. Then he points with his gun toward the stairs.]
-spokentexts_a20_keller_ausgang_haupthalle_use_1_st_12;Get moving.
+spokentexts_a20_keller_ausgang_haupthalle_use_1_st_12;Allez, en route.
 sequences_a20_keller_ausgang_haupthalle_use_1#21;[The young woman and the Arab throwing each other worried glances. Then they start to move, closely watched by the butler.]
 sequences_a20_keller_ausgang_haupthalle_use_1#22;[While they still go fade out, continue in the raven's nest.]
-texts_a20_keller_ausgang_rabennest_mo_leave_1;Go upstairs
+texts_a20_keller_ausgang_rabennest_mo_leave_1;Monter
 sequences_a20_keller_ausgang_rabennest_leave_1#1;[The Arab starts to descend the stairs.]
 sequences_a20_keller_ausgang_rabennest_leave_1#2;[While he still goes fade out. Next in the raven's nest.]
-texts_a20_keller_gluehbirne_mo_inventar_1__2;Light bulb
-spokentexts_a20_keller_gluehbirne_ex_1_st_1;The bulb is dirty, but apart from that, it still looks good.
-spokentexts_a20_keller_gluehbirne_ex_1_st_2;The contact on the base is very rusty, though...
-spokentexts_a20_keller_gluehbirne_ex_2_st_1;I can see metal again. The contact should be able to complete the circuit now!
-texts_a20_keller_kabel_mo_ex_1__2;Examine the cable
-texts_a20_keller_kabel_mo_ex_3__4;Examine the lamp
-texts_a20_keller_kabel_mo_used_mit_a20_keller_gluehbirne_1__2;Screw the bulb into the fixture
-texts_a20_keller_kabel_mo_used_mit_a20_rabennest_gluehbirne_kabel;Connect the cables
-texts_a20_keller_kabel_mo_used_mit_a20_rabennest_messer;Use the cable with the knife
-spokentexts_a20_keller_kabel_ex_1_st_1;The lamp was removed. You can still see the holes that the screws left.
-spokentexts_a20_keller_kabel_ex_1_st_2;The cable was cleanly severed.
-spokentexts_a20_keller_kabel_ex_2_st_1;I exposed the copper wires. There's no danger as long as the electricity is shut off.
-spokentexts_a20_keller_kabel_ex_3_st_1;The lamp hangs from the electrical cable, which leads to the light switch. As long as there's a current, I should have a source of light now!
-spokentexts_a20_keller_kabel_ex_4_st_1;I think the contact is dirty...
+texts_a20_keller_gluehbirne_mo_inventar_1__2;Ampoule
+spokentexts_a20_keller_gluehbirne_ex_1_st_1;L'ampoule est sale, mais sinon elle a l'air en bon état.
+spokentexts_a20_keller_gluehbirne_ex_1_st_2;Le plot est assez rouillé par contre...
+spokentexts_a20_keller_gluehbirne_ex_2_st_1;Je peux à nouveau voir le métal. Le plot devrait pouvoir fermer le circuit maintenant !
+texts_a20_keller_kabel_mo_ex_1__2;Examiner le câble
+texts_a20_keller_kabel_mo_ex_3__4;Examiner la lampe
+texts_a20_keller_kabel_mo_used_mit_a20_keller_gluehbirne_1__2;Visser l'ampoule dans la douille
+texts_a20_keller_kabel_mo_used_mit_a20_rabennest_gluehbirne_kabel;Connecter les câbles
+texts_a20_keller_kabel_mo_used_mit_a20_rabennest_messer;Utiliser le couteau avec le câble
+spokentexts_a20_keller_kabel_ex_1_st_1;On a enlevé la lampe. On distingue encore les marques que les vis ont laissées.
+spokentexts_a20_keller_kabel_ex_1_st_2;La câble a été coupé proprement.
+spokentexts_a20_keller_kabel_ex_2_st_1;J'ai exposé les fils de cuivre. Il n'y a aucun danger tant que l'électricité est coupée.
+spokentexts_a20_keller_kabel_ex_3_st_1;La lampe est accrochée au câble électrique, lui même relié à l'interrupteur. Tant qu'il y a du courant, je devrais avoir de la lumière maintenant !
+spokentexts_a20_keller_kabel_ex_4_st_1;Je crois que le plot est sale...
 sequences_a20_keller_kabel_ex_4#2;[The Arab, turns the light bulb out, looks at it from below.]
-spokentexts_a20_keller_kabel_ex_4_st_2;I was right. The lower contact is coated with rust.
-spokentexts_a20_keller_kabel_ex_4_st_3;The current can't flow properly and sooner or later the bulb will burn out.
+spokentexts_a20_keller_kabel_ex_4_st_2;J'avais raison. Le plot est recouvert de rouille.
+spokentexts_a20_keller_kabel_ex_4_st_3;Le courant ne peut pas passer correctement, et tôt ou tard l'ampoule va lâcher.
 sequences_a20_keller_kabel_ex_4#5;[The Arab takes the light bulb.]
-spokentexts_a20_keller_kabel_ex_5_st_1;The fixture is connected to the cable and there's power as well. All that's missing is a light bulb!
+spokentexts_a20_keller_kabel_ex_5_st_1;La douille est connectée au câble et il y a du courant. Il ne manque qu'une ampoule !
 spokentexts_a20_keller_kabel_used_mit_a20_keller_gluehbirne_1_st_1;That makes no sense. As long as the contact is still rusty, I'll wind up ruining the bulb instead of lighting it up.
 spokentexts_a20_keller_kabel_used_mit_a20_keller_gluehbirne_2_st_1;One more try...
 sequences_a20_keller_kabel_used_mit_a20_keller_gluehbirne_2#2;[The Arab takes out the light bulb again, blows on the contact and then puts the bulb in the lamp.]
