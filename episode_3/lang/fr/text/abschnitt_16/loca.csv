@@ -28,7 +28,7 @@ spokentexts_a16_hinterdeck_badetuch_take_1_st_4;Oh, rien. Je voulais m'asseoir s
 spokentexts_a16_hinterdeck_badetuch_take_1_st_5;Ah, les étoiles. Joli spectacle !
 texts_a16_hinterdeck_liegestuhl_mo_ex_1;Examiner la chaise longue
 texts_a16_hinterdeck_liegestuhl_mo_used_mit_handtuch;Réserver une chaise longue
-spokentexts_a16_hinterdeck_liegestuhl_ex_1_st_1;Une chaise longue au soleil sur un bateau de croisière. Je serais folle de passer à côté de cela demain.
+spokentexts_a16_hinterdeck_liegestuhl_ex_1_st_1;Une chaise longue au soleil sur un bateau de croisière. Je serais folle de passer à côté de cela.
 spokentexts_a16_hinterdeck_liegestuhl_ex_1_st_2;Mais je dois m'occuper de mes tâches avant de pouvoir me détendre au soleil.
 spokentexts_a16_hinterdeck_liegestuhl_used_mit_handtuch_st_1;"Je n'aime pas les gens qui se ""réserve"" des chaises longues avec des serviettes !"
 spokentexts_a16_hinterdeck_liegestuhl_used_mit_handtuch_st_2;J'ai entendu dire que certains se levaient exprès plus tôt. Voilà des vacances !
@@ -50,7 +50,7 @@ spokentexts_a16_kabine_baronin_gepaeck_ex_1_st_2;"Mais Inch a dit quelque chose 
 spokentexts_a16_kabine_baronin_gepaeck_ex_2_st_1;Heureusement, je n'aurais pas à fouiller toutes ces valises.
 spokentexts_a16_kabine_baronin_gepaeck_ex_2_st_2;Inch voyage avec cette femme à travers l'Europe depuis des mois. Je me sens presque triste pour lui. Presque.
 texts_a16_kabine_baronin_handtasche_mo_ex_1__2;Fouiller dans le sac à main
-spokentexts_a16_kabine_baronin_handtasche_ex_1_st_1;Non. La Baronne et Inch ne travaillent pas pareil. Il n'aurait jamais caché le bijou dans son sac à main.
+spokentexts_a16_kabine_baronin_handtasche_ex_1_st_1;Non. La Baronne et Inch n'ont pas les mêmes réflexes. Il n'aurait jamais caché le bijou dans son sac à main.
 spokentexts_a16_kabine_baronin_handtasche_ex_2_st_1;Je suis ici pour voler l'un des joyaux les plus précieux du monde, pas pour piquer le contenu d'un sac à main !
 texts_a16_kabine_baronin_kleiderpuppe_mo_ex_1__2;Examiner le mannequin
 spokentexts_a16_kabine_baronin_kleiderpuppe_ex_1_st_1;Le mannequin pourrait probablement porter mes vêtements. Mais il aurait disparu sous les vêtements de la Baronne.
@@ -126,7 +126,7 @@ spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken_st_4;Hé 
 sequences_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken#7;[The carer tries to open the door, rattles.]
 spokentexts_a16_kabine_baronin_seq_a16_kabine_baronin_leiche_entdecken_st_5;Hé ho ?
 sequences_a16_kabine_baronin_seq_a16_kabine_baronin_reiseschrank_ende#0;[The young woman closes the portable cupboard, so it stands there just as before.]
-texts_a16_kabine_baronin_geheimfach_ausgang_mo_leave;Finish the investigation
+texts_a16_kabine_baronin_geheimfach_ausgang_mo_leave;Terminer les investigations
 spokentexts_a16_kabine_baronin_geheimfach_ausgang_leave_1_st_1;Très bien... Alors je devrais... Attendez ! Qu'est-ce que c'est ? Une note !
 texts_a16_kabine_baronin_geheimfach_mechanismus_mo_ex_1__2__3;Examiner le mécanisme
 spokentexts_a16_kabine_baronin_geheimfach_mechanismus_ex_1_st_1;Pour moi, cela ressemble à une serrure à combinaison. Et de bonne qualité.
@@ -179,7 +179,7 @@ spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungssc
 spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_4;Puis-je vous aider, madame ?
 spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_5_direction;in a good mood
 spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_5;Vous pouvez surtout me ficher la paix !
-spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_7;Dois-je ranger, madame?
+spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_7;Dois-je ranger, madame ?
 spokentexts_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick_st_8;Non, c'est l'heure de faire la fête !
 sequences_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick#16;[The baroness leaves the cabin and closes the door.]
 sequences_a16_kabine_baronin_luefungsschacht_seq_a16_kabine_baronin_luefungsschacht_erster_blick#17;[Suddenly it's dark and quiet. Cut back into the funnel after about 2 sec.]
@@ -259,12 +259,12 @@ spokentexts_a16_kabine_frau_handtasche_ex_2_st_1;Il y a rien d'intéressant dans
 texts_a16_kabine_frau_penny_mo_inventar_1;Penny
 texts_a16_kabine_frau_penny_mo_used_mit_salatzange_1;Combiner le penny avec les pinces à salade
 spokentexts_a16_oberdeck_lueftungsschacht_used_mit_halskette_1_st_3;Le penny s'intègre parfaitement dans la fente de la vis. Mais mes doigts ne sont pas assez forts pour la dévisser.
-spokentexts_a16_kabine_frau_penny_used_mit_salatzange_1_st_1;C'est ça ! Je ne peux coinçer le penny dedans et créer un tournevis !
+spokentexts_a16_kabine_frau_penny_used_mit_salatzange_1_st_1;C'est ça ! Je ne peux coincer le penny dedans et créer un tournevis !
 sequences_a16_kabine_frau_penny_used_mit_salatzange_1#2;[From now on the necklace has a new Icon (without penny) and the penny sits in the middle of the salad tongs (see there).]
 texts_a16_kabine_frau_tasche_mo_ex_1;Fouiller la valise
 texts_a16_kabine_frau_tasche_mo_ex_2;Examiner la valise
 sequences_a16_kabine_frau_tasche_ex_1#1;[The woman goes to the bag, kneels down, opens the zip, looks inside and remains kneeling (Idle).]
-spokentexts_a16_kabine_frau_tasche_ex_1_st_1;Normalement, je ne n'emporte pas autant de choses. Mais cela aurait été suspect si je venais à bord avec rien d'autre qu'un sac à dos tout en faisant semblant d'être la fille d'une riche famille.
+spokentexts_a16_kabine_frau_tasche_ex_1_st_1;Normalement, je n'emporte pas autant de choses. Mais cela aurait été suspect si je venais à bord avec rien d'autre qu'un sac à dos tout en faisant semblant d'être la fille d'une riche famille.
 sequences_a16_kabine_frau_tasche_ex_1#3;[The woman sifts through the bag, takes out a small case and opens is. She looks inside. (Idle).]
 sequences_a16_kabine_frau_tasche_ex_1#6;[The woman takes the necklace out of the case, puts the case back into her bag and stands up.]
 spokentexts_a16_kabine_frau_tasche_ex_1_st_4;Je le prends avec moi. Ça va me porter chance.
@@ -305,7 +305,7 @@ spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_3;Commen
 sequences_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts#6;[The woman has put on her earrings, and now sits a bit crumpled on the bed (Idle).]
 spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_4_direction;grim
 spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_4;Il est plus impitoyable que nous le pensions.
-spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_5;La bombe dans le train... Je ne veux pas y penser.
+spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_5;La bombe dans le train... Je ne n'arrête pas d'y penser.
 sequences_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts#9;[The Arabian lays his hand soothingly on her back.]
 spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_6;Nous devons faire en sorte de rester calme.
 spokentexts_a16_kabine_frau_seq_a16_kabine_frau_start_des_abschnitts_st_7_direction;a bit upset
@@ -327,7 +327,7 @@ spokentexts_a16_nebendeck_gangway_ex_1_st_2;Je suppose que le Lydia mouille rég
 spokentexts_a16_nebendeck_gangway_ex_1_st_3;Et plutôt que de faire monter les passagers par des échelles, ils ont opté pour la moins belle alternative.
 sequences_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt#0;[The guardsman and the Arabian go downstairs and head to the forecastle.]
 spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_1_direction;accent
-spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_1;Qu'est-ce que c'est ?
+spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_1;Qu'est-ce qu'il y a ?
 spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_2_direction;accent
 spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_2;Moi rien fait !
 spokentexts_a16_nebendeck_seq_a16_nebendeck_araber_wird_abgefuehrt_st_3;L'inspecteur Legrand pense la contraire ! Allez !
@@ -349,7 +349,7 @@ spokentexts_a16_oberdeck_fahne_ex_1_st_1;J'ai aucune idée du genre de drapeau q
 spokentexts_a16_oberdeck_fahne_ex_1_st_2;80cm de long et il semble assez solide !
 sequences_a16_oberdeck_fahne_take_1#1;[The woman takes the pole out of the holder, removes the flag and throws it carelessly into the lifeboat.]
 sequences_a16_oberdeck_fahne_take_1#2;[She looks at the pole, maybe whirls it for a moment through the air.]
-spokentexts_a16_oberdeck_fahne_take_1_st_1;Oui, c'est solide. Mais c'est aussi trop lourd à transporter.
+spokentexts_a16_oberdeck_fahne_take_1_st_1;Certes, il est solide. Mais il est trop lourd à transporter.
 sequences_a16_oberdeck_fahne_take_1#4;[The woman places the pole next to the funnel.]
 texts_a16_oberdeck_holzstab_mo_use_1;Utiliser la mât avec...
 texts_a16_oberdeck_holzstab_mo_used_mit_badetuch_1__2;Attacher la serviette de bain autour du mât en bois
@@ -358,10 +358,10 @@ spokentexts_a16_oberdeck_holzstab_ex_2_st_1;Je pourrais peut-être l'utiliser pl
 spokentexts_a16_oberdeck_holzstab_ex_3_st_1;Je peux l'utiliser pour entrer dans la cabine et plus important encore, pour en sortir !
 spokentexts_a16_oberdeck_holzstab_used_mit_badetuch_1_st_1;OK. Voyons ça...
 sequences_a16_oberdeck_holzstab_used_mit_badetuch_1#2;[The woman takes off the bath towel and ties it to the pole. Then she puts the pole back in its place.]
-spokentexts_a16_oberdeck_holzstab_used_mit_badetuch_2_st_1;Hmm. Je pourrais attacher la serviette de bain autour du mât, mettre le mât en travers du puits de ventilation et descendre avec l'aide de la serviette.
+spokentexts_a16_oberdeck_holzstab_used_mit_badetuch_2_st_1;Hmm. Je pourrais attacher la serviette de bain autour du mât, mettre le mât en travers du conduit de ventilation et descendre avec l'aide de la serviette.
 spokentexts_a16_oberdeck_holzstab_used_mit_badetuch_2_st_2;On dirait bien un plan !
 sequences_a16_oberdeck_holzstab_used_mit_badetuch_2#3;[The woman takes off the bath towel and ties it to the pole. Then she puts the pole back in its place.]
-texts_a16_oberdeck_lueftungsschacht_mo_ex_1__2;Examiner le puits de ventilation
+texts_a16_oberdeck_lueftungsschacht_mo_ex_1__2;Examiner le conduit de ventilation
 texts_a16_oberdeck_lueftungsschacht_mo_used_mit_halskette_1;Dévisser la grille avec le penny
 texts_a16_oberdeck_lueftungsschacht_mo_used_mit_holzstab_1;Casser la grille
 texts_a16_oberdeck_lueftungsschacht_mo_used_mit_holzstab_2__3;Grimper dans le conduit d'aération
@@ -391,7 +391,7 @@ sequences_a16_oberdeck_lueftungsschacht_leave_3#2;"[Continues with the sequence 
 spokentexts_a16_oberdeck_lueftungsschacht_leave_4_st_1;Non, ça n'aurait pas de sens, tant que je ne connais pas au moins trois des symboles. Et je ne trouverais pas la solution à l'intérieur.
 sequences_a16_oberdeck_lueftungsschacht_leave_5#11;[The woman climbs into the funnel.]
 sequences_a16_oberdeck_lueftungsschacht_leave_5#12;"[Continues in the cabin of the baroness, sequence ""corpse found"".]"
-spokentexts_a16_oberdeck_lueftungsschacht_used_mit_halskette_1_st_1;Le penny pourrait être de la bonne taille ...
+spokentexts_a16_oberdeck_lueftungsschacht_used_mit_halskette_1_st_1;Le penny pourrait être de la bonne taille...
 sequences_a16_oberdeck_lueftungsschacht_used_mit_halskette_1#2;[The woman takes out the necklace, fiddles with it. She pockets the necklace again, has the penny in her hand.]
 sequences_a16_oberdeck_lueftungsschacht_used_mit_halskette_1#3;[From now on the necklace appears in the inventory without the penny.]
 sequences_a16_oberdeck_lueftungsschacht_used_mit_halskette_1#4;[The woman places her hand on the wall next to the funnel, takes a closer look (Idle).]
@@ -513,7 +513,7 @@ spokentexts_a16_salon_salatzange_ex_1_st_1;Des pinces à salade en bois...
 spokentexts_a16_salon_salatzange_ex_1_st_2;Juste assez petite pour les emporter l'air de rien.
 sequences_a16_salon_salatzange_ex_1#3;[The woman takes the salad tongs, puts them into her bag.]
 spokentexts_a16_salon_salatzange_ex_2_st_1;Les pinces à salade ne manqueront pas au petit-déjeuner.
-spokentexts_a16_salon_salatzange_ex_3_st_1;J'ai bloqué un penny entre les pinces. Si je tiens les pinces aux deux extrémités, je peux avoir un effet de levier !
+spokentexts_a16_salon_salatzange_ex_3_st_1;J'ai bloqué un penny entre les pinces. Si je les tiens aux deux extrémités, je peux avoir un effet de levier !
 sequences_a16_salon_seq_a16_salon_betreten#0;[The door slowly closes behind the woman while she is standing in the room.]
 sequences_a16_salon_seq_a16_salon_betreten#1;[Could you probably do this as a background animation to avoid the player having to wait every time?]
 sequences_a16_salon_seq_a16_salon_konzert#0;[Close up to the young woman as she enters the location. You DON'T see whether she comes from the front or the back. You hear the sound of the violin.]
@@ -533,7 +533,7 @@ sequences_a16_salon_seq_a16_salon_konzert#12;[The captain heads to the violinist
 sequences_a16_salon_seq_a16_salon_konzert#13;[Cut to the carer and the archaeologist.]
 sequences_a16_salon_seq_a16_salon_konzert#14;[Both applaud. The carer stops, glances at the professor and goes to the writer. She bends down. (Idle).]
 sequences_a16_salon_seq_a16_salon_konzert#15;[Cut to the writer.]
-spokentexts_a16_salon_seq_a16_salon_konzert_st_2;Serait-il acceptable pour vous, si je prenais un peu d'air frais sur le pont ?
+spokentexts_a16_salon_seq_a16_salon_konzert_st_2;Accepteriez-vous, si je prenais un peu d'air frais sur le pont ?
 spokentexts_a16_salon_seq_a16_salon_konzert_st_3;Bien sûr, ma chère. Présentez mes respects à la mer.
 sequences_a16_salon_seq_a16_salon_konzert#18;[The carer starts to leave.]
 sequences_a16_salon_seq_a16_salon_konzert#19;[Cut to the professor.]
@@ -609,7 +609,7 @@ spokentexts_a16_treppensaal_tuer_kabine_baronin_ex_3_st_2;Si quelqu'un me repèr
 texts_a16_treppensaal_tuer_salon_mo_leave_1;Aller dans le salon
 sequences_a16_treppensaal_tuer_salon_leave_1#1;[The woman pulls the door open and enters the salon.]
 texts_a16_unterdeck_kabine_ermittler_mo_ex_1__2;Examiner la porte de la cabine de Legrand
-spokentexts_a16_unterdeck_kabine_ermittler_ex_1_st_1;Nous avons brièvement discuté pour savoir si nous devrions essayer de voler le deuxième oeil sur le navire.
+spokentexts_a16_unterdeck_kabine_ermittler_ex_1_st_1;Nous avons brièvement discuté pour savoir si nous devions essayer de voler le deuxième oeil sur le navire.
 spokentexts_a16_unterdeck_kabine_ermittler_ex_1_st_2;Le manque de d'échappatoires et la porte de dix centimètres d'épaisseur du coffre ont réglés la question.
 spokentexts_a16_unterdeck_kabine_ermittler_ex_2_st_1;Legrand est une partie importante de notre plan. Il est celui qui doit arrêter Inch.
 spokentexts_a16_unterdeck_kabine_ermittler_ex_2_st_2;Mais il y a encore beaucoup de travail avant d'en arriver là.
@@ -647,7 +647,7 @@ spokentexts_a16_unterdeck_zeitschrift_ex_3_st_2;Peut-être que cette revue d'art
 sequences_a16_unterdeck_zeitschrift_ex_3#6;[The woman picks up a magazine, opens it, turns the page and reads (Idle).]
 spokentexts_a16_unterdeck_zeitschrift_ex_3_st_3;Effectivement ! Un article sur différentes oeuvres d'art et comment elles ont survécu à la Seconde Guerre mondiale. Il y a aussi une photo du buste de Néfertiti !
 spokentexts_a16_unterdeck_zeitschrift_ex_3_st_4_direction;reads, skims
-spokentexts_a16_unterdeck_zeitschrift_ex_3_st_4;"""Une pièce unique de l'art égyptien d'art... 1913... hmm-hmm... autorisation de l'exporter vers l'Allemagne..."""
+spokentexts_a16_unterdeck_zeitschrift_ex_3_st_4;"""Une pièce unique de l'art égyptien... 1913... hmm-hmm... autorisation de l'exporter vers l'Allemagne..."""
 spokentexts_a16_unterdeck_zeitschrift_ex_3_st_5_direction;reads, skims
 spokentexts_a16_unterdeck_zeitschrift_ex_3_st_5;"""Deuxième Guerre mondiale... coffre-fort à la Banque du Reich... puis un bunker... et une mine de sel..."""
 spokentexts_a16_unterdeck_zeitschrift_ex_3_st_6_direction;reads, skims
@@ -680,7 +680,7 @@ spokentexts_a16_vorderdeck_shuffleboardflaeche_ex_1_st_1;Boule, curling, jeu de 
 texts_a16_vorderdeck_tuer_frachtraum_mo_ex_1;Examiner la porte de la soute
 spokentexts_a16_vorderdeck_tuer_frachtraum_ex_1_st_1;Cela doit être l'entrée de la soute. Inutile de m'en préoccuper.
 sequences_a16_krankenstation_seq_a16_krankenstation_betreten_erstmalig#0;[Woman enters, closes the door.]
-spokentexts_a16_krankenstation_seq_a16_krankenstation_betreten_erstmalig_st_1;Comment puis-je pour toi, belle demoiselle ?
+spokentexts_a16_krankenstation_seq_a16_krankenstation_betreten_erstmalig_st_1;Que puis-je pour toi, belle demoiselle ?
 texts_araber_top_a16_araber_butler_inch_tseq_title;Majordome Inch
 spokentexts_araber_top_a16_araber_butler_inch_tseq_st_1;En parlant de Inch.
 spokentexts_araber_top_a16_araber_butler_inch_tseq_st_2;Je l'ai vu parler avec toi à Venise. Qu'y avait-il ?
@@ -698,7 +698,7 @@ spokentexts_araber_top_a16_araber_ermittler_tseq_st_3;Et le bobby ?
 spokentexts_araber_top_a16_araber_ermittler_tseq_st_4;Rien de plus qu'un paysan rusé. Il ne sera pas capable de résoudre le puzzle de lui-même.
 spokentexts_araber_top_a16_araber_ermittler_tseq_st_5;Il y a toujours Inch.
 spokentexts_araber_top_a16_araber_ermittler_tseq_st_6;Il ne se doute de rien. Nous avons de bonnes bases. J'ai été son assistant pendant des mois.
-spokentexts_araber_top_a16_araber_ermittler_tseq_st_7;Il n'a pas confiance en moi, mais il pense qu'il peut se servir de moi pour des clopinettes. C'est finit.
+spokentexts_araber_top_a16_araber_ermittler_tseq_st_7;Il n'a pas confiance en moi, il pense qu'il peut se servir de moi pour des clopinettes. Mais ça c'est finit.
 texts_araber_top_a16_araber_geheimversteck_gefunden_tseq_title;Compartiment secret
 spokentexts_araber_top_a16_araber_geheimversteck_gefunden_tseq_st_1;Le compartiment secret est sécurisé avec une serrure à combinaison.
 spokentexts_araber_top_a16_araber_geheimversteck_gefunden_tseq_st_2;Il y a pas d'autres moyens ?
@@ -709,7 +709,7 @@ spokentexts_araber_top_a16_araber_geheimversteck_gefunden_tseq_st_6;Hmm. Les oeu
 spokentexts_araber_top_a16_araber_geheimversteck_gefunden_tseq_st_7;Tu sais quoi, tu es un génie !
 spokentexts_araber_top_a16_araber_geheimversteck_gefunden_tseq_st_8;J'en demandais pas tant.
 spokentexts_araber_top_a16_araber_geheimversteck_gefunden_tseq_st_9_direction;Thoughtfully
-spokentexts_araber_top_a16_araber_geheimversteck_gefunden_tseq_st_9;Mais, je le pense...
+spokentexts_araber_top_a16_araber_geheimversteck_gefunden_tseq_st_9;Mais, je le pense vraiment...
 texts_araber_top_a16_araber_geheimversteck_geschafft_tseq_title;Énigme résolue !
 spokentexts_araber_top_a16_araber_geheimversteck_geschafft_tseq_st_1;J'ai la combinaison ! Du moins, je crois que je l'ai.
 spokentexts_araber_top_a16_araber_geheimversteck_geschafft_tseq_st_2_direction;proud, motivating
@@ -733,7 +733,7 @@ spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st
 spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_6;Hmm. Il y a son aquarelle d'un lièvre brun.
 spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_7;Mais il n'y a pas de symbole de lièvre.
 spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_8;C'est tout ce que je sais, désolé.
-spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_9;Quel est son œuvre la plus célèbre ?
+spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_9;Quel est son oeuvre la plus célèbre ?
 spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_10;Difficile à dire. Il en a fait beaucoup. Il a été pionnier en gravures sur bois et estampes.
 spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_11;La Baronne a laissée son monogramme comme indice, pas le nom d'une de ses oeuvres. Donc il doit y avoir une peinture que tout le monde lui associe...
 spokentexts_araber_top_a16_araber_geheimversteck_hilfe_albrecht_duerer_2_tseq_st_12;Non, pas à ma connaissance. Quoique... Il avait un motif préféré...
@@ -854,7 +854,7 @@ spokentexts_araber_top_a16_araber_triplette_tseq_st_2;Sauf pour l'explosion, oui
 spokentexts_araber_top_a16_araber_triplette_tseq_st_3;Le bobby était juste à l'heure.
 spokentexts_araber_top_a16_araber_triplette_tseq_st_4;Parce qu'il avait un bon tuyau !
 spokentexts_araber_top_a16_araber_triplette_tseq_st_5_direction;ironically
-spokentexts_araber_top_a16_araber_triplette_tseq_st_5;"J'ai eu assez de temps pour prendre l'oeil, mais ""malheureusement"", pas assez de temps pour le remplacer par le faux."
+spokentexts_araber_top_a16_araber_triplette_tseq_st_5;"J'ai eu assez de temps pour prendre l'oeil, mais ""malheureusement"", pas assez pour le remplacer par le faux."
 spokentexts_araber_top_a16_araber_triplette_tseq_st_6;Où est-il ?
 spokentexts_araber_top_a16_araber_triplette_tseq_st_7;Poche de pantalon.
 sequences_araber_top_a16_araber_triplette_tseq#7;[The woman reaches into the Arabian's trouser pocket, takes out a hanky and unfolds it. She examines the jewel inside (Idle).]
@@ -1033,7 +1033,7 @@ spokentexts_geiger_top_a16_geiger_schriftstellerin_tseq_st_6_direction;grim
 spokentexts_geiger_top_a16_geiger_schriftstellerin_tseq_st_6;Nous en avons tous ! Elle aussi. Elle convoite la reconnaissance et agit comme si de rien n'était... Scandaleux !
 spokentexts_geiger_top_a16_geiger_schriftstellerin_tseq_st_7;Elle rejette prix et récompenses et multiplie les remarques sarcastiques - mais elle est en colère quand d'autres les reçoivent. Elle a besoin savoir qu'elle est mieux que les autres.
 spokentexts_geiger_top_a16_geiger_schriftstellerin_tseq_st_10;Vous semblez la connaître assez bien ?
-spokentexts_geiger_top_a16_geiger_schriftstellerin_tseq_st_11;Je ne l'ai rencontré une ou deux fois. Mais je connais son fils et quelques-uns de ses amis. Un de ses amis m'a soutenu pendant une longue période.
+spokentexts_geiger_top_a16_geiger_schriftstellerin_tseq_st_11;Je ne l'ai rencontré qu'une ou deux fois. Mais je connais son fils et quelques-uns de ses amis. Un de ses amis m'a soutenu pendant une longue période.
 spokentexts_geiger_top_a16_geiger_schriftstellerin_tseq_st_12;Personne n'est assez courageux pour lui dire en face, mais tout le monde la déteste.
 spokentexts_geiger_top_a16_geiger_schriftstellerin_tseq_st_13;Elle ou sa réussite ?
 texts_geiger_top_a16_geiger_seine_geschichte_tseq_title;Son histoire
@@ -1151,10 +1151,10 @@ spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_1;Si vous ne 
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_2;Je crains que lever le pied me tuera.
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_3_direction;laughs
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_3;Vous semblez être pessimiste !
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_4;Stéatose hépatique, asthme, calculs biliaires, ictère, goutte, bardeaux, hémorroïdes, varices, troubles circulatoires, problèmes de genou, embolie pulmonaire.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_4;Stéatose hépatique, asthme, calculs biliaires, ictère, goutte, bardeaux, hémorroides, varices, troubles circulatoires, problèmes de genou, embolie pulmonaire.
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_5;Gastrite, migraine, névralgies, acouphènes, rhumatismes, pleurésie, thrombose et constipation.
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_6_direction;grim, giving up
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_6;Sont les joyeusetés qui m'ont été diagnostiqué à ce jour. Mon corps est une malédiction.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_6;Sont toutes les joyeusetés qui m'ont été diagnostiqué à ce jour. Mon corps est une malédiction.
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_7_direction;shocked
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_7;Oh... je ne voulais pas... Je suis désolé.
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_krankheiten_tseq_st_8;Pardonnez un vieil homme - je ne voulais pas vous choquer.
@@ -1169,11 +1169,11 @@ spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_7_direction;shocke
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_7;Capitaine...
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_6;C'est... Je suis désolé. Je ne sais pas pourquoi je vous impose tout cela. Pardonnez-moi.
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_8_direction;Tries to be in a good mood
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_8;"J'aimerais me reposer. Assez rapidement, il sera temps de revenir ""à la surface"". Ha ha !"
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_schiff_tseq_st_8;"J'aimerais bien me reposer. Mais j'ai peur de ne plus revenir ""à la surface"". Ha ha !"
 texts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_title;Capitaine DiConti
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_1;Est-il vrai que vous êtes un héros de guerre ?
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_2;Mmm-hmm. Dans deux guerres mondiales. Ça vous donne une idée de mon âge. Ha ha.
-spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_3;Vous êtes vieux que votre corps vous le fait sentir.
+spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_3;Vous êtes aussi vieux que votre corps vous le fait sentir.
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_4;Oh mon Dieu, j'espère que non !
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_5;Vous ne vous sentez pas bien ?
 spokentexts_kapitaen_top_a16_kapitaen_kapitaen_ueber_sich_tseq_st_6;Vous ne devriez pas encombrer votre jolie petite tête avec les sombres pensées d'un vieil homme, ma chère.
@@ -1217,7 +1217,7 @@ spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_2;Savez-vou
 spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_3;Je ne pourrais pas vraiment le dire. Elle y a été de nombreuses fois avec son mari archéologue.
 spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_4;Il est mort il y a bien longtemps.
 spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_5;J'ai entendu parler d'une réception au Musée égyptien ?
-spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_6;Exact, pou les Yeux du Sphinx. Ou plutôt, pour l'oeil.
+spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_6;Exact, pour les Yeux du Sphinx. Ou plutôt, pour l'oeil.
 spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_7;Mais je ne pense pas qu'elle irait au Caire juste pour ça. Elle reste généralement loin des manifestations officielles.
 spokentexts_kapitaen_top_a16_kapitaen_schriftstellerin_reise_tseq_st_8;Pas pour participer à la scène littéraire, non plus. Elle reste toujours aussi loin que possible de la haute société. Probablement à cause de sa belle-mère.
 texts_kapitaen_top_a16_kapitaen_schriftstellerin_schriftstellerei_tseq_title;Romans
@@ -1251,7 +1251,7 @@ spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_4;J'espère que je v
 spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_5;Vous ne ferez pas faux bond à un vieux loup de mer, n'est-ce pas ?
 spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_6;Je serai là.
 spokentexts_kapitaen_top_a16_kapitaen_verabschieden_tseq_st_7;Merveilleux !
-spokentexts_kapitaen_ex_1_st_1;Il transpirait abondamment. Les pores dilatés et une odeur sucrée.
+spokentexts_kapitaen_ex_1_st_1;Il transpire abondamment, a les pores dilatés et dégage une odeur sucrée.
 spokentexts_kapitaen_ex_1_st_2;J'espère que l'équipage ne prend pas le Capitaine comme modèle et qu'ils restent sobre pour la traversée.
 spokentexts_kapitaen_talk_mit_1_st_1;Bonjour, Capitaine DiConti !
 spokentexts_kapitaen_talk_mit_1_st_2;Mademoiselle Mayers !
@@ -1301,13 +1301,13 @@ spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_7;Un homme 
 spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_8_direction;loud
 spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_8;Il suffit d'aller vers lui, ma chère ! Dites au maestro que votre famille est riche.
 spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_9_direction;loud
-spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_9;Vous avez tout ce qu'il cherche : l'argent et un joli minois !
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_9;Vous avez tout ce qu'il cherche : de l'argent et un joli minois !
 spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_10_direction;angry
 spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_10;Tenez votre langue !
 spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_11_direction;shocked, upset
 spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_11;M. Kreutzer ! Lady Westmacott ! S'il vous plaît !
 spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_12_direction;loud
-spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_12;Ou avez-vous des vues sur moi, M. Kreutzer ? Vielle, oui, mais riche !
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_12;Ou peut-être avez-vous des vues sur moi, M. Kreutzer ? Vieille, certes, mais riche !
 sequences_schriftstellerin_top_a16_schriftstellerin_geiger_tseq#12;[The violinist stands up angrily, leaves the salon quickly.]
 spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_13_direction;hissing
 spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_13;Jézabel !
@@ -1316,7 +1316,7 @@ sequences_schriftstellerin_top_a16_schriftstellerin_geiger_tseq#15;[The captain 
 spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_15_direction;content
 spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_15;C'est mieux.
 spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_16_direction;rather to herself, bitterly
-spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_16;Profiteur.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_geiger_tseq_st_16;Sale profiteur.
 texts_schriftstellerin_top_a16_schriftstellerin_guernica_tseq_title;Guernica
 spokentexts_schriftstellerin_top_a16_schriftstellerin_guernica_tseq_st_1;"Est-ce que ""Guernica"" vous dit quelque chose ?"
 spokentexts_schriftstellerin_top_a16_schriftstellerin_guernica_tseq_st_2;Pourquoi me posez-vous toutes ces questions étranges ?
@@ -1356,7 +1356,7 @@ spokentexts_schriftstellerin_top_a16_schriftstellerin_picasso_tseq_st_11;Oui. Il
 texts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_title;Voyage
 spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_1;Est-ce votre premier voyage sur le Lydia ?
 spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_2;Ça suffit. La vie est trop courte pour des conversations de ce genre.
-spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_3;J'aimerais que ce policier suisse plutôt charmante revienne.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_3;J'aimerais que ce policier suisse plutôt charmant revienne.
 spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_4;"J'ai entendu dire que vous aviez fait un ""intéressant"" voyage dans un train."
 spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_5;C'était passionnant !
 spokentexts_schriftstellerin_top_a16_schriftstellerin_reise_tseq_st_6;J'espère un deuxième acte ! Peut-être au Caire...
@@ -1367,7 +1367,7 @@ spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_3;J
 spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_4;Vous devez travailler. Vous devez gagnez votre propre argent.
 spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_5;Je le ferai ! Mes notes sont excellentes et je veux étudier l'art dramatique à New York.
 spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_6_direction;snidely
-spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_6;Aucun de mes livres n'a jamais été fait dans un bon film. Les histoires étaient tordus, raccourcies et simplifiées de sorte que même le plus obscur imbécile pouvait la comprendre.
+spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_6;Aucun de mes livres n'a jamais été adapté dans un bon film. Les histoires étaient tordus, raccourcies et simplifiées de sorte que même le plus obscur imbécile pouvait la comprendre.
 spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_7;Je veux faire du théâtre. Et voyager. Je parle trois langues !
 spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_8;C'est trois de plus que la plupart des gens de votre âge peuvent parler.
 spokentexts_schriftstellerin_top_a16_schriftstellerin_schauspielerei_tseq_st_9;Faites ce que vous avez à faire. Mais rester loin des méchants garçons !
@@ -1407,7 +1407,7 @@ spokentexts_schriftstellerin_talk_mit_1_st_1;Un concert magnifique, n'est-ce pas
 sequences_schriftstellerin_talk_mit_1#2;[The writer looks disdainfully at the young woman.]
 spokentexts_schriftstellerin_talk_mit_1_st_2;Je ne m'attendais pas à ce que vous soyez une fine connaisseuse de musique classique.
 spokentexts_schriftstellerin_talk_mit_1_st_3;Parce que je suis Américaine ?
-spokentexts_schriftstellerin_talk_mit_1_st_4;Parce que vous êtes jeune, rayonnante et lumineuse. Quelqu'un comme vous n'a pas à érudit pour avancer dans la vie.
+spokentexts_schriftstellerin_talk_mit_1_st_4;Parce que vous êtes jeune, rayonnante et lumineuse. Quelqu'un comme vous n'a pas à être érudit pour avancer dans la vie.
 spokentexts_schriftstellerin_talk_mit_2_st_1;Lady Westmacott ?
 spokentexts_schriftstellerin_talk_mit_2_st_2;oui ?
 spokentexts_schriftstellerin_talk_mit_3_st_1;Cette dame n'est pas friande de conversations superficielles, ce que je respecte.
