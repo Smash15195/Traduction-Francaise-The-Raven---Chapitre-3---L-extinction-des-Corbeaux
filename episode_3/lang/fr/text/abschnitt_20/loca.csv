@@ -19,7 +19,7 @@ spokentexts_a20_dach_diamant_ex_1_st_1;Le diamant n'est pas mal... Pas parfait, 
 spokentexts_a20_dach_diamant_ex_1_st_2;Serait-il adapté pour une bague de fiançailles ?
 spokentexts_a20_dach_diamant_ex_2_st_1;Hmm. Le diamant est le matériel naturel le plus dur qui soit... Je devrais bien pouvoir utiliser cette propriété à mon avantage !
 texts_a20_dach_kaugummi_mo_inventar_1;Chewing-gum
-spokentexts_a20_dach_kaugummi_ex_1_st_1;J'ai entendu dire que mâcher du chewing-gum améliorait la concentration. Ca ne serait pas de trop dans ma situation.
+spokentexts_a20_dach_kaugummi_ex_1_st_1;J'ai entendu dire que mâcher du chewing-gum améliorait la concentration. Ça ne serait pas de trop dans ma situation.
 texts_a20_dach_kaugummipackung_mo_use_1;Mâcher le chewing-gum
 sequences_a20_dach_kaugummipackung_use_1#1;[The Arab gets out his chewing gum wrapper and looks at it.]
 spokentexts_a20_dach_kaugummipackung_use_1_st_1;Il n'en reste qu'un...
@@ -28,7 +28,7 @@ spokentexts_a20_dach_kaugummipackung_use_1_st_2_direction;full mouth, surprised
 spokentexts_a20_dach_kaugummipackung_use_1_st_2;Qu'est-ce que c'est que ça ?
 sequences_a20_dach_kaugummipackung_use_1#5;[The Arab folds the package apart, looks inside. He holds a flat hand out and shakes the package out on it. A diamond falls into his hands.]
 sequences_a20_dach_kaugummipackung_use_1#6;[The Arab puts the gum pack away (it'S is gone, but the aluminum foil of the gum stick is now in the inventory) and considers the diamond in his hand.]
-spokentexts_a20_dach_kaugummipackung_use_1_st_3;A moins que ce ne soit le coup de pub le plus cher de l'histoire, Inch voulait que je trouve le diamant.
+spokentexts_a20_dach_kaugummipackung_use_1_st_3;À moins que ce ne soit le coup de pub le plus cher de l'histoire, Inch voulait que je trouve le diamant.
 spokentexts_a20_dach_kaugummipackung_use_1_st_4;Je ne pense pas que ce soit une récompense pour mon dur labeur.
 sequences_a20_dach_kaugummipackung_use_1#9;[The Arab thinks for a moment, then he throws the diamond into the air, grabs it  and puts it on.]
 spokentexts_a20_dach_kaugummipackung_use_2_st_1;Un paquet de chewing-gum. Ma marque préférée !
@@ -37,12 +37,12 @@ spokentexts_a20_dach_kaugummipapier_ex_1_st_1;Une fois que le chewing-gum n'aura
 texts_a20_dach_kiste_mo_ex_1;Examiner la bâche
 spokentexts_a20_dach_kiste_ex_1_st_1;Une bâche qui couvre quelque chose...
 sequences_a20_dach_kiste_ex_1#2;[The Arab is going to the tarp and knocks on it.]
-spokentexts_a20_dach_kiste_ex_1_st_2;Hmm. Seau, chiffons, raclette... Des outils classiques pour lever les fenêtres.
-spokentexts_a20_dach_kiste_ex_1_st_3;Ils ne voulaient probablement pas trimballer leur équipement jusqu'au toit tous le sjours et ont décidé de le ranger ici.
+spokentexts_a20_dach_kiste_ex_1_st_2;Hmm. Seau, chiffons, raclette... Des outils classiques pour laver les fenêtres.
+spokentexts_a20_dach_kiste_ex_1_st_3;Ils ne voulaient probablement pas trimballer leur équipement jusqu'au toit tous les jours et ont décidé de le ranger ici.
 texts_a20_dach_kletterausruestung_mo_ex_1;Examiner l'équipement d'escalade
 texts_a20_dach_kletterausruestung_mo_use_1;Enfiler l'équipement d'escalade
 spokentexts_a20_dach_kletterausruestung_ex_1_st_1;C'est exactement le même équipement que j'ai utilisé pour le cambriolage de Londres.
-spokentexts_a20_dach_kletterausruestung_ex_1_st_2;Il me manque que le masque. Inch veut-il s'assurer que les caméras de surveillance voient mon joli minoi ?
+spokentexts_a20_dach_kletterausruestung_ex_1_st_2;Il ne manque que le masque. Inch veut-il s'assurer que les caméras de surveillance voient mon joli minoi ?
 sequences_a20_dach_kletterausruestung_use_1#1;"[The whole idea is the ""Move"" not to worry about fade to black, but with a couple of cuts that covers up that the Arab can not really change his clothes. After the short sequence he stands in the burglar outfit.]"
 sequences_a20_dach_kletterausruestung_use_1#2;[The Arab picks up the climbing gear. Cut to closeup. It can be seen how he throws the equipment over the shoulders.]
 sequences_a20_dach_kletterausruestung_use_1#3;[Cut to the thigh, which are already in the climbing equipment. The camera moves up and you can just see how the Arab grabs the belt.]
@@ -55,7 +55,7 @@ sequences_a20_dach_kurbel_ex_1#2;[The Arab grabs the crank, looks at it.]
 spokentexts_a20_dach_kurbel_ex_1_st_2;Une manivelle... Utile pour ouvrir les fenêtres qui sont trop lourdes pour être manipulées à mains nues !
 spokentexts_a20_dach_kurbel_ex_1_st_3;Ta nouvelle demeure.
 sequences_a20_dach_kurbel_ex_1#5;[The Arab lays the crank next to the window.]
-spokentexts_a20_dach_kurbel_ex_2_st_1;Les laveurs de carreaux n'auraient jamais dû laisser la manivelle ici. Je peut peut être l'utilise rpour ouvrir la fenpetre. 
+spokentexts_a20_dach_kurbel_ex_2_st_1;Les laveurs de carreaux n'auraient jamais dû laisser la manivelle ici. Je peux peut être l'utiliser pour ouvrir la fenêtre. 
 texts_a20_dach_lappen_mo_ex_1;Examiner les outils des laveurs de carreaux
 texts_a20_dach_lappen_mo_inventar_1;Chiffon
 texts_a20_dach_lappen_mo_use_1;Utiliser le chiffon avec...
@@ -83,7 +83,7 @@ sequences_a20_dach_scheibe_ex_2#2;[The Arab leans with one hand, looks at the gl
 spokentexts_a20_dach_scheibe_ex_2_st_2;Hmm. Il y a un mécanisme qui ouvre la fenêtre quand on tourne la manivelle.
 spokentexts_a20_dach_scheibe_ex_2_st_3;Hmm. Je vois deux contacts sur le bord. Un bout de métal est coincé entre les deux et fixé à la fenêtre.
 spokentexts_a20_dach_scheibe_ex_2_st_4;Si j'ouvre la fenêtre le bout de métal va bouger, casser le circuit et déclencher l'alarme...
-spokentexts_a20_dach_scheibe_ex_2_st_5;A moins que les gardes n'aient été prévenus à l'avance, mais je doute que ce soit le cas ici. Je dois contourner le circuit !
+spokentexts_a20_dach_scheibe_ex_2_st_5;À moins que les gardes n'aient été prévenus à l'avance, mais je doute que ce soit le cas ici. Je dois contourner le circuit !
 sequences_a20_dach_scheibe_ex_2#7;[The Arab pushes himself back from the window and stands there normal.]
 spokentexts_a20_dach_scheibe_ex_3_st_1;Je dois trouver un moyen d'atteindre les contacts électriques du système d'alarme et neutraliser le circuit... Je pourrais ensuite ouvrir la fenêtre sans danger.
 spokentexts_a20_dach_scheibe_ex_4_st_1;Sans le caoutchouc, il y a un espace d'un ou deux centimètres sous la fenêtre. Juste assez pour glisser deux doigts au travers.
@@ -101,17 +101,17 @@ sequences_a20_dach_scheibe_used_mit_kaugummipapier_2#4;[The Arab tries ion, it s
 spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_2_st_3;Je peux contourner le circuit avec le papier, mais je n'arrive pas... Ahh ! Punaise !
 spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_2_st_4;Le papier m'a échappé !
 sequences_a20_dach_scheibe_used_mit_kaugummipapier_2#7;[The Arab pulls his hand back, stands up.]
-spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_2_st_5;Ca n'aurait pas marché de toute façon. L'espace était trop petit.
+spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_2_st_5;Ça n'aurait pas marché de toute façon. L'espace était trop petit.
 spokentexts_a20_dach_scheibe_used_mit_kaugummipapier_3_st_1;C'était une solution de secours mais le chiffon mouillé devrait marcher tout aussi bien.
 sequences_a20_dach_scheibe_used_mit_kurbel_1#2;[The Arab leans with one hand, looks at the glass along in the direction locking mechanism.]
 sequences_a20_dach_scheibe_used_mit_kurbel_1#7;[The Arab pushes himself back from the window and stands there normal.]
 sequences_a20_dach_scheibe_used_mit_kurbel_3#1;[The Arab picks up the crank, puts it on and opens the window. Then he puts the crank on the wall next to the open window.]
 spokentexts_a20_dach_scheibe_used_mit_lappen_1_st_1;Ce n'est pas vraiment mon boulot.
-spokentexts_a20_dach_scheibe_used_mit_lappen_2_st_1;Qu'est-ce que c'ets censé faire ? Les chiffons ne sont pas conducteurs.
+spokentexts_a20_dach_scheibe_used_mit_lappen_2_st_1;Qu'est-ce que c'est censé faire ? Les chiffons ne sont pas conducteurs.
 sequences_a20_dach_scheibe_used_mit_lappen_3#1;[The Arab takes the wet rag, kneels down in front of the window and presses the wet rag through the crack under the window.]
 spokentexts_a20_dach_scheibe_used_mit_lappen_3_st_1;OK, C'est parti. Et maintenant en arrière... et en avant... et à bientôt !
 sequences_a20_dach_scheibe_used_mit_lappen_3#3;[The Arab is shaking the cloth back and forth and then let him roll over so that he lands on the contacts.]
-spokentexts_a20_dach_scheibe_used_mit_lappen_3_st_2;C'est bon ! Le chiffon mouillée est pil sur les contacts !
+spokentexts_a20_dach_scheibe_used_mit_lappen_3_st_2;C'est bon ! Le chiffon mouillée est pile sur les contacts !
 sequences_a20_dach_scheibe_used_mit_lappen_3#5;[The Arab stands up, wiping his hands dry on his pants and stands normally.]
 spokentexts_a20_dach_scheibe_used_mit_messer_1_st_1;Hmm. Je ne peux pas sortir les fenêtres de leur support. Mais il y a du caoutchouc en bas et sur les côtés de la fenêtre...
 sequences_a20_dach_scheibe_used_mit_messer_1#2;[The Arab pulls out a knife, cuts down at the window and finally moves a thick rubber strips (about 1-1.5 cm in diameter) out.]
@@ -121,7 +121,7 @@ spokentexts_a20_dach_scheibe_used_mit_messer_2_st_1;J'ai enlevé autant de caout
 texts_a20_dach_seil_mo_ex_2__3;Examiner la corde
 texts_a20_dach_seil_mo_use_1;Utiliser la corde avec...
 texts_a20_dach_seil_mo_use_2;Descendre en rappel
-spokentexts_a20_dach_seil_ex_1a_st_1;Une bonne corde et suffisamment longue pour descendre en rappel dans la salle au trésor.
+spokentexts_a20_dach_seil_ex_1a_st_1;Une bonne corde, et suffisamment longue pour descendre en rappel dans la salle au trésor.
 spokentexts_a20_dach_seil_ex_1b_st_1;Je vais la laisser ici tant que je ne suis pas prêt.
 sequences_a20_dach_seil_use_1#1;"[Sequence ""Araber_seilt_sich_ab"" is played.]"
 texts_a20_dach_stoffbeutel_mo_inventar_1;Sac en tissu
@@ -146,7 +146,7 @@ spokentexts_a20_dach_tasche_ex_1_st_6;Pourquoi Inch a-t-il mis un paquet de chew
 sequences_a20_dach_tasche_ex_1#13;[The Arab takes the pack of gum and the bag and puts it in his pocket. Then he looks again into the bag.]
 spokentexts_a20_dach_tasche_ex_1_st_7;C'est tout.
 sequences_a20_dach_tasche_ex_1#15;[The Arab let the bag fall in front of the wall on the ground.]
-spokentexts_a20_dach_tasche_ex_1_st_8;Climbing equipment and a pack of chewing gum! I'm beginning to feel underequipped for this burglary.
+spokentexts_a20_dach_tasche_ex_1_st_8;De l'équipement d'escalade et un paquet de chewing-gum ! Je commence à me sentir sous-équipé pour ce cambriolage.
 spokentexts_a20_dach_tasche_ex_1_st_9_direction;breathes little and annoyed
 spokentexts_a20_dach_tasche_ex_1_st_9;*expire*. On dirait que je vais devoir improviser.
 spokentexts_a20_dach_tasche_ex_2_st_1;Il n'y a rien d'autre dans le sac, et ce dernier m'est inutile.
@@ -154,13 +154,13 @@ texts_a20_dach_wasserhahn_mo_ex_1;Examiner le robinet
 texts_a20_dach_wasserhahn_mo_use_1;Ouvrir le robinet
 texts_a20_dach_wasserhahn_mo_used_mit_lappen_1;Mouiller le chiffon
 spokentexts_a20_dach_wasserhahn_ex_1_st_1;Le robinet sert peut être à dépressuriser le réservoir si il pleut trop ?
-spokentexts_a20_dach_wasserhahn_ex_1_st_2;Ou c'ets simplement un moyen pratique pour les laveurs de carreaux d'obtenir de l'eau fraîche ici.
+spokentexts_a20_dach_wasserhahn_ex_1_st_2;Ou c'est simplement un moyen pratique pour les laveurs de carreaux d'obtenir de l'eau fraîche ici.
 sequences_a20_dach_wasserhahn_use_1#1;[The Arab turned on the tap, water runs out.]
 sequences_a20_dach_wasserhahn_use_1#2;[Shortly afterwards, he closes the tap again.]
 sequences_a20_dach_wasserhahn_used_mit_lappen_1#1;[The Arab pulls out the cloth, holding it under the tap and turn on the tap. The water runs through the cloth.]
 spokentexts_a20_dach_wasserhahn_used_mit_lappen_1_st_1;Wahou ! Froide !
 sequences_a20_dach_wasserhahn_used_mit_lappen_1#3;[The Arab closes the tap again and holds the dripping cloth with two fingers infront to himself.]
-spokentexts_a20_dach_wasserhahn_used_mit_lappen_1_st_2;Complètement trempé. Je ne vais pas le mettre dans mon poche dans cet état !
+spokentexts_a20_dach_wasserhahn_used_mit_lappen_1_st_2;Complètement trempé. Je ne vais pas le mettre dans ma poche dans cet état !
 sequences_a20_dach_wasserhahn_used_mit_lappen_1#5;[The Arab lays the cloth next to the window.]
 sequences_a20_dach_seq_a20_dach_araber_seilt_sich_ab#0;[The Arab grabs the rope. Then he climbs through the window and looks down.]
 spokentexts_a20_dach_seq_a20_dach_araber_seilt_sich_ab_st_1_direction;whisper
@@ -170,7 +170,7 @@ sequences_a20_dach_seq_a20_dach_araber_seilt_sich_ab#3;[Next in the the treasure
 sequences_a20_dach_seq_a20_dach_araber_start#0;[The Arab Is on the wall with the secret door, his hand thoughtfully placed on the wall. He takes the hand away, and goes into normal position.]
 spokentexts_a20_dach_seq_a20_dach_araber_start_st_1_direction;exhale long and deep
 spokentexts_a20_dach_seq_a20_dach_araber_start_st_1;Pfiu.
-spokentexts_a20_dach_seq_araber_will_sich_abseilen_ohne_kletterausruestung_st_1;Not without climbing equipment.
+spokentexts_a20_dach_seq_araber_will_sich_abseilen_ohne_kletterausruestung_st_1;Pas sans l'équipement d'escalade.
 texts_a20_keller_ausgang_haupthalle_mo_ex_1;Toucher le mur
 texts_a20_keller_ausgang_haupthalle_mo_ex_2;Examiner le mécanisme
 texts_a20_keller_ausgang_haupthalle_mo_use_1;Ouvrir la porte secrète
@@ -225,378 +225,378 @@ spokentexts_a20_keller_kabel_ex_2_st_1;J'ai exposé les fils de cuivre. Il n'y a
 spokentexts_a20_keller_kabel_ex_3_st_1;La lampe est accrochée au câble électrique, lui même relié à l'interrupteur. Tant qu'il y a du courant, je devrais avoir de la lumière maintenant !
 spokentexts_a20_keller_kabel_ex_4_st_1;Je crois que le plot est sale...
 sequences_a20_keller_kabel_ex_4#2;[The Arab, turns the light bulb out, looks at it from below.]
-spokentexts_a20_keller_kabel_ex_4_st_2;J'avais raison. Le plot est recouvert de rouille.
+spokentexts_a20_keller_kabel_ex_4_st_2;J'avais raison. Le plot est couvert de rouille.
 spokentexts_a20_keller_kabel_ex_4_st_3;Le courant ne peut pas passer correctement, et tôt ou tard l'ampoule va lâcher.
 sequences_a20_keller_kabel_ex_4#5;[The Arab takes the light bulb.]
 spokentexts_a20_keller_kabel_ex_5_st_1;La douille est connectée au câble et il y a du courant. Il ne manque qu'une ampoule !
-spokentexts_a20_keller_kabel_used_mit_a20_keller_gluehbirne_1_st_1;That makes no sense. As long as the contact is still rusty, I'll wind up ruining the bulb instead of lighting it up.
-spokentexts_a20_keller_kabel_used_mit_a20_keller_gluehbirne_2_st_1;One more try...
+spokentexts_a20_keller_kabel_used_mit_a20_keller_gluehbirne_1_st_1;Cela n'a aucun sens. Tant que le plot est rouillé je vais simplement abîmer l'ampoule au lieu de l'allumer.
+spokentexts_a20_keller_kabel_used_mit_a20_keller_gluehbirne_2_st_1;Nouvel essai...
 sequences_a20_keller_kabel_used_mit_a20_keller_gluehbirne_2#2;[The Arab takes out the light bulb again, blows on the contact and then puts the bulb in the lamp.]
-spokentexts_a20_keller_kabel_used_mit_a20_rabennest_gluehbirne_kabel_1_st_1;I could connect the cables to each other, but I'd need to strip the insulation from the cables on the wall and the lamp.
-spokentexts_a20_keller_kabel_used_mit_a20_rabennest_gluehbirne_kabel_2_st_1;OK. I'll twist the wires from the lamp cord together with the wires from the electrical cable...
+spokentexts_a20_keller_kabel_used_mit_a20_rabennest_gluehbirne_kabel_1_st_1;Je pourrais connecter les câbles ensemble, mais il faudrait d'abord que j'enlève l'isolation des câbles fixés au mur et de la lampe.
+spokentexts_a20_keller_kabel_used_mit_a20_rabennest_gluehbirne_kabel_2_st_1;OK. Je vais entremêler les fils de la lampe avec ceux du câble électrique...
 sequences_a20_keller_kabel_used_mit_a20_rabennest_gluehbirne_kabel_2#2;[The Arab twists the two cables, let hang the lamp.]
 sequences_a20_keller_kabel_used_mit_a20_rabennest_messer#1;[The Arab pulls out his knife, first removes the isolation from the wire and then the tips of the isolation of both wires.]
-spokentexts_a20_keller_kabel_used_mit_a20_rabennest_messer_st_1;OK. Plus and minus are exposed.
-texts_a20_keller_lichtschalter_mo_ex_1__2__4__5;Examine the switch
-texts_a20_keller_lichtschalter_mo_use_1__2;Turn the light on
-spokentexts_a20_keller_lichtschalter_ex_1_st_1;Here we go!  I think it's...
+spokentexts_a20_keller_kabel_used_mit_a20_rabennest_messer_st_1;OK. Le positif et le négatif sont exposés.
+texts_a20_keller_lichtschalter_mo_ex_1__2__4__5;Examiner l'interrupteur
+texts_a20_keller_lichtschalter_mo_use_1__2;Allumer la lumière
+spokentexts_a20_keller_lichtschalter_ex_1_st_1;C'est parti ! Je pense que...
 sequences_a20_keller_lichtschalter_ex_1#2;[The Arab turns the switch, nothing happens. The Arab turns back the switch.]
-spokentexts_a20_keller_lichtschalter_ex_1_st_2;Nothing.
+spokentexts_a20_keller_lichtschalter_ex_1_st_2;Rien.
 sequences_a20_keller_lichtschalter_ex_1#4;[The Arab releases the switch, is back down to normal.]
 sequences_a20_keller_lichtschalter_ex_1#5;[From now on, the cable is selectable.]
-spokentexts_a20_keller_lichtschalter_ex_2_st_1;Hmm. Yes. There was a lamp here, but now there's just a cable.
-spokentexts_a20_keller_lichtschalter_ex_3_st_1;Now it should work!
-spokentexts_a20_keller_lichtschalter_ex_4_st_1;Something's wrong with the lamp!
-spokentexts_a20_keller_lichtschalter_ex_5_st_1;There's current in the wire, but that won't help me unless I can get a working bulb.
-spokentexts_a20_keller_lichtschalter_use_1_st_1;Let there be light!
+spokentexts_a20_keller_lichtschalter_ex_2_st_1;Hmm. Oui. Il y avait une lampe ici, mais maintenant il ne reste plus qu'un câble.
+spokentexts_a20_keller_lichtschalter_ex_3_st_1;Ça devrait marcher maintenant !
+spokentexts_a20_keller_lichtschalter_ex_4_st_1;Quelque chose cloche avec la lampe !
+spokentexts_a20_keller_lichtschalter_ex_5_st_1;Il y a du courant dans le câble mais ça ne sert à rien tant que je n'ai pas d'ampoule.
+spokentexts_a20_keller_lichtschalter_use_1_st_1;Que la lumière soit !
 sequences_a20_keller_lichtschalter_use_1#2;[The Arab is turning the switch. The lamp flickers briefly, then off again. The Arab turns the switch again.]
-spokentexts_a20_keller_lichtschalter_use_1_st_2;Damn.
+spokentexts_a20_keller_lichtschalter_use_1_st_2;Punaise.
 sequences_a20_keller_lichtschalter_use_2#1;[The Arab turned on the switch, the light goes on.]
 spokentexts_a20_keller_lichtschalter_use_2_st_1_direction;pleased with himself
-spokentexts_a20_keller_lichtschalter_use_2_st_1;There we go.
-texts_a20_keller_tisch_mo_ex_1__2;Examine the table
-spokentexts_a20_keller_tisch_ex_1_st_1;If it wasn't so dusty, I could easily imagine someone had been using it.
-spokentexts_a20_keller_tisch_ex_2_st_1;What kind of stories could this room tell? About desperation, anger, triumph...
+spokentexts_a20_keller_lichtschalter_use_2_st_1;Et bien voilà.
+texts_a20_keller_tisch_mo_ex_1__2;Examiner la table
+spokentexts_a20_keller_tisch_ex_1_st_1;Si elle n'était pas si poussiéreuse, on pourrait facilement penser que quelqu'un a travaillé dessus.
+spokentexts_a20_keller_tisch_ex_2_st_1;Quel genre d'histoires cette pièce pourrait-elle raconter ? Désespoir, colère, triomphe...
 sequences_a20_keller_seq_a20_keller_erstmalig_betreten#0;[It can be heard a clicking sound like from a bolt. Then the secret door opens to the stairs.]
 sequences_a20_keller_seq_a20_keller_erstmalig_betreten#1;[The Arab appears, looks around.]
-spokentexts_a20_keller_seq_a20_keller_erstmalig_betreten_st_1;Pitch-black in here...
-texts_a20_rabennest_armeemesser_mo_ex_1;Swiss Army knife
-spokentexts_a20_rabennest_armeemesser_ex_1_st_1;Every time I don't have the knife with me, I need it. Does this mean I won't need it, since I have it with me this time?
-texts_a20_rabennest_ausgang_dach_mo_leave_1;Go back to the roof
-texts_a20_rabennest_ausgang_dach_mo_leave_2;Go on the roof
-spokentexts_a20_rabennest_ausgang_dach_leave_1_st_1;No. My job is getting Inch into the basement.
-spokentexts_a20_rabennest_ausgang_dach_leave_1_st_2;The sooner I get it done, the sooner I can put this whole story behind me.
+spokentexts_a20_keller_seq_a20_keller_erstmalig_betreten_st_1;Il fait nuit noire ici...
+texts_a20_rabennest_armeemesser_mo_ex_1;Couteau suisse
+spokentexts_a20_rabennest_armeemesser_ex_1_st_1;Dès que je n'ai pas le couteau avec moi j'en ai besoin. Va-t-il m'être inutile ici, vu que je l'ai sur moi ?
+texts_a20_rabennest_ausgang_dach_mo_leave_1;Retourner sur le toit
+texts_a20_rabennest_ausgang_dach_mo_leave_2;Aller sur le toit
+spokentexts_a20_rabennest_ausgang_dach_leave_1_st_1;Non. Mon boulot est d'amener Inch à la cave.
+spokentexts_a20_rabennest_ausgang_dach_leave_1_st_2;Plus vite ce sera fait, plus vite je pourrai oublier toute cette histoire.
 sequences_a20_rabennest_ausgang_dach_leave_2#1;[The Arab turns toward the secret door.]
 spokentexts_a20_rabennest_ausgang_dach_leave_2_st_1_direction;sarcastic
-spokentexts_a20_rabennest_ausgang_dach_leave_2_st_1;I appreciate your willingness! But all in good time. First the handcuffs!
+spokentexts_a20_rabennest_ausgang_dach_leave_2_st_1;J'apprécie votre détermination ! Mais chaque chose en son temps. Commençons par les menottes !
 sequences_a20_rabennest_ausgang_dach_leave_2#3;[The Arab turns back.]
-texts_a20_rabennest_ausgang_keller_mo_leave_1__2;Go downstairs
-texts_a20_rabennest_ausgang_keller_mo_leave_2;Flee!
-texts_a20_rabennest_ausgang_keller_mo_use_1;Examine the hatch
-spokentexts_a20_rabennest_ausgang_keller_ex_1_st_1;According to the blueprints, the stairs lead from the attic down to the secret basement...
+texts_a20_rabennest_ausgang_keller_mo_leave_1__2;Descendre
+texts_a20_rabennest_ausgang_keller_mo_leave_2;Fuir !
+texts_a20_rabennest_ausgang_keller_mo_use_1;Examiner la trappe
+spokentexts_a20_rabennest_ausgang_keller_ex_1_st_1;D'après les plans, les escaliers mènent du grenier à la cave secrète...
 sequences_a20_rabennest_ausgang_keller_leave_1#1;[The Arab starts to descend the stairs.]
 sequences_a20_rabennest_ausgang_keller_leave_1#2;[While he still goes fade out. Next in the basement.]
 sequences_a20_rabennest_ausgang_keller_leave_2#1;[The Arab looks inconspicuous to the hatch. The Butler notes that, following his gaze.]
 spokentexts_a20_rabennest_ausgang_keller_leave_2_st_1;Tsk-tsk-tsk.
-spokentexts_a20_rabennest_ausgang_keller_leave_2_st_2;You'd leave you little girlfriend here? Alone with me?
+spokentexts_a20_rabennest_ausgang_keller_leave_2_st_2;Vous abandonneriez votre petite amie ici ? Seule avec moi ?
 spokentexts_a20_rabennest_ausgang_keller_leave_2_st_3_direction;determined
-spokentexts_a20_rabennest_ausgang_keller_leave_2_st_3;Never.
+spokentexts_a20_rabennest_ausgang_keller_leave_2_st_3;Jamais.
 sequences_a20_rabennest_ausgang_keller_use_1#1;[The Arab opens  the door to the stairs, looks down briefly.]
-texts_a20_rabennest_character_butler_mo_talk_mit_1__2;Assuage Inch.
-texts_a20_rabennest_character_butler_mo_used_mit_handschellen_1;Try to overpower him and tie him up
-spokentexts_a20_rabennest_character_butler_ex_1_st_1;It seems we underestimated you, Inch.
-spokentexts_a20_rabennest_character_butler_ex_1_st_2;A fools mistake! You should have known better.
-spokentexts_a20_rabennest_character_butler_talk_mit_1_st_1;You can put the gun down. I won't try anything.
-spokentexts_a20_rabennest_character_butler_talk_mit_1_st_2;I could choose to believe you. Or I could keep the gun pointed at you and KNOW that you won't try anything.
-spokentexts_a20_rabennest_character_butler_talk_mit_1_st_3;If you'd be so kind?
+texts_a20_rabennest_character_butler_mo_talk_mit_1__2;Apaiser Inch.
+texts_a20_rabennest_character_butler_mo_used_mit_handschellen_1;Essayer de maîtriser Inch et de le ligoter
+spokentexts_a20_rabennest_character_butler_ex_1_st_1;On dirait que nous vous avons sous-estimé, Inch.
+spokentexts_a20_rabennest_character_butler_ex_1_st_2;Une belle idiotie ! Vous auriez dû faire preuve de plus de bon sens.
+spokentexts_a20_rabennest_character_butler_talk_mit_1_st_1;Vous pouvez baisser votre arme. Je vais vous obéir.
+spokentexts_a20_rabennest_character_butler_talk_mit_1_st_2;Je pourrais vous croire. Ou je pourrais garder mon arme sur vous et ÊTRE SÛR que vous allez m'obéir.
+spokentexts_a20_rabennest_character_butler_talk_mit_1_st_3;Si cela ne vous dérange pas ?
 sequences_a20_rabennest_character_butler_talk_mit_1#4;[The Butler waved briefly with his pistol in the direction of women.]
-spokentexts_a20_rabennest_character_butler_talk_mit_2_st_1;Can't we...
+spokentexts_a20_rabennest_character_butler_talk_mit_2_st_1;Ne peut-on pas...
 spokentexts_a20_rabennest_character_butler_talk_mit_2_st_2_direction;annoyed, threatening
-spokentexts_a20_rabennest_character_butler_talk_mit_2_st_2;You can cuff your girlfriend to the chair, that's what you can do.
+spokentexts_a20_rabennest_character_butler_talk_mit_2_st_2;Vous pouvez attacher votre petite amie à la chaise, voilà ce que vous pouvez faire.
 sequences_a20_rabennest_character_butler_talk_mit_2#3;[The butler raises threatening his gun.]
 sequences_a20_rabennest_character_butler_used_mit_handschellen_1#1;[The Arab looks at the handcuffs, then to the Butler.]
-spokentexts_a20_rabennest_character_butler_used_mit_handschellen_1_st_1;Don't even think of trying anything. You're playing with her life.
+spokentexts_a20_rabennest_character_butler_used_mit_handschellen_1_st_1;N'y pensez même pas. Vous jouez avec sa vie.
 sequences_a20_rabennest_character_butler_used_mit_handschellen_1#3;[The butler raises threatening his gun.]
-texts_a20_rabennest_character_frau_mo_ex_1;Look at Pat
-texts_a20_rabennest_character_frau_mo_used_mit_handschellen_1;Cuff Patricia to the chair
+texts_a20_rabennest_character_frau_mo_ex_1;Regarder Pat
+texts_a20_rabennest_character_frau_mo_used_mit_handschellen_1;Attacher Patricia à la chaise
 spokentexts_a20_rabennest_character_frau_ex_1_st_1_direction;mendicant
-spokentexts_a20_rabennest_character_frau_ex_1_st_1;Please don't hurt her. I beg you!
+spokentexts_a20_rabennest_character_frau_ex_1_st_1;S'il vous plait, ne lui faites pas de mal. Je vous en prie !
 spokentexts_a20_rabennest_character_frau_ex_1_st_2_direction;strict commanding
-spokentexts_a20_rabennest_character_frau_ex_1_st_2;The handcuffs. Now!
+spokentexts_a20_rabennest_character_frau_ex_1_st_2;Les menottes. Maintenant !
 sequences_a20_rabennest_character_frau_used_mit_handschellen_1#1;[The Arab slowly takes on the handcuffs, but he looks at the butler as long as he can. Then he turns to the woman.]
-spokentexts_a20_rabennest_character_frau_used_mit_handschellen_1_st_1;I'm sorry.
+spokentexts_a20_rabennest_character_frau_used_mit_handschellen_1_st_1;Je suis désolé.
 sequences_a20_rabennest_character_frau_used_mit_handschellen_1#3;[The Arab grabs her with his free hand under her arm. She gets up, turns to him. Together they walk towards the chair.]
 spokentexts_a20_rabennest_character_frau_used_mit_handschellen_1_st_2_direction;Sobbing, whimpering
-spokentexts_a20_rabennest_character_frau_used_mit_handschellen_1_st_2;*sobs*
+spokentexts_a20_rabennest_character_frau_used_mit_handschellen_1_st_2;*sanglote*
 sequences_a20_rabennest_character_frau_used_mit_handschellen_1#5;[Closeup cut behind the chair.]
 sequences_a20_rabennest_character_frau_used_mit_handschellen_1#6;[The woman sits down, lets her hands fall. The Arab puts her the handcuffs on.]
 sequences_a20_rabennest_character_frau_used_mit_handschellen_1#7;[He bends down, to secure the other clamp at the chair. Here, their heads comes very closely.]
 spokentexts_a20_rabennest_character_frau_used_mit_handschellen_1_st_3_direction;whisper
-spokentexts_a20_rabennest_character_frau_used_mit_handschellen_1_st_3;I love you.
+spokentexts_a20_rabennest_character_frau_used_mit_handschellen_1_st_3;Je t'aime.
 sequences_a20_rabennest_character_frau_used_mit_handschellen_1#9;[The second clamp closes, the Arab gets up.]
 sequences_a20_rabennest_character_frau_used_mit_handschellen_1#10;[Cut back.]
 sequences_a20_rabennest_character_frau_used_mit_handschellen_1#11;[The Arab stands up normally, the young woman is sitting from now on to the chair, bound.]
 spokentexts_a20_rabennest_character_frau_used_mit_handschellen_1_st_4_direction;open end
-spokentexts_a20_rabennest_character_frau_used_mit_handschellen_1_st_4;Look at her. Remember this scene. If you try to screw me, then...
-texts_a20_rabennest_dachpappe_mo_ex_1;Examine the coil
-texts_a20_rabennest_dachpappe_mo_ex_2;Examine the tar paper
-texts_a20_rabennest_dachpappe_mo_used_mit_gluehbirne;Use the bulb with the tar paper
-spokentexts_a20_rabennest_dachpappe_ex_1_st_1;That's tar paper, I think.
-spokentexts_a20_rabennest_dachpappe_ex_1_st_2;Maybe it's for covering all those holes in the roof.
-spokentexts_a20_rabennest_dachpappe_ex_2_st_1;A big, heavy roll of rough tarpaper. Probably put there decades ago and then forgotten.
+spokentexts_a20_rabennest_character_frau_used_mit_handschellen_1_st_4;Regardez la. Gardez cette scène dans votre mémoire. Si vous essayez de me doubler...
+texts_a20_rabennest_dachpappe_mo_ex_1;Examiner la bobine
+texts_a20_rabennest_dachpappe_mo_ex_2;Examiner le papier goudronné
+texts_a20_rabennest_dachpappe_mo_used_mit_gluehbirne;Utiliser l'ampoule avec le papier goudronné
+spokentexts_a20_rabennest_dachpappe_ex_1_st_1;Je crois que c'est du papier goudronné.
+spokentexts_a20_rabennest_dachpappe_ex_1_st_2;Il doit être utilisé pour boucher tous ces trous dans la toiture.
+spokentexts_a20_rabennest_dachpappe_ex_2_st_1;Un gros rouleau de papier goudronné. Probablement rangé ici il y a des décennies et complètement oublié depuis.
 spokentexts_a20_rabennest_dachpappe_used_mit_a20_keller_gluehbirne_st_1_direction;thoughtfully
-spokentexts_a20_rabennest_dachpappe_used_mit_a20_keller_gluehbirne_st_1;Hmm. Maybe I can...
+spokentexts_a20_rabennest_dachpappe_used_mit_a20_keller_gluehbirne_st_1;Hmm. Peut être que je peux...
 sequences_a20_rabennest_dachpappe_used_mit_a20_keller_gluehbirne#2;[The Arab gets out the light bulb, considers the rusted contact at the top and then pulls it back and forth over the roof..]
 sequences_a20_rabennest_dachpappe_used_mit_a20_keller_gluehbirne#3;[He then looks back down at the contact.]
-spokentexts_a20_rabennest_dachpappe_used_mit_a20_keller_gluehbirne_st_2;Yes! I can use it to rub the rust off!
+spokentexts_a20_rabennest_dachpappe_used_mit_a20_keller_gluehbirne_st_2;Oui ! Je peux l'utiliser pour enlever la rouille !
 sequences_a20_rabennest_dachpappe_used_mit_a20_keller_gluehbirne#5;[The Arab pulls the bulb a few more times on the tar paper back and forth, he looks briefly on the contact and puts the bulb back on.]
-spokentexts_a20_rabennest_dachpappe_used_mit_a20_keller_gluehbirne_st_3;That should do it.
-texts_a20_rabennest_funkausruestung_mo_ex_1__2;Examine the equipment
-spokentexts_a20_rabennest_funkausruestung_ex_1_st_1;"Old technical equipment... Inch said something about an ""underground"" that operated here in the museum during the war."
-spokentexts_a20_rabennest_funkausruestung_ex_2_st_1;Could have been a radio installation. Would have been the perfect place for it, so high above the city.
-texts_a20_rabennest_gluehbirne_kabel_mo_inventar_1;Lamp
-texts_a20_rabennest_gluehbirne_kabel_mo_inventar_2;Lamp with exposed wires
-texts_a20_rabennest_gluehbirne_kabel_mo_used_mit_messer_1;Remove the insulation
+spokentexts_a20_rabennest_dachpappe_used_mit_a20_keller_gluehbirne_st_3;Ça devrait être bon.
+texts_a20_rabennest_funkausruestung_mo_ex_1__2;Examiner l'équipement
+spokentexts_a20_rabennest_funkausruestung_ex_1_st_1;"Du vieil équipement technique... Inch a mentionné un ""mouvement clandestin"" opérant au musée durant la guerre."
+spokentexts_a20_rabennest_funkausruestung_ex_2_st_1;Ça aurait pu être une installation radio. Aussi haut, au dessus de la ville, ça aurait été l'endroit parfait.
+texts_a20_rabennest_gluehbirne_kabel_mo_inventar_1;Lampe
+texts_a20_rabennest_gluehbirne_kabel_mo_inventar_2;Lampe avec les fils exposés
+texts_a20_rabennest_gluehbirne_kabel_mo_used_mit_messer_1;Enlever l'isolation
 sequences_a20_rabennest_gluehbirne_kabel_ex_1#1;[The Arab lifts the lamp, which he has in his hand, and considers it.]
-spokentexts_a20_rabennest_gluehbirne_kabel_ex_1_st_1;A bulb, a light socket and a piece of insulated cable.
-spokentexts_a20_rabennest_gluehbirne_kabel_ex_1_st_2;They're different than what I'm used to. These things were made in the thirties.
+spokentexts_a20_rabennest_gluehbirne_kabel_ex_1_st_1;Une ampoule, une douille et un morceau de câble isolé.
+spokentexts_a20_rabennest_gluehbirne_kabel_ex_1_st_2;Ce ne sont pas ceux dont j'ai l'habitude. Ces trucs ont été fabriqués dans les années trente.
 sequences_a20_rabennest_gluehbirne_kabel_ex_1#4;[The Arab let the lamp down again.]
-spokentexts_a20_rabennest_gluehbirne_kabel_ex_2_st_1;I removed the insulation and exposed the individual wires. Looks promising!
+spokentexts_a20_rabennest_gluehbirne_kabel_ex_2_st_1;J'ai enlevé l'isolation et exposé les fils. C'est bien parti !
 sequences_a20_rabennest_gluehbirne_kabel_used_mit_a20_rabennest_messer#1;[The Arab gets his knife out of his pocket and looks at the lamp, which he has in his hand.]
-spokentexts_a20_rabennest_gluehbirne_kabel_used_mit_a20_rabennest_messer_st_1;I should be able to remove the insulation with this knife...
+spokentexts_a20_rabennest_gluehbirne_kabel_used_mit_a20_rabennest_messer_st_1;Je devrais pouvoir enlever l'isolation avec le couteau...
 sequences_a20_rabennest_gluehbirne_kabel_used_mit_a20_rabennest_messer#3;[The Arab cuts with the knife a little bit of isolation of the wire, so that at the end two bare wire ends remain.]
-texts_a20_rabennest_handschellen_mo_benuzen_1;Use the handcuffs with...
-spokentexts_a20_rabennest_handschellen_ex_1_st_1;I'm sorry, Patricia...
-texts_a20_rabennest_lampe_mo_benutz_mit_messer;Cut the cable
-texts_a20_rabennest_lampe_mo_ex_1__2a__2b__3;Examine the lamp
-texts_a20_rabennest_lampe_mo_take_1;Screw the bulb out of the fixture
-spokentexts_a20_rabennest_lampe_ex_1_st_1;The electrical cables don't seem like they were meant to be permanent. Probably they secretly tapped the museum's electricity.
-spokentexts_a20_rabennest_lampe_ex_2a_st_1;Maybe the bulb still works. But it's bright enough in here already.
-spokentexts_a20_rabennest_lampe_ex_2b_st_1;There's enough light shining through the holes in the roof. I don't need to turn the lamp on.
-spokentexts_a20_rabennest_lampe_ex_3_st_1;I don't need artificial light up here, but it'd come in handy in the basement!
-spokentexts_a20_rabennest_lampe_take_1_st_1;It doesn't make sense to just take the bulb. I didn't even see a socket  in the basement.
-spokentexts_a20_rabennest_lampe_used_mit_a20_rabennest_messer_st_1;Could be useful at some point!
+texts_a20_rabennest_handschellen_mo_benuzen_1;Utiliser les menottes avec...
+spokentexts_a20_rabennest_handschellen_ex_1_st_1;Je suis désolé, Patricia...
+texts_a20_rabennest_lampe_mo_benutz_mit_messer;Couper le câble
+texts_a20_rabennest_lampe_mo_ex_1__2a__2b__3;Examiner la lampe
+texts_a20_rabennest_lampe_mo_take_1;Dévisser l'ampoule
+spokentexts_a20_rabennest_lampe_ex_1_st_1;Les câbles n'ont pas l'air aux normes. Ils détournaient probablement l'électricité du musée.
+spokentexts_a20_rabennest_lampe_ex_2a_st_1;Peut être que l'ampoule fonctionne encore. Mais il y a déjà suffisamment de lumière ici.
+spokentexts_a20_rabennest_lampe_ex_2b_st_1;Il y a assez de lumière qui passe à travers les trous du toit. Je n'ai pas besoin d'allumer la lampe.
+spokentexts_a20_rabennest_lampe_ex_3_st_1;Je n'ai pas besoin de lumière artificielle ici, mais ça me serait bien utile dans la cave !
+spokentexts_a20_rabennest_lampe_take_1_st_1;Prendre seulement l'ampoule n'a pas de sens. Il n'y a même pas de douille dans la cave.
+spokentexts_a20_rabennest_lampe_used_mit_a20_rabennest_messer_st_1;Ça pourrait être utile !
 sequences_a20_rabennest_lampe_used_mit_a20_rabennest_messer#4;[The Arab pulls out his knife and cuts the cable about 20cm away from the socket.]
 sequences_a20_rabennest_lampe_used_mit_a20_rabennest_messer#5;[Then he puts away his knife.]
 sequences_a20_rabennest_lampe_used_mit_a20_rabennest_messer#6;[The Arab has from now on the lamb in his hand.]
-texts_a20_rabennest_tasche_mo_ex_1;Examine the bag
-spokentexts_a20_rabennest_tasche_ex_1_st_1;What's in the bag?
-spokentexts_a20_rabennest_tasche_ex_1_st_2;We'll get to that.
-spokentexts_a20_rabennest_tasche_ex_1_st_3;The handcuffs. NOW.
+texts_a20_rabennest_tasche_mo_ex_1;Examiner le sac
+spokentexts_a20_rabennest_tasche_ex_1_st_1;Qu'y a-t-il dans le sac ?
+spokentexts_a20_rabennest_tasche_ex_1_st_2;Nous y reviendrons.
+spokentexts_a20_rabennest_tasche_ex_1_st_3;Les menottes. MAINTENANT.
 sequences_a20_rabennest_tasche_ex_1#4;[The butler raises threatening his gun.]
 sequences_a20_rabennest_seq_a20_rabennest_betreten_erstmalig#0;[The Arab is coming through the secret door from the roof into the Raven's Nest. He looks around.]
-spokentexts_a20_rabennest_seq_a20_rabennest_betreten_erstmalig_st_1;I'm in the museum. Well, sort of.
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_erstmalig_st_1;Je suis dans le musée. Enfin, d'une certaine façon.
 sequences_a20_rabennest_seq_a20_rabennest_betreten_erstmalig#2;[The player takes control.]
 sequences_a20_rabennest_seq_a20_rabennest_betreten_gruppe#0;[The woman comes up the stairs stumbled. She stumbles a bit, drops the bag..]
 sequences_a20_rabennest_seq_a20_rabennest_betreten_gruppe#1;[The Arab is behind her, wants to help her, but there already appears the butler in the hatch and aims his gun at the two.]
 spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_1_direction;We let this be!
-spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_1;Eh eh eh!
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_1;Eh eh eh !
 sequences_a20_rabennest_seq_a20_rabennest_betreten_gruppe#3;[The Butler is waving the Arab with the gun aside, he wants him to go a little further away from the woman. The Arab has no choice. He raises calm his hands and goes back a little.]
 sequences_a20_rabennest_seq_a20_rabennest_betreten_gruppe#4;[The woman turns frightened to the Butler, remains like this (idle). The Arab remains there with slightly raised hands(idle).]
 sequences_a20_rabennest_seq_a20_rabennest_betreten_gruppe#5;[The butler comes out of the hole, he threatens the Arab with the gun.]
 spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_2_direction;slightly out of breath
-spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_2;And now?
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_2;Et maintenant ?
 sequences_a20_rabennest_seq_a20_rabennest_betreten_gruppe#7;[The Butler grabs into his pocket, pulls out some handcuffs. He throws them before the  Arab on the floor.]
-spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_3;Cuff her to the chair.
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_3;Attachez la à la chaisse.
 spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_4_direction;panic
-spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_4;No!
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_4;Non !
 spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_5_direction;anxious
-spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_5;Patricia!
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_5;Patricia !
 sequences_a20_rabennest_seq_a20_rabennest_betreten_gruppe#11;[The woman to pass the Butler to the hatch. But he stops her. They collide.]
 spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_6_direction;Screams in panic and despair
-spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_6;Ahh! Ahh! NO!
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_6;Ahh ! Ahh ! NON !
 sequences_a20_rabennest_seq_a20_rabennest_betreten_gruppe#13;[The butler takes two seconds before he has the situation under control. He finds a safe stand and pushes it back powerfully into the room.]
-spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_7;ENOUGH!
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_7;ÇA SUFFIT !
 sequences_a20_rabennest_seq_a20_rabennest_betreten_gruppe#15;[The woman begins to cry, hids the face behind her hands. The Arab wants to help her, but the Butler is pointing his gun at him. The Arab gives up, stands there again with raised hands.]
-spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_8;You have one and only one chance of getting out of this alive.
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_8;Vous avez une seule et unique chance de sortir d'ici vivants.
 spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_9_direction;emphasizes each word
-spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_9;Do - what - I - tell - you - to - do.
-spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_10;Tie her to the chair.
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_9;Faites - ce - que - je - vous - dis.
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_gruppe_st_10;Attachez la à la chaise.
 sequences_a20_rabennest_seq_a20_rabennest_betreten_keller#0;[The Arab is coming up the last steps, stands up to normal.]
 spokentexts_a20_rabennest_seq_a20_rabennest_betreten_keller_st_1_direction;slight breath, he comes up stairs
-spokentexts_a20_rabennest_seq_a20_rabennest_betreten_keller_st_1;Phew!
+spokentexts_a20_rabennest_seq_a20_rabennest_betreten_keller_st_1;Pfiu !
 sequences_a20_rabennest_seq_a20_rabennest_betreten_keller#2;[The player takes control.]
-texts_a20_schatzkammer_ausgang_eingangsbereich_mo_ex_1;Examine the exit
+texts_a20_schatzkammer_ausgang_eingangsbereich_mo_ex_1;Examiner la sortie
 spokentexts_a20_schatzkammer_ausgang_eingangsbereich_ex_1_st_1_direction;tense
-spokentexts_a20_schatzkammer_ausgang_eingangsbereich_ex_1_st_1;Someone could come back any moment and then I'll have another problem.
+spokentexts_a20_schatzkammer_ausgang_eingangsbereich_ex_1_st_1;Quelqu'un pourrait revenir d'un moment à l'autre et là je serai bien embêté.
 spokentexts_a20_schatzkammer_ausgang_eingangsbereich_ex_1_st_2_direction;tense
-spokentexts_a20_schatzkammer_ausgang_eingangsbereich_ex_1_st_2;I need to hurry!
-texts_a20_schatzkammer_kamera_mo_ex_1_2;Examine the camera
-texts_a20_schatzkammer_kamera_mo_used_mit_stoffbeutel_1;Cover the lens
-spokentexts_a20_schatzkammer_kamera_ex_1a_st_1;The camera covers the whole room and I don't have a mask!
-spokentexts_a20_schatzkammer_kamera_ex_1b_st_1;I have to deactivate it, but how?
-spokentexts_a20_schatzkammer_kamera_ex_2_st_1;The camera is no longer a threat.
+spokentexts_a20_schatzkammer_ausgang_eingangsbereich_ex_1_st_2;Je dois me dépêcher !
+texts_a20_schatzkammer_kamera_mo_ex_1_2;Examiner la caméra
+texts_a20_schatzkammer_kamera_mo_used_mit_stoffbeutel_1;Couvrir l'objectif
+spokentexts_a20_schatzkammer_kamera_ex_1a_st_1;La caméra a vue sur la pièce toute entière et je n'ai pas de masque !
+spokentexts_a20_schatzkammer_kamera_ex_1b_st_1;Je dois la désactiver, mais comment ?
+spokentexts_a20_schatzkammer_kamera_ex_2_st_1;La caméra est inoffensive maintenant.
 sequences_a20_schatzkammer_kamera_used_mit_stoffbeutel#1;[The Arab is sneaking to the camera, pulls out the bag and keeps it just below the lens.]
-spokentexts_a20_schatzkammer_kamera_used_mit_stoffbeutel_st_1;Just have to hope that Inch knocked out the guard in the guardroom. If not, he'll be on his way to check the camera soon.
-spokentexts_a20_schatzkammer_kamera_used_mit_stoffbeutel_st_2;Here goes nothing.
+spokentexts_a20_schatzkammer_kamera_used_mit_stoffbeutel_st_1;Il n'y a plus qu'à espérer qu'Inch ait assommé le garde dans la salle de sécurité. Sinon il va vite venir vérifier la caméra.
+spokentexts_a20_schatzkammer_kamera_used_mit_stoffbeutel_st_2;C'est parti.
 sequences_a20_schatzkammer_kamera_used_mit_stoffbeutel#4;[The Arab puts the cloth bag over the camera, he hid so the entire lens.]
-texts_a20_schatzkammer_seil_mo_use_1a__1b__2;Climb down into the treasure chamber
-texts_a20_schatzkammer_seil_mo_use_3;Leave the treasure chamber
-spokentexts_a20_schatzkammer_seil_ex_1_st_1;A good rope. Got me down safely and it'll get me out of here when I'm done.
-spokentexts_a20_schatzkammer_seil_use_1a_st_1;If I go down there now, my face will be on the cover of every newspaper in the country!
-spokentexts_a20_schatzkammer_seil_use_1b_st_1;No, first I have to deactivate the camera!
+texts_a20_schatzkammer_seil_mo_use_1a__1b__2;Descendre dans la salle au trésor
+texts_a20_schatzkammer_seil_mo_use_3;Quitter la salle au trésor
+spokentexts_a20_schatzkammer_seil_ex_1_st_1;Une bonne corde. Elle a tenu le choc lors de la descente et elle devrait me permettre de ressortir d'ici quand j'aurai terminé.
+spokentexts_a20_schatzkammer_seil_use_1a_st_1;Si je descends maintenant mon visage sera à la une de tous les journaux du pays !
+spokentexts_a20_schatzkammer_seil_use_1b_st_1;Non, je dois d'abord désactiver la caméra !
 sequences_a20_schatzkammer_seil_use_2#1;[The Arab checks if all is okay, takes the rope in his hand.]
-spokentexts_a20_schatzkammer_seil_use_2_st_1;Now or never.
+spokentexts_a20_schatzkammer_seil_use_2_st_1;C'est maintenant ou jamais.
 sequences_a20_schatzkammer_seil_use_2#3;[The Arab let drop the rope into the treasure room and climbs into it.]
-spokentexts_a20_schatzkammer_seil_use_3_st_1;When I'm so close my goal? Never.
-texts_a20_schatzkammer_staender_mo_ex_1;Examine the cordon
-texts_a20_schatzkammer_staender_mo_use_1;Use the metal stand with...
-spokentexts_a20_schatzkammer_staender_ex_1_st_1;This cordon doesn't apply to burglars.
+spokentexts_a20_schatzkammer_seil_use_3_st_1;Si près du but ? Sûrement pas.
+texts_a20_schatzkammer_staender_mo_ex_1;Examiner le cordon
+texts_a20_schatzkammer_staender_mo_use_1;Utiliser le pied en métal avec...
+spokentexts_a20_schatzkammer_staender_ex_1_st_1;Ce cordon ne s'applique pas aux cambrioleurs.
 sequences_a20_schatzkammer_staender_use_1#1;[After clicking the stand is attached to the cursor and can be used with other things in the location.]
-texts_a20_schatzkammer_vitrine_mo_ex_1a__1b__2;Examine the display case with the Eye of the Sphinx
-texts_a20_schatzkammer_vitrine_mo_ex_3;Examine the glass pane with the chewing gum
-texts_a20_schatzkammer_vitrine_mo_ex_4;Examine the diamond with the chewing gum
-texts_a20_schatzkammer_vitrine_mo_used_mit_diamant_1a__1b;Cut a hole in the bullet-proof glass
-texts_a20_schatzkammer_vitrine_mo_used_mit_diamant_2;Press the diamond into the chewing gum
-texts_a20_schatzkammer_vitrine_mo_used_mit_kaugummi;Stick the chewing gum on the glass
-texts_a20_schatzkammer_vitrine_mo_used_mit_staender_1;Smash the bullet-proof glass
-texts_a20_schatzkammer_vitrine_mo_used_mit_staender_2;Hit the diamond
-spokentexts_a20_schatzkammer_vitrine_ex_1_st_1;As a visitor, I'd only have eyes for the jewel. As a burglar, though, I'm more interested in the bulletproof glass.
-spokentexts_a20_schatzkammer_vitrine_ex_1_st_2;About half an inch thick... There's no glasscutter that could do the job.
-spokentexts_a20_schatzkammer_vitrine_ex_2_st_1;All right then. Bulletproof glass. How can I get past it?
-spokentexts_a20_schatzkammer_vitrine_ex_3_st_1;Even if I can't break into it, at least I managed to deface it.
-spokentexts_a20_schatzkammer_vitrine_ex_4_st_1;The chewing gum holds the tip of the diamond right on the bulletproof glass... That's promising!
-spokentexts_a20_schatzkammer_vitrine_used_mit_diamant_1a_st_1;Of course, diamonds cut glass and even bulletproof glass is softer than a diamond.
-spokentexts_a20_schatzkammer_vitrine_used_mit_diamant_1a_st_2;But the diamond is tiny! I can barely hold it and I need to do more than just scratch the glass!
-spokentexts_a20_schatzkammer_vitrine_used_mit_diamant_1b_st_1;I can't cut the pane with the diamond.
-spokentexts_a20_schatzkammer_vitrine_used_mit_diamant_1b_st_2;It'd take forever to make a cut deep enough.
+texts_a20_schatzkammer_vitrine_mo_ex_1a__1b__2;Examiner la vitrine contenant l'Oeil du Sphinx
+texts_a20_schatzkammer_vitrine_mo_ex_3;Examiner la vitre avec le chewing-gum
+texts_a20_schatzkammer_vitrine_mo_ex_4;Examiner le diamant avec le chewing-gum
+texts_a20_schatzkammer_vitrine_mo_used_mit_diamant_1a__1b;Faire un trou dans la vitre pare-balles
+texts_a20_schatzkammer_vitrine_mo_used_mit_diamant_2;Appuyer le diamant sur le chewing-gum
+texts_a20_schatzkammer_vitrine_mo_used_mit_kaugummi;Coller le chewing-gum sur la vitre
+texts_a20_schatzkammer_vitrine_mo_used_mit_staender_1;Briser la vitre pare-balles
+texts_a20_schatzkammer_vitrine_mo_used_mit_staender_2;Frapper le diamant
+spokentexts_a20_schatzkammer_vitrine_ex_1_st_1;Si j'étais un touriste je n'aurais d'yeux que pour le joyau. En tant que cambrioleur par contre, je suis plus intéressé par la vitre pare-balle.
+spokentexts_a20_schatzkammer_vitrine_ex_1_st_2;Environ un centimètre d'épaisseur... Aucun coupe-verre ne pourrait en venir à bout.
+spokentexts_a20_schatzkammer_vitrine_ex_2_st_1;Bon alors. Du verre pare-balles. Comment m'en débarrasser ?
+spokentexts_a20_schatzkammer_vitrine_ex_3_st_1;Même si je ne peux pas la briser j'ai au moins réussi à la défigurer.
+spokentexts_a20_schatzkammer_vitrine_ex_4_st_1;Le chewing-gum maintient la pointe du diamant sur le verre pare-balles... Ça part bien !
+spokentexts_a20_schatzkammer_vitrine_used_mit_diamant_1a_st_1;Évidemment, le diamant peut couper du verre et même le verre pare-balles est moins solide qu'un diamant.
+spokentexts_a20_schatzkammer_vitrine_used_mit_diamant_1a_st_2;Mais le diamant est minuscule ! Je peux à peine le tenir et j'ia besoin de faire plus qu'une simple égratignure sur le vitre !
+spokentexts_a20_schatzkammer_vitrine_used_mit_diamant_1b_st_1;Je ne peux pas couper la vitre avec le diamant.
+spokentexts_a20_schatzkammer_vitrine_used_mit_diamant_1b_st_2;Faire un trou suffisamment profond me prendrait des heures.
 sequences_a20_schatzkammer_vitrine_used_mit_diamant_2#1;[The Arab presses the diamond in the chewing gum composition on the glass.]
-spokentexts_a20_schatzkammer_vitrine_used_mit_diamant_2_st_1;I'll press the diamond into the chewing gum... with the tip towards the window.
+spokentexts_a20_schatzkammer_vitrine_used_mit_diamant_2_st_1;Je vais appuyer le diamant sur le chewing-gum... en orientant la pointe vers la vitre.
 sequences_a20_schatzkammer_vitrine_used_mit_kaugummi#1;[The Arab grabs in his mouth and pulls out the gum. Then he stuck it in the middle of the glass.]
-spokentexts_a20_schatzkammer_vitrine_used_mit_staender_1_st_1;Not a chance!
-spokentexts_a20_schatzkammer_vitrine_used_mit_staender_1_st_2;I could bang on the glass all day with blunt objects without even scratching it.
+spokentexts_a20_schatzkammer_vitrine_used_mit_staender_1_st_1;C'est peine perdue !
+spokentexts_a20_schatzkammer_vitrine_used_mit_staender_1_st_2;Je pourrais taper sur la vitre avec de larges objets toute la journée sans lui faire la moindre égratignure.
 sequences_a20_schatzkammer_vitrine_used_mit_staender_2#1;"[The Arab goes to the stand and opens the cordons. Then he raise up the heavy stand and oes into ""Attackspose"" before the cabinet.]"
 spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_1_direction;makes himself courage
-spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_1;Everything will be fine, everything will be fine...
+spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_1;Tout va bien se passer, tout va bien se passer...
 sequences_a20_schatzkammer_vitrine_used_mit_staender_2#3;[With all his force he rammed the stand exactly on the diamond on the window.]
 sequences_a20_schatzkammer_vitrine_used_mit_staender_2#4;[The glass gets more cracks. But the Arab can not enjoy his success. Alarm sounds.]
 sequences_a20_schatzkammer_vitrine_used_mit_staender_2#5;[The Arab turns to the entrance where the door closes. Then he looks up.]
 spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_2_direction;scared
-spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_2;No! NO!
+spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_2;Non ! NON !
 sequences_a20_schatzkammer_vitrine_used_mit_staender_2#7;[The Arab is running to the rope. It falls toward him. He catches it absently, looks scared up.]
 spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_3_direction;irritated
-spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_3;He wants to lock me in!
+spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_3;Il veut m'enfermer ici !
 spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_4_direction;suddenly awake and alert
-spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_4;But why? He doesn't have the jewel yet! What does he...
+spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_4;Mais pourquoi ? Il n'a pas encore le joyau ! Que veut-il...
 sequences_a20_schatzkammer_vitrine_used_mit_staender_2#10;[The Arab looks to the ground.]
-spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_5;Oh, no.
+spokentexts_a20_schatzkammer_vitrine_used_mit_staender_2_st_5;Oh, non.
 sequences_a20_schatzkammer_vitrine_used_mit_staender_2#12;[Cut to outside. We see the scene how Ohi runs towards the gate and there is an explosion. The gate closes and the screen goes black.]
 sequences_a20_schatzkammer_vitrine_used_mit_staender_2#13;[Next in the ruined treasure room in the tomb.]
 sequences_a20_schatzkammer_seq_a20_schatzkammer_betreten#0;[The Arab let himself gently down on the walk area and unties itself. Below the director shows Ohi the treasure room.]
-spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_1;Such an attempt would fail here - the display case is bolted to the floor and weighs several hundred kilograms.
+spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_1;Une telle tentative se solderait ici par un échec. La vitrine est fixée au sol et pèse plusieurs centaines de kilos.
 sequences_a20_schatzkammer_seq_a20_schatzkammer_betreten#2;[The Arab hid the rope a little and looks in the shadow the situation. Suddenly Ohi turns around and points to the camera in the vicinity of the Arab. The Arab lets himself fall flat on his stomach and does not hope to be seen.]
-spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_2;What's that? A camera?
+spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_2;Qu'est-ce que c'est ? Une caméra?
 spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_3_direction;proud
-spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_3;The latest model! It's called video surveillance.
-spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_4;I've heard about that! The images are recorded and can be viewed again later.
-spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_5;That's right. Images from all three cameras are recorded in the guardroom.
+spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_3;Le dernier cri ! On appelle ça la vidéo-surveillance.
+spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_4;J'en ai entendu parler ! Les images sont enregistrées et peuvent être revues plus tard.
+spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_5;Tout à fait. Les images des trois caméras sont enregistrées dans la salle de sécurité.
 spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_6_direction;whistles appreciatively, 'not bad'
-spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_6;Wow!
-spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_7;As I've said, we've spared no effort and no expense.
-spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_8;I think I've seen enough here. But I'm interested in something else.
+spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_6;Ouah !
+spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_7;Comme je l'ai dit, nous n'avons pas lésiné sur les moyens.
+spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_8;Je pense en avoir vu assez. Mais quelque chose d'autre m'intéresse.
 sequences_a20_schatzkammer_seq_a20_schatzkammer_betreten#10;[Ohi and the director are leaving the treasure room. The Arab breathes and then stands up again.]
 spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_9_direction;exhalation of relief
-spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_9;Whew...
+spokentexts_a20_schatzkammer_seq_a20_schatzkammer_betreten_st_9;Pfiu...
 sequences_a20_schatzkammer_seq_a20_schatzkammer_betreten#12;[The player takes control.]
-texts_a20_schatzkammer_loch_mo_ex_1__2;Examine the hole
-texts_a20_schatzkammer_loch_mo_use_1;Climb into the hole
+texts_a20_schatzkammer_loch_mo_ex_1__2;Examiner le trou
+texts_a20_schatzkammer_loch_mo_use_1;Descendre dans le trou
 spokentexts_a20_schatzkammer_loch_ex_1_st_1_direction;whisper
-spokentexts_a20_schatzkammer_loch_ex_1_st_1;This is the opposite of a clever burglary.
+spokentexts_a20_schatzkammer_loch_ex_1_st_1;C'est exactement le contraire d'un cambriolage intelligent.
 spokentexts_a20_schatzkammer_loch_ex_1_st_2_direction;whisper
-spokentexts_a20_schatzkammer_loch_ex_1_st_2;Inch must have decided to do it the violent way as soon as he realized he couldn't count on me.
+spokentexts_a20_schatzkammer_loch_ex_1_st_2;Inch a dû décider d'employer une méthode violente quand il s'est rendu compte qu'il ne pouvait pas compter sur moi.
 spokentexts_a20_schatzkammer_loch_ex_1_st_3_direction;whisper
-spokentexts_a20_schatzkammer_loch_ex_1_st_3;I would have died in the explosion and been the scapegoat...
+spokentexts_a20_schatzkammer_loch_ex_1_st_3;Je serais mort dans l'explosion et aurais été le bouc émissaire...
 spokentexts_a20_schatzkammer_loch_ex_2_st_1_direction;whisper
-spokentexts_a20_schatzkammer_loch_ex_2_st_1;I have to get back to the attic as fast as I can. Inch is there alone with Alex!
+spokentexts_a20_schatzkammer_loch_ex_2_st_1;Je dois retourner au grenier le plus vite possible. Inch est seul avec Alex là bas !
 sequences_a20_schatzkammer_loch_use_1#1;[The Arab goes to the hole, is just about to let himself down. Then his eyes fall on the guard's gun. He thinks for a moment, then he takes the gun to him.]
 sequences_a20_schatzkammer_loch_use_1#2;[He begins to get down into the hole.]
 sequences_a20_schatzkammer_loch_use_1#3;[*** END OF SECTION ***]
 sequences_a20_schatzkammer_loch_use_1#4;[*** END OF SECTION ***]
 sequences_a20_schatzkammer_loch_use_1#5;[*** END OF SECTION ***]
-texts_a20_schatzkammer_sarkophag_mo_ex_1;Examine the sarcophagus
-texts_a20_schatzkammer_sarkophag_mo_use_1;Open the cover
+texts_a20_schatzkammer_sarkophag_mo_ex_1;Examiner le sarcophage
+texts_a20_schatzkammer_sarkophag_mo_use_1;Ouvrir la porte
 spokentexts_a20_schatzkammer_sarkophag_ex_1_st_1_direction;whisper
-spokentexts_a20_schatzkammer_sarkophag_ex_1_st_1;The sarcophagus protected me from flying debris. The ancient Egyptians knew their stuff!
+spokentexts_a20_schatzkammer_sarkophag_ex_1_st_1;Le sarcophage m'a protégé des projectiles. Les Égyptiens connaissaient leur boulot !
 sequences_a20_schatzkammer_sarkophag_use_1#1;[The Arab starts to push the door of the tomb.]
 sequences_a20_schatzkammer_sarkophag_use_1#2;[Cut to the destroyed treasure room.]
 sequences_a20_schatzkammer_sarkophag_use_1#3;[The door of the tomb is opened further, the Arab comes out. The door remains open.]
 sequences_a20_schatzkammer_sarkophag_use_1#4;[The Arab is unsteady on his feet. But he discovers the guard and acts carefully. He stands behind a pillar, etc.]
-texts_a20_schatzkammer_truemmer_mo_ex_1;Examine the destruction
+texts_a20_schatzkammer_truemmer_mo_ex_1;Examiner la destruction
 spokentexts_a20_schatzkammer_truemmer_ex_1_st_1_direction;stunned
-spokentexts_a20_schatzkammer_truemmer_ex_1_st_1;Everything's destroyed... Priceless works of art, centuries old!
-spokentexts_a20_schatzkammer_truemmer_ex_1_st_2;Nothing is sacred to Inch.
-texts_a20_schatzkammer_zerstoert_charakter_wachmann_mo_ex_1__2__3;Look at Constable Oliver
-texts_a20_schatzkammer_zerstoert_charakter_wachmann_mo_used_mit_stein;Knock out Constable Oliver
+spokentexts_a20_schatzkammer_truemmer_ex_1_st_1;Tout est détruit... Des oeuvres d'art inestimables et datant de plusieurs siècles !
+spokentexts_a20_schatzkammer_truemmer_ex_1_st_2;Rien n'est sacré pour Inch.
+texts_a20_schatzkammer_zerstoert_charakter_wachmann_mo_ex_1__2__3;Regarder l'Officier Oliver
+texts_a20_schatzkammer_zerstoert_charakter_wachmann_mo_used_mit_stein;Assommer l'Officier Oliver
 spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_1_st_1_direction;whisper
-spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_1_st_1;Constable Oliver...
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_1_st_1;L'Officier Oliver...
 spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_1_st_2_direction;whisper
-spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_1_st_2;He's totally focused on the hole in the floor.
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_1_st_2;Il est complètement concentré sur le trou dans la salle.
 spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_2_st_1_direction;whisper
-spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_2_st_1;As long as I'm quiet, he won't notice me.
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_2_st_1;Tant que je suis silencieux il ne se rendra compte de rien.
 spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_3_st_1_direction;whisper
-spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_3_st_1;He's unconscious. He'll wake up with a headache in a few minutes.
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_3_st_1;Il est inconscient. Il se réveillera avec un mal de crâne dans quelques minutes.
 spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_3_st_2_direction;whisper
-spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_3_st_2;There was no other way.
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_ex_3_st_2;Je n'avais pas d'autre choix.
 spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein_st_1_direction;very dim, out of the hole
-spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein_st_1;He's up there, Robert. I know it.
-spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein_st_2;Maybe. Go to the guardroom and open the gates!
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein_st_1;Il est là-dedans, Robert. J'en suis sûr.
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein_st_2;Peut être. Allez dans la salle de sécurité et ouvrez les portes !
 sequences_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein#3;[The Arab before sneaking, picks up the stone.]
-spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein_st_3;Tell the director.
-spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein_st_4;Zellner! Don't do it! It's too dangerous!
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein_st_3;Dites ça au directeur.
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein_st_4;Zellner ! Ne faites pas ça ! C'est trop risqué !
 sequences_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein#6;[The Arab stands behind the guard, raises the hand.]
-spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein_st_5;I've got everything under control.
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein_st_5;Tout est sous contrôle.
 sequences_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein#8;[The Arab strikes, the guard falls.]
 spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein_st_6_direction;whisper
-spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein_st_6;Sorry, Constable.
-texts_a20_schatzkammer_zerstoert_stein_mo_use;Use the stone with...
+spokentexts_a20_schatzkammer_zerstoert_charakter_wachmann_used_mit_stein_st_6;Désolé, Officier.
+texts_a20_schatzkammer_zerstoert_stein_mo_use;Utiliser la pierre avec...
 spokentexts_a20_schatzkammer_zerstoert_stein_ex_1_st_1_direction;whisper
-spokentexts_a20_schatzkammer_zerstoert_stein_ex_1_st_1;Inch blew the place up without a second thought for the other exhibits.
+spokentexts_a20_schatzkammer_zerstoert_stein_ex_1_st_1;Inch a tout fait sauter sans aucune arrière pensée pour les autres pièces exposées.
 sequences_a20_schatzkammer_zerstoert_stein_use_1#1;[Once you have clicked on the stone, he sticks to the cursor and you can use it with other objects in the scene.]
 sequences_a20_schatzkammer_zerstoert_seq_a20_schatzkammer_zerstoert_aufwachen#0;[The camera is placed in the sarcophagus. Everything is black, maybe there are one or two small holes, through which light enters.]
 spokentexts_a20_schatzkammer_zerstoert_seq_a20_schatzkammer_zerstoert_aufwachen_st_1_direction;dazed pain
 spokentexts_a20_schatzkammer_zerstoert_seq_a20_schatzkammer_zerstoert_aufwachen_st_1;Ooahh.
-spokentexts_a20_schatzkammer_zerstoert_seq_a20_schatzkammer_zerstoert_aufwachen_st_2;My head hurts.
+spokentexts_a20_schatzkammer_zerstoert_seq_a20_schatzkammer_zerstoert_aufwachen_st_2;J'ai mal à la tête.
 spokentexts_a20_schatzkammer_zerstoert_seq_a20_schatzkammer_zerstoert_aufwachen_st_3_direction;dazed
 spokentexts_a20_schatzkammer_zerstoert_seq_a20_schatzkammer_zerstoert_aufwachen_st_3;Ahhff.
 sequences_a20_schatzkammer_zerstoert_seq_a20_schatzkammer_zerstoert_aufwachen#4;[The player takes control, but can only click on the lid of the sarcophagus.]
-texts_butler_top_a19_butler_auf_schliche_gekommen_tseq_title;How did he see through our plans?
-spokentexts_butler_top_a19_butler_auf_schliche_gekommen_tseq_st_1;How did you find out about our plan?
-spokentexts_butler_top_a19_butler_auf_schliche_gekommen_tseq_st_2;By chance, I must admit. I... hadn't anticipated it.
-spokentexts_butler_top_a19_butler_auf_schliche_gekommen_tseq_st_3;I didn't think that you'd build up my trust for months just to betray me.
-spokentexts_butler_top_a19_butler_auf_schliche_gekommen_tseq_st_4;You have to be patient if you want to steal the Eyes of the Sphinx.
-spokentexts_butler_top_a19_butler_auf_schliche_gekommen_tseq_st_5;A virtue youth normally lacks. It's a pity we have to go our separate ways after this little incident.
+texts_butler_top_a19_butler_auf_schliche_gekommen_tseq_title;Comment a-t-il découvert notre plan ?
+spokentexts_butler_top_a19_butler_auf_schliche_gekommen_tseq_st_1;Comment avez-vous découvert notre plan ?
+spokentexts_butler_top_a19_butler_auf_schliche_gekommen_tseq_st_2;Par chance, je dois l'avouer. Je... n'avais rien vu venir.
+spokentexts_butler_top_a19_butler_auf_schliche_gekommen_tseq_st_3;Je ne pensais pas que vous essayeriez de gagner ma confiance pendant des mois juste pour me trahir ensuite.
+spokentexts_butler_top_a19_butler_auf_schliche_gekommen_tseq_st_4;Il faut savoir être patient pour voler les Yeux du Sphinx.
+spokentexts_butler_top_a19_butler_auf_schliche_gekommen_tseq_st_5;Une vertu qui échappe généralement à la jeunesse. C'est dommage que nous devions nous séparer après ce petit incident.
 spokentexts_butler_top_a19_butler_auf_schliche_gekommen_tseq_st_6_direction;Emphasis on 'I'
-spokentexts_butler_top_a19_butler_auf_schliche_gekommen_tseq_st_6;I can hardly wait.
-texts_butler_top_a19_butler_fluchtweg_tseq_title;Escape route
-spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_1;And once I have the jewel? What next? By the time I get back to the roof, the museum will be surrounded by policemen.
-spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_2;Correct. Escaping from the museum is impossible.
+spokentexts_butler_top_a19_butler_auf_schliche_gekommen_tseq_st_6;J'ai hâte.
+texts_butler_top_a19_butler_fluchtweg_tseq_title;Porte de sortie
+spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_1;Et une fois que j'aurai le joyau ? Ensuite ? Le temps que je remonte sur le toit, le musée sera cerné par la police.
+spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_2;Exact. S'échapper du musée sera impossible.
 spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_3_direction;sudden realization
-spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_3;That means... I stay inside the museum!
-spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_4;There's a bag in the basement with food and water for you and your girlfriend. I'm sure you'll find a way to pass the time for a couple of days.
-spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_5;The police will search the whole city for the Eye-but not the museum.
-spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_6;And once the museum is open to visitors again, Patricia and I will walk out through the secret door in the main hall to our freedom.
-spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_7;I'll be watching you every step of the way. You'll deliver the jewel and then we'll never see each other again.
-texts_butler_top_a19_butler_frau_gehen_lassen_tseq_title;Let Patricia go
-spokentexts_butler_top_a19_butler_frau_gehen_lassen_tseq_st_1;Please let Patricia go. You've got me.
-spokentexts_butler_top_a19_butler_frau_gehen_lassen_tseq_st_2;A fascinating young lady. Clever, skillful, beautiful... What's she doing with a chap like you?
-spokentexts_butler_top_a19_butler_frau_gehen_lassen_tseq_st_3;Are you sure you're not just a pawn in her game?
-spokentexts_butler_top_a19_butler_frau_gehen_lassen_tseq_st_4;Let her go.
-spokentexts_butler_top_a19_butler_frau_gehen_lassen_tseq_st_5;As soon as you bring me the second Eye.
-texts_butler_top_a19_butler_laufen_lassen_tseq_title;Will he let us go?
-spokentexts_butler_top_a19_butler_laufen_lassen_tseq_st_1;If we do everything you ask... will you let us go?
-spokentexts_butler_top_a19_butler_laufen_lassen_tseq_st_2;I'm a poor loser but a generous winner.
-texts_butler_top_a19_butler_verabschieden_tseq_title;Okay
-spokentexts_butler_top_a19_butler_verabschieden_tseq_st_1;The plan might work, I must admit.
-spokentexts_butler_top_a19_butler_verabschieden_tseq_st_2;The plan will work. You'll see to that or she'll suffer the consequences.
+spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_3;Ce qui veut dire que... je dois rester à l'intérieur du musée !
+spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_4;Il y a un sac dans la cave avec de l'eau et de la nourriture pour vous et votre petite amie. Je suis sûr que vous parviendrez à vous occuper pendant quelques jours.
+spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_5;La police va fouiller toute la ville à la recherche de l'Oeil, mais pas le musée.
+spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_6;Et quand le musée sera à nouveau ouvert au public, Patricia et moi pourrons sortir par la porte secrète donnant sur le hall principal et retrouver notre liberté.
+spokentexts_butler_top_a19_butler_fluchtweg_tseq_st_7;Je vous observerai en permanence. Vous me livrerez le joyau et ce sera la dernière fois que nos chemins se croiseront.
+texts_butler_top_a19_butler_frau_gehen_lassen_tseq_title;Laisser Patricia partir
+spokentexts_butler_top_a19_butler_frau_gehen_lassen_tseq_st_1;S'il vous plait, laissez Patricia partir. Vous me tenez déjà.
+spokentexts_butler_top_a19_butler_frau_gehen_lassen_tseq_st_2;Une jeune femme fascinante. Intelligente, habile, belle... Que fait-elle avec un gars comme vous ?
+spokentexts_butler_top_a19_butler_frau_gehen_lassen_tseq_st_3;Êtes-vous sûr de ne pas être un simple pion à son service ?
+spokentexts_butler_top_a19_butler_frau_gehen_lassen_tseq_st_4;Laissez la partir.
+spokentexts_butler_top_a19_butler_frau_gehen_lassen_tseq_st_5;Dès que vous m'aurez amené le second Oeil.
+texts_butler_top_a19_butler_laufen_lassen_tseq_title;Va-t-il nous laisser partir ?
+spokentexts_butler_top_a19_butler_laufen_lassen_tseq_st_1;Si on suit vos instructions... nous laisserez-vous partir ?
+spokentexts_butler_top_a19_butler_laufen_lassen_tseq_st_2;Je suis mauvais perdant mais généreux dans la victoire.
+texts_butler_top_a19_butler_verabschieden_tseq_title;D'accord
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_1;Je dois admettre que le plan peut marcher.
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_2;Le plan marchera. Vous allez vous en assurer ou elle en subira les conséquences.
 sequences_butler_top_a19_butler_verabschieden_tseq#2;[The Butler indicated with the gun at the bag, then on the door.]
-spokentexts_butler_top_a19_butler_verabschieden_tseq_st_3;Let's go. The clock is ticking. I have to take care of the guards and the alarm system.
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_3;Allons y. L'heure tourne. Je dois m'occuper des gardes et du système d'alarme.
 sequences_butler_top_a19_butler_verabschieden_tseq#4;[The Arab looks at his girlfriend, then he takes the bag, throws the bag over his shoulder and heads for the door. He turns again to her.]
-spokentexts_butler_top_a19_butler_verabschieden_tseq_st_4;It will all work out in the end.
-spokentexts_butler_top_a19_butler_verabschieden_tseq_st_5;I know.
-spokentexts_butler_top_a19_butler_verabschieden_tseq_st_6;Take care of yourself!
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_4;Tout va bien se terminer.
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_5;Je sais.
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_6;Prends soin de toi !
 sequences_butler_top_a19_butler_verabschieden_tseq#8;[The woman smiles bravely. The Arab leaves the room. The butler goes to the door.]
-spokentexts_butler_top_a19_butler_verabschieden_tseq_st_7;If you should open this door without the Eye of the Sphinx in your bag, I'll shoot first and then ask what went wrong.
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_7;Si vous franchissez cette porte sans l'Oeil du Sphinx dans votre sac, je commencerai par tirer avant de vous demander ce qui a cloché.
 sequences_butler_top_a19_butler_verabschieden_tseq#10;[The butler locks the door without waiting for an answer.]
-spokentexts_butler_top_a19_butler_verabschieden_tseq_st_8;You're not planning on letting us go, are you?
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_8;Vous n'avez pas l'intention de nous laisser partir, n'est-ce pas ?
 sequences_butler_top_a19_butler_verabschieden_tseq#12;[The butler turns to the woman.]
-spokentexts_butler_top_a19_butler_verabschieden_tseq_st_9;I need a scapegoat. Otherwise, the traitor would already be dead.
-spokentexts_butler_top_a19_butler_verabschieden_tseq_st_10;He doesn't understand because he doesn't think like you.
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_9;Il me faut un bouc émissaire. Sinon ce traître serait déjà mort.
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_10;Il n'a pas compris car il ne pense pas comme vous.
 spokentexts_butler_top_a19_butler_verabschieden_tseq_st_11_direction;cold
-spokentexts_butler_top_a19_butler_verabschieden_tseq_st_11;You messed with the wrong man and now you have to suffer the consequences.
+spokentexts_butler_top_a19_butler_verabschieden_tseq_st_11;Vous vous êtes attaqués à la mauvaise personne et maintenant vous devez en subir les conséquences.
 sequences_butler_top_a19_butler_verabschieden_tseq#16;[The butler goes to the stairs. The woman pulls her handcuffs, remains behind.]
 sequences_butler_top_a19_butler_verabschieden_tseq#17;[Fade out, continue on the roof.]
-texts_butler_top_a19_butler_vitrine_knacken_tseq_title;Break into the display case
-spokentexts_butler_top_a19_butler_vitrine_knacken_tseq_st_1;How am I supposed to break into the display case? It's protected by bulletproof glass.
+texts_butler_top_a19_butler_vitrine_knacken_tseq_title;Casser la vitrine
+spokentexts_butler_top_a19_butler_vitrine_knacken_tseq_st_1;Comment suis-je supposé casser la vitrine ? Elle est protégée par du verre pare-balles.
 sequences_butler_top_a19_butler_vitrine_knacken_tseq#1;[The Butler points to the bag.]
-spokentexts_butler_top_a19_butler_vitrine_knacken_tseq_st_2;You'll find everything you need in the bag. A clever fellow like you will know what to do with it.
-texts_butler_top_a19_butler_wie_geht_es_weiter_tseq_title;What's the plan?
+spokentexts_butler_top_a19_butler_vitrine_knacken_tseq_st_2;Vous trouverez tout ce dont vous avez besoin dans le sac. Un garçon intelligent comme vous saura se débrouiller.
+texts_butler_top_a19_butler_wie_geht_es_weiter_tseq_title;Quel est le plan ?
 spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_1_direction;gloomy
-spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_1;What's the next step? What's the plan?
-spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_2;Everything you need is in the bag.
-spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_3;The Eye will be delivered at any moment. You abseil from the roof into the treasure chamber.
-spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_4;And the display case's alarm system?
-spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_5;The alarm will go off. But I'll ensure that the only effect will be that the security barricades in the treasure chamber close.
+spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_1;Quelle est la prochaine étape ? Quel est le plan ?
+spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_2;Tout ce dont vous avez besoin est dans le sac.
+spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_3;L'Oeil va arriver d'un moment à l'autre. Vous descendrez en rappel dans la salle au trésor.
+spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_4;Et le système d'alarme de la vitrine ?
+spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_5;L'alarme va se déclencher. Mais je vais faire en sorte que son seul effet soit de fermer les portes de sécurité de la salle au trésor.
 spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_6_direction;suspicious
-spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_6;How will you manage that?
-spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_7;Let me worry about that, just like the guards.
-spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_8;You'll have several minutes to break into the display case and climb back to the roof.
+spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_6;Comment allez-vous faire ça ?
+spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_7;Laissez moi me soucier de ça, tout comme des gardes.
+spokentexts_butler_top_a19_butler_wie_geht_es_weiter_tseq_st_8;Vous aurez quelques minutes pour forcer la vitrine et remonter sur le toit.
