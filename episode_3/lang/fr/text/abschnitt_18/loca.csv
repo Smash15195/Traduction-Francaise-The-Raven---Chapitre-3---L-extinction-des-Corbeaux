@@ -2,50 +2,50 @@ characters_araber;Araber
 characters_arzt;Arzt
 characters_butler;Butler
 characters_ohi;Ohi
-texts_a18_nebendeck_ausgang_hinterdeck_mo_leave_1;Go to the rear deck
+texts_a18_nebendeck_ausgang_hinterdeck_mo_leave_1;Aller sur le pont arrière
 sequences_a18_nebendeck_ausgang_hinterdeck_leave_1#1;[The Arab looks in direction of the front deck, then towards rear deck. Finally he decides to go towards rear deck.]
 sequences_a18_nebendeck_ausgang_hinterdeck_leave_1#2;"[The following is the sequence ""attack on Arab"".]"
-texts_a18_nebendeck_ausgang_oberdeck_mo_leave_1;Search the upper deck
+texts_a18_nebendeck_ausgang_oberdeck_mo_leave_1;Chercher sur le pont supérieur
 sequences_a18_nebendeck_ausgang_oberdeck_leave_1#1;[The Arab goes some tentative steps towards the stairs.]
 sequences_a18_nebendeck_ausgang_oberdeck_leave_1#2;"[Sequence ""Angriff_auf_Araber"" is played.]"
-texts_a18_nebendeck_ausgang_treppensaal_mo_leave_1;Go back
-spokentexts_a18_nebendeck_ausgang_treppensaal_leave_1_st_1;No. He must be around here somewhere!
-texts_a18_nebendeck_ausgang_vorderdeck_mo_leave_1;Go to the forecastle
+texts_a18_nebendeck_ausgang_treppensaal_mo_leave_1;Revenir
+spokentexts_a18_nebendeck_ausgang_treppensaal_leave_1_st_1;Non, il doit être quelque part par ici !
+texts_a18_nebendeck_ausgang_vorderdeck_mo_leave_1;Aller vers le gaillard
 sequences_a18_nebendeck_ausgang_vorderdeck_leave_1#1;[The Arab looks in direction of the front deck, then towards rear deck. Finally he decides to go towards front deck.]
 sequences_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber#0;[The doctor had been hiding behind the left door. He runs towards the surprised Arab.]
 sequences_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber#1;[The two clash, and the doctor manages to push the Arab half over the railing.]
 spokentexts_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber_st_1_direction;hard fighting
-spokentexts_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber_st_1;No!
+spokentexts_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber_st_1;Non !
 spokentexts_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber_st_2_direction;hard fighting
-spokentexts_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber_st_2;Why... can't you just... leave me alone?!
+spokentexts_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber_st_2;Pourquoi... ne pouvez-vous pas juste... me laissez tranquille !
 sequences_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber#4;[The doctor grabs the Arab higher and finally pushes him over the railing. The Arab can grab the end of the gangway to and to holds itself  on it. ]
 spokentexts_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber_st_3_direction;panting, exhausted
-spokentexts_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber_st_3;H-hhh!
+spokentexts_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber_st_3;Humphhh !
 sequences_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber#6;[The doctor staggers towards them front deck, while the Arab painfully pulls himself on the gangway, then climbs over the railing and the resumes the persuit.]
 spokentexts_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber_st_4_direction;breathe heavily, then heave up
-spokentexts_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber_st_4;Fff-fff. Arg!
+spokentexts_a18_nebendeck_seq_a18_nebendeck_angriff_auf_araber_st_4;Fff-fff. Argh !
 sequences_a18_nebendeck_seq_a18_nebendeck_jagd_ankunft#0;[The Arab comes into the scene, becomes slow, and stand searching for something. He stays in his hunting-Pose breathing heavily (idle).]
-spokentexts_a18_nebendeck_seq_a18_nebendeck_jagd_ankunft_st_1;Where are you?
+spokentexts_a18_nebendeck_seq_a18_nebendeck_jagd_ankunft_st_1;Où êtes-vous ?
 sequences_a18_nebendeck_seq_a18_nebendeck_jagd_ankunft#2;[The player once again takes control.]
-texts_a18_treppensaal_ausgang_nebendeck_mo_leave_1;Go to the side deck
+texts_a18_treppensaal_ausgang_nebendeck_mo_leave_1;Aller sur le pont-promenade
 sequences_a18_treppensaal_ausgang_nebendeck_leave_1#1;[The Arab is not running immediatley. He walks cautiously but nevertheless fast past the saloon (so nobody will notice him from inside). Once he's past the saloon, he runs off and turns into the side deck.]
-texts_a18_treppensaal_treppe_mo_leave_1;Go back
+texts_a18_treppensaal_treppe_mo_leave_1;Revenir
 spokentexts_a18_treppensaal_treppe_leave_1_st_1_direction;on the hunt
-spokentexts_a18_treppensaal_treppe_leave_1_st_1;No. I won't let the good doctor get away!
-texts_a18_treppensaal_tuer_salon_mo_leave_1;Enter the saloon
+spokentexts_a18_treppensaal_treppe_leave_1_st_1;Non, je ne laisserai pas ce bon docteur s'en sortir !
+texts_a18_treppensaal_tuer_salon_mo_leave_1;Entrer le saloon
 spokentexts_a18_treppensaal_tuer_salon_leave_1_st_1_direction;on the hunt
-spokentexts_a18_treppensaal_tuer_salon_leave_1_st_1;I can see Legrand in the saloon. I don't think Gebhardt would have gone there.
+spokentexts_a18_treppensaal_tuer_salon_leave_1_st_1;Je peux voir Legrand dans le salon. Je ne pense pas Gebhardt y serait allé.
 sequences_a18_treppensaal_seq_a18_treppensaal_jagd_ankunft#1;[The Arab runs up stairs, stops there and remain still, breathing heavily in hunting pose (idle).]
 sequences_a18_treppensaal_seq_a18_treppensaal_jagd_ankunft#2;[The player once again takes control.]
-texts_a18_unterdeck_kabine_ermittler_mo_leave_1;Get help
+texts_a18_unterdeck_kabine_ermittler_mo_leave_1;Demander de l'aide
 spokentexts_a18_unterdeck_kabine_ermittler_leave_1_st_1_direction;on the hunt
-spokentexts_a18_unterdeck_kabine_ermittler_leave_1_st_1;No. It'd take too long to explain the situation! I have to take care of it on my own.
+spokentexts_a18_unterdeck_kabine_ermittler_leave_1_st_1;Non, il me faudrait trop longtemps pour expliquer la situation ! Je dois m'en occuper moi-même.
 sequences_a18_unterdeck_kabine_ermittler_leave_1#2;[The Arab glances toward the door, but then quickly focuses on the stairs.]
-texts_a18_unterdeck_krankenstation_tuer_mo_leave_1;Help the Swiss detective
+texts_a18_unterdeck_krankenstation_tuer_mo_leave_1;Aider le policier suisse
 spokentexts_a18_unterdeck_krankenstation_tuer_leave_1_st_1_direction;on the hunt
-spokentexts_a18_unterdeck_krankenstation_tuer_leave_1_st_1;Someone will find him!
+spokentexts_a18_unterdeck_krankenstation_tuer_leave_1_st_1;Quelqu'un va le trouver !
 sequences_a18_unterdeck_krankenstation_tuer_leave_1#2;[The Arab throws back a quick look, but then quickly focuses on the stairs.]
-texts_a18_unterdeck_treppe_mo_leave_1;Chase Dr. Gebhardt
+texts_a18_unterdeck_treppe_mo_leave_1;Poursuivre le Dr. Gebhardt
 sequences_a18_unterdeck_treppe_leave_1#1;[The Arab starts to go, jump up the stairs.]
 sequences_a18_unterdeck_seq_a18_unterdeck_beginn_der_jagd#0;[It can be seen how the doctor is going up the stairs nearly collapsed. The Arab sees him and is almost out the door, but holds himself still on the frame and looks back into the office.]
 spokentexts_a18_unterdeck_seq_a18_unterdeck_beginn_der_jagd_st_1;I'll be right back!
@@ -53,246 +53,246 @@ sequences_a18_unterdeck_seq_a18_unterdeck_beginn_der_jagd#2;[With two quick step
 sequences_a18_unterdeck_seq_a18_unterdeck_beginn_der_jagd#3;[The player takes control.]
 sequences_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen#0;[The doctor leans over Ohi, who is lying on the floor hallucinating. He wants him to give the lethal injection.]
 sequences_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen#1;[The Arab appears behind him . He pulls away the doctor from Ohi hits him with the ashtray. The doctor crashes against the opened door, lies in the entrance. The syringe with the injection gets broken.]
-spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_1;No!
+spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_1;Non !
 spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_2_direction;is hit, hurt
-spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_2;Argh!
+spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_2;Argh !
 sequences_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen#4;[The Arab just checks if the doctor is off. He does not move. So the Arab kneels beside Ohi on the floor, takes his head in his hand to speak with him (idle).]
-spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_3;Hey-you all right?
+spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_3;Hé, vous allez bien ?
 spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_4_direction;unintelligible murmur
 spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_4;Hmelm.
-spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_5;That bastard didn't inject the fatal dose! You'll be back on your feet soon enough!
+spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_5;Ce salaud ne vous a pas injecté la dose mortelle ! Vous serez sur vos pieds rapidement !
 spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_6_direction;unintelligible murmur
-spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_6;Pluphuu?
-spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_7;Better take it easy while I...
+spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_6;Pluphuu ?
+spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_7;Mieux vaut y aller doucement pendant que je...
 sequences_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen#10;[As he talks, he takes a look behind him at the door. The doctor is gone.]
 spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_8_direction;not with me!
-spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_8;Oh, no!
+spokentexts_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen_st_8;Oh, non !
 sequences_a18_krankenstation_seq_a18_krankenstation_arzt_wird_ko_geschlagen#12;[The Arab puts Ohis head on the floor, goes up towards the door to chase the fleeing doctor.]
 sequences_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers#0;[The Arab holds out his hand to the doctor (idle).]
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_1_direction;placatory
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_1;All right now...
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_1;Tout ira très bien maintenant...
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_2_direction;anxious
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_2;No! It ends-here and now!
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_3;Why do you want to kill yourself?
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_2;Non! ça se termine ici et maintenant !
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_3;Pourquoi voulez-vous vous suicider ?
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_4_direction;a little louder, a little further away
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_4;Isn't it obvious?
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_4;N'est-ce pas évident ?
 sequences_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers#5;[Cut to a long shot. The butler enters the scene.]
 sequences_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers#6;[The Arab whirls, then gets back to normal.]
 sequences_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers#7;[The Arab and the doctor are looking at the butler, who is slowly coming closer and closer, while he speaks.]
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_5;He can't bear his false, hollow life anymore.
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_6_direction;anxious
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_6;Who are you? What do you want?
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_7;A man who understands etiquette and honor and yet is nothing but a coward himself.
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_8;Who, because of wounded vanity, burdens himself with immense guilt. 
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_6;Qui êtes-vous ? Que voulez-vous ?
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_7;Un homme qui comprend l'étiquette et l'honneur mais surtout qui un lâche lui-même.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_8;Et qui, à cause d'une vanité meurtrie, est accablé d'une immense culpabilité.
 sequences_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers#12;[The doctor's  holds up his hands as adefense, then turns to normal position again.]
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_9_direction;insecure, anxious
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_9;Don't come any closer!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_9;N'approchez pas plus près !
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_10_direction;gloomy, threatening
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_10;The baroness held a mirror up to you, didn't she, doctor? And you HATED what you saw there.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_10;La Baronne était le miroir de vos actes, n'est-ce pas, docteur ? Et vous n'avez pas supporté ce que vous y avez vu.
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_11_direction;dark, sneaky
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_11;So you smashed the mirror. But the sins of the past are catching up with you now, aren't they?
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_11;Alors, vous avez brisé ce miroir. Mais les péchés du passé vous rattrapent aujourd'hui, n'est-ce pas ?
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_12_direction;whimpering softly
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_12;No...
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_12;Non...
 sequences_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers#17;[The doctor seems to get dizzy, he has to hold on and he goes into crouch. (idle).]
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_13_direction;insistently, almost a whisper
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_13;A skull with empty eyes, full of fear.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_13;Un crâne aux orbites vides, envahi d'horreur.
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_14_direction;determined
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_14;Stop it!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_14;Arrêtez !
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_15_direction;loudly insulted
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_15;Oh, dear! You really know how to dampen the mood!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_15;Oh, bon sang ! Vous savez vraiment comment casser l'ambiance !
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_16_direction;offended, reproachfully
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_16;I almost had him!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_16;Je l'avais presque !
 sequences_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers#22;[The doctor turns to the Arab.]
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_17_direction;business
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_17;And you? Aren't you supposed to follow orders? Are you not here to assist me?
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_18;I won't...
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_17;Et vous ? N'étiez-vous pas censé suivre les ordres ? N'étiez-vous pas ici pour m'aider ?
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_18;Je ne voulais pas...
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_19_direction;loud, aggressive
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_19;That wasn't a question!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_auftritt_des_butlers_st_19;Ce n'était pas une question !
 sequences_a18_vorderdeck_seq_a18_vorderdeck_jagd_ankunft#0;[The doctor is standing on a box on the railing, his looking down. It looks as if he was about to jump.]
 sequences_a18_vorderdeck_seq_a18_vorderdeck_jagd_ankunft#1;"[The Arab comes into the scene, slows down, raises his arms soothingly and getting closer only slowly. The doctor noticed him, makes a ""Stay back!"" A gesture.]"
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_jagd_ankunft_st_1_direction;desperately anxious
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_jagd_ankunft_st_1;Stay there!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_jagd_ankunft_st_1;Restez là !
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_jagd_ankunft_st_2_direction;placatory
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_jagd_ankunft_st_2;Relax.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_jagd_ankunft_st_2;Détendez-vous.
 sequences_a18_vorderdeck_seq_a18_vorderdeck_jagd_ankunft#4;[The doctor puts himself in the speech position (idle), the Arab too.]
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_jagd_ankunft_st_3_direction;desperate, whiny
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_jagd_ankunft_st_3;Why can't you just leave me alone?! It's always the same old story!
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_1;I have to do the dirty work for you in the museum. So you won't be shooting me-OR HIM!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_jagd_ankunft_st_3;Pourquoi ne pouvez-vous simplement pas laisser tranquille ? C'est toujours la même vieille rengaine !
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_1;Je dois faire le sale boulot pour vous dans le musée. Donc, vous ne pouvez pas tirer sur moi OU SUR LUI !
 sequences_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt#3;[The Butler sticks the weapon stronger under the jaw of the Arab, he must hold himself not to shoot him. Finally he relaxes and puts the weapon away.]
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_4_direction;friendly, relaxed
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_4;Very well. You win.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_4;Très bien. vous gagnez.
 sequences_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt#5;[The doctor, who has watched the situation, relaxes. Suddenly comes the butler around and pushes him into the water. Screaming the doctor disappears into the depths.]
 sequences_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt#6;[The Arab runs to the railing, he's  looking down. Then he wants to crash the butler, but before he gets up he gets a punch in the face. The butler grabs him by the neck, while the Arab holding his aching face.]
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_5_direction;gets a puch by surprise
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_5;What... OOF!
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_6;Never speak to me like that again, do you understand?
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_7;I need you to steal the Eye. But one day I could be overwhelmed by a feeling of hatred that will make me forget the Eye!
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_8;And there are worse things I could do than simply shoot you.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_5;Qu'est-ce... HUMPH !
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_6;Ne me reparlez plus jamais comme cela, est-ce bien compris ?
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_7;J'ai besoin de vous pour voler l'oeil. Mais je pourrais être submergé par un sentiment de haine tel que cela me ferais oublier cette raison !
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_8;Et il y a des choses pires que je pourrais faire que simplement vous tirez dessus.
 sequences_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt#11;[The butler let go the Arab, stands up normal and smoothes his clothes. The Arab is still kneeling at the rail, looking at the Butler hostile.]
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_9;I suggest you go back to your cell. You need to be fit for Cairo.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_9;Je vous conseille de retourner dans votre cellule. Vous devez être en forme au Caire.
 sequences_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt#13;[The butler leaves the scene and speaks...]
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_10;I still have a confession to write.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt_st_10;De mon coté, j'ai encore une confession à écrire.
 sequences_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt#15;[Fade out.]
 sequences_a18_vorderdeck_seq_a18_vorderdeck_mord_am_arzt#16;[End of section.]
 sequences_a18_vorderdeck_seq_a18_vorderdeck_pistole#0;[The Butler pulls out a gun, points it at the doctor.]
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_1_direction;anxious
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_1;No!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_1;Non !
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_2_direction;angry played
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_2;No, no!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_2;Non, non !
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_3_direction;angry played
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_3;What is it then? You wanted to jump anyway! Or you should, at least.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_3;Et alors quoi ? Vous vouliez sauter de toute manière ! Ou vous le devriez, du moins.
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_4_direction;reproachful
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_4;Inch!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_4;Inch !
 sequences_a18_vorderdeck_seq_a18_vorderdeck_pistole#5;[Butler looks over to the Arab.]
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_5;I'm just lending a friendly hand. He's a coward. He needs a bit of motivation!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_5;Je lui tends juste une main amicale. C'est un lâche. Il a besoin d'un peu de motivation !
 sequences_a18_vorderdeck_seq_a18_vorderdeck_pistole#7;[Butler looks back again to the doctor.]
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_6;Come on, now! Chop chop! Jump!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_6;Allez, maintenant ! Hop hop! Sautez !
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_7_direction;anxious
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_7;You're the baroness' butler, aren't you?
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_7;Vous êtes le majordome de la baronne, n'est-ce pas ?
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_8_direction;anxious
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_8;I... I didn't want to kill your mistress!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_8;Je... Je ne voulais pas tuer votre maitresse !
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_9_direction;jovially
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_9;Oh, nonsense! Forgiven and forgotten.
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_10;If you don't mind my asking...
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_9;Oh, arrêtons les inepties ! C'est pardonné et oublié.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_10;Si je peux me permettre...
 sequences_a18_vorderdeck_seq_a18_vorderdeck_pistole#13;[The Butler points with the gun and with two nods of his head , the doctor should jump now.]
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_11_direction;urgently
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_11;There must be another solution.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_11;Il doit y avoir une autre solution.
 spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_12_direction;anxious
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_12;Why are you doing this?
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_13;Nothing personal. Well, that's not entirely true. You're a miserable excuse for a human being, aren't you?
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_14;But mainly you're a means to an end. Your death will get Inspector Legrand off our backs.
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_15;The inspector? What do I have to do with him?
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_16;Your letter! The one in which you confess to being the Raven and to killing the baroness because she saw through your ruse.
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_17;That's absurd!
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_12;Pourquoi faites-vous cela ?
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_13;C'est rien de personnel. Bon, ce n'est pas entièrement vrai. Vous êtes un pitoyable spécimen de l'espèce humaine, n'est-ce pas ?
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_14;Mais surtout, vous êtes un bon moyen d'arriver à nos fins. Votre mort mènera l'inspecteur Legrand hors de notre chemin.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_15;L'inspecteur ? Qu'ai-je a voir avec lui ?
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_16;Votre lettre ! Celle dans laquelle vous confessez être le Corbeau et le meurtre de la Baronne parce qu'elle vous a percée à jour.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_17;C'est absurde !
 sequences_a18_vorderdeck_seq_a18_vorderdeck_pistole#21;[Butler looks over to the Arab.]
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_18;Indeed it is. But people will believe almost anything if it suits them.
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_19;The press will love it! Bold Inspector Legrand saves the day again!
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_20;Interviews, medals, urgent telegrams from the capital... Our dear friend won't be able to escape the limelight.
-spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_21;And by the time the commotion has ended, I'll be long gone.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_18;En effet. Mais les gens sont prêt à croire presque à n'importe quoi si cela leur convient.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_19;La presse va adorer ! En gras : L'inspecteur Legrand sauve encore la situation !
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_20;Les interviews, des médailles, des télégrammes urgents de la capitale... Notre cher ami ne sera plus en mesure d'échapper aux feu des projecteurs.
+spokentexts_a18_vorderdeck_seq_a18_vorderdeck_pistole_st_21;Et au moment où l'agitation retombera, je serai parti depuis longtemps.
 sequences_a18_vorderdeck_seq_a18_vorderdeck_pistole#26;[Butler looks back again to the doctor.]
-texts_arzt_top_a18_arzt_alte_geschichten_tseq_title;Old stories
-spokentexts_arzt_top_a18_arzt_alte_geschichten_tseq_st_1;What old stories?
-spokentexts_arzt_top_a18_arzt_alte_geschichten_tseq_st_2;What old stories do you mean?
+texts_arzt_top_a18_arzt_alte_geschichten_tseq_title;Histoires anciennes
+spokentexts_arzt_top_a18_arzt_alte_geschichten_tseq_st_1;Quelles histoires anciennes ?
+spokentexts_arzt_top_a18_arzt_alte_geschichten_tseq_st_2;Que histoires anciennes voulez-vous parler ?
 spokentexts_arzt_top_a18_arzt_alte_geschichten_tseq_st_3_direction;desperate, whiny
-spokentexts_arzt_top_a18_arzt_alte_geschichten_tseq_st_3;I am a decent man! Why are you torturing me?
+spokentexts_arzt_top_a18_arzt_alte_geschichten_tseq_st_3;Je suis un honnête homme ! Pourquoi me torturez-vous ?
 spokentexts_arzt_top_a18_arzt_alte_geschichten_tseq_st_4_direction;whiny
-spokentexts_arzt_top_a18_arzt_alte_geschichten_tseq_st_4;I just... I... I loved her!
+spokentexts_arzt_top_a18_arzt_alte_geschichten_tseq_st_4;Je... Je... Je l'aimais !
 spokentexts_arzt_top_a18_arzt_alte_geschichten_tseq_st_5_direction;reproachfully, decided
-spokentexts_arzt_top_a18_arzt_alte_geschichten_tseq_st_5;She betrayed me. It was her fault! I have blood on my hands because of HER!
-texts_arzt_top_a18_arzt_die_baronin_tseq_title;The baroness
-spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_1;"Is that why you killed her? Was the baroness part of your ""old stories""?"
-spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_2;Are you talking about the baroness?
-spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_3;Why did you kill the baroness?
+spokentexts_arzt_top_a18_arzt_alte_geschichten_tseq_st_5;Elle m'a trahi. C'était de sa faute ! J'ai du sang sur mes mains à cause d'elle !
+texts_arzt_top_a18_arzt_die_baronin_tseq_title;la baronne
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_1;"Est-ce pour cela que vous l'avez tuée ? La baronne faisait-elle partie de vos ""anciennes histoires"" ?"
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_2;Vous parlez de la baronne ?
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_3;Pourquoi avez-vous tué la baronne ?
 spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_4_direction;only angry, mild
-spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_4;She... She was her sister.
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_4;Elle... Elle était sa soeur.
 spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_5_direction;begins to reminisce
-spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_5;I loved her! With all my heart.
-spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_7;They were Jewish, you know.
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_5;Je l'aimais ! De tout mon coeur.
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_7;Ils étaient juifs, vous savez.
 spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_8_direction;Seeking recognition
-spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_8;But I didn't care about that. I hid them when it became dangerous for them. I looked after them. I brought them food.
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_8;Mais je m'en fichais. Je les ai caché quand c'était devenu trop dangereux pour eux. J'ai veillé sur eux. Je leur ai apporté de la nourriture.
 spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_9_direction;Recognition begging
-spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_9;I was a party member und still I hid her and her whole family!
-spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_10;You risked your life for a woman you loved. And thirty years later you murder her sister?
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_9;J'étais encore membre du parti que je l'ai caché ainsi que toute sa famille !
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_10;Vous avez risqué votre vie pour une femme que vous aimiez. Et trente ans plus tard, vous tuez sa soeur ?
 spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_12_direction;to hisself, reveling in painful memories
-spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_12;I saw her swollen belly! I was so angry...
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_12;J'ai vu son ventre rebondi ! J'étais tellement en colère...
 spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_13_direction;comes back to itself, seeking understanding
-spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_13;He was one of them, you know?
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_13;C'était l'un d'eux, vous comprenez ?
 spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_14_direction;only seeking understanding, then evil
-spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_14;They just used me. I hid them, brought them food. And in return they laughed about me behind my back.
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_14;Ils m'ont juste utilisés. Je les ai caché, leur apportait de la nourriture. Et en retour, ils se moquaient de moi derrière mon dos.
 spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_15_direction;depressed suspects terrible
-spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_15;What did you do?
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_15;Qu'avez-vous fait ?
 spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_16_direction;reveling in memories, repeating his words from the past
-spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_16;"""There are Jews hiding in the basement of the Waldhof. Armed Jews. We have to burn them out!"""
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_16;"""Il y a des Juifs qui se cachent dans la cave de la Waldhof. Des Juifs armés. Nous devons les brûler !"""
 sequences_arzt_top_a18_arzt_die_baronin_tseq#19;[The doctor touch his face with his hand.]
 spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_17_direction;serious statement
-spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_17;And that's what they did.
-texts_arzt_top_a18_arzt_mord_an_baronin_tseq_title;Murder of baroness
-spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_1;The dead baroness in the ship's hold proves the opposite.
-spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_2;And why did you become a murderer again after all these years?
-spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_3;I'd never met her. Back in East Prussia. She was the older sister. The smart sister!
-spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_4;She studied art history in New York. Tried to get her family out of East Prussia, but...
+spokentexts_arzt_top_a18_arzt_die_baronin_tseq_st_17;Et c'est ce qu'ils ont fait.
+texts_arzt_top_a18_arzt_mord_an_baronin_tseq_title;Meurtre de la Baronne
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_1;Le corps de la Baronne dans la cale du navire prouve le contraire.
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_2;Et pourquoi êtes-vous redevenu un meurtrier après toutes ces années ?
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_3;Je ne l'avais jamais rencontrée. Elle était en Prusse-Orientale. C'était la soeur aînée, la tête de la famille !
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_4;Elle étudiait l'histoire de l'art à New York. Essayant de faire sortir sa famille de Prusse orientale, mais...
 spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_5_direction;gloomy, sad
-spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_5;I was able to prevent that.
-spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_6;You say you loved her and yet you wanted to deny her and her family a safe life?
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_5;J'ai pu empêcher cela.
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_6;Vous dites que vous l'aimiez et pourtant vous avez voulu la priver ainsi que sa famille d'une vie sans danger ?
 spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_7_direction;convinced
-spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_7;They were safe!
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_7;Ils étaient en sécurité !
 spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_8_direction;convinced
-spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_8;I protected them! It was for their sake that I joined the party. I had contacts! I wrapped them in my protective embrace!
-spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_9;You didn't let her escape because you wanted to keep her close to you.
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_8;Je les protégeais ! C'était pour eux que j'ai rejoint le parti. J'avais des contacts ! Je les ai enveloppé dans mon étreinte protectrice !
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_9;Vous ne l'avez pas laisser partir parce que vous vouliez la garder près de vous.
 spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_10_direction;regretful
-spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_10;She sent photos to her sister before the war. She must have recognized me yesterday in Venice. I certainly recognized her.
-spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_11;The baroness was searching through her photos, that's true.
-spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_12;She couldn't get me during the war. And after the war, I disappeared. Gave myself a new name, a new resume, a new life.
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_10;Elle a envoyée des photos a sa soeur avant la guerre. Elle a dû me reconnaitre hier à Venise. Tout comme je l'ai reconnue.
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_11;La baronne fouillait dans ses photos, c'est vrai.
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_12;Elle ne pouvait pas m'avoir pendant la guerre. Et après la guerre, j'ai disparu. Je me suis créer un nouveau nom, un nouveau C.V, une nouvelle vie.
 spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_13_direction;gloomy, disparagingly
-spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_13;And then suddenly, there she was, about to ruin everything.
-spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_14;So she had to die.
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_13;Et puis soudain, elle déboule, prête à tout gâcher.
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_14;Donc, elle devait mourir.
 spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_15_direction;convinced reproachfully
-spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_15;I didn't want that! She gave me no choice!
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_15;Je ne voulais pas ça ! Elle ne m'a pas donné le choix !
 spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_16_direction;convinced reproachfully
-spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_16;Why did she have to stir up old ghosts?
-texts_arzt_top_a18_arzt_mord_an_familie_tseq_title;Murder of family
-spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_1;You had the whole family killed?
-spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_2;What do you expect? You had an entire family put to death.
+spokentexts_arzt_top_a18_arzt_mord_an_baronin_tseq_st_16;Pourquoi devait-elle réveiller de vieux démons ?
+texts_arzt_top_a18_arzt_mord_an_familie_tseq_title;Assassinat de la famille
+spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_1;Vous avez tué toute la famille ?
+spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_2;Qu'espériez-vous ? Vous avez envoyé à la mort toute une famille.
 spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_3_direction;initially outraged and aggressive, then he realizes that this is all a lie
-spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_3;I am a gentleman! And I expect that others... That they don't...
-spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_4;She didn't love you and was expecting a child by another man. And that's why you betrayed her.
+spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_3;Je suis un gentleman ! Et je m'attends à ce que... Qu'ils ne soient pas...
+spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_4;Elle ne vous aimait pas et attendait un enfant d'un autre homme. Et c'est pour cela que vous l'avez trahie.
 spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_5_direction;desperate
-spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_5;It... it was her fault! She shouldn't have cheated on me!
-spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_6;I...
+spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_5;C'est... c'était de sa faute ! Elle n'aurait pas dû se moquer de moi !
+spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_6;Je...
 spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_7_direction;desperately looking for absolution
-spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_7;I... I saved her. I risked my life for her every day! For four months!
-spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_8;And then you threw it all away and became a murderer.
+spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_7;Je... Je l'ai sauvée. J'ai risqué ma vie pour elle tous les jours ! Pendant quatre mois !
+spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_8;Et puis vous avez mis tout ça de coté et vous êtes devenu un assassin.
 spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_9_direction;outraged, then he realizes that he is a murderer
-spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_9;I AM NOT... I am...
-texts_arzt_top_a18_arzt_von_kiste_steigen_tseq_title;Climb down from the box
-spokentexts_arzt_top_a18_arzt_von_kiste_steigen_tseq_st_1;Come down from there.
+spokentexts_arzt_top_a18_arzt_mord_an_familie_tseq_st_9;JE NE SUIS PAS... Je suis...
+texts_arzt_top_a18_arzt_von_kiste_steigen_tseq_title;Descendre du rebord
+spokentexts_arzt_top_a18_arzt_von_kiste_steigen_tseq_st_1;Descendez de là.
 spokentexts_arzt_top_a18_arzt_von_kiste_steigen_tseq_st_2_direction;irritable, aggressive
-spokentexts_arzt_top_a18_arzt_von_kiste_steigen_tseq_st_2;Why? So YOU can kill me?
-spokentexts_arzt_top_a18_arzt_von_kiste_steigen_tseq_st_3;I'm not going to kill anyone.
+spokentexts_arzt_top_a18_arzt_von_kiste_steigen_tseq_st_2;Pourquoi ? Vous pourrez me tuer comme cela ?
+spokentexts_arzt_top_a18_arzt_von_kiste_steigen_tseq_st_3;Je ne vais tuer personne.
 spokentexts_arzt_top_a18_arzt_von_kiste_steigen_tseq_st_4_direction;aggressive
-spokentexts_arzt_top_a18_arzt_von_kiste_steigen_tseq_st_4;Or pack me off to an Egyptian prison? Or an Israeli prison? No!
-texts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_title;Let him live
-spokentexts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_st_1;You can't kill him!
+spokentexts_arzt_top_a18_arzt_von_kiste_steigen_tseq_st_4;Ou m'envoyer croupir dans une prison égyptienne ? Ou une prison israélienne ? Jamais !
+texts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_title;Le laisser
+spokentexts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_st_1;Vous ne pouvez pas le tuer !
 sequences_butler_top_a18_butler_alles_vorbei_antwort1_tseq#1;[The butler looks at the Arab.]
-spokentexts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_st_2;Why not? He's a bastard, his death will help us and he's a witness. If we let him go, we'll both go to jail.
-spokentexts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_st_3;All the same, we're not going to kill him.
-spokentexts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_st_4;YOU got us into this situation!
-spokentexts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_st_5;And as long as I'm alive, I won't let any one be killed in my presence!
+spokentexts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_st_2;Pourquoi pas ? C'est un salaud, sa mort va nous aider et c'est un témoin. Si nous le laissons, nous irons tous les deux en prison.
+spokentexts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_st_3;Peu importe, on ne va pas le tuer.
+spokentexts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_st_4;VOUS nous avez mis dans cette situation !
+spokentexts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_st_5;Et aussi longtemps que je serais vivant, je ne laisserai pas quelqu'un se faire tuer ma présence !
 spokentexts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_st_6_direction;threatening
-spokentexts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_st_6;No?
+spokentexts_butler_top_a18_butler_alles_vorbei_antwort1_tseq_st_6;Non ?
 sequences_butler_top_a18_butler_alles_vorbei_antwort1_tseq#7;[The butler turns to the Arab, keeps him the gun under his chin (idle).]
-texts_butler_top_a18_butler_alles_vorbei_antwort2_tseq_title;No alternative
-spokentexts_butler_top_a18_butler_alles_vorbei_antwort2_tseq_st_1;We have no alternative. He's a witness and we'll both wind up in prison if we let him go.
+texts_butler_top_a18_butler_alles_vorbei_antwort2_tseq_title;Aucune alternative
+spokentexts_butler_top_a18_butler_alles_vorbei_antwort2_tseq_st_1;Nous n'avons pas d'autre alternative. C'est un témoin et nous irons droit en prison si nous le laissons partir.
 sequences_butler_top_a18_butler_alles_vorbei_antwort2_tseq#1;[The Butler looks at the Arab.]
-spokentexts_butler_top_a18_butler_alles_vorbei_antwort2_tseq_st_2;I didn't expect such clear thinking from you!
+spokentexts_butler_top_a18_butler_alles_vorbei_antwort2_tseq_st_2;Je ne m'attendais pas à une telle réflexion de votre part !
 spokentexts_butler_top_a18_butler_alles_vorbei_antwort2_tseq_st_4_direction;annoyed, uncomprehending
-spokentexts_butler_top_a18_butler_alles_vorbei_antwort2_tseq_st_4;Here we go again!
+spokentexts_butler_top_a18_butler_alles_vorbei_antwort2_tseq_st_4;Nous y voilà !
 sequences_butler_top_a18_butler_alles_vorbei_antwort2_tseq#8;[The butler turns to the Arab, keeps him the gun under his chin (idle).]
 texts_butler_top_a18_butler_erschiessen_antwort1_tseq_title;Can't kill both of them
-spokentexts_butler_top_a18_butler_erschiessen_antwort1_tseq_st_1;You can't kill both of us!
+spokentexts_butler_top_a18_butler_erschiessen_antwort1_tseq_st_1;Vous ne pouvez pas nous tuer tous les deux !
 sequences_butler_top_a18_butler_erschiessen_antwort1_tseq#1;"[The butler thinks , then he moved the gun to the doctor and makes ""Bang!"", then back to the Arab and again ""Peng"". He then holds his gun back under his chin.]"
-spokentexts_butler_top_a18_butler_erschiessen_antwort1_tseq_st_2;Oh, I think you'll find I can.
-texts_butler_top_a18_butler_erschiessen_antwort2_tseq_title;He still needs me
-spokentexts_butler_top_a18_butler_erschiessen_antwort2_tseq_st_1;You can't kill me. You still need me.
-texts_butler_top_a18_butler_erschiessen_antwort3_tseq_title;Just try it!
-spokentexts_butler_top_a18_butler_erschiessen_antwort3_tseq_st_1;Just try it!
-spokentexts_butler_top_a18_butler_erschiessen_antwort3_tseq_st_2;A rough and tumble struggle for the gun? Not my style.
-spokentexts_butler_top_a18_butler_erschiessen_antwort3_tseq_st_3;You can't afford to kill me. You still need me!
-texts_butler_top_a18_butler_keine_frage_antwort1_tseq_title;Apologize
-spokentexts_butler_top_a18_butler_keine_frage_antwort1_tseq_st_1;I'm sorry. I'm your man but...
-spokentexts_butler_top_a18_butler_keine_frage_antwort1_tseq_st_2;Are you really?
-texts_butler_top_a18_butler_keine_frage_antwort2_tseq_title;No dead people
-spokentexts_butler_top_a18_butler_keine_frage_antwort2_tseq_st_1;I don't want any dead bodies.
-spokentexts_butler_top_a18_butler_keine_frage_antwort2_tseq_st_2;I am indeed.
-spokentexts_butler_top_a18_butler_keine_frage_antwort2_tseq_st_3;But I don't want any dead bodies.
-spokentexts_butler_top_a18_butler_keine_frage_antwort2_tseq_st_4;The same old story.
-spokentexts_butler_top_a18_butler_keine_frage_antwort2_tseq_st_5;You want success but you don't want to get your hands dirty.
-spokentexts_butler_top_a18_butler_keine_frage_antwort2_tseq_st_6;Isn't the Raven famous for that?
-spokentexts_butler_top_a18_butler_keine_frage_antwort2_tseq_st_7;I do what's necessary.
+spokentexts_butler_top_a18_butler_erschiessen_antwort1_tseq_st_2;Oh, je crois que si au contraire.
+texts_butler_top_a18_butler_erschiessen_antwort2_tseq_title;Il a encore besoin de moi
+spokentexts_butler_top_a18_butler_erschiessen_antwort2_tseq_st_1;Vous ne pouvez pas me tuer. Vous avez encore besoin de moi.
+texts_butler_top_a18_butler_erschiessen_antwort3_tseq_title;Essayez !
+spokentexts_butler_top_a18_butler_erschiessen_antwort3_tseq_st_1;Essayez !
+spokentexts_butler_top_a18_butler_erschiessen_antwort3_tseq_st_2;Un rude échange pour l'arme ? Pas mon truc.
+spokentexts_butler_top_a18_butler_erschiessen_antwort3_tseq_st_3;Vous n'avez pas les moyens de me tuer. Vous avez encore besoin de moi!
+texts_butler_top_a18_butler_keine_frage_antwort1_tseq_title;Excuse
+spokentexts_butler_top_a18_butler_keine_frage_antwort1_tseq_st_1;Je suis désolé. Je suis votre homme, mais...
+spokentexts_butler_top_a18_butler_keine_frage_antwort1_tseq_st_2;L'êtes-vous vraiment ?
+texts_butler_top_a18_butler_keine_frage_antwort2_tseq_title;Pas de morts
+spokentexts_butler_top_a18_butler_keine_frage_antwort2_tseq_st_1;Je ne veux pas de cadavres.
+spokentexts_butler_top_a18_butler_keine_frage_antwort2_tseq_st_2;Moi non plus, en effet.
+spokentexts_butler_top_a18_butler_keine_frage_antwort2_tseq_st_3;Mais je ne veux pas de cadavres.
+spokentexts_butler_top_a18_butler_keine_frage_antwort2_tseq_st_4;Encore la même vieille rengaine.
+spokentexts_butler_top_a18_butler_keine_frage_antwort2_tseq_st_5;Vous voulez réussir mais vous ne voulez pas vous salir les mains.
+spokentexts_butler_top_a18_butler_keine_frage_antwort2_tseq_st_6;N'est-ce pas le fameux Corbeau qui est connu pour cela ?
+spokentexts_butler_top_a18_butler_keine_frage_antwort2_tseq_st_7;Je faire ce qui est nécessaire.
 sequences_butler_top_a18_butler_keine_frage_antwort2_tseq#9;"[Next sequence with ""gun"" on the front deck.]"
-texts_butler_top_a18_butler_keine_frage_antwort3_tseq_title;What's the point
-spokentexts_butler_top_a18_butler_keine_frage_antwort3_tseq_st_1;I don't want any dead bodies.
-spokentexts_butler_top_a18_butler_keine_frage_antwort3_tseq_st_2;I am indeed.
-spokentexts_butler_top_a18_butler_keine_frage_antwort3_tseq_st_3;But I don't understand why you're doing this!
-spokentexts_butler_top_a18_butler_keine_frage_antwort3_tseq_st_4;You don't have to. Watch and learn.
+texts_butler_top_a18_butler_keine_frage_antwort3_tseq_title;Quel est l'intérêt
+spokentexts_butler_top_a18_butler_keine_frage_antwort3_tseq_st_1;Je ne veux pas de cadavres.
+spokentexts_butler_top_a18_butler_keine_frage_antwort3_tseq_st_2;Moi non plus, en effet.
+spokentexts_butler_top_a18_butler_keine_frage_antwort3_tseq_st_3;Mais je ne comprends pas pourquoi vous faites cela !
+spokentexts_butler_top_a18_butler_keine_frage_antwort3_tseq_st_4;Vous n'avez rien à faire. Observez et apprenez.
 sequences_butler_top_a18_butler_keine_frage_antwort3_tseq#6;"[Next with sequence ""pistol"" on the front deck.]"
