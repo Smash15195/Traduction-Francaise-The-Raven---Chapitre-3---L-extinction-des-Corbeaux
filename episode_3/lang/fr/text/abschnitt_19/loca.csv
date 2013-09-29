@@ -14,7 +14,7 @@ sequences_a19_aussen_platz_abfluss_used_mit_draht#4;[The Arab is stirring someth
 spokentexts_a19_aussen_platz_abfluss_used_mit_draht_st_2;Rien. Je n'arrive même pas à atteindre le fond.
 sequences_a19_aussen_platz_abfluss_used_mit_draht#6;[The Arab pulls out the wire, takes it.]
 spokentexts_a19_aussen_platz_abfluss_used_mit_draht_st_3;Ça valait le coup d'essayer.
-texts_a19_aussen_platz_ausgang_seitenstrasse_mo_leave_1;Aller dans la rue transversale
+texts_a19_aussen_platz_ausgang_seitenstrasse_mo_leave_1;Aller dans la ruelle
 sequences_a19_aussen_platz_ausgang_seitenstrasse_leave_1#1;[The Arab is leaving the scene, further in the side street.]
 texts_a19_aussen_platz_ausgang_treppe_mo_leave_1;Aller vers l'entrée
 sequences_a19_aussen_platz_ausgang_treppe_leave_1#1;[The Arab began to climb the first stairs.]
@@ -40,7 +40,7 @@ texts_a19_aussen_tuer_ausgang_museum_mo_leave_7;Se faufiler dans le musée
 texts_a19_aussen_tuer_ausgang_museum_mo_used_mit_tennisball_1-3;Jeter la balle de tennis dans le musée
 sequences_a19_aussen_tuer_ausgang_museum_leave_1#1;[The Arab goes to the museum. Next in the hall.]
 spokentexts_a19_aussen_tuer_ausgang_museum_leave_2_st_1;Ça ne marchera pas. Le garde ne me laissera pas entrer avec de simples mots.
-spokentexts_a19_aussen_tuer_ausgang_museum_leave_3_st_1;Prochain essai...
+spokentexts_a19_aussen_tuer_ausgang_museum_leave_3_st_1;Nouvel essai...
 sequences_a19_aussen_tuer_ausgang_museum_leave_3#4;[The Arab goes to the museum. Next in the hall.]
 spokentexts_a19_aussen_tuer_ausgang_museum_leave_4_st_1;Non. Déguisé ou non, le garde ne me laissera pas entrer si je ne suis pas un travailleur enregistré.
 spokentexts_a19_aussen_tuer_ausgang_museum_leave_5_st_1;Même si je suis sur la liste des ouvriers... Je n'en ai pas l'allure.
@@ -221,7 +221,7 @@ sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintr
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#1;[Cut to the museum guard in the guard room.]
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#2;[The guard reads newspaper. He looks bored in the newspaper as the Arab comes in.]
 spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_1;N'êtes-vous pas déjà venu ?
-spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_2;J'ai parlé à mon patron une nouvelle fois. Il a dit que nous DEVIONS être sur la liste.
+spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_2;J'ai parlé à mon patron une nouvelle fois. Il a dit que nous DEVRIONS être sur la liste.
 sequences_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag#6;[The guard takes annoyed the clipboard, looks on it casually. Actually, he wants to make one point clear.]
 spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_3;Votre patron peut venir et voir par lui-même... Il n'y a pas...
 spokentexts_a19_eingangsbereich_seq_a19_eingangsbereich_betreten_verkleidung_eintrag_st_4;Hamid...
@@ -285,7 +285,7 @@ sequences_a19_haupthalle_statue_imhotep_use_1#16;[The Arab startled.]
 sequences_a19_haupthalle_statue_imhotep_use_1#17;[Cut further away.]
 sequences_a19_haupthalle_statue_imhotep_use_1#18;[The young woman stands in front of the Arab. The Arab is relaxing.]
 spokentexts_a19_haupthalle_statue_imhotep_use_1_st_9_direction;It's you
-spokentexts_a19_haupthalle_statue_imhotep_use_1_st_9;Ah. Ce n'est que toi.
+spokentexts_a19_haupthalle_statue_imhotep_use_1_st_9;Ah. C'est toi.
 sequences_a19_haupthalle_statue_imhotep_use_1#20;[The young woman looks around to see if she's not observed. Then she leans closer to the Arab.]
 spokentexts_a19_haupthalle_statue_imhotep_use_1_st_10_direction;normal voice, curious
 spokentexts_a19_haupthalle_statue_imhotep_use_1_st_10;Où en es-tu ? Et que s'est-il passé sur le navire ?
@@ -301,7 +301,7 @@ texts_a19_seite_anhaengerkupplung_mo_take_1;Prendre la balle de tennis
 spokentexts_a19_seite_anhaengerkupplung_ex_1_st_1;Une balle de tennis est fixée sur la boule d'attelage.
 spokentexts_a19_seite_anhaengerkupplung_ex_1_st_2;Les gens font ça pour protéger la boule et leur pantalon contre la graisse.
 sequences_a19_seite_anhaengerkupplung_take_1#1;[The Arab looks around, he kneels, then he grabs down and pulls the broken ball out of the coupling. Then he gets up and takes the ball.]
-spokentexts_a19_seite_anhaengerkupplung_take_1_st_1;C'est bon.
+spokentexts_a19_seite_anhaengerkupplung_take_1_st_1;Je l'ai.
 texts_a19_seite_ausgang_aussen_mo_leave_1;Aller à l'entrée du musée
 sequences_a19_seite_ausgang_aussen_leave_1#1;[The Arab left the side street, comes out in front of the museum.]
 texts_a19_seite_draht_mo_inventar_1__2;Tige
@@ -350,8 +350,8 @@ texts_a19_seite_tennisball_mo_inventar;Balle de tennis
 texts_a19_seite_tennisball_mo_take_1;Prendre la balle de tennis
 spokentexts_a19_seite_tennisball_ex_1_st_1;La balle de tennis est entaillée et l'intérieur est couvert de graisse. Personne ne jouera avec au tennis.
 sequences_a19_seite_tennisball_take_1#1;[The Arab bows, picks up the ball, gets up and takes the ball.]
-texts_a19_seite_transporter_mo_ex_1;Examiner le van
-texts_a19_seite_transporter_mo_use_1__2;Pousser le van en arrière
+texts_a19_seite_transporter_mo_ex_1;Examiner la camionnette
+texts_a19_seite_transporter_mo_use_1__2;Pousser la camionnette en arrière
 texts_a19_seite_transporter_mo_use_3;Monter sur la plateforme
 texts_a19_seite_transporter_mo_use_4;Descendre de la plateforme
 spokentexts_a19_seite_transporter_ex_1_st_1;Je parie que les ouvriers ne sont pas loin. Si ce n'est dans le musée, quelque part dans les parages.
@@ -365,10 +365,10 @@ spokentexts_a19_seite_transporter_use_2_st_2_direction;satisfied
 spokentexts_a19_seite_transporter_use_2_st_2;Ça devrait être bon.
 sequences_a19_seite_transporter_use_3#1;[The Arab climbs on the loading area]
 sequences_a19_seite_transporter_use_4#1;[The Arab climbs off the loading area]
-texts_a19_seite_transportertuer_mo_ex_1;Examiner le van
-texts_a19_seite_transportertuer_mo_ex_2;Examiner la porte du van
+texts_a19_seite_transportertuer_mo_ex_1;Examiner la camionnette
+texts_a19_seite_transportertuer_mo_ex_2;Examiner la porte de la camionnette
 texts_a19_seite_transportertuer_mo_use_1;Ouvrir la porte
-texts_a19_seite_transportertuer_mo_use_2;Fouiller le van
+texts_a19_seite_transportertuer_mo_use_2;Fouiller la camionnette
 texts_a19_seite_transportertuer_mo_used_mit_draht_1__2;Ouvrir la porte avec la tige
 spokentexts_a19_seite_transportertuer_ex_1_st_1;J'espère que son propriétaire ne va pas pointer son nez pendant que je trifouille le camion.
 spokentexts_a19_seite_transportertuer_ex_1_st_2;Les ouvriers ne sont pas connus pour leur nature calme et sympathique.
@@ -385,7 +385,7 @@ spokentexts_a19_seite_transportertuer_used_mit_draht_2_st_1_direction;complacent
 spokentexts_a19_seite_transportertuer_used_mit_draht_2_st_1;Un vrai touche-à-tout !
 sequences_a19_seite_seq_a19_aussen_ankunft_araber#0;[The butler is at the transporter, wipes perhaps with a finger over it and looks at his dust-covered fingers. He's boring, he have to pass the time.]
 sequences_a19_seite_seq_a19_aussen_ankunft_araber#1;[The Arab is coming more near. The butler looks up, puts himself in talk position. The Arab gets up in talk pose in front of him.]
-spokentexts_a19_seite_seq_a19_aussen_ankunft_araber_st_1;Mr Jamal...Je suis heureux de vous voir par ici.
+spokentexts_a19_seite_seq_a19_aussen_ankunft_araber_st_1;Mr Jamal... Je suis heureux de vous voir par ici.
 spokentexts_a19_seite_seq_a19_aussen_ankunft_araber_st_2;Allez droit au but.
 spokentexts_a19_seite_seq_a19_aussen_ankunft_araber_st_3;Toujours en colère à cause du bon docteur ?
 spokentexts_a19_seite_seq_a19_aussen_ankunft_araber_st_4;Vous me dégoûtez.
@@ -446,8 +446,8 @@ sequences_a19_wachstube_ausgang_eingangshalle_leave_3#5;[The Arab slips out of t
 texts_a19_wachstube_kaffeemaschine_mo_use;Trafiquer la machine à café
 sequences_a19_wachstube_kaffeemaschine_use_1#1;[The Arab is sneaking to the coffee machine and turns a knob. Steam rises, he increased the temperature.]
 sequences_a19_wachstube_kaffeemaschine_use_1#2;[The Arab is sneaking back into his hiding place.]
-texts_a19_wachstube_klemmbrett_mo_use_1__2;Ecrire un nom sur la liste
-texts_a19_wachstube_klemmbrett_mo_use_3;Ecrire le nom de l'entreprise sur la liste
+texts_a19_wachstube_klemmbrett_mo_use_1__2;Écrire un nom sur la liste
+texts_a19_wachstube_klemmbrett_mo_use_3;Écrire le nom de l'entreprise sur la liste
 sequences_a19_wachstube_klemmbrett_use_1#1;[The Arab sneaks gently behind the seat back of the guard.]
 sequences_a19_wachstube_klemmbrett_use_1#2;[The Arab looks carefully, if the guard is not looking, and then scans with the hand after the clipboard.]
 sequences_a19_wachstube_klemmbrett_use_1#3;[The Guard clears throat , shakes the newspaper. The Arab frozen.]
@@ -582,8 +582,8 @@ spokentexts_wache_top_a19_wache_firma_anders_einigen_tseq_st_3;Et ce n'est pas c
 spokentexts_wache_top_a19_wache_firma_anders_einigen_tseq_st_4;Mais mon patron a dit...
 sequences_wache_top_a19_wache_firma_anders_einigen_tseq#4;"[The Guard makes a ""hush-hush"" gesture with his hand, then he takes the newspaper and starts to read again.]"
 sequences_wache_top_a19_wache_firma_anders_einigen_tseq#5;[The Arab want to say something, but then he gives up frustrated and goes out.]
-texts_wache_top_a19_wache_firma_liste_tseq_title;Il doit être sur la liste !
-spokentexts_wache_top_a19_wache_firma_liste_tseq_st_1;Mais il doit être sur la liste ! Mon patron m'a dit que tout était arrangé !
+texts_wache_top_a19_wache_firma_liste_tseq_title;Elle doit être sur la liste !
+spokentexts_wache_top_a19_wache_firma_liste_tseq_st_1;Mais elle doit être sur la liste ! Mon patron m'a dit que tout était arrangé !
 spokentexts_wache_top_a19_wache_firma_liste_tseq_st_2;Et le mien a dit de ne pas laisser rentrer quiconque n'étant pas sur la liste.
 spokentexts_wache_top_a19_wache_firma_liste_tseq_st_3;Au revoir.
 sequences_wache_top_a19_wache_firma_liste_tseq#3;"[The Guard makes a ""hush-hush"" gesture with his hand, then he takes the newspaper and starts to read again.]"

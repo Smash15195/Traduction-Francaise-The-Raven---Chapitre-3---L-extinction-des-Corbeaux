@@ -9,10 +9,10 @@ spokentexts_a17_frachtraum_auto_junge_frau_ex_1_st_2_direction;dreamy
 spokentexts_a17_frachtraum_auto_junge_frau_ex_1_st_2;C'était une semaine merveilleuse et sur les falaises près de Toulon je lui ai demandé de m'épouser.
 spokentexts_a17_frachtraum_auto_junge_frau_ex_1_st_3_direction;getting to himself again
 spokentexts_a17_frachtraum_auto_junge_frau_ex_1_st_3;Mais ce n'est pas le moment pour les souvenirs.
-spokentexts_a17_frachtraum_auto_junge_frau_ex_2_st_1;Il n'y a rien dans la voiture qui pourrait m'aider. Alex joue son rôle de Patricia Mayers et elle ne peut rien garder quelque chose de suspect avec elle.
+spokentexts_a17_frachtraum_auto_junge_frau_ex_2_st_1;Il n'y a rien dans la voiture qui pourrait m'aider. Alex joue son rôle de Patricia Mayers et elle ne peut rien garder de suspect avec elle.
 texts_a17_frachtraum_gitter_mo_leave_1;Grimper
 texts_a17_frachtraum_gitter_mo_use_1__2;Tordre les barreaux
-texts_a17_frachtraum_gitter_mo_used_mit_schlauch_1-3;Attacher le tuyau sur les barres
+texts_a17_frachtraum_gitter_mo_used_mit_schlauch_1-3;Attacher le tuyau sur les barreaux
 spokentexts_a17_frachtraum_gitter_ex_1_st_1;Cela pourrait être ma sortie !
 spokentexts_a17_frachtraum_gitter_ex_1_st_2;Je ne peux pas casser les barreaux avec un objet lourd. La moitié du navire entendrait le bruit.
 sequences_a17_frachtraum_gitter_leave_1#1;[The Arab begins, to climb out the tube.]
@@ -52,7 +52,7 @@ texts_a17_frachtraum_lastkran_haken_mo_take_1__2;Prendre la poulie
 texts_a17_frachtraum_lastkran_haken_mo_used_mit_schlauch_1-5;Attacher le tuyau au crochet
 texts_a17_frachtraum_lastkran_haken_mo_used_mit_umlenkrolle_1-2;Attacher la poulie au crochet
 spokentexts_a17_frachtraum_lastkran_haken_ex_1_st_1;La grue sert pour le transport du matériel de A à B à l'intérieur du navire. Les grandes grues dans les ports ne peuvent pas atteindre les coins de la soute.
-spokentexts_a17_frachtraum_lastkran_haken_ex_2_st_1;De bonne taille pour fixer quelque chose à l'hameçon.
+spokentexts_a17_frachtraum_lastkran_haken_ex_2_st_1;Il me faudrait quelque chose a attacher au crochet.
 spokentexts_a17_frachtraum_lastkran_haken_ex_3_st_1;J'ai attaché le tuyau au crochet.
 spokentexts_a17_frachtraum_lastkran_haken_take_1_st_1;Je ne peux pas atteindre le crochet !
 spokentexts_a17_frachtraum_lastkran_haken_take_2_st_1;Je ne pense pas que c'était la solution du puzzle.
@@ -96,7 +96,7 @@ sequences_a17_frachtraum_regal_use_1#1;[The Arab climbs up the shelf.]
 sequences_a17_frachtraum_regal_use_2#1;[The Arab climbs down the shelf.]
 texts_a17_frachtraum_schlauch_mo_betrachte_1-3;Examiner le tuyau
 texts_a17_frachtraum_schlauch_mo_use;Utiliser le tuyau avec...
-spokentexts_a17_frachtraum_schlauch_ex_1_st_1;Le feu constitue toujours une grande menace pour les navires. Il y a des alarmes d'incendie, des extincteurs et des tuyaux partout de nos jours.
+spokentexts_a17_frachtraum_schlauch_ex_1_st_1;Le feu constitue toujours une grande menace pour les navires. Il y a des alarmes incendie, des extincteurs et des tuyaux partout de nos jours.
 sequences_a17_frachtraum_schlauch_ex_2#1;[The Arab takes the hose from the roll, keep it in a crook of the arm.]
 sequences_a17_frachtraum_schlauch_ex_2#2;[He looks how the hose is attached and when he sees that it's only attached with a simple clamp, he solves it with his free hand.]
 sequences_a17_frachtraum_schlauch_ex_2#3;[He goes slightly towards the crane and places the hose there.]
@@ -122,7 +122,7 @@ spokentexts_a17_frachtraum_umlenkrolle_ex_1_st_3;Tout est un plus grand et plus 
 sequences_a17_frachtraum_umlenkrolle_ex_1#5;[The Arab puts the hook back with the role on the shelf.]
 sequences_a17_frachtraum_umlenkrolle_use_1#1;[At left click the role is attached at the cursor and can be used with other objects in the scene.]
 texts_a17_frachtraum_zelle_mo_ex_1;Examiner la cellule
-spokentexts_a17_frachtraum_zelle_ex_1_st_1;Dès que l'Officier Zellner et l'inspecteur Legrand sont hors de danger, je reviendrais dans la cellule.
+spokentexts_a17_frachtraum_zelle_ex_1_st_1;Dès que l'Officier Zellner et l'inspecteur Legrand seront hors de danger, je reviendrais dans la cellule.
 spokentexts_a17_frachtraum_zelle_ex_1_st_2;Si ils arrêtent le bon docteur, j'espère qu'ils seront clément pour un pauvre passager clandestin.
 texts_a17_zelle_auftritt_onscreen;Le matin suivant...
 sequences_a17_zelle_seq_a17_zelle_auftritt_des_butlers#0;[The Arab is in the cell, goes up and down (or turns here and there). He is restless, anxious.]
@@ -132,13 +132,13 @@ sequences_a17_zelle_seq_a17_zelle_auftritt_des_butlers#3;[Finally, the butler st
 texts_a17_zelle_becher_mo_ex_1;Examiner la tasse
 texts_a17_zelle_becher_mo_use;Utiliser la tasse avec ...
 spokentexts_a17_zelle_becher_ex_1_st_1_direction;sarcastic
-spokentexts_a17_zelle_becher_ex_1_st_1;Ils m'onte gâtés avec cette tasse d'eau minérale au goût métallique. Si je suis vraiment chanceux ils me jetteront quelques miettes de pain !
+spokentexts_a17_zelle_becher_ex_1_st_1;Ils m'ont gâtés avec cette tasse d'eau minérale au goût métallique. Si je suis vraiment chanceux ils me jetteront quelques miettes de pain !
 sequences_a17_zelle_becher_use_1#1;[Clicking the cup sticks to the cursor and can be used with anything in the scene.]
 texts_a17_zelle_brett_mo_ex_1;Examinez la planche
 texts_a17_zelle_brett_mo_use;Utiliser la planche avec...
 texts_a17_zelle_brett_mo_used_mit_becher;Jeter la tasse
 texts_a17_zelle_brett_mo_used_mit_decke;Jeter la couverture sur la planche
-spokentexts_a17_zelle_brett_ex_1_st_2;Quelqu'un devrait enlever cette planche avant ce clou ne soit piétiné.
+spokentexts_a17_zelle_brett_ex_1_st_2;Quelqu'un devrait enlever cette planche avant que ce clou ne soit piétiné.
 spokentexts_a17_zelle_brett_ex_1_st_1;Cette planche pourrait faire partie de mon évasion spectaculaire.
 sequences_a17_zelle_brett_use_1#1;[Clicking the board stuck to the cursor and can be used with anything in the scene.]
 spokentexts_a17_zelle_brett_used_mit_becher_st_1;Jeter la tasse sur ce clou d'ici serait une véritable performance.
@@ -171,7 +171,7 @@ texts_a17_zelle_scharniere_mo_ex_1__2;Examiner la charnière
 texts_a17_zelle_scharniere_mo_use_1;Appuyer sur la cheville de la charnière
 texts_a17_zelle_scharniere_mo_used_mit_nagel;Appuyer sur la cheville de la charnière avec le clou
 spokentexts_a17_zelle_scharniere_ex_1_st_1;Comme tout le reste sur ce bateau, les barreaux et les charnières commencent a dater.
-spokentexts_a17_zelle_scharniere_ex_1_st_2;Mais ils sont encore beaucoup trop solide pour me permettre d'enfoncer la porte.
+spokentexts_a17_zelle_scharniere_ex_1_st_2;Mais elles sont encore beaucoup trop solide pour me permettre d'enfoncer la porte.
 spokentexts_a17_zelle_scharniere_ex_2_st_1;De conception très simple. Une cheville métallique relie la porte au cadre...
 sequences_a17_zelle_scharniere_ex_2#2;[The Arab tries to push the pin out of the hinge.]
 spokentexts_a17_zelle_scharniere_ex_2_st_2;La cheville s'intègre parfaitement dans la charnière. Je ne peux pas la sortir, mes doigts sont trop gros pour ça.
@@ -189,7 +189,7 @@ texts_a17_zelle_schloss_mo_ex_1__2;Examiner la serrure
 texts_a17_zelle_schloss_mo_used_mit_brett;Crocheter la serrure
 texts_a17_zelle_schloss_mo_used_mit_nagel;Crocheter la serrure avec le clou
 sequences_a17_zelle_schloss_ex_1#1;[The Arab kneels down and touches the lock (idle).]
-spokentexts_a17_zelle_schloss_ex_1_st_1;Hmm. La serrure semble assez moderne. Il faut une petite clé, avec cinq broches... Je pourrais le faire avec les bons outils.
+spokentexts_a17_zelle_schloss_ex_1_st_1;Hmm. La serrure semble assez moderne. Il faut une petite clé, avec cinq broches... Je pourrais la crocheter avec les bons outils.
 sequences_a17_zelle_schloss_ex_1#3;[The Arab gets up again.]
 spokentexts_a17_zelle_schloss_ex_2_st_1;C'est une serrure normale. Je parie que je pourrais la crocheter si j'avais un fils ou quelque chose comme ça.
 spokentexts_a17_zelle_schloss_used_mit_brett_st_1;J'aurais besoin de dix de ces planches avant que la serrure ne cède.
@@ -251,7 +251,7 @@ spokentexts_butler_top_a17_butler_gespraech_was_ist_passiert_tseq_st_5;Au lieu d
 spokentexts_butler_top_a17_butler_gespraech_was_ist_passiert_tseq_st_6;Est-ce qu'on doit tout annuler ?
 spokentexts_butler_top_a17_butler_gespraech_was_ist_passiert_tseq_st_7;Non. Monsieur X est prêt et en tant que son représentant, je devrais être en mesure de me déplacer librement dans le musée. La mort de la vieille sorcière ne change rien.
 texts_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq_title;Qu'allons-nous faire maintenant ?
-spokentexts_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq_st_1;Alors, que faisons-nous maintenant ? Je ne pourrais m'échapper et...
+spokentexts_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq_st_1;Alors, que faisons-nous maintenant ? Je pourrais m'échapper et...
 spokentexts_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq_st_2;...nager jusqu'au Caire ?
 spokentexts_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq_st_3;Donc, je reste ici et j'attends ?
 spokentexts_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq_st_4;Ils vont vous arrêter au Caire et vous poser des questions sur l'assassinat. Même si ils ne vous jettent pas en prison, ça va prendre des jours.

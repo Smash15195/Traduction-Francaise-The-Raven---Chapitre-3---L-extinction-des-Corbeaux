@@ -75,7 +75,7 @@ texts_a20_dach_scheibe_mo_used_mit_lappen_1;Essuyer la fenêtre
 texts_a20_dach_scheibe_mo_used_mit_lappen_2_3;Utiliser le chiffon sur la fenêtre
 texts_a20_dach_scheibe_mo_used_mit_messer_1_2;Utiliser le couteau sur la fenêtre
 sequences_a20_dach_scheibe_ex_1#1;[The Arab leans on the glass roof, uses a hand to protect himself against the sun.]
-spokentexts_a20_dach_scheibe_ex_1_st_1;J'ai vue sur la salle au trésor.
+spokentexts_a20_dach_scheibe_ex_1_st_1;Je vois la salle au trésor.
 spokentexts_a20_dach_scheibe_ex_1_st_2;Il y a plusieurs personnes en bas. Je crois que l'Oeil est en train d'arriver.
 sequences_a20_dach_scheibe_ex_1#4;[The Arab pushes himself off from the glass roof, is back down to normal.]
 spokentexts_a20_dach_scheibe_ex_2_st_1;On peut ouvrir cette fenêtre. Elle doit servir d'accès aux laveurs et aux techniciens quand ils doivent travailler ici dans la coupole.
@@ -221,7 +221,7 @@ texts_a20_keller_kabel_mo_used_mit_a20_rabennest_gluehbirne_kabel;Connecter les 
 texts_a20_keller_kabel_mo_used_mit_a20_rabennest_messer;Utiliser le couteau avec le câble
 spokentexts_a20_keller_kabel_ex_1_st_1;On a enlevé la lampe. On distingue encore les marques que les vis ont laissées.
 spokentexts_a20_keller_kabel_ex_1_st_2;La câble a été coupé proprement.
-spokentexts_a20_keller_kabel_ex_2_st_1;J'ai exposé les fils de cuivre. Il n'y a aucun danger tant que l'électricité est coupée.
+spokentexts_a20_keller_kabel_ex_2_st_1;J'ai dénudé les fils de cuivre. Il n'y a aucun danger tant que l'électricité est coupée.
 spokentexts_a20_keller_kabel_ex_3_st_1;La lampe est accrochée au câble électrique, lui même relié à l'interrupteur. Tant qu'il y a du courant, je devrais avoir de la lumière maintenant !
 spokentexts_a20_keller_kabel_ex_4_st_1;Je crois que le plot est sale...
 sequences_a20_keller_kabel_ex_4#2;[The Arab, turns the light bulb out, looks at it from below.]
@@ -236,7 +236,7 @@ spokentexts_a20_keller_kabel_used_mit_a20_rabennest_gluehbirne_kabel_1_st_1;Je p
 spokentexts_a20_keller_kabel_used_mit_a20_rabennest_gluehbirne_kabel_2_st_1;OK. Je vais entremêler les fils de la lampe avec ceux du câble électrique...
 sequences_a20_keller_kabel_used_mit_a20_rabennest_gluehbirne_kabel_2#2;[The Arab twists the two cables, let hang the lamp.]
 sequences_a20_keller_kabel_used_mit_a20_rabennest_messer#1;[The Arab pulls out his knife, first removes the isolation from the wire and then the tips of the isolation of both wires.]
-spokentexts_a20_keller_kabel_used_mit_a20_rabennest_messer_st_1;OK. Le positif et le négatif sont exposés.
+spokentexts_a20_keller_kabel_used_mit_a20_rabennest_messer_st_1;OK. Le positif et le négatif sont dénudés.
 texts_a20_keller_lichtschalter_mo_ex_1__2__4__5;Examiner l'interrupteur
 texts_a20_keller_lichtschalter_mo_use_1__2;Allumer la lumière
 spokentexts_a20_keller_lichtschalter_ex_1_st_1;C'est parti ! Je pense que...
@@ -273,7 +273,7 @@ sequences_a20_rabennest_ausgang_dach_leave_2#3;[The Arab turns back.]
 texts_a20_rabennest_ausgang_keller_mo_leave_1__2;Descendre
 texts_a20_rabennest_ausgang_keller_mo_leave_2;Fuir !
 texts_a20_rabennest_ausgang_keller_mo_use_1;Examiner la trappe
-spokentexts_a20_rabennest_ausgang_keller_ex_1_st_1;D'après les plans, les escaliers mènent du grenier à la cave secrète...
+spokentexts_a20_rabennest_ausgang_keller_ex_1_st_1;D'après les plans, les escaliers mènent du grenier vers la cave secrète...
 sequences_a20_rabennest_ausgang_keller_leave_1#1;[The Arab starts to descend the stairs.]
 sequences_a20_rabennest_ausgang_keller_leave_1#2;[While he still goes fade out. Next in the basement.]
 sequences_a20_rabennest_ausgang_keller_leave_2#1;[The Arab looks inconspicuous to the hatch. The Butler notes that, following his gaze.]
@@ -332,16 +332,16 @@ spokentexts_a20_rabennest_dachpappe_used_mit_a20_keller_gluehbirne_st_2;Oui ! Je
 sequences_a20_rabennest_dachpappe_used_mit_a20_keller_gluehbirne#5;[The Arab pulls the bulb a few more times on the tar paper back and forth, he looks briefly on the contact and puts the bulb back on.]
 spokentexts_a20_rabennest_dachpappe_used_mit_a20_keller_gluehbirne_st_3;Ça devrait être bon.
 texts_a20_rabennest_funkausruestung_mo_ex_1__2;Examiner l'équipement
-spokentexts_a20_rabennest_funkausruestung_ex_1_st_1;"Du vieil équipement technique... Inch a mentionné un ""mouvement clandestin"" opérant au musée durant la guerre."
+spokentexts_a20_rabennest_funkausruestung_ex_1_st_1;"Du vieil équipement technique... Inch a mentionné un ""mouvement clandestin"" opérant dans le musée durant la guerre."
 spokentexts_a20_rabennest_funkausruestung_ex_2_st_1;Ça aurait pu être une installation radio. Aussi haut, au dessus de la ville, ça aurait été l'endroit parfait.
 texts_a20_rabennest_gluehbirne_kabel_mo_inventar_1;Lampe
-texts_a20_rabennest_gluehbirne_kabel_mo_inventar_2;Lampe avec les fils exposés
+texts_a20_rabennest_gluehbirne_kabel_mo_inventar_2;Lampe avec les fils dénudés
 texts_a20_rabennest_gluehbirne_kabel_mo_used_mit_messer_1;Enlever l'isolation
 sequences_a20_rabennest_gluehbirne_kabel_ex_1#1;[The Arab lifts the lamp, which he has in his hand, and considers it.]
 spokentexts_a20_rabennest_gluehbirne_kabel_ex_1_st_1;Une ampoule, une douille et un morceau de câble isolé.
 spokentexts_a20_rabennest_gluehbirne_kabel_ex_1_st_2;Ce ne sont pas ceux dont j'ai l'habitude. Ces trucs ont été fabriqués dans les années trente.
 sequences_a20_rabennest_gluehbirne_kabel_ex_1#4;[The Arab let the lamp down again.]
-spokentexts_a20_rabennest_gluehbirne_kabel_ex_2_st_1;J'ai enlevé l'isolation et exposé les fils. C'est bien parti !
+spokentexts_a20_rabennest_gluehbirne_kabel_ex_2_st_1;J'ai enlevé l'isolation et dénudé les fils. C'est bien parti !
 sequences_a20_rabennest_gluehbirne_kabel_used_mit_a20_rabennest_messer#1;[The Arab gets his knife out of his pocket and looks at the lamp, which he has in his hand.]
 spokentexts_a20_rabennest_gluehbirne_kabel_used_mit_a20_rabennest_messer_st_1;Je devrais pouvoir enlever l'isolation avec le couteau...
 sequences_a20_rabennest_gluehbirne_kabel_used_mit_a20_rabennest_messer#3;[The Arab cuts with the knife a little bit of isolation of the wire, so that at the end two bare wire ends remain.]
