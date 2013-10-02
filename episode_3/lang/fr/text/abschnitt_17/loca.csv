@@ -75,15 +75,15 @@ spokentexts_a17_frachtraum_lastkran_steuerung_ex_2_st_1;Je suis sûr que la grue
 sequences_a17_frachtraum_lastkran_steuerung_use_1#1;[The Arab takes the control in hand, presses a button. The hook comes down. The Arab looks at the hook. As the hook is down he let the button.]
 spokentexts_a17_frachtraum_lastkran_steuerung_use_1_st_1;Je pourrais faire ça toute la journée !
 sequences_a17_frachtraum_lastkran_steuerung_use_2#1;[The Arab takes the control in hand, presses a button. The hook will start up again. The Arab looks and lets go of the button when it is up.]
-spokentexts_a17_frachtraum_lastkran_steuerung_use_3_st_1;Cela me mènera nulle part !
+spokentexts_a17_frachtraum_lastkran_steuerung_use_3_st_1;C'est parti !
 sequences_a17_frachtraum_lastkran_steuerung_use_4#1;[The Arab, takes the crane control in his hand, breathes once briefly.]
-spokentexts_a17_frachtraum_lastkran_steuerung_use_4_st_1;Cela me mènera nulle part !
+spokentexts_a17_frachtraum_lastkran_steuerung_use_4_st_1;C'est parti !
 sequences_a17_frachtraum_lastkran_steuerung_use_4#3;[The Arab presses the button. The hook is being pulled up, the hose is stretched. It crunches and finally the grid dissolves with a bang.]
 sequences_a17_frachtraum_lastkran_steuerung_use_4#4;[Cut onto the front deck.]
 sequences_a17_frachtraum_lastkran_steuerung_use_4#5;"[You hear a noise below decks. The guard was again just before falling asleep. He looks around, then thinks, ""Oh, who cares"" and make hisself comfortable again.]"
 sequences_a17_frachtraum_lastkran_steuerung_use_4#6;[Cut back to the Cargo.]
 sequences_a17_frachtraum_lastkran_steuerung_use_4#7;[The Arab stops the crane and let go of the control.]
-spokentexts_a17_frachtraum_lastkran_steuerung_use_4_st_2;C'était plus bruyant que je m'y attendais. J'espère que personne n'a rien entendu !
+spokentexts_a17_frachtraum_lastkran_steuerung_use_4_st_2;C'était plus bruyant que ce à quoi je m'attendais. J'espère que personne n'a rien entendu !
 spokentexts_a17_frachtraum_lastkran_steuerung_use_4_st_3;Avec de la chance, je serai en mesure de prévenir les autres sur ce médecin avant qu'il ne soit trop tard !
 texts_a17_frachtraum_regal_mo_ex_1;Examiner l'étagère
 texts_a17_frachtraum_regal_mo_use_1;Grimper sur l'étagère
@@ -100,7 +100,7 @@ spokentexts_a17_frachtraum_schlauch_ex_1_st_1;Le feu constitue toujours une gran
 sequences_a17_frachtraum_schlauch_ex_2#1;[The Arab takes the hose from the roll, keep it in a crook of the arm.]
 sequences_a17_frachtraum_schlauch_ex_2#2;[He looks how the hose is attached and when he sees that it's only attached with a simple clamp, he solves it with his free hand.]
 sequences_a17_frachtraum_schlauch_ex_2#3;[He goes slightly towards the crane and places the hose there.]
-spokentexts_a17_frachtraum_schlauch_ex_2_st_1;Ces tuyaux sont assez polyvalent - ils peuvent tout à fait faire office de cordes d'escalade dans un bâtiment que vous avez l'intention de cambrioler.
+spokentexts_a17_frachtraum_schlauch_ex_2_st_1;Ces tuyaux sont assez polyvalents, ils peuvent tout à fait faire office de cordes d'escalade dans un bâtiment que vous avez l'intention de cambrioler.
 sequences_a17_frachtraum_schlauch_use_1#1;[As soon as you click on the hose, it sticks to the cursor and you can use it with other objects in the scene.]
 texts_a17_frachtraum_schott_mo_ex_1__2;Examiner la porte
 spokentexts_a17_frachtraum_schott_ex_1_st_1;On dirait que Inch a verrouillé la porte de l'intérieur...
@@ -118,7 +118,7 @@ texts_a17_frachtraum_umlenkrolle_mo_use_1;Utiliser la poulie avec...
 spokentexts_a17_frachtraum_umlenkrolle_ex_1_st_1;Qu'est-ce que c'est ?
 sequences_a17_frachtraum_umlenkrolle_ex_1#2;[The Arab grabs in the shelf and pulls out a large role with a  hook.]
 spokentexts_a17_frachtraum_umlenkrolle_ex_1_st_2;Ouah ! C'est lourd.
-spokentexts_a17_frachtraum_umlenkrolle_ex_1_st_3;Tout est un plus grand et plus lourd sur un navire, poulies incluses.
+spokentexts_a17_frachtraum_umlenkrolle_ex_1_st_3;Tout est un peu plus grand et plus lourd sur un navire, poulies incluses.
 sequences_a17_frachtraum_umlenkrolle_ex_1#5;[The Arab puts the hook back with the role on the shelf.]
 sequences_a17_frachtraum_umlenkrolle_use_1#1;[At left click the role is attached at the cursor and can be used with other objects in the scene.]
 texts_a17_frachtraum_zelle_mo_ex_1;Examiner la cellule
@@ -151,7 +151,7 @@ spokentexts_a17_zelle_brett_used_mit_decke_st_2;Une planche et un clou !
 sequences_a17_zelle_brett_used_mit_decke#6;[The Arab turned the nail out of the board and takes it. Then he puts the board to the grid.]
 texts_a17_zelle_decke_mo_ex_1;Regarder la couverture
 texts_a17_zelle_decke_mo_use;Utiliser la couverture avec...
-spokentexts_a17_zelle_decke_ex_1_st_1;Je n'ai pas dormi la nuit dernière. Je pouvais juste penser à Alex. C'est terrible de ne pas savoir ce qui s'est passé.
+spokentexts_a17_zelle_decke_ex_1_st_1;Je n'ai pas dormi la nuit dernière. Je n'ai pas pu m'empêcher de penser à Alex. C'est terrible de ne pas savoir ce qui s'est passé.
 sequences_a17_zelle_decke_use_1#1;[Clicking the blanket sticks to the cursor and can be used with anything in the scene.]
 texts_a17_zelle_gitter_mo_ex_1__2;Examiner les barreaux
 texts_a17_zelle_gitter_mo_used_mit_becher;Faire du bruit
@@ -207,9 +207,9 @@ spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_5;Le Dr Gebhardt a tu�
 spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_6_direction;happily surprised
 spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_6;Donc, vous avez juste à mettre Legrand sur sa piste et alors je serais libre !
 spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_7;C'est ce que je pensais faire au début. Mais ensuite j'ai pensé, pourquoi passer à coté de l'occasion ?
-spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_8;Je mets Zellner sur la piste du bon docteur.
-spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_9;Il va pousser Gebhardt dans ses retranchements et quand il sera à bout, il s'occupera notre ami suisse. Peut-être même de Legrand, si nous sommes vraiment chanceux.
-spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_10;Vous ne pouvez pas faire ça ! Ce vieil homme faisait tout simplement son travail !
+spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_8;Je vais mettre Zellner sur la piste du bon docteur.
+spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_9;Il va pousser Gebhardt dans ses retranchements et quand il sera à bout, il s'occupera de notre ami suisse. Peut-être même de Legrand, si nous sommes vraiment chanceux.
+spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_10;Vous ne pouvez pas faire ça ! Ce vieil homme fait tout simplement son travail !
 sequences_a17_zelle_seq_a17_zelle_abgang_des_butlers#12;[The Butler shrugs with his shoulders.]
 spokentexts_a17_zelle_seq_a17_zelle_abgang_des_butlers_st_11;Et moi de même.
 sequences_a17_zelle_seq_a17_zelle_abgang_des_butlers#14;[The butler goes back towards the bulkhead.]
@@ -240,7 +240,7 @@ texts_butler_top_a17_butler_gespraech_eingang_tseq_title;Comment s'est-il échap
 spokentexts_butler_top_a17_butler_gespraech_eingang_tseq_st_1;Comment êtes-vous venu ici ?
 spokentexts_butler_top_a17_butler_gespraech_eingang_tseq_st_2;Je suis plus que capable de trouver l'entrée d'une soute.
 spokentexts_butler_top_a17_butler_gespraech_eingang_tseq_st_3_direction;at the end sneaky
-spokentexts_butler_top_a17_butler_gespraech_eingang_tseq_st_3;C'est d'ailleurs un jeu d'enfant. Ce n'est pas comme si je devais ramper à travers des puits de ventilation ou de quelque chose d'aussi idiot...
+spokentexts_butler_top_a17_butler_gespraech_eingang_tseq_st_3;C'est d'ailleurs un jeu d'enfant. Ce n'est pas comme si je devais ramper à travers des conduits de ventilation ou de quelque chose d'aussi idiot...
 texts_butler_top_a17_butler_gespraech_was_ist_passiert_tseq_title;Qui a tiré sur qui hier ?
 spokentexts_butler_top_a17_butler_gespraech_was_ist_passiert_tseq_st_1_direction;carefully
 spokentexts_butler_top_a17_butler_gespraech_was_ist_passiert_tseq_st_1;Qu'est-ce... Qu'est-ce qui s'est passé la nuit dernière ?
@@ -265,14 +265,14 @@ spokentexts_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq_st_7;Nerve
 spokentexts_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq_st_8;Je le serais, si j'étais vous.
 sequences_butler_top_a17_butler_gespraech_was_machen_wir_jetzt_tseq#12;[The pictures faded out.]
 texts_butler_top_a17_butler_waffe_entschuldigen_tseq_title;S'excuser
-spokentexts_butler_top_a17_butler_waffe_entschuldigen_tseq_st_1;Je... Je n'aurais pas dû sorti. C'était une erreur.
+spokentexts_butler_top_a17_butler_waffe_entschuldigen_tseq_st_1;Je... Je n'aurais pas dû sortir. C'était une erreur.
 sequences_butler_top_a17_butler_waffe_entschuldigen_tseq#1;[The butler is not reacting. The Arab is clearly uncomfortable in this situation.]
 sequences_butler_top_a17_butler_waffe_entschuldigen_tseq#3;[The Butler still does not react. The Arab takes his courage of out of despair. He stands up straight, and speaks with firmer voice.]
 spokentexts_butler_top_a17_butler_waffe_niemanden_umgebracht_tseq_st_3_direction;with firmer voice
 spokentexts_butler_top_a17_butler_waffe_niemanden_umgebracht_tseq_st_3;Pourquoi vous ne répondez pas ?
 sequences_butler_top_a17_butler_waffe_entschuldigen_tseq#5;[A short pause.]
 spokentexts_butler_top_a17_butler_waffe_niemanden_umgebracht_tseq_st_4_direction;quiet, menacing
-spokentexts_butler_top_a17_butler_waffe_niemanden_umgebracht_tseq_st_4;Je vais avoir une conversation que vous ne pourrez plus entendre.
+spokentexts_butler_top_a17_butler_waffe_niemanden_umgebracht_tseq_st_4;J'ai une conversation que vous ne pouvez pas entendre.
 sequences_butler_top_a17_butler_waffe_entschuldigen_tseq#7;[Again, a short pause, the men stare at each other. The Butler then pulls the gun from the grid and takes it. The Arab is terrified, tears himself together again.]
 texts_butler_top_a17_butler_waffe_niemanden_umgebracht_tseq_title;Arrestation accidentelle
 spokentexts_butler_top_a17_butler_waffe_niemanden_umgebracht_tseq_st_1;Je n'ai tué personne ! Ils m'ont arrêté purement par hasard ! Ils devront me relâcher au Caire.
