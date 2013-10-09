@@ -3,7 +3,7 @@ text_quest01_slot01_titel;Convaincre Legrand
 text_quest01_slot01_content;Je dois convaincre Legrand que je peux être utile. Aider le professeur pour ouvrir sa porte serait un bon début...
 text_quest01_slot02_content;Retrouver le sac à main de la Baronne devrait me faire gagner des points avec Legrand.
 text_quest02_slot01_titel;Ouvrir la porte du professeur
-text_quest02_slot01_content;La porte du compartiment du professeur Lucien est verrouillé - de l'intérieur. Je dois trouver un moyen d'ouvrir la serrure.
+text_quest02_slot01_content;La porte du compartiment du professeur Lucien est verrouillée de l'intérieur. Je dois trouver un moyen d'ouvrir la serrure.
 text_quest02_slot02_content;La boîte à outils peut être utile pour ouvrir la porte du professeur Lucien. J'ai juste besoin de sa clé.
 hint_quest02_slot02;Les employés doivent avoir accès à la clé.
 text_quest02_slot03_content;Je dois trouver un moyen d'ouvrir le tiroir verrouillé derrière le bar. Peut-être qu'il y a une clé pour les compartiments à l'intérieur.
@@ -13,7 +13,7 @@ hint_quest03_slot01;Je peux peut-être analyser les empreintes sur la fenêtre d
 text_quest04_slot01_titel;Trouver le sac de la baronne
 text_quest04_slot01_content;La baronne m'a chargé de trouver son sac à main. C'est pas le crime du siècle, si on peut parler de crime. Mais c'est mon travail en tant que policier.
 hint_quest04_slot01;Je dois demander aux autres passagers s'ils savent où le sac pourrait être.
-text_quest04_slot02_content;L'accompagnatrice de Lady Westmacott a déclarée que son fils Matt pourra peut-être m'aider. Mais où est ce petit bonhomme ?
+text_quest04_slot02_content;L'accompagnatrice de Lady Westmacott a déclaré que son fils Matt pourra peut-être m'aider. Mais où est ce petit bonhomme ?
 text_quest04_slot03_content;Matt est en colère parce que j'ai pris son pistolet. S'il voulait bien me parler, je pourrais lui poser des questions sur le sac de la baronne.
 hint_quest04_slot03;Je ne peux pas lui rendre son pistolet, mais peut-être qu'il y a une autre façon de lui remonter le moral.
 text_quest04_slot04_content;Matt a vu le violoniste ramasser quelque chose sur le quai...
@@ -22,48 +22,48 @@ hint_quest04_slot05;Je peux peut-être le distraire, de sorte qu'il laisse son �
 text_quest05_slot01_titel;Découpler le wagon de marchandises
 text_quest05_slot01_content;Je dois découpler le wagon de marchandises avant que la fumée de ce tunnel ne nous étouffe.
 text_quest05_slot02_content;Je ne peux pas me pencher sur le mécanisme de couplage dans l'obscurité. J'ai besoin de plus de lumière !
-text_quest05_slot03_content;Les allumettes ne marcheront pas - J'ai besoin d'une meilleure source de lumière.
+text_quest05_slot03_content;Les allumettes ne marcheront pas. J'ai besoin d'une meilleure source de lumière.
 hint_quest05_slot03;Je devrais me faire une torche avec quelque chose.
-text_quest05_slot04_content;La torche ne brûle pas de manière assez lumineuse et elle s'éteint aux moindres mouvements. J'ai besoin d'une plus grosse flamme.
+text_quest05_slot04_content;La torche ne brûle pas de manière assez lumineuse et elle s'éteint au moindre mouvement. J'ai besoin d'une plus grosse flamme.
 hint_quest05_slot04;Il n'y aurait pas de la cire, de l'huile ou quoi que ce soit du même genre dans le coin ?
 text_quest06_slot01_titel;Parler à Matt
 text_quest06_slot01_content;J'ai trouvé Matt, mais il est terrifié. Je dois le réconforter.
 hint_quest06_slot01;Si Matt a l'impression qu'il peut se défendre, il devrait se calmer.
 text_quest06_slot02_titel;Découpler la locomotive
 text_quest06_slot02_content;La locomotive ne s'arrêtera pas toute seule et je ne peux pas entrer dans la cabine à cause de l'incendie.
-text_quest06_slot03_content;La porte est trop chaude pour être touchée avec mes mains nues. J'ai besoin de trouver quelque chose pour me protéger de la chaleur.
-text_quest06_slot04_content;La fumée et les cendres sont importante. Je dois protéger mon visage.
+text_quest06_slot03_content;La porte est trop chaude pour être touchée à mains nues. J'ai besoin de trouver quelque chose pour me protéger de la chaleur.
+text_quest06_slot04_content;La fumée et les cendres sont abondantes. Je dois protéger mon visage.
 text_quest07_slot01_titel;Monter à bord
 text_quest07_slot01_content;Legrand ne veut pas me laisser monter à bord. Je dois trouver un moyen de venir.
 hint_quest07_slot01;Je dois jeter un bon coup d'oeil autour de la jetée.
-text_quest07_slot02_content;La malle suspecte que j'ai remarqué alors qu'ils étaient en train d'être chargé sur le navire doit être dans la soute quelque part. Est-ce comme ça que le Corbeau est monté à bord ?
+text_quest07_slot02_content;La malle suspecte que j'ai remarqué alors qu'ils étaient en train d'embarquer sur le navire doit être dans la soute quelque part. Est-ce comme ça que le Corbeau est monté à bord ?
 text_quest08_slot01_titel;Se libérer
 text_quest08_slot01_content;Qui m'a assommé et m'a ligoté ? Et plus important encore : comment puis-je me libérer ?
 hint_quest08_slot01;Je suis peut-être ligoté pour le moment, mais cela ne veut pas dire que je ne peux pas atteindre les objets à proximité...
 text_quest08_slot02_content;Quelqu'un semble avoir tiré sur une caisse. Je pense que la balle est toujours coincé dans le bois, mais je ne peux pas la retirer avec mes doigts.
 text_quest08_slot03_content;Je ne peux pas ouvrir la porte à mains nues. J'ai besoin d'un outil quelconque.
-text_quest08_slot04_content;Le navire est partit alors que j'étais inconscient - Je suis officiellement un passager maintenant...
+text_quest08_slot04_content;Le navire est parti alors que j'étais inconscient - Je suis officiellement un passager maintenant...
 text_quest08_slot05_titel;Chasse du Corbeau
-text_quest08_slot05_content;Une silhouette vêtu de noir a été aperçu sur le toit. Pourrait-elle être le Corbeau ?
+text_quest08_slot05_content;Une silhouette vêtue de noir a été aperçue sur le toit. Pourrait-elle être le Corbeau ?
 hint_quest08_slot05;Je devrais jeter un coup d'oeil à bâbord.
 
-text_quest09a_slot01_titel;Qui est le meurtrier ?
-text_quest09a_slot01_content;Toujours aucun suspect pour l'assassinat de la baronne. Je vais voir si je peux obtenir des informations auprès des autres passagers.
-text_quest09a_slot02_content;Je suis à la recherche d'indices qui pourraient nous mener au tueur.
-hint_quest09a_slot02;Peut-être que le coup de feu que j'ai entendu dans la soute est lié à l'assassinat.
-text_quest09a_slot03_content;Legrand m'a donné la permission de fouiller la cabine de la baronne.
-hint_quest09a_slot03;Je dois fouiller plus minutieusement la cabine pour trouver des indices.
-text_quest09a_slot04_content;Je pense qu'il y a plus que des plumes coincées dans le vase, mais ma main est trop grande.
+text_quest09_slot01_titel;Qui est le meurtrier ?
+text_quest09_slot01_content;Toujours aucun suspect pour l'assassinat de la baronne. Je vais voir si je peux obtenir des informations auprès des autres passagers.
+text_quest09_slot02_content;Je suis à la recherche d'indices qui pourraient nous mener au tueur.
+hint_quest09_slot02;Peut-être que le coup de feu que j'ai entendu dans la soute est lié à l'assassinat.
+text_quest09_slot03_content;Legrand m'a donné la permission de fouiller la cabine de la baronne.
+hint_quest09_slot03;Je dois fouiller plus minutieusement la cabine pour trouver des indices.
+text_quest09_slot04_content;Je pense qu'il y a plus que des plumes coincées dans le vase, mais ma main est trop grande.
 
-text_quest09b_slot05_titel;Examiner la tache de sang
-text_quest09b_slot05_content;La tache de sang sur le matelas semble étrange.
-hint_quest09b_slot05;Si je prends un échantillon de sang, je peux l'examiner plus en détail.
-text_quest09b_slot08_content;Entrer dans l'infirmerie
+text_quest09_slot05_titel;Examiner la tache de sang
+text_quest09_slot05_content;La tache de sang sur le matelas semble étrange.
+hint_quest09_slot05;Si je prends un échantillon de sang, je peux l'examiner plus en détail.
+text_quest09_slot08_content;Entrer dans l'infirmerie
 
-text_quest09c_slot06_titel;Parler au passager clandestin
-text_quest09c_slot06_content;L'Officier Oliver ne veut pas me laisser parler au passager clandestin dans la soute. Je dois le distraire.
-hint01_quest09c_slot06;Peut-être qu'il s'en ira s'il doit faire face à des besoins naturels...
-hint02_quest09c_slot06;Matt a une plus une tête de chenapan que moi.
+text_quest09_slot06_titel;Parler au passager clandestin
+text_quest09_slot06_content;L'Officier Oliver ne veut pas me laisser parler au passager clandestin dans la soute. Je dois le distraire.
+hint01_quest09_slot06;Peut-être qu'il s'en ira s'il doit faire face à des besoins naturels...
+hint02_quest09_slot06;Matt a davantage une tête de chenapan que moi.
 
 text_quest09_slot07_content;Je pourrais examiner les preuves moi-même dans la cabine de Legrand.
 hint01_quest09_slot07;Les balles de la soute et de la cabine de la baronne proviennent de la même arme ?
@@ -81,21 +81,21 @@ text_quest11_slot03_content;Le mécanisme de la porte est coincé. Je dois trouv
 text_quest11_slot04_content;Un bâton n'est pas suffisant pour soulever la porte.
 hint_quest04_slot04;Peut-être qu'il y a un autre bâton dans les parages.
 text_quest12_slot01_titel;Entrer dans le sous-sol
-text_quest12_slot01_content;La vitrine avec l'oeil est tombé dans le trou suite à l'explosion. Je dois y aller et voir si la pierre est toujours là.
+text_quest12_slot01_content;La vitrine avec l'oeil est tombée dans le trou suite à l'explosion. Je dois y aller et voir si la pierre est toujours là.
 text_quest12_slot02_titel;Ouvrir la porte secrète
 text_quest12_slot02_content;Je dois savoir ce qu'il y a derrière la porte secrète avant que les policiers arrivent et ouvrent les portes.
 text_quest12_slot03_content;Qu'est-ce que l'inscription sur la porte secrète signifie ?
 hint_quest03_slot03;Peut-être que le directeur du musée peut la traduire pour moi.
-text_quest12_slot04_content;“Les Fils d'Horus”. Man, babouin, chacal et faucon.  
+text_quest12_slot04_content;“Les Fils d'Horus”. Humain, babouin, chacal et faucon.  
 hint_quest04_slot04;Je peux probablement en apprendre plus sur les fils d'Horus dans le musée.
 text_quest13_slot01_titel;Monter dans le train
 text_quest13_slot01_content;Je dois prendre le train, mais y aller simplement n'est pas une option.
 text_quest13_slot02_content;Je ne peux pas laisser quelqu'un me voir monter dans le train.
 hint_quest13_slot02;Tant que le policier parle au médecin, je ne serai pas en mesure de passer inaperçu.
 text_quest14_slot01_titel;Quitter le compartiment
-text_quest14_slot01_content;J'ai besoin de sortir du compartiment inaperçu - mais je ne peux pas utiliser la porte tant qu'il y a des gens là-bas.
+text_quest14_slot01_content;J'ai besoin de sortir du compartiment furtivement - mais je ne peux pas utiliser la porte tant qu'il y a des gens là-bas.
 text_quest14_slot02_titel;Examiner le wagon de marchandises
-text_quest14_slot02_content;La vue dans le wagons de marchandises est bloqué. Je dois trouver un moyen de jeter un oeil à l'intérieur.
+text_quest14_slot02_content;La vue dans le wagon de marchandises est bloquée. Je dois trouver un moyen de jeter un oeil à l'intérieur.
 hint_quest14_slot02;Un miroir pourrait être utile.
 text_quest14_slot03_titel;Ouvrir la trappe sur le toit
 text_quest14_slot03_content;La trappe sur le toit du wagon de marchandises est boulonné. J'ai besoin d'outils pour l'ouvrir.
@@ -105,27 +105,27 @@ text_quest15_slot01_titel;S'échapper de la malle
 text_quest15_slot01_content;Je ne peux pas soulever le couvercle de la malle. Je dois sortir de là.
 text_quest15_slot02_content;Je ne peux pas passer plus qu'un bras par la fente dans le couvercle, mais je peux peut-être atteindre quelque chose d'utile.
 text_quest15_slot03_content;J'ai coupé la sangle, mais la malle est encore sur le plateau.
-hint_quest15_slot03;Si le plateau ne bouge pas, je peux peut au moins déplacer la malle.
+hint_quest15_slot03;Si le plateau ne bouge pas, je peux peut-être déplacer la malle.
 text_quest15_slot04_content;La sangle n'est pas ancrée sur le plateau, elle cogne sur d'autres objets
-text_quest15_slot05_content;Il y a peut-être un moyen pour avoir un tuyaux.
+text_quest15_slot05_content;Il y a peut-être un moyen pour avoir un tuyau.
 hint_quest15_slot05;Je peux peut-être aller “pêcher”...
 text_quest15_slot06_content;J'ai le tuyau, mais je suis toujours coincé dans la malle.
 
-text_quest16a_slot01_titel;Entrer la cabine de la baronne
-text_quest16a_slot01_content;J'ai besoin d'entrer dans la cabine de la baronne et d'ouvrir son compartiment secret.
-text_quest16a_slot02_content;Je ne peux pas entrer par la porte. Le risque d'être pris est trop grand.
-text_quest16a_slot03_content;Le conduit de ventilation serait idéal, mais il est boulonné.
-hint_quest16a_slot03;Il y a peut-être des outils dans notre cabine.
-text_quest16a_slot04_content;Je ne peux pas appliquer une force suffisante sur le pen pour le tourner à mains nues. J'ai besoin de plus de prise.
-text_quest16a_slot05_content;Tant qu'il n'y a aucun moyen de repartir sans laisser d'indices derrière, je ne descendrais pas dans la cabine.
-hint_quest16a_slot05;: J'ai besoin de quelque chose pour descendre.
+text_quest16_slot01_titel;Entrer la cabine de la baronne
+text_quest16_slot01_content;J'ai besoin d'entrer dans la cabine de la baronne et d'ouvrir son compartiment secret.
+text_quest16_slot02_content;Je ne peux pas entrer par la porte. Le risque d'être pris est trop grand.
+text_quest16_slot03_content;Le conduit de ventilation serait idéal, mais il est boulonné.
+hint_quest16_slot03;Il y a peut-être des outils dans notre cabine.
+text_quest16_slot04_content;Je ne peux pas appliquer une force suffisante sur le penny pour le tourner à mains nues. J'ai besoin de plus de prise.
+text_quest16_slot05_content;Tant qu'il n'y a aucun moyen de repartir sans laisser d'indices derrière, je ne descendrais pas dans la cabine.
+hint_quest16_slot05;: J'ai besoin de quelque chose pour descendre.
 
-text_quest16b_slot06_titel;Ouvrir la cachette secrète
-text_quest16b_slot06_content;La cachette secrète doit être quelque part dans la cabine - mais où ?
-text_quest16b_slot07_content;Adil avait raison. J'ai besoin d'entrer une combinaison pour ouvrir le compartiment secret.
-text_quest16b_slot08_content;Peut-être que les autres passagers savent quelque chose.
-hint01_quest16b_slot08;Chaque indice peuvent m'aider pour une conversation avec les autres passagers.
-hint02_quest16b_slot08;Adil pourrait également être en mesure d'aider.
+text_quest16_slot06_titel;Ouvrir la cachette secrète
+text_quest16_slot06_content;La cachette secrète doit être quelque part dans la cabine - mais où ?
+text_quest16_slot07_content;Adil avait raison. J'ai besoin d'entrer une combinaison pour ouvrir le compartiment secret.
+text_quest16_slot08_content;Peut-être que les autres passagers savent quelque chose.
+hint01_quest16_slot08;Chaque indices peuvent m'aider pour une conversation avec les autres passagers.
+hint02_quest16_slot08;Adil pourrait également être en mesure d'aider.
 
 text_quest17_slot01_titel;Quitter la cellule
 text_quest17_slot01_content;Plus de victimes. Je dois sortir de cette cellule et avertir l'Offcier Zellner.
@@ -151,16 +151,16 @@ text_quest20_slot02_content;Interrupteur, câble, prise... tout est prêt. J'ai 
 hint_quest20_slot02;Je n'ai pas de papier de verre avec moi, mais je peux peut-être trouver une surface abrasive similaire pour faire le boulot.
 text_quest20_slot03_titel;Ouvrir la fenêtre
 text_quest20_slot03_content;J'ai besoin d'ouvrir la fenêtre, mais l'alarme se déclenche dès que les contacts électriques sont coupés.
-hint_quest20_slot03;il y a peut-être un moyen de shunter le circuit ?
+hint_quest20_slot03;il y a peut-être un moyen de couper le circuit ?
 text_quest20_slot04_titel;Ouvrir la vitrine
 text_quest20_slot04_content;Je suis dans la salle du trésor, mais il y a toujours le verre pare-balles de la vitrine entre l'oeil et moi.
 hint_quest20_slot04;Je peux peut-être utiliser quelque chose pour briser la vitre.
 index_note_start_01;Le retour du Corbeau ?
 a00_common_01_diary;Ceci est le bloc-notes privé du Gendarme Anton Jakob Zellner. Si vous trouvez ce livre, veuillez l'envoyer directement au siège de la police de Zurich.
-a00_common_02_museum;23 Sept. 1963 \n Un précieux rubis a été volé au British Museum à Londres. L'un des deux "Oeil du Sphinx" légendaires. La presse est dans tous ses états, comme on pourrait s'y attendre. Ils reprochent au "Nouveeau Corbeau" de salir la réputation de l'ancien. Ce dernier n'ayant jamais blessé quiconque au cours de ses exploits.
-a00_common_03_task;24 Sept. 1963 \n Je l'ai fait ! Je me suis levé et j'ai dit au capitaine droit dans les yeux que je - je ! - voulais cette affectation. Il était trop choqué pour dire non. L'inspecteur Nicolas Legrand, ici, en Suisse ! C'est une opportunité que je ne peut tout simplement pas laisser passer. Mais qu'est-ce qu'il fait ici ?
-a00_common_04_newspaper_a;London Post, 11 Sept. 1963 \n Legrand chasse “l'Hertier du Corbeau”! \n Selon les informations obtenues par le journal, Nicolas Legrand, 33 ans, de nationalité française et enquêteur spécial à Interpol, a repris l'affaire de "l'Héritier du Corbeau". Legrand est reconnu parmi ses collègues à travers l'Europe comme un enquêteur incisif et un fin limier. Il a d'abord démontré ses talents il y a cinq ans, lorsque le jeune policier a surpris le monde en attrapant le Corbeau, le criminel le plus recherché dans toute l'Europe. Une fusillade a éclaté alors qu'il tentait d'appréhender le voleur, entraînant la mort du cambrioleur.
-a00_common_04_newspaper_b;Le Corbeau, il faut le dire, était très estimé par le public pour ses habiles vols audacieux. \n Un criminel imitateur nous tourmente depuis plusieurs mois maintenant - si l'imitateur laisse des plumes de corbeau sur les scènes de ses crimes, ses vols présentent aucun raffinement des tactiques du Corbeau original. Les trois derniers vols ont abouti à un total de cinq blessés dont un grièvement mais par la grâce de Dieu, aucun décès. \n Scotland Yard, Interpol et l'inspecteur Legrand n'ont pas pu être joint pour donner leur avis.
+a00_common_02_museum;23 Sept. 1963 \n Un précieux rubis a été volé au British Museum à Londres. L'un des deux "Oeil du Sphinx" légendaires. La presse est dans tous ses états, comme on pourrait s'y attendre. Ils reprochent au "Nouveau Corbeau" de salir la réputation de l'ancien. Ce dernier n'ayant jamais blessé quiconque au cours de ses exploits.
+a00_common_03_task;24 Sept. 1963 \n Je l'ai fait ! Je me suis levé et j'ai dit au capitaine droit dans les yeux que je - je voulais cette affectation ! Il était trop choqué pour dire non. L'inspecteur Nicolas Legrand, ici, en Suisse ! C'est une opportunité que je ne peux tout simplement pas laisser passer. Mais qu'est-ce qu'il fait ici ?
+a00_common_04_newspaper_a;London Post, 11 Sept. 1963 \n Legrand chasse “l'Heritier du Corbeau”! \n Selon les informations obtenues par le journal, Nicolas Legrand, 33 ans, de nationalité française et enquêteur spécial à Interpol, a repris l'affaire de "l'Héritier du Corbeau". Legrand est reconnu parmi ses collègues à travers l'Europe comme un enquêteur incisif et un fin limier. Il a d'abord démontré ses talents il y a cinq ans, lorsque le jeune policier a surpris le monde en attrapant le Corbeau, le criminel le plus recherché dans toute l'Europe. Une fusillade a éclaté alors qu'il tentait d'appréhender le voleur, entraînant la mort du cambrioleur.
+a00_common_04_newspaper_b;Le Corbeau, il faut le dire, était très estimé par le public pour ses vols audacieux. \n Un criminel imitateur nous tourmente depuis plusieurs mois maintenant - si l'imitateur laisse des plumes de corbeau sur les scènes de ses crimes, ses vols ne présentent pas le raffinement des tactiques du Corbeau original. Les trois derniers vols ont aboutis à un total de cinq blessés dont un grièvement mais par la grâce de Dieu, aucun décès. \n Scotland Yard, Interpol et l'inspecteur Legrand n'ont pu être joint pour donner leur avis.
 index_note_inspektor_01;L'inspecteur Nicolas Legrand
 a00_inspektor_dialog_01;Legrand a l'air différent en vrai. Plus vieux, plus usé. C'est encore un grand enquêteur. Mais il y a des rumeurs que ses méthodes au cours des dernières années seraient devenus, dirons-nous, imprudente.
 a05_inspektor_note_inWater_01;Il veut trouver le Corbeau à tout prix. Il est prêt à risquer sa carrière pour ça. Il ne pouvait simplement se reposer sur ses lauriers jusqu'à sa retraite. Pourtant, c'est la dernière chose qu'il a en considération. Il a besoin de faire ses preuves. Un adversaire vraiment impressionnant. Et un allié...
@@ -178,8 +178,8 @@ index_note_fiddler_01;Le violoniste
 index_note_fiddler_02;Le violoniste (David Kreutzer)
 a01_fiddler_whoishe_01;Il y a un homme avec un étui à violon assis dans le wagon-salon. \n Il déclare être soliste. Il semble usé pour ça. Sa main tremble. \n Il dit être en chemin pour Venise. Puis se rendra au Caire par navire pour donner un concert au Musée égyptien.
 a01_fiddler_wallet_01;Il a profité de l'occasion et a empoché le sac. Il semble avoir des problèmes d'argent. On ajoute à ça sa moralité douteuse on obtient une combinaison dangereuse.
-a01_fiddler_writer_ta_fiddler_01;Lady Westmacott considère Kreutzer être le genre d'homme à vivre aux crochets des autres.
-a07_fiddler_pistol_01;Kreutzer prétend qu'il était ivre la nuit dernière et ne se rappelle plus ce qui s'est passé. L'arme lui appartient. Un Luger 08. Était-il vraiment saoul ? Ou jouait-il la comédie ? Et puis il y a la possibilité que quelqu'un essaie de tout lui mettre sur le dos. Cela expliquerait pourquoi ils n'ont pas jetés le Luger dans la mer - pour faire tomber la suspicion sur le violoniste.
+a01_fiddler_writer_ta_fiddler_01;Lady Westmacott considère Kreutzer comme le genre d'homme à vivre aux crochets des autres.
+a07_fiddler_pistol_01;Kreutzer prétend qu'il était ivre la nuit dernière et ne se rappelle plus ce qui s'est passé. L'arme lui appartient. Un Luger 08. Était-il vraiment saoul ? Ou jouait-il la comédie ? Et puis il y a la possibilité que quelqu'un essaie de tout lui mettre sur le dos. Cela expliquerait pourquoi ils n'ont pas jeté le Luger dans la mer - pour faire tomber la suspicion sur le violoniste.
 index_note_indy_01;Professeur Edgar Lucien
 a01_indy_first_talk_01;J'ai fait la connaissance du professeur Lucien du British Museum de Londres. Il affirme que le vol au musée l'a à peine affecté. Je ne le crois pas. Il semble plutôt nerveux.
 a01_indy_baroness_ta_indy_01;La Baronne von Trebitz dit que le professeur Lucien est un égyptologue et également chef du département égyptien du musée. L'oeil volé du Sphinx était de son ressort. Il ne m'a rien dit de tout cela. Il m'a clairement menti. Qu'est-ce qu'il cache ?
@@ -188,36 +188,36 @@ a10_indy_eye_01;Le bon professeur a pris possession de l'Oeil du Sphinx à Londr
 index_note_closed_door_01;Le compartiment verrouillé
 a01_closed_door_01;La porte du compartiment du professeur Lucien est verrouillée. De l'extérieur ? Ou de l'intérieur ? Et qui l'a verrouillée ?
 a01_closed_door_open_window_01;Je pense que la porte était verrouillée de l'intérieur et que, peu importe qui c'était, il s'est échappé par la fenêtre. Si j'ai raison, alors il y a vraiment un voleur dans le train.
-a01_closed_door_button_01;J'ai trouvé un bouton dans le compartiment. Ça pourrait être un indice. Ou ça pourrait n'être rien.
+a01_closed_door_button_01;J'ai trouvé un bouton dans le compartiment. Ça pourrait être un indice. Ou ça ne pourrait être rien.
 index_note_butler_01;James le majordome
-a01_butler_first_talk_01;La Baronne von Trebitz et son majordome ont leur propre compartiment de luxe dans le train. À mon avis, cependant, il n'y a pas un compartiment dans n'importe quel train dans le monde assez grand pour être partager avec la baronne. Son majordome James doit avoir la patience d'un saint.
+a01_butler_first_talk_01;La Baronne von Trebitz et son majordome ont leur propre compartiment de luxe dans le train. À mon avis, il n'y a pas un compartiment dans n'importe quel train au monde assez grand pour être partager avec la baronne. Son majordome James doit avoir la patience d'un saint.
 a01_butler_wound_01;James a subi une blessure au bras droit. Il dit que c'est une vieille blessure de guerre. On dirait que le bras n'est pas complètement remis, mais il ne peut pas beaucoup le bouger. Il fait du mieux qu'il peut.
 a07_butler_staircase_talk_01;James s'inquiète des conséquences pour sa carrière si le meurtrier n'est pas arrêté. La mort de la baronne en lui-même ne semble pas beaucoup le préoccuper. Peut-être parce qu'il a seulement été à son service quelques mois.
 index_note_missing_wallet_01;Sac disparu
 a01_missing_wallet_first_01;Un sac à main disparu - pas exactement l'affaire du siècle. Et je ne peux pas imaginer que le Corbeau est quoi que ce soit à voir avec cela. Mais quand même, je suis officier de police et je devrais faire l'effort pour trouver ce sac à main.
 a01_missing_wallet_found_01;Je soupçonne que le sac perdu de la baronne ne l'a pas été pour Kreutzer, le violoniste, qui lui le trouva. Ou est-il un pickpocket ? Quoi qu'il en soit, il a commis un crime.
-a01_missing_wallet_checked_01;Je ne pouvais pas m'empêcher de jeter un coup d'oeil dans le sac. J'aurai pas dû c'est vrai. C'est le dure équilibre entre représentant de l'Etat et le respect de la vie d'autrui. En plus il n'a pas révélé de nouveaux indices.
+a01_missing_wallet_checked_01;Je ne pouvais pas m'empêcher de jeter un coup d'oeil dans le sac. J'aurai pas dû c'est vrai. C'est le dur équilibre entre représentant de l'Etat et le respect de la vie d'autrui. En plus, il n'a pas révélé de nouveaux indices.
 index_note_baroness_01;La Baronne von Trebitz
-a01_baroness_first_01;La baronne semble habitué à être le centre de toutes attentions. Une personne un peu mégalomane à mon avis. Mais aussi une généreuse philanthrope. Elle parcourt le monde, en soutenant les musées et les galeries. C'est elle qui finance l'exposition au Caire: la première fois depuis des siècles que les deux yeux du Sphinx seront exposés ensemble.
+a01_baroness_first_01;La baronne semble habituée à être le centre de toutes les attentions. Une personne un peu mégalomane à mon avis. Mais aussi une généreuse philanthrope. Elle parcourt le monde, en soutenant les musées et les galeries. C'est elle qui finance l'exposition au Caire: la première fois depuis des siècles que les deux yeux du Sphinx seront exposés ensemble.
 a07_baroness_dead_01;La Baronne von Trebitz a été assassinée. C'est terrible. Le premier cadavre que j'ai vu d'aussi près. Elle gisait dans une mare de son propre sang sur son lit. Même si je tiendrai le coup à mon âge, c'est un spectacle que je n'oublierai jamais.
-a07_baroness_butler_talk_01;La Baronne était une alcoolique et diabétique. Pourtant, elle n'est jamais allé voir un médecin. C'est comme si elle avait une aversion pour les gens habillés en blanc. Elle était plutôt désorganisé selon son majordome et le désordre de photos dans sa cabine était son propre fait.
-a07_baroness_diary_01;La Baronne a subi une grande perte. Elle a écrit des cauchemars dans son journal et elle transportait ce passé avec elle dans ses nombreuses photographies. Je soupçonne que sa famille a été tué pendant la guerre.
+a07_baroness_butler_talk_01;La Baronne était une alcoolique et diabétique. Pourtant, elle n'est jamais allée voir un médecin. C'est comme si elle avait une aversion pour les gens habillés en blanc. Elle était plutôt désorganisé selon son majordome et le désordre de photos dans sa cabine était son propre fait.
+a07_baroness_diary_01;La Baronne a subi une grande perte. Elle a écrit des cauchemars dans son journal et elle transportait ce passé avec elle dans ses nombreuses photographies. Je pense que sa famille a été tuée pendant la guerre.
 a07_baroness_why_01;Je ne connais pas le mobile du médecin, mais je soupçonne que c'est lié à leur passé commun.
 index_note_writer_01;Lady Clarissa Westmacott
-a01_writer_first_talk_01;Je l'adore ! Pour moi, elle est le plus grand auteur du siècle ! Et sûrement celle qui a le plus de succès.  \n C'est vraiment dommage qu'elle a cessé d'écrire. Je n'ai rien lu à ce sujet dans la presse. Les fans du monde entier seront en émoi quand ils le découvriront! \n Clarissa Westmacott's ces mystères les plus réussies: \n Les Petits Nègres \n Mort sur ​​les Rails \n Meurtre en Égypte \n Sous une Pleine Lune \n La Mystérieuse Affaire de Styles \n Le Presbytère dans le Miroir \n Maurice Partout quitte la scène\n Les Petits Nègres ce sont vendus à plus de 100 million, ce qui en fait le roman policier le plus vendu de tous les temps.
+a01_writer_first_talk_01;Je l'adore ! Pour moi, elle est le plus grand auteur du siècle ! Et sûrement celle qui a le plus de succès.  \n C'est vraiment dommage qu'elle a cessé d'écrire. Je n'ai rien lu à ce sujet dans la presse. Les fans du monde entier seront en émoi quand ils le découvriront! \n Clarissa Westmacott's ces mystères les plus réussies: \n Les Petits Nègres \n Mort sur ​​les Rails \n Meurtre en Égypte \n Sous une Pleine Lune \n La Mystérieuse Affaire de Styles \n Le Presbytère dans le Miroir \n Maurice Partout quitte la scène\n Les Petits Nègres ce sont vendus à plus de 100 millions, ce qui en fait le roman policier le plus vendu de tous les temps.
 a07_writer_ta_boy_01;Lady Westmacott se soucie vraiment de Mme Miller et surtout de Matt. Elle connaît également une grande partie de leur vie. Je ne peux pas l'imaginer porter un tel intérêt pour l'ensemble de ses employés !
-a10_writer_ta_boy_02;Lady Westmacott est la grand-mère de Matt ! Elle a un fils avec qui elle est brouillée. Il a épousé une jeune femme américaine et ils ont déménagé aux États-Unis. Elle avait donc un fils.  \n Ça explique pourquoi Lady Westmacott est si intéressé par Matt. Peut-être qu'elle veut se rattraper pour ce qui c'est passé avec son fils.
+a10_writer_ta_boy_02;Lady Westmacott est la grand-mère de Matt ! Elle a un fils avec qui elle est brouillée. Il a épousé une jeune femme américaine et ils ont déménagé aux États-Unis. Elle avait donc un fils.  \n Ça explique pourquoi Lady Westmacott est si intéressée par Matt. Peut-être qu'elle veut se rattraper pour ce qui c'est passé avec son fils.
 index_note_caretaker_boy_01;Mary Miller et Matt Miller
-a01_caretaker_boy_woodpistol_01;Mme Miller m'a été présentée en tant que "accompagnatrice" de Lady Westmacott. Je pense qu'elle est vraiment plus que ça. Elle semble plutôt tendue. Nerveuse et un peu perturbée. Peut-être est-ce en relation avec son fils, Matt ? \n J'aime bien Matt. C'est un garçon curieux et plein d'énergie. Mais il semble que de sa mère le laisse faire ce qu'il veut.
+a01_caretaker_boy_woodpistol_01;Mme Miller m'a été présentée en tant qu'"accompagnatrice" de Lady Westmacott. Je pense qu'elle est vraiment plus que ça. Elle semble plutôt tendue. Nerveuse et un peu perturbée. Peut-être est-ce en relation avec son fils, Matt ? \n J'aime bien Matt. C'est un garçon curieux et plein d'énergie. Mais il semble que sa mère le laisse faire ce qu'il veut.
 a01_caretaker_boy_father_01;Mme Miller et le père de Matt semblent être séparés. On dirait que son fils le lui reproche. Lady Westmacott semble vraiment aimer Matt. Elle lui paie de bonnes écoles.
 a03_caretaker_boy_why_train_01;Il n'a pas pu se contrôler et il s'est glissé dans le train pour reprendre son pistolet en bois. C'était dangereux, courageux et aventureux... J'aimerai bien faire équipe avec lui, mais c'est pas possible.
-a07_caretaker_boy_romance_01;On dirait qu'une romance est en train de naitre entre Mme Miller et le Professeur Lucien - et Matt ne semble pas très content. Peut-être ne veut-il pas partager sa mère... Ou peut-être qu'il veut la protéger.
+a07_caretaker_boy_romance_01;On dirait qu'une romance est en train de naître entre Mme Miller et le Professeur Lucien - et Matt ne semble pas très content. Peut-être ne veut-il pas partager sa mère... Ou peut-être qu'il veut la protéger.
 a10_caretaker_boy_romance_02;Professeur Lucien accompagnera Mme Miller pendant la croisière sur le Nil. On ne peut jamais en être sûr mais je crois que ces deux là ont une chance...
 a10_caretaker_boy_romance_03;La romance entre Mme Miller et le Professeur Lucien a pris fin avant qu'elle ne commence. Qui sait, peut-être que c'est pour le mieux...
 index_note_doctor_01;Le Docteur Gebhardt
-a01_doctor_first_talk_01;J'ai déjà parlé au docteur Gebhardt à Zurich. C'est un médecin allemand. Il planifie de finir sa carrière en Italie. Je ne peux pas dire que je l'ai trouvé particulièrement sympathique. Il est poli et courtois, mais je ne pense pas que sa gentillesse est vrai. Quelque chose cloche.
-a05_doctor_talk_pier_01;Le docteur Gebhardt semble avoir de grands espoirs pour son nouveau travail - pour sa nouvelle vie. Il m'a conseillé d'y aller mollo. Si je prends soin de moi, mon coeur tiendra pendant encore quelques années. Mais serait-ce une bonne manière de passer mes dernières années ?
-a07_doctor_blood_01;La couverture dans la cabine de la baronne a été imbibé de faux sang. Pourquoi le docteur Gebhardt ne l'a pas remarqué ? Et où est la couverture maintenant ?
+a01_doctor_first_talk_01;J'ai déjà parlé au docteur Gebhardt à Zurich. C'est un médecin allemand. Il planifie de finir sa carrière en Italie. Je ne peux pas dire que je l'ai trouvé particulièrement sympathique. Il est poli et courtois, mais je ne pense pas que sa gentillesse est sincère. Quelque chose cloche.
+a05_doctor_talk_pier_01;Le docteur Gebhardt semble nourrir de grands espoirs pour son nouveau travail - pour sa nouvelle vie. Il m'a conseillé d'y aller mollo. Si je prends soin de moi, mon coeur tiendra pendant encore quelques années. Mais serait-ce une bonne manière de passer mes dernières années ?
+a07_doctor_blood_01;La couverture dans la cabine de la baronne a été imbibée de faux sang. Pourquoi le docteur Gebhardt ne l'a pas remarqué ? Et où est la couverture maintenant ?
 a09_doctor_murder_01;C'était le docteur Gebhardt ! Il a tué la baronne - et il voulait me faire la même chose. Il m'a drogué, j'ai sauvé de justesse ma vie. Il a dit que je voulais le mettre en cause, que j'avais fabriqué des preuves et m'a demandé pourquoi je ne pouvais pas le laisser tranquille. Je pense qu'il est fou.
 a10_doctor_missing_01;Il n'y a aucune trace du docteur Gebhardt. Peut-être qu'il a sauté par dessus bord, comme il l'a écrit dans sa lettre de suicide. Mais peut-être qu'il est toujours vivant ...
 index_note_constable_01;Officier Robert Oliver
@@ -230,44 +230,44 @@ a05_dark_figure_train_01;Matt a vu une ombre dans le train. Ce pourrait-il que c
 a06_dark_figure_talk_constable_01;Une autre ombre ! L'Officier Oliver l'a repéré cette fois. Serait-ce la même personne ?
 index_note_three_keys_01;Les trois clés
 a05_three_keys_talk_safe_01;Selon Legrand, le coffre-fort qui transporte l'Oeil du Sphinx au Caire est sécurisé par trois serrures. Le professeur Lucien, la baronne von Trebitz et le Dr Mokhtar, le directeur du Musée égyptien du Caire, en ont chacun une. \n Nous devons supposer que le Corbeau a déjà réussi à faire une empreinte de la clé du professeur dans le train. Il peut également avoir déjà copié la clé de l'administrateur. Reste la clé de la baronne von Trebitz...
-a07_three_keys_third_01;Legrand a dupé tout le monde ! Il a pris la troisième clé de la baronne. Soi-disant parce qu'il était inquiet à propos de son désordre. Peu importe, la troisième clé n'a jamais été vraiment en danger. Mais la baronne est morte maintenant et Legrand doit se demander s'il est à blâmer. Il nous a tous conduits a croire qu'elle avait la troisième clé.
+a07_three_keys_third_01;Legrand a dupé tout le monde ! Il a pris la troisième clé de la baronne. Soi-disant parce qu'il était inquiet à propos de son désordre. Peu importe, la troisième clé n'a jamais été vraiment en danger. Mais la baronne est morte maintenant et Legrand doit se demander s'il est à blâmer. Il nous a tous conduits à croire qu'elle avait la troisième clé.
 a10_three_keys_legrand_01;Les trois clés étaient inutiles. Le coffre-fort était vide. Le professeur Lucien a réussi à détourner l'Oeil du Sphinx à la banque et a seulement fait semblant de le placer dans le coffre-fort.
 index_note_old_raven_01;Vieux Corbeau / Nouveau Corbeau
-a05_old_raven_tw_investigator_01;L'inspecteur Legrand nourrit l'idée qu'il avait tiré le mauvais homme, il y a cinq ans. Si c'est vrai, alors le Corbeau peut être de retour après tout. Les preuves de Legrand: la plume de corbeau, l'écriture de la lettre et le fait que l'auteur s'est adressé à lui en écrivant "Nico", une chose que le vieux Corbeau faisait.
-a05_old_raven_tw_investigator_02;Mais est-ce que ces preuves sont suffisantes ? Pas pour moi. Tout le monde sait que le Corbeau utilisait des plumes de corbeau comme signature. L'écriture peut être falsifiée. Et toute personne impliquée dans l'affaire à l'époque pouvait connaitre - et révéler - que le Corbeau taquinait Legrand en l'appelant Nico. \n Le modus operandi ne correspond pas ! Le vieux Corbeau faisait toujours attention à ce que personne ne soit blessé lors de ses braquages​​. Le nouveau Corbeau a tenté de tous nous faire exploser. Je pense que Legrand, tout fin limier qu'il est, aboie au mauvaise endroit.
+a05_old_raven_tw_investigator_01;L'inspecteur Legrand nourrit l'idée qu'il avait tiré sur le mauvais homme, il y a cinq ans. Si c'est vrai, alors le Corbeau peut être de retour après tout. Les preuves de Legrand: la plume de corbeau, l'écriture de la lettre et le fait que l'auteur s'est adressé à lui en écrivant "Nico", une chose que le vieux Corbeau faisait.
+a05_old_raven_tw_investigator_02;Mais est-ce que ces preuves sont suffisantes ? Pas pour moi. Tout le monde sait que le Corbeau utilisait des plumes de corbeau comme signature. L'écriture peut être falsifiée. Et toute personne impliquée dans l'affaire à l'époque pouvait connaitre - et révéler - que le Corbeau taquinait Legrand en l'appelant Nico. \n Le modus operandi ne correspond pas ! Le vieux Corbeau faisait toujours attention à ce que personne ne soit blessé lors de ses braquages​​. Le nouveau Corbeau a tenté de tous nous faire exploser. Je pense que Legrand, tout fin limier qu'il est, aboie au mauvais endroit.
 a05_old_raven_doctor_confession_01;La confession du docteur m'a donné matière à réflexion. Mon sentiment est qu'il n'est pas responsable de tout. Mais je n'ai aucune preuve pour appuyer cela. \n La lettre est également intéressante pour une autre raison. Elle prouve que celui qui est vraiment derrière tout cela était présent à la mort présumée du Corbeau il y a cinq ans. L'ancien Corbeau serait-il sorti de sa tombe comme le prétendent les journaux ?
-a10_old_raven_article_01;Editorial \n Les avancées spectaculaires dans l'affaire des deux "Oeil du Sphinx" (voir la une ainsi que les pages 3, 5 et 9) montre simplement: qu'un criminel, reste toujours un criminel. Comme beaucoup, ce journal inclus, avont minimisé la gravité de certains des crimes commis par le Corbeau au cours de sa carrière, préférant les voir comme des jeux intelligents et des exploits audacieux. Pour certains, il était une sorte de héros, menant la police par le bout du nez pour notre plus grand plaisir. \n Et pourtant, maintenant, nous devons reconnaitre avoir tous applaudi un meurtrier. Un homme qui mets en péril des vies avec des bombes et qui a tué au moins une fois. \n Les criminels sont et restent des criminels. En tant que société ne pouvons pas nous permettre de l'oublier. \n Rupert Turner, Rédacteur en chef
+a10_old_raven_article_01;Editorial \n Les avancées spectaculaires dans l'affaire des deux "Oeil du Sphinx" (voir la une ainsi que les pages 3, 5 et 9) montre simplement: qu'un criminel, reste toujours un criminel. Comme beaucoup, ce journal inclus, avont minimisé la gravité de certains des crimes commis par le Corbeau au cours de sa carrière, préférant les voir comme des jeux intelligents et des exploits audacieux. Pour certains, il était une sorte de héros, menant la police par le bout du nez pour notre plus grand plaisir. \n Et pourtant, maintenant, nous devons reconnaitre avoir tous applaudi un meurtrier. Un homme qui met en péril des vies avec des bombes et qui a tué au moins une fois. \n Les criminels sont et restent des criminels. En tant que société ne pouvons pas nous permettre de l'oublier. \n Rupert Turner, Rédacteur en chef
 index_note_captain_01;Capitaine di Conti
 a05_captain_tw_doctor_01;Selon le docteur Gebhardt, le capitaine du Lydia est un ancien héros de guerre. Mais il est en mauvaise santé ces derniers temps. Apparemment, il a été relégué de force à ce poste.
-a07_captain_ship_01;Le navire ne semble pas être bien entretenu. Utilisé pour être un cargo, reconverti en transport de troupes pendant la guerre, et réaménagé à nouveau comme navire de croisière. Son âge se voit. Mais ce n'est pas tout. Je n'ai pas l'impression que le Capitaine DiConti a vraiment ses hommes sous contrôle. Ils semblent ne faire que le strict minimum.
+a07_captain_ship_01;Le navire ne semble pas être bien entretenu. Utilisé pour être un cargo, reconverti en transport de troupes pendant la guerre, et réaménagé à nouveau comme navire de croisière. Il accuse son âge. Mais ce n'est pas tout. Je n'ai pas l'impression que le Capitaine DiConti a vraiment ses hommes sous contrôle. Ils semblent ne faire que le strict minimum.
 index_note_stowaway_01;Le passager clandestin
-a06_stowaway_start_01;Un passager clandestin a réussi a se dissimuler dans une malle de vêtements à bord du Lydia, puis m'a frappé. Mais qui est-il ? Le Corbeau ? L'un des complices du corbeau ? Ou quelqu'un d'autre ?
-a07_stowaway_captured_01;Notre passager clandestin est un jeune homme d'origine arabe. L'Officier Oliver l'a repéré sur le pont supérieur et Legrand l'a placé en garde là-bas. Il affirme qu'il voulait juste un peu d'air frais. Je ne le crois pas. Je pense que c'est bien lui que je dois remercier pour la bosse sur ma tête. \n Ce que nous savons, c'est que la baronne von Trebitz a été abattu alors que nous étions occupés avec le passager clandestin. Est-ce que le passager clandestin travaille avec le meurtrier ? Est-ce qu'il était là pour nous distraire ?
-a07_stowaway_dialog_01;Le passager clandestin dit que son nom est Adil. Et bien sûr, il ne m'a pas attaqué parce qu'il ne pourrait même pas faire mal à une mouche. Il ment bien sûr. Mais est-ce qu'il mentait parce qu'il veut juste rentrer chez lui comme il le prétend ? Ou a t-il créé une diversion à la demande de l'assassin ?
+a06_stowaway_start_01;Un passager clandestin a réussi à se dissimuler dans une malle de vêtements à bord du Lydia, puis m'a frappé. Mais qui est-il ? Le Corbeau ? L'un des complices du corbeau ? Ou quelqu'un d'autre ?
+a07_stowaway_captured_01;Notre passager clandestin est un jeune homme d'origine arabe. L'Officier Oliver l'a repéré sur le pont supérieur et Legrand l'a placé en garde là-bas. Il affirme qu'il voulait juste un peu d'air frais. Je ne le crois pas. Je pense que c'est bien lui que je dois remercier pour la bosse sur ma tête. \n Ce que nous savons, c'est que la baronne von Trebitz a été abattue alors que nous étions occupés avec le passager clandestin. Est-ce que le passager clandestin travaille avec le meurtrier ? Est-ce qu'il était là pour nous distraire ?
+a07_stowaway_dialog_01;Le passager clandestin dit que son nom est Adil. Et bien sûr, il ne m'a pas attaqué parce qu'il ne pourrait même pas faire de mal à une mouche. Il ment bien sûr. Mais est-ce qu'il mentait parce qu'il veut juste rentrer chez lui comme il le prétend ? Ou a t-il créé une diversion à la demande de l'assassin ?
 index_note_shot_01;Coup de feu dans la soute
-a06_shot_start_01;Quelqu'un a tiré avec une arme à feu dans la soute ! Qui a tiré, qui ils visaient, et pourquoi: toutes des questions auxquelles je ne peux pas répondre.
-a07_shot_found_projectile_01;Qui que ce soit, ils ont tiré sur une caisse. Donc, la balle n'était pas pour moi. Et la balle est toujours coincé dans le bois.
-a07_shot_compared_01;La balle dans la soute a été tirée par la même arme qui a tuée la baronne !
+a06_shot_start_01;Quelqu'un a tiré avec une arme à feu dans la soute ! Qui a tiré, qui ils visaient, et pourquoi ?? Des questions auxquelles je ne peux répondre.
+a07_shot_found_projectile_01;Qui que ce soit, ils ont tiré sur une caisse. Donc, la balle n'était pas pour moi. Et la balle est toujours coincée dans le bois.
+a07_shot_compared_01;La balle dans la soute a été tirée par la même arme qui a tué la baronne !
 a08_shot_tape_01;Quelqu'un a enregistré le coup de feu sur une cassette audio ! Il n'a jamais été question de toucher une cible - c'était pour enregistrer le "bang" !
 index_note_murder_baroness_01;Le meurtre de la Baronne von Trebitz
-a07_murder_baroness_first_01;La baronne a été assassinée alors que Legrand, l'Officier Oliver et le docteur Gebhardt cherchaient l'ombre que Oviler a repéré. Nous avons entendu le coup de feu et quelques instants plus tard, nous étions à la cabine de la baronne. La porte était fermée de l'intérieur et la baronne était morte. Elle était allongée sur son lit dans une mare de sang. Le docteur Gebhardt a prononcé sa mort, mais il ne pouvait rien dire de plus sur les circonstances.
-a07_murder_baroness_talk_doctor_01;Selon le docteur Gebhardt, la baronne a été abattu en plein coeur de très près. Un seul coup de feu. Elle est morte instantanément.
-a07_murder_baroness_anasthetic_01;La baronne était-elle drogué avant d'être assassinée ? Elle semblait très chancelante et somnolente lorsque nous l'avons rencontrée dans l'escalier.
+a07_murder_baroness_first_01;La baronne a été assassinée alors que Legrand, l'Officier Oliver et le docteur Gebhardt cherchaient l'ombre que Oviler a repéré. Nous avons entendu le coup de feu et quelques instants plus tard, nous étions dans la cabine de la baronne. La porte était fermée de l'intérieur et la baronne était morte. Elle était allongée sur son lit dans une mare de sang. Le docteur Gebhardt a prononcé sa mort, mais il ne pouvait rien dire de plus sur les circonstances.
+a07_murder_baroness_talk_doctor_01;Selon le docteur Gebhardt, la baronne a été abattue en plein coeur à bout portant. Un seul coup de feu. Elle est morte instantanément.
+a07_murder_baroness_anasthetic_01;La baronne était-elle droguée avant d'être assassinée ? Elle semblait très chancelante et somnolente lorsque nous l'avons rencontré dans l'escalier.
 a09_murder_baroness_motiv_01;Le docteur Gebhardt a tiré sur la baronne von Trebitz. Je ne connais toujours pas ses motivations. Si je devais faire des supputations, je dirais que ça avait quelque chose à voir avec la guerre et avec la famille défunte de la baronne.
 index_note_backout_01;Inconscience
-a07_blackout_first_01;Je me suis évanouis la nuit dernière. Quand j'ai quitté le salon avec les autres, je ne me sentais pas si bien que ça... et ça n'a fait qu'empirer ensuite. Je me suis finalement effondré sur le pont promenade, au moment ou l'alarme incendie s'est déclenchée.
+a07_blackout_first_01;Je me suis évanoui la nuit dernière. Quand j'ai quitté le salon avec les autres, je ne me sentais pas si bien que ça... et ça n'a fait qu'empirer ensuite. Je me suis finalement effondré sur le pont promenade, au moment où l'alarme incendie s'est déclenchée.
 a07_blackout_anastethic_law_01;Il y avait un tranquillisant dans le champagne que j'ai bu hier soir dans le salon. C'est ce qui explique ma somnolence et l'évanouissement. La Baronne von Trebitz a t-elle été également droguée ? Elle tenait bien debout quand nous sommes tombés l'un sur l'autre hors de sa cabine.
-a07_blackout_anasthetic_captain_01;Selon le capitaine, plusieurs personnes ont bu dans la même bouteille. Le sédatif doit avoir été dans le verre et non dans la bouteille. Le Capitaine DiConti dit qu'il m'a donné le verre du docteur Gebhardt. Peut-être que la véritable cible n'était pas moi, mais plutôt le médecin ?
+a07_blackout_anasthetic_captain_01;Selon le capitaine, plusieurs personnes ont bu dans la même bouteille. Le sédatif doit avoir été versé dans le verre et non dans la bouteille. Le Capitaine DiConti dit qu'il m'a donné le verre du docteur Gebhardt. Peut-être que la véritable cible n'était pas moi, mais plutôt le médecin ?
 index_note_traces_01;Indices et des preuves
 a07_traces_pistol_01;Legrand et le policier ont trouvé l'arme de l'assassin sur la coursive de la coque. Peut-être que le meurtrier a voulu se débarrasser d'elle sans se faire prendre et a eu la malchance de ne pas assez bien connaitre le navire. Mais il y a quelque chose qui me semble étrange. Si j'étais un meurtrier et que je voulais faire disparaître une preuve importante, je ferais sacrément attention qu'elle disparaisse vraiment .
 a07_traces_projectil_doctor_01;La balle que le docteur Gebhardt a retiré du coeur de la baronne est une 7,65 mm Parabellum d'un pistolet Luger.
-a07_traces_pillow_01;J'ai trouvé un oreiller brûlé dans la cabine de la baronne. On dirait qu'il a été utilisé pour étouffer le bruit d'un coup de feu. Puis le tireur le fourra dans un vase parce qu'il ne voulait pas se faire prendre avec. \n Le truc étrange est: nous avons tous entendu le coup de feu !
+a07_traces_pillow_01;J'ai trouvé un oreiller brûlé dans la cabine de la baronne. On dirait qu'il a été utilisé pour étouffer le bruit d'un coup de feu. Puis le tireur l'a fourré dans un vase parce qu'il ne voulait pas se faire prendre avec. \n Le truc étrange est que nous avons tous entendu le coup de feu !
 a07_traces_projectiles_01;L'arme de l'assassinat est le Luger 08 de David Kreutzer. Les deux balles, celle retirée du cadavre de la baronne et celle de la soute, provenaient de l'arme du violoniste.
-a07_traces_light_blood_01;J'ai pris remarqué quelque chose de particulier concernant le sang sur le lit de la baronne. Quelque chose ne va pas. Il est tellement... rouge. Après tant de temps exposés à l'air, il devrait être brun...
-a07_traces_blood_checked_01;Ce n'est pas du tout du sang t! Je l'ai testé et ce n'est pas du sang ! C'est une sorte de liquide rouge qui ressemble à du sang frais - mais pas comme à du sang de 12 heures. Pourquoi le docteur Gebhardt n'a rien dit ? Il devait avoir remarqué que quelque chose n'allait pas !
-a07_traces_tape_01;J'ai trouvé une cassette audio dans l'infirmerie. Il y a un enregistrement d'une arme à feu dessus ! Je parie que c'est le coup nous avons tous entendu la nuit dernière.
+a07_traces_light_blood_01;J'ai remarqué quelque chose de particulier concernant le sang sur le lit de la baronne. Quelque chose ne va pas. Il est tellement... rouge. Après tant de temps exposé à l'air, il devrait être brun...
+a07_traces_blood_checked_01;Ce n'est pas du tout du sang ! Je l'ai testé et ce n'est pas du sang ! C'est une sorte de liquide rouge qui ressemble à du sang frais - mais pas comme à du sang resté 12 heures à l'air. Pourquoi le docteur Gebhardt n'a rien dit ? Il devait avoir remarqué que quelque chose n'allait pas !
+a07_traces_tape_01;J'ai trouvé une cassette audio dans l'infirmerie. Il y a l'enregistrement d'un coup de feu dessus ! Je parie que c'est le coup que nous avons tous entendu la nuit dernière.
 index_note_museum_01;Musée
-a10_museum_first_01;Le musée est fermé au public aujourd'hui. Et uniquement les invités seront autorisés à assister au gala de ce soir. Je pense que c'est à ce moment que le Corbeau va frapper - en supposant que j'ai raison et qu'il est toujours en liberté.
+a10_museum_first_01;Le musée est fermé au public aujourd'hui. Et les invités uniquement seront autorisés à assister au gala de ce soir. Je pense que c'est à ce moment que le Corbeau va frapper - en supposant que j'ai raison et qu'il est toujours en liberté.
 a10_museum_treasury_01;L'oeil du Sphinx est installé dans une vitrine pare-balles. Tout est sécurisé par voie électronique. Le système de sécurité du musée est fait dans les règles de l'art.
 a10_museum_telephone_01;Les lignes téléphoniques sont coupées. Nous ne pouvons pas appeler de renfort.
 index_note_director_01;Le Directeur du Musée
@@ -276,45 +276,45 @@ a10_director_after_legrand_01;Le Dr. Mokhtar a sans doute senti qu'il avait mieu
 a10_director_after_explosion_01;Je pense que le Dr. Mokhtar est en état de choc. Rien d'étonnant: la salle du trésor de son musée a été soufflée en mille morceaux, après tout. Je vais lui donner une chance de se reprendre.
 a11_director_talk_basement_01;Le Dr. Mokhtar maintient qu'il ne sait rien à propos de sous-sols et de passages secrets. Cela peut très bien être vrai, mais quelqu'un doit vérifier depuis combien de temps il est ici. S'il travaillait ici il y a vingt ans, durant la guerre, alors ses allégations sont suspectes.
 index_note_escape_raven_01;L'échappatoire du Corbeau
-a10_escape_raven_after_explosion_01;Il y a eu une explosion ! Le système de sécurité a verrouillé le musée et la salle du trésor immédiatement. Je ne sais pas ce qui s'est passé là-bas, mais je crains que mon adversaire va plutôt travailler avec une tronçonneuse qu'avec un scalpel pour le moment. \n Nous sommes pris au piège dans le musée. Et avec le Corbeau, à moins qu'il ait un autre moyen de sortir - ce que je soupçonne. Je dois le suivre !
-a11_escape_raven_treasury_01;Certaines parties de la salle du trésor ont été détruites. Il y a moins de dégâts que je craignais, mais quelques oeuvres sont perdues à jamais. Le Corbeau n'a pas eu la possibilité de sortir de la salle du trésor, alors il s'est fait une issue. Il y a un trou béant où l'Oeil du Sphinx et sa vitrine se trouvait autrefois.
-a11_escape_raven_secretdoor_01;Il y a un sous-sol secret, en dessous de la salle du trésor. De là, une porte cachée conduit à la salle principale. Le sous-sol a été construit depuis le musée existe. La porte secrète peut avoir été ajouté plus tard, au cours de la Seconde Guerre mondiale. Cela expliquerait la statue maudite dont Matt a entendu parler. Quelqu'un était ici dans ce sous-sol, à la préparation probablement des explosifs, pendant que je parlais à Lady Westmacott.
+a10_escape_raven_after_explosion_01;Il y a eu une explosion ! Le système de sécurité a verrouillé le musée et la salle du trésor immédiatement. Je ne sais pas ce qui s'est passé là-bas, mais je crains que mon adversaire va plutôt travailler avec une tronçonneuse qu'avec un scalpel. \n Nous sommes pris au piège dans le musée. Et avec le Corbeau, à moins qu'il ait un autre moyen de sortir - ce que je soupçonne. Je dois le suivre !
+a11_escape_raven_treasury_01;Certaines parties de la salle du trésor ont été détruites. Il y a moins de dégâts que je craignais, mais quelques oeuvres sont perdues à jamais. Le Corbeau n'a pas eu la possibilité de sortir de la salle du trésor, alors il s'est créé une issue. Il y a un trou béant où l'Oeil du Sphinx et sa vitrine se trouvait autrefois.
+a11_escape_raven_secretdoor_01;Il y a un sous-sol secret, en dessous de la salle du trésor. De là, une porte cachée conduit à la salle principale. Le sous-sol a été construit depuis que le musée existe. La porte secrète peut avoir été ajoutée plus tard, au cours de la Seconde Guerre mondiale. Cela expliquerait la statue maudite que Matt a entendu parler. Quelqu'un était ici dans ce sous-sol, à la préparation probablement des explosifs, pendant que je parlais à Lady Westmacott.
 a11_escape_raven_secretdoor_02;Il y a une autre porte secrète dans le sous-sol. Le Corbeau doit l'avoir utilisé ! Malheureusement, elle est verrouillée. Il y a des disques rotatifs avec divers symboles d'animaux. Il y a aussi quelque chose d'écrit en arabe:
-a11_escape_raven_after_explosion_04;Selon le Dr Mokhtar, ça dit: “Les Fils d'Horus”. Chacun des quatre fils a un symbole: un homme, un babouin, un chacal et un faucon. Ils décorent des navires funéraire - les fameux vases canopes.
+a11_escape_raven_after_explosion_04;Selon le Dr Mokhtar, ça dit: “Les Fils d'Horus”. Chacun des quatre fils a un symbole: un homme, un babouin, un chacal et un faucon. Ils décorent des navires funéraires - les fameux vases canopes.
 index_note_start_2_01;Quelques notes
 a12_start_2_inch_01;Il a fallu un certain temps, mais Inch m'a finalement embauché. Je suis censé faire le sale boulot pour lui. Qu'il en soit ainsi. Je serai avec lui et c'est ce qui compte. Tôt ou tard, il aura le gros lot !
-a12_start_2_eyes_01;Les Yeux du Sphinx ! Pas un mauvais choix. Ce sont deux des joyaux les plus précieux du monde et certainement digne du Corbeau. Je suis censé voler le premier joyau au British Museum. Inch s'est assuré que les alarmes dans une partie du musée seront éteints. Il a de bons contacts.
-a12_start_2_plan_01;Le plan pour moi, était d'interchanger l'Oeil du Sphinx avec un faux sans que personne ne s'en aperçoive. "Malheureusement", un gardien et un policier me sont tombé dessus avant que j'ai eu le temps de mettre en place le faux. Tout se passait comme prévu... Si on passe sur le fait que Inch a déclenché une bombe pour éliminer les gardiens. J'aurais pu m'échapper, sans feux d'artifice et sans risquer la vie de quiconque.
+a12_start_2_eyes_01;Les Yeux du Sphinx ! Pas un mauvais choix. Ce sont deux des joyaux les plus précieux du monde et certainement digne du Corbeau. Je suis censé voler le premier joyau au British Museum. Inch s'est assuré que les alarmes dans une partie du musée seront éteintes. Il a de bons contacts.
+a12_start_2_plan_01;Le plan pour moi, était d'échanger l'Oeil du Sphinx avec un faux sans que personne ne s'en aperçoive. "Malheureusement", un gardien et un policier me sont tombé dessus avant que j'ai eu le temps de mettre en place le faux. Tout se passait comme prévu... Si on passe sur le fait que Inch a déclenché une bombe pour éliminer les gardiens. J'aurais pu m'échapper, sans feux d'artifice et sans risquer la vie de quiconque.
 index_note_inch_01;Inch
-a12_inch_start_01;Me rapprocher de Inch n'a été pas une sinécure. Il a beaucoup d'assistants, et il se tient en arrière. C'est ce qui le rend si difficile à attraper - il ne met jamais ses mains dans le cambouis. Il laisse les autres faire le travail. Les gens comme moi. \n Une chance pour moi qu'il a besoin de quelqu'un pour remplacer son bras blessé. Sinon, je n'aurais jamais été si proche de lui.
+a12_inch_start_01;Me rapprocher de Inch n'a été pas une sinécure. Il a beaucoup d'assistants, et il reste en retrait. C'est ce qui le rend si difficile à attraper - il ne met jamais ses mains dans le cambouis. Il laisse les autres faire le travail. Les gens comme moi. \n Une chance pour moi qu'il ait besoin de quelqu'un pour remplacer son bras blessé. Sinon, je n'aurais jamais été si proche de lui.
 a12_inch_talk_station_01;Inch n'a toujours pas vraiment confiance en moi. Ça n'a pas d'importance. Je suis là où je veux être. Et tant que Inch me prend pour un passionné mais pas pour un voleur, tout ira bien.
 a14_inch_bomb_01;Une bombe ! Il a déclenché une satanée bombe pour se débarrasser de Legrand et des autres. Je ne pensais pas qu'il ferait ça. Il est moins scrupuleux que je le pensais. Une raison de plus pour le mettre hors course dès que possible. \n Devrais-je donner à la police un tuyau et mettre fin à tout ça de cette façon ? Je le ferais si je pensais que ça pouvait vraiment m'aider. Mais Inch doit être pris en flagrant délit ou bien il s'en sortira indemne.
 a17_inch_talk_cell_01;J'ai un très mauvais pressentiment. Il semble que Inch en sait plus qu'il ne devrait. A t-il découvert quelque chose sur ​​moi ? Sur Alex ? Notre plan ? \n Alex n'aimerait pas ça, mais je ne peux pas m'empêcher de m'inquiéter à son sujet.
 a19_inch_start_01;Alex n'aimerait pas ça, mais je ne peux pas m'empêcher de m'inquiéter à son sujet.
 index_note_inchs_plan_01;Le Plan de Inch
-a12_inchs_plan_talk_station_01;Nous voulions voler le premier Oeil à Londres sans que personne ne s'en aperçoive. Ce n'est qu'après que le deuxième Oeil eût été volé au Caire qu'ils se seraient pencher de plus près sur le premier oeil pour remarquer qu'il s'agissait d'un faux. Je n'avais jamais prévu de laisser le faux - mais Inch n'a pas suivi son plan non plus. Il n'a jamais mentionné la bombe dans une poubelle. \n Et maintenant cette affaire avec la lettre - Je n'ai aucune idée de quoi il s'agit. Quelle partie du plan a t-il changé maintenant ?
+a12_inchs_plan_talk_station_01;Nous voulions voler le premier Oeil à Londres sans que personne ne s'en aperçoive. Ce n'est qu'après que le deuxième Oeil eût été volé au Caire qu'ils se seraient penchés de plus près sur le premier oeil pour remarquer qu'il s'agissait d'un faux. Je n'avais jamais prévu de laisser le faux - mais Inch n'a pas suivi son plan non plus. Il n'a jamais mentionné la bombe dans une poubelle. \n Et maintenant cette affaire avec la lettre - Je n'ai aucune idée de quoi il s'agit. Quelle partie du plan a t-il changé maintenant ?
 a14_inchs_plan_talk_pier_01;Inch ne m'a toujours pas laissé participer à ses plans - et il semble qu'il ne compte pas le faire. Je m'y attendais, mais je n'aime pas ça.
-a19_inchs_plan_start_01;Le meurtre du Docteur Gebhardt est impardonnable, peu importe qu'il était coupable. Je devais le remettre à Inch: il a écrit la confession et a ensuite informé la presse. La nouvelle que le vrai Corbeau avait été pris doit avoir fait des vagues à Paris. Legrand sera occupé toute la journée avec son gouvernement, les autorités égyptiennes et la presse. Et Inch pense qu'il a sorti son adversaire le plus dangereux hors de l'équation.
-a20_inchs_plan_left_ravennest_01;Le plan de Inch pourrait marcher. Je vais voler les yeux et la porte de la chambre du trésor gardera les gardes à distance jusqu'à ce que je retourne sur le toit. Tout le monde va penser que je me suis enfui en utilisant l'échelle incendie, alors que je vais utiliser la porte secrète pour entrer dans le musée et attendre jusqu'à ce que les choses se calment. \n Mais rien de tout ça compte vraiment. Inch a d'autres plans. Et nous aussi !
+a19_inchs_plan_start_01;Le meurtre du Docteur Gebhardt est impardonnable, peu importe si il était coupable. Je devais le remettre à Inch: il a écrit la confession et a ensuite informé la presse. La nouvelle disant que le vrai Corbeau avait été capturé doit avoir fait des vagues à Paris. Legrand sera occupé toute la journée avec son gouvernement, les autorités égyptiennes et la presse. Et Inch pense qu'il a sorti son adversaire le plus dangereux hors de l'équation.
+a20_inchs_plan_left_ravennest_01;Le plan de Inch pourrait marcher. Je vais voler les yeux et la porte de la chambre du trésor tiendra les gardes à distance jusqu'à ce que je retourne sur le toit. Tout le monde va penser que je me suis enfui en utilisant l'échelle de secours, alors que je vais utiliser la porte secrète pour entrer dans le musée et attendre que les choses se calment. \n Mais rien de tout ça compte vraiment. Inch a d'autres plans. Et nous aussi !
 index_note_my_part_01;Mon rôle
 a13_my_part_talk_doctor_01;Un bon voleur est celui qui peut se fondre dans une foule, un que vous ne remarquez pas. En ce sens, je ne suis pas prédestiné à être un voleur: Je suis visible, du moins dans ces régions. C'est seulement les préjugés des gens qui me protègent. Ils attendent de moi que j'arrache un sac à main mais personne ne me prendrait pour un maître voleur.
 a17_my_part_first_01;Le pauvre et naïf travailleur arabe: un de mes personnages les plus réussis. Je suis espagnol et je ne parle pas arabe, mais personne ne l'a remarqué pour le moment. Les gens regardent à travers vous comme si vous n'apparteniez pas à leur classe ou à leur race. Plutôt qu'une personne, vous êtes une partie d'un groupe, d'une foule - et il est facile de se fondre dans une foule.
 index_note_alex_01;Alex
-a15_alex_end15_01;“Elle est la meilleure chose qui me soit jamais arrivé.” Je n'ai jamais compris cette expression jusqu'à ce qu'Alex apparaisse. C'est un... sentiment étrange. Vous avez tout à coup le sentiment que quelqu'un d'autre est tout aussi importante, sinon plus importante, que votre propre vie. Soudain, vous ne pensez pas, "ce que je veux", mais plutôt "ce qu'elle veut". Ou mieux encore, "ce que nous voulons". \n Nous nous sommes rencontré dans le sud de la France. La fille riche de bonne famille et le garçon arabe de l'hôtel. Aucun de nous était ce que nous semblions être, et nous nous sommes remarqué assez tôt. Qui se ressemble s'assemble. \n “Patricia Mayers” était le rôle qu'elle jouait alors. Je pense qu'elle aime bien Patricia. Alex est très intelligent et Patricia Mayers est une partie de cette intelligence.
+a15_alex_end15_01;“Elle est la meilleure chose qui me soit jamais arrivé.” Je n'ai jamais compris cette expression jusqu'à ce qu'Alex apparaisse. C'est un sentiment... étrange. Vous avez tout à coup la sensation que quelqu'un d'autre est tout aussi important, sinon plus important, que votre propre vie. Soudain, vous ne pensez pas, "ce que je veux", mais plutôt "ce qu'elle veut". Ou mieux encore, "ce que nous voulons". \n Nous nous sommes rencontré dans le sud de la France. La fille riche de bonne famille et le garçon arabe de l'hôtel. Aucun de nous était ce que nous semblions être, et nous nous sommes remarqué assez tôt. Qui se ressemble s'assemble. \n “Patricia Mayers” était le rôle qu'elle jouait alors. Je pense qu'elle aime bien Patricia. Alex est très intelligente et Patricia Mayers est une partie de cette intelligence.
 index_note_adil_01;Adil
-a16_adil_start_01;Ce que j'aime chez lui, c'est pas sa beauté. Et ce n'est pas qu'il soit un voleur habile, qu'il soit intelligent ou qu'il m'aime. C'est son caractère. Il a de nombreuses raisons d'être cynique ou amer, mais il ne l'est pas. Il profite de la vie. Il voit le positif chez tout le monde et dans toutes les situations. Il est humble et peut trouver de la joie dans de petites choses. \n Je n'ai jamais pensé a faire des enfants jusqu'à notre rencontre. Il serait un père fantastique. Il enseignerait à nos enfants la façon d'avoir une vision positive de la vie. Ne pas laisser les circonstances les broyer. Il leur donnerait tout ce dont ils ont besoin pour vivre une vie satisfaisante.
+a16_adil_start_01;Ce que j'aime chez lui, ce n'est pas sa beauté. Et ce n'est pas qu'il soit un voleur habile, qu'il soit intelligent ou qu'il m'aime. C'est son caractère. Il a de nombreuses raisons d'être cynique ou amer, mais il ne l'est pas. Il profite de la vie. Il voit le positif chez tout le monde et dans toutes les situations. Il est humble et peut trouver de la joie dans de petites choses. \n Je n'ai jamais pensé a faire des enfants jusqu'à notre rencontre. Il serait un père fantastique. Il enseignerait à nos enfants la façon d'avoir une vision positive de la vie. Ne pas laisser les circonstances les broyer. Il leur donnerait tout ce dont ils ont besoin pour vivre une vie paisible.
 index_note_plan_01;Le Plan
-a16_plan_talk_about_01;Notre plan est simple: à Londres, je vais interchanger l'oeil volé du Sphinx pour un faux. Inch pourra jeter un coup d'oeil à la pierre, mais il n'aura pas l'occasion de l'expertiser soigneusement et nous espérons qu'il ne remarquera pas quelque chose qui cloche. Nous irons prendre le second joyau du Caire. Inch pensera qu'il a tout sous contrôle... Et avant qu'il ne comprenne, nous serons partis depuis longtemps.
+a16_plan_talk_about_01;Notre plan est simple: à Londres, je vais échangé l'oeil volé du Sphinx pour un faux. Inch pourra jeter un coup d'oeil à la pierre, mais il n'aura pas l'occasion de l'expertiser soigneusement et nous espérons qu'il ne remarquera pas que quelque chose cloche. Nous irons prendre le second joyau au Caire. Inch pensera qu'il a tout sous contrôle... Et avant qu'il ne comprenne, nous serons partis depuis longtemps.
 a16_plan_corps_seen_01;Cela ne faisait pas partie du plan ! Absolument pas. Qui a tué la baronne ? Inch ? Mais pourquoi ? C'est pas bon. Pas bon du tout.
 a16_plan_arab_arrested_01;Adil s'est fait attraper. C'est une situation dangereuse. S'ils ne trouvent pas le meurtrier, ils pourraient essayer de tout lui mettre sur le dos. Et même si ils ne le font pas, ça pourrait prendre des jours avant qu'il soit relâché !
 a19_plan_start_01;L'assassinat de la Baronne von Trebitz était une diversion indésirable. Mais j'ai le sentiment que le plan est de nouveau sur la bonne voie. Inch pense qu'il a tout sous contrôle. Sa fin est proche.
 a20_plan_left_ravensnest_01;Rien ne lui arrivera. Rien ne peut lui arriver ! Je déteste ne pas pouvoir être avec elle. Elle peut prendre soin d'elle, je le sais. Mais Alex, seul avec ce dingue ? Il ne faut pas que j'y pense. Je dois me concentrer sur mon travail.
 index_note_mayers_01;Patricia Mayers
-a16_mayers_talk_arab_plan_01;Patricia Mayers est un de mes personnages préférés. Une jolie fille de bonne famille... Personne ne s'attend - ou suspects - rien d'elle. Il y a un seul problème... Les gens qui pensent que Patricia est idiote, même s'ils ne la connaissent pas. Une blonde gâté idiote qui donne toujours des répliques intelligentes - c'est pas la meilleure couverture. Je dois y travailler.
-a16_mayers_talk_fiddler_01;C'est incroyable. Patricia attire vraiment les confidences des gens. Je ne sais pas pourquoi. Peut-être parce qu'ils la pensent inoffensive... Peut-être qu'ils veulent la choquer. Mais maintes et maintes fois: les gens me vident ce qu'ils ont sur le coeur quand je joue Patricia. Ça ne se produit pas aussi souvent quand je suis Alex. Là, les gens me traitent avec plus... de respect ? D'attention ?
+a16_mayers_talk_arab_plan_01;Patricia Mayers est un de mes personnages préférés. Une jolie fille de bonne famille... Personne ne suspecte rien à son sujet. Il y a un seul problème... Les gens qui pensent que Patricia est idiote, même s'ils ne la connaissent pas. Une blonde gâté idiote qui donne toujours des répliques intelligentes - c'est pas la meilleure couverture. Je dois y travailler.
+a16_mayers_talk_fiddler_01;C'est incroyable. Patricia attire vraiment les confidences des gens. Je ne sais pas pourquoi. Peut-être parce qu'ils la croient inoffensive... Peut-être qu'ils veulent la choquer. Mais maintes et maintes fois: les gens vident ce qu'ils ont sur le coeur quand je joue Patricia. Ça ne se produit pas aussi souvent quand je suis Alex. Là, les gens me traitent avec plus... de respect ? D'attention ?
 index_note_doctor_baroness_01;Le docteur et la baronne
-a17_doctor_baroness_dialog_butler_01;Le docteur Gebhardt a t-il assassiné la baronne von Trebitz ? Qu'est-ce qu'ils avaient à voir ensemble ? Le médecin était tout sauf sympathique - tout comme la baronne... Mais à moins que leur rencontre soit dû à une réunion des antipathiques anonymes, je ne sais pas comment ces deux là ont bien pu se connaitre.
-a18_doctor_baroness_story_01;Une histoire terrible. Un homme dont l'amour n'est pas partagé et qui rejette toute morale pour se venger. La baronne devait être absente de l'université à l'époque. C'est ce qui l'a empêchée d'être assassiné avec le reste de sa famille. Selon les photos, elle semble avoir connu Gebhardt... L'ami de la famille, leur sauveur, qui avait des vues sur la plus jeune soeur de la baronne. Elle l'a vu monter à bord du navire à Venise. Peut-être qu'elle n'était pas certaine que c'était vraiment vrai, ou peut-être qu'elle voulait avoir des preuves. Elle a cherché une photo, l'a trouvée et ensuite a voulu la montrer au docteur lors de la réception dans le salon. Malheureusement, le docteur lui l'avait bien reconnu et il se rendit immédiatement compte qu'elle pourrait détruire la vie nouvelle qu'il s'était construit après la guerre.
+a17_doctor_baroness_dialog_butler_01;Le docteur Gebhardt a t-il assassiné la baronne von Trebitz ? Qu'est-ce qu'ils avaient à voir ensemble ? Le médecin était tout sauf sympathique - tout comme la baronne... Mais à moins que leur rencontre soit dûe à une réunion des antipathiques anonymes, je ne sais pas comment ces deux là ont bien pu se connaitre.
+a18_doctor_baroness_story_01;Une histoire terrible. Un homme dont l'amour n'est pas partagé et qui rejette toute morale pour se venger. La baronne devait être absente de l'université à l'époque. C'est ce qui l'a empêchée d'être assassinée avec le reste de sa famille. Selon les photos, elle semble avoir connu Gebhardt... L'ami de la famille, leur sauveur, qui avait des vues sur la plus jeune soeur de la baronne. Elle l'a vu monter à bord du navire à Venise. Peut-être qu'elle n'était pas certaine que c'était vraiment vrai, ou peut-être qu'elle voulait avoir des preuves. Elle a cherché une photo, l'a trouvé et ensuite a voulu la montrer au docteur lors de la réception dans le salon. Malheureusement, le docteur lui l'avait bien reconnu et il se rendit immédiatement compte qu'elle pourrait détruire la vie nouvelle qu'il s'était construit après la guerre.
 a18_doctor_baroness_doctor_dead_01;Tôt ou tard, les gens vont découvrir que le docteur Gebhardt ne pouvait pas être le Corbeau. Il va se révéler qu'il aura forcement un alibi pour l'un des vols. Mais ça pourrait prendre des jours, voire des semaines jusqu'à ce que cela arrive. Les vols ont eu lieu dans plusieurs pays il y a quinze ans. \n Peut-être qu'ils trouveront son corps, mais j'en doute. Le docteur Gebhardt - et peu importe qui il était avant - est mort.
 index_museum_geheimtuer;Les Fils d'Horus
 a11_soehne_des_horus;Hapi-Nord\n Kebechsenuef - Ouest\n Duamutef - Est\n Amset - Sud
@@ -324,6 +324,35 @@ a11_sdh_duamutef;Duamutef - Chacal
 a11_sdh_kebechsenuef;Kebechsenuef - Faucon
 text_quest_default;Qui est le Corbeau ?
 text_quest_default_content;Cherchez des indices et dévoilez l'identité du Corbeau.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
